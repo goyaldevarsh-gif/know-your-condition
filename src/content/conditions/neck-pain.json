@@ -13,6 +13,24 @@
       "hi": "ज़्यादातर लोगों को सही मुद्रा (posture) और व्यायाम से आराम मिलता है।"
     }
   ],
+  "symptoms": [
+    {
+      "en": "Neck pain and stiffness, worse after sitting or sleeping",
+      "hi": "गर्दन में दर्द और अकड़न, बैठने या सोकर उठने के बाद ज़्यादा"
+    },
+    {
+      "en": "Pain that spreads to the shoulder or arm",
+      "hi": "दर्द कंधे या बांह तक फैलना"
+    },
+    {
+      "en": "Tingling or heaviness in the arm or fingers",
+      "hi": "बांह या उंगलियों में झुनझुनी या भारीपन"
+    },
+    {
+      "en": "Headache from the back of the head",
+      "hi": "सिर के पीछे से शुरू होने वाला सिरदर्द"
+    }
+  ],
   "causes": [
     {
       "en": "Age-related wear of discs and joints",
