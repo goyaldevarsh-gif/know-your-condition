@@ -537,11 +537,10 @@ html[data-lang='hi'] .l-en {
   position: sticky;
   top: 0;
   z-index: 5;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 6px;
+  display: flex;
+  gap: 2px;
   margin: 0 -16px;
-  padding: 12px 12px 10px;
+  padding: 12px 8px 10px;
   background: var(--bg);
   border-radius: 24px 24px 0 0;
   border-bottom: 1px solid var(--border);
@@ -554,10 +553,12 @@ html[data-lang='hi'] .l-en {
   background: transparent;
   color: var(--muted);
   font: inherit;
-  font-size: 0.88rem;
+  font-size: 0.8rem;
   font-weight: 700;
   cursor: pointer;
-  padding: 0 4px;
+  padding: 0 8px;
+  flex: 1 1 auto;
+  white-space: nowrap;
 }
 
 .tabs button[aria-selected='true'] {
@@ -733,3 +734,6 @@ a.cond-card:active { border-color: var(--teal); transform: scale(0.99); }
 }
 .ph svg { width: 72px !important; height: 72px !important; }
 .cond-card .name, .cond-card .desc { display: block; }
+
+.tabs button[data-tab='redflags'] { color: var(--red); }
+.tabs button[data-tab='redflags'][aria-selected='true'] { background: var(--red); color: var(--white); box-shadow: 0 4px 12px rgba(214, 69, 69, 0.35); }
