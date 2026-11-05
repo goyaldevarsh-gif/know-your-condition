@@ -9,6 +9,8 @@
     "preview": "astro preview"
   },
   "dependencies": {
+    "@fontsource/noto-sans-devanagari": "^5.3.0",
+    "@fontsource/plus-jakarta-sans": "^5.3.0",
     "astro": "^5.0.0"
   }
 }
