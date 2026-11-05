@@ -66,14 +66,17 @@ const TABS = ['overview', 'care', 'exercises', 'redflags', 'faqs'] as const;
 
       <Accordion title={t(H.causes, lang)}>
         <ul class="bullets">{c.causes.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
-        <h4 class="sub-h">{t(H.risks, lang)}</h4>
-        <ul class="bullets">{c.risks.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+        {c.risks && <h4 class="sub-h">{t(H.risks, lang)}</h4>}
+        {c.risks && <ul class="bullets">{c.risks.map((x: any) => <li>{t(x, lang)}</li>)}</ul>}
       </Accordion>
 
+{c.symptoms && (
       <Accordion title={t(H.symptoms, lang)}>
         <ul class="bullets">{c.symptoms.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
       </Accordion>
+)}
 
+{c.diagnosis && (
       <Accordion title={t(H.diagnosis, lang)}>
         <h4 class="sub-h first">{t(c.diagnosis.exam.title, lang)}</h4>
         <p class="body-text">{t(c.diagnosis.exam.text, lang)}</p>
@@ -84,6 +87,7 @@ const TABS = ['overview', 'care', 'exercises', 'redflags', 'faqs'] as const;
           ))}
         </ul>
       </Accordion>
+)}
 
       <Accordion title={t(H.treatment, lang)}>
         <ul class="test-list">
@@ -113,15 +117,17 @@ const TABS = ['overview', 'care', 'exercises', 'redflags', 'faqs'] as const;
         </div>
       </div>
 
+{c.diet && (
       <Accordion title={t(H.diet, lang)}>
         <ul class="bullets">{c.diet.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
       </Accordion>
+)}
 
       <Accordion title={t(H.recovery, lang)}>
         <h4 class="sub-h first">{t(H.expect, lang)}</h4>
         <ul class="bullets">{c.recovery.expect.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
-        <h4 class="sub-h">{t(H.followup, lang)}</h4>
-        <ul class="bullets">{c.recovery.followup.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+        {c.recovery.followup && <h4 class="sub-h">{t(H.followup, lang)}</h4>}
+        {c.recovery.followup && <ul class="bullets">{c.recovery.followup.map((x: any) => <li>{t(x, lang)}</li>)}</ul>}
         <h4 class="sub-h">{t(H.revisit, lang)}</h4>
         <ul class="bullets">{c.recovery.revisit.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
       </Accordion>
@@ -151,7 +157,7 @@ const TABS = ['overview', 'care', 'exercises', 'redflags', 'faqs'] as const;
             <li class={`rf rf-${r.level}`}>
               <span class="rf-badge">{r.level === 'emergency' ? t(L.emergency, lang) : t(L.urgent, lang)}</span>
               <strong>{t(r.title, lang)}</strong>
-              <span>{t(r.text, lang)}</span>
+              {r.text && <span>{t(r.text, lang)}</span>}
             </li>
           ))}
         </ul>

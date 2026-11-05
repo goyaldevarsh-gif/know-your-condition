@@ -43,10 +43,12 @@ const L = ui.l;
         {ex.steps.map((s: any) => <li>{t(s, lang)}</li>)}
       </ol>
 
-      <h4 class="warn">{t(L.mistakes, lang)}</h4>
-      <ul class="x-list">
-        {ex.mistakes.map((s: any) => <li>{t(s, lang)}</li>)}
-      </ul>
+      {ex.mistakes && <h4 class="warn">{t(L.mistakes, lang)}</h4>}
+      {ex.mistakes && (
+        <ul class="x-list">
+          {ex.mistakes.map((s: any) => <li>{t(s, lang)}</li>)}
+        </ul>
+      )}
 
       <h4 class="warn">{t(L.precautions, lang)}</h4>
       <ul class="x-list">

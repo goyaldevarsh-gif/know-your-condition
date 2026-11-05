@@ -25,78 +25,8 @@
     {
       "en": "Poor posture or a very high pillow",
       "hi": "गलत मुद्रा (posture) या बहुत ऊंचा तकिया"
-    },
-    {
-      "en": "An old neck injury or heavy loads on the head",
-      "hi": "गर्दन की पुरानी चोट या सिर पर भारी वज़न"
     }
   ],
-  "risks": [
-    {
-      "en": "Age above 40",
-      "hi": "उम्र 40 साल से ज़्यादा"
-    },
-    {
-      "en": "Desk job or long screen time",
-      "hi": "डेस्क जॉब या ज़्यादा स्क्रीन टाइम"
-    },
-    {
-      "en": "Very little physical activity",
-      "hi": "शारीरिक गतिविधि बहुत कम"
-    }
-  ],
-  "symptoms": [
-    {
-      "en": "Neck pain and stiffness",
-      "hi": "गर्दन में दर्द और अकड़न"
-    },
-    {
-      "en": "Pain spreading to the shoulder or arm",
-      "hi": "दर्द कंधे या बांह तक फैलना"
-    },
-    {
-      "en": "Headache from the back of the head",
-      "hi": "सिर के पीछे से शुरू होने वाला सिरदर्द"
-    },
-    {
-      "en": "Tingling or numbness in the arm or hand",
-      "hi": "बांह या हाथ में झुनझुनी या सुन्नपन"
-    }
-  ],
-  "diagnosis": {
-    "exam": {
-      "title": {
-        "en": "Check-up by the doctor",
-        "hi": "डॉक्टर की जांच"
-      },
-      "text": {
-        "en": "The doctor checks neck movement, muscle strength and feeling in the arms.",
-        "hi": "डॉक्टर गर्दन की हरकत, मांसपेशियों की ताकत और बांहों में महसूस होने की जांच करते हैं।"
-      }
-    },
-    "tests": [
-      {
-        "name": {
-          "en": "X-ray",
-          "hi": "एक्स-रे (X-ray)"
-        },
-        "text": {
-          "en": "Shows bone and disc changes. Many people have changes without pain.",
-          "hi": "हड्डी और डिस्क में बदलाव दिखाता है। कई लोगों में बदलाव होते हैं, पर दर्द नहीं होता।"
-        }
-      },
-      {
-        "name": {
-          "en": "MRI",
-          "hi": "एमआरआई (MRI)"
-        },
-        "text": {
-          "en": "Only if there is arm pain, numbness, weakness, or no improvement. Shows nerves and discs.",
-          "hi": "सिर्फ़ बांह में दर्द, सुन्नपन, कमज़ोरी या आराम न मिलने पर। नसें और डिस्क दिखाता है।"
-        }
-      }
-    ]
-  },
   "treatment": {
     "items": [
       {
@@ -105,8 +35,8 @@
           "hi": "रोज़ की देखभाल"
         },
         "text": {
-          "en": "Correct your posture and use a warm pack. Avoid complete bed rest.",
-          "hi": "मुद्रा (posture) ठीक करें और गर्म सेक लें। पूरा बिस्तर पर आराम न करें।"
+          "en": "Correct your posture. Use a warm pack.",
+          "hi": "मुद्रा (posture) ठीक करें। गर्म सेक लें।"
         }
       },
       {
@@ -115,8 +45,8 @@
           "hi": "दवाइयां"
         },
         "text": {
-          "en": "Only as your doctor advises. Do not self-medicate.",
-          "hi": "सिर्फ़ डॉक्टर की सलाह से। खुद से दवा न लें।"
+          "en": "Only as your doctor advises.",
+          "hi": "सिर्फ़ डॉक्टर की सलाह से।"
         }
       },
       {
@@ -125,44 +55,30 @@
           "hi": "फिज़ियोथेरेपी (Physiotherapy)"
         },
         "text": {
-          "en": "Neck and shoulder exercises and posture training.",
-          "hi": "गर्दन और कंधे के व्यायाम और सही मुद्रा (posture) की ट्रेनिंग।"
+          "en": "Neck and shoulder exercises.",
+          "hi": "गर्दन और कंधे के व्यायाम।"
         }
       },
       {
         "title": {
-          "en": "Neck collar",
-          "hi": "गर्दन का पट्टा (Neck Collar)"
+          "en": "Surgery",
+          "hi": "ऑपरेशन"
         },
         "text": {
-          "en": "Only for a short time, and only if your doctor advises.",
-          "hi": "सिर्फ़ थोड़े समय के लिए, और डॉक्टर के कहने पर।"
-        }
-      },
-      {
-        "title": {
-          "en": "Injection or surgery",
-          "hi": "इंजेक्शन या ऑपरेशन"
-        },
-        "text": {
-          "en": "Rarely needed. Considered for nerve or spinal cord pressure.",
-          "hi": "बहुत कम ज़रूरत पड़ती है। नस या रीढ़ की हड्डी की मुख्य नस (spinal cord) पर दबाव होने पर सोचा जाता है।"
+          "en": "Rarely needed.",
+          "hi": "बहुत कम ज़रूरत पड़ती है।"
         }
       }
     ],
     "note": {
-      "en": "The right treatment for you depends on your own check-up.",
-      "hi": "आपके लिए सही इलाज आपकी अपनी जांच पर निर्भर करता है।"
+      "en": "Your treatment depends on your check-up.",
+      "hi": "आपका इलाज आपकी जांच पर निर्भर करता है।"
     }
   },
   "dos": [
     {
-      "en": "Keep your screen at eye level.",
-      "hi": "स्क्रीन आंखों की सीध में रखें।"
-    },
-    {
-      "en": "Take a break from the phone every 30 minutes.",
-      "hi": "हर 30 मिनट में मोबाइल से ब्रेक लें।"
+      "en": "Keep your screen at eye level. Take a break every 30 minutes.",
+      "hi": "स्क्रीन आंखों की सीध में रखें। हर 30 मिनट में ब्रेक लें।"
     },
     {
       "en": "Use a low, supportive pillow.",
@@ -185,15 +101,11 @@
     {
       "en": "Do not let anyone forcefully crack your neck.",
       "hi": "किसी से ज़ोर से गर्दन न चटकवाएं।"
-    },
-    {
-      "en": "Do not use a very high pillow.",
-      "hi": "बहुत ऊंचा तकिया न लगाएं।"
     }
   ],
   "exercisesNote": {
-    "en": "Start only after your doctor says these suit you. Stop and tell your doctor if arm pain, tingling, dizziness or headache increases.",
-    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें कि आपके लिए ठीक हैं। बांह में दर्द, झुनझुनी, चक्कर या सिरदर्द बढ़े तो रुकें और डॉक्टर को बताएं।"
+    "en": "Do these only if your doctor says so. Stop if arm pain, tingling or dizziness increases.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। बांह में दर्द, झुनझुनी या चक्कर बढ़े तो रुकें।"
   },
   "exercises": [
     {
@@ -209,23 +121,17 @@
         "hi": "10 बार, दिन में 2–3 सेट"
       },
       "start": {
-        "en": "Sit tall and look straight ahead.",
-        "hi": "सीधे बैठें और सामने देखें।"
+        "en": "Sit tall, look straight ahead.",
+        "hi": "सीधे बैठें, सामने देखें।"
       },
       "steps": [
         {
-          "en": "Pull your chin straight back, like making a double chin.",
-          "hi": "ठुड्डी को सीधे पीछे खींचें, जैसे दोहरी ठुड्डी (double chin) बना रहे हों।"
+          "en": "Pull your chin straight back.",
+          "hi": "ठुड्डी को सीधे पीछे खींचें।"
         },
         {
           "en": "Hold for 5 seconds, then relax.",
           "hi": "5 सेकंड रुकें, फिर आराम करें।"
-        }
-      ],
-      "mistakes": [
-        {
-          "en": "Tilting the head down",
-          "hi": "सिर को नीचे झुकाना"
         }
       ],
       "precautions": [
@@ -253,27 +159,17 @@
       },
       "steps": [
         {
-          "en": "Press your head into your hand. Do not let it move.",
-          "hi": "सिर को हाथ पर दबाएं। सिर हिलना नहीं चाहिए।"
+          "en": "Press your head into your hand. Hold for 5 seconds.",
+          "hi": "सिर को हाथ पर दबाएं। 5 सेकंड रुकें।"
         },
         {
-          "en": "Hold for 5 seconds, then relax.",
-          "hi": "5 सेकंड रुकें, फिर आराम करें।"
-        },
-        {
-          "en": "Repeat on the other side.",
-          "hi": "दूसरी तरफ़ दोहराएं।"
-        }
-      ],
-      "mistakes": [
-        {
-          "en": "Pressing too hard",
-          "hi": "बहुत ज़ोर से दबाना"
+          "en": "Relax. Repeat on the other side.",
+          "hi": "आराम करें। दूसरी तरफ़ दोहराएं।"
         }
       ],
       "precautions": [
         {
-          "en": "Use gentle effort only.",
+          "en": "Gentle effort only.",
           "hi": "सिर्फ़ हल्का ज़ोर लगाएं।"
         }
       ]
@@ -291,8 +187,8 @@
         "hi": "हर तरफ़ 2–3 बार, दिन में 2 बार"
       },
       "start": {
-        "en": "Sit tall with shoulders relaxed.",
-        "hi": "सीधे बैठें और कंधे ढीले रखें।"
+        "en": "Sit tall, shoulders relaxed.",
+        "hi": "सीधे बैठें, कंधे ढीले रखें।"
       },
       "steps": [
         {
@@ -300,14 +196,8 @@
           "hi": "कान को कंधे की ओर झुकाएं।"
         },
         {
-          "en": "Hold for 15–20 seconds, then come back slowly.",
-          "hi": "15–20 सेकंड रुकें, फिर धीरे से वापस आएं।"
-        }
-      ],
-      "mistakes": [
-        {
-          "en": "Lifting the shoulder up",
-          "hi": "कंधे को ऊपर उठाना"
+          "en": "Hold for 15–20 seconds.",
+          "hi": "15–20 सेकंड रुकें।"
         }
       ],
       "precautions": [
@@ -330,23 +220,17 @@
         "hi": "10–15 बार, दिन में 2–3 सेट"
       },
       "start": {
-        "en": "Sit or stand tall with arms relaxed.",
+        "en": "Sit or stand tall, arms relaxed.",
         "hi": "सीधे बैठें या खड़े हों, हाथ ढीले रखें।"
       },
       "steps": [
         {
-          "en": "Squeeze your shoulder blades together.",
-          "hi": "दोनों कंधों की हड्डियों को पीछे पास लाएं।"
+          "en": "Squeeze your shoulder blades together. Hold for 5 seconds.",
+          "hi": "कंधों की हड्डियां पीछे पास लाएं। 5 सेकंड रुकें।"
         },
         {
-          "en": "Keep shoulders down. Hold for 5 seconds.",
-          "hi": "कंधे नीचे रखें। 5 सेकंड रुकें।"
-        }
-      ],
-      "mistakes": [
-        {
-          "en": "Shrugging the shoulders",
-          "hi": "कंधे ऊपर उचकाना"
+          "en": "Keep your shoulders down.",
+          "hi": "कंधे नीचे रखें।"
         }
       ],
       "precautions": [
@@ -355,20 +239,6 @@
           "hi": "कंधे का दर्द बढ़े तो रुकें।"
         }
       ]
-    }
-  ],
-  "diet": [
-    {
-      "en": "Eat food rich in calcium and protein, like milk, curd, dal and eggs.",
-      "hi": "कैल्शियम (calcium) और प्रोटीन (protein) वाला खाना खाएं: दूध, दही, दाल, अंडा।"
-    },
-    {
-      "en": "Get some sunlight daily. Take vitamin D only if your doctor advises.",
-      "hi": "रोज़ थोड़ी धूप लें। विटामिन डी (Vitamin D) सिर्फ़ डॉक्टर के कहने पर लें।"
-    },
-    {
-      "en": "Walk daily, sleep well and avoid tobacco.",
-      "hi": "रोज़ टहलें, अच्छी नींद लें और तंबाकू से दूर रहें।"
     }
   ],
   "myths": [
@@ -409,21 +279,13 @@
       "title": {
         "en": "Loss of control over urine or stool",
         "hi": "पेशाब या मल पर नियंत्रण न रहना"
-      },
-      "text": {
-        "en": "Go to the emergency department now.",
-        "hi": "तुरंत इमरजेंसी विभाग (emergency) में जाएं।"
       }
     },
     {
       "level": "emergency",
       "title": {
-        "en": "Neck pain after a fall or accident",
-        "hi": "गिरने या एक्सीडेंट के बाद गर्दन में दर्द"
-      },
-      "text": {
-        "en": "Do not move the neck. Go to emergency.",
-        "hi": "गर्दन न हिलाएं। तुरंत इमरजेंसी (emergency) में जाएं।"
+        "en": "Neck pain after a fall or accident. Do not move the neck.",
+        "hi": "गिरने या एक्सीडेंट के बाद गर्दन में दर्द। गर्दन न हिलाएं।"
       }
     },
     {
@@ -431,32 +293,20 @@
       "title": {
         "en": "Neck or arm pain with chest pain, sweating or breathlessness",
         "hi": "गर्दन या बांह के दर्द के साथ सीने में दर्द, पसीना या सांस फूलना"
-      },
-      "text": {
-        "en": "Could be a heart problem. Go to emergency now.",
-        "hi": "दिल की समस्या हो सकती है। तुरंत इमरजेंसी (emergency) में जाएं।"
       }
     },
     {
       "level": "urgent",
       "title": {
-        "en": "Worsening weakness or numbness in the arms or hands, or difficulty walking",
+        "en": "Weakness or numbness in arms or hands that keeps worsening, or difficulty walking",
         "hi": "बांह या हाथ में बढ़ती कमज़ोरी या सुन्नपन, या चलने में दिक्कत"
-      },
-      "text": {
-        "en": "Do not wait. See a doctor within days.",
-        "hi": "इंतज़ार न करें। कुछ ही दिनों में डॉक्टर को दिखाएं।"
       }
     },
     {
       "level": "urgent",
       "title": {
-        "en": "Neck pain with fever or severe headache with vomiting",
+        "en": "Neck pain with fever, or severe headache with vomiting",
         "hi": "गर्दन के दर्द के साथ बुखार, या उल्टी के साथ तेज़ सिरदर्द"
-      },
-      "text": {
-        "en": "See a doctor the same day.",
-        "hi": "उसी दिन डॉक्टर को दिखाएं।"
       }
     }
   ],
@@ -467,8 +317,8 @@
         "hi": "क्या मुझे एमआरआई (MRI) करानी पड़ेगी?"
       },
       "a": {
-        "en": "Not always. Only if you have arm symptoms or are not improving.",
-        "hi": "हमेशा नहीं। सिर्फ़ बांह में तकलीफ़ हो या आराम न मिले तब।"
+        "en": "Not always. Your doctor will decide.",
+        "hi": "हमेशा नहीं। डॉक्टर तय करेंगे।"
       }
     },
     {
@@ -483,41 +333,25 @@
     },
     {
       "q": {
-        "en": "Which pillow is best?",
-        "hi": "कौन सा तकिया सही है?"
-      },
-      "a": {
-        "en": "A low, firm pillow that keeps your neck in line with your back.",
-        "hi": "नीचा और थोड़ा सख्त तकिया, जो गर्दन को पीठ की सीध में रखे।"
-      }
-    },
-    {
-      "q": {
         "en": "Can I do yoga or go to the gym?",
         "hi": "क्या मैं योग या जिम कर सकता हूं?"
       },
       "a": {
-        "en": "Gentle activity is fine. Avoid headstands and heavy overhead lifting until your doctor says it is safe.",
-        "hi": "हल्की गतिविधि ठीक है। डॉक्टर के कहे बिना शीर्षासन और सिर के ऊपर भारी वज़न न उठाएं।"
+        "en": "Gentle activity is fine. Avoid headstands and heavy overhead lifting.",
+        "hi": "हल्की गतिविधि ठीक है। शीर्षासन और सिर के ऊपर भारी वज़न न उठाएं।"
       }
     }
   ],
   "recovery": {
     "expect": [
       {
-        "en": "Many people feel better in a few weeks to months with regular exercise and good posture. Pain can come back, so keep exercising.",
-        "hi": "कई लोगों को नियमित व्यायाम और सही मुद्रा (posture) से कुछ हफ़्तों से महीनों में आराम मिलता है। दर्द लौट सकता है, इसलिए व्यायाम जारी रखें।"
-      }
-    ],
-    "followup": [
-      {
-        "en": "Visit as advised. Bring old X-rays, MRI and prescriptions.",
-        "hi": "डॉक्टर के बताए अनुसार आएं। पुराने एक्स-रे (X-ray), एमआरआई (MRI) और पर्चे साथ लाएं।"
+        "en": "Most people feel better in a few weeks to months. Keep exercising so the pain does not return.",
+        "hi": "ज़्यादातर लोगों को कुछ हफ़्तों से महीनों में आराम मिलता है। दर्द वापस न आए, इसलिए व्यायाम जारी रखें।"
       }
     ],
     "revisit": [
       {
-        "en": "No improvement after 4–6 weeks, or the pain is increasing.",
+        "en": "Pain is not better after 4–6 weeks, or is getting worse.",
         "hi": "4–6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
       },
       {

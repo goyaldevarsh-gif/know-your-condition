@@ -129,8 +129,8 @@
       "hi": "जल्दी डॉक्टर को दिखाएं"
     },
     "emergency": {
-      "en": "Emergency",
-      "hi": "आपातकाल"
+      "en": "Go to emergency now",
+      "hi": "तुरंत इमरजेंसी (emergency) में जाएं"
     },
     "tests": {
       "en": "Tests your doctor may advise",
