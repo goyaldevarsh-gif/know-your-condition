@@ -1,0 +1,216 @@
+---
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import LangSwitch from '../../components/LangSwitch.astro';
+import Accordion from '../../components/Accordion.astro';
+import ExerciseCard from '../../components/ExerciseCard.astro';
+import Illustration from '../../components/Illustration.astro';
+import ui from '../../content/ui.json';
+import cui from '../../content/ui-condition.json';
+import index from '../../content/conditions-index.json';
+import { LANGS, t, url } from '../../lib/i18n';
+import type { Lang } from '../../lib/i18n';
+
+// Every file in src/content/conditions/ becomes a page automatically.
+const files = import.meta.glob('../../content/conditions/*.json', { eager: true }) as Record<string, { default: any }>;
+const all = Object.values(files).map((m) => m.default);
+
+export function getStaticPaths() {
+  const f = import.meta.glob('../../content/conditions/*.json', { eager: true }) as Record<string, { default: any }>;
+  const slugs = Object.values(f).map((m) => m.default.slug as string);
+  return LANGS.flatMap((lang) => slugs.map((condition) => ({ params: { lang, condition } })));
+}
+
+const lang = Astro.params.lang as Lang;
+const slug = Astro.params.condition as string;
+const c = all.find((x) => x.slug === slug)!;
+const meta = index.find((x) => x.slug === slug)!;
+const H = cui.h;
+const L = cui.l;
+const TABS = ['overview', 'care', 'exercises', 'faqs'] as const;
+---
+
+<Base lang={lang} title={`${t(meta.name, lang)} | Know Your Condition`} description={t(meta.short, lang)}>
+  <header class="topbar">
+    <a class="back" href={url(`${lang}/category/${meta.category}/`)} aria-label={t(ui.back, lang)}>
+      <Icon name="back" size={26} stroke={3} />
+    </a>
+    <h1 class="page-title">{t(meta.name, lang)}</h1>
+    <LangSwitch lang={lang} hrefEn={url(`en/${slug}/`)} hrefHi={url(`hi/${slug}/`)} />
+  </header>
+
+  <main class="sheet cond" data-tabs>
+    <div class="tabs" role="tablist" aria-label={t(meta.name, lang)}>
+      {TABS.map((k, i) => (
+        <button type="button" role="tab" id={`tab-${k}`} aria-controls={`panel-${k}`} aria-selected={i === 0 ? 'true' : 'false'} data-tab={k}>
+          {t(cui.tabs[k], lang)}
+        </button>
+      ))}
+    </div>
+
+    <!-- ===================== OVERVIEW ===================== -->
+    <section class="panel" id="panel-overview" role="tabpanel" aria-labelledby="tab-overview" data-panel="overview">
+      <div class="card hero-card">
+        <div class="hero-art">
+          {c.heroImage
+            ? <img src={url(c.heroImage)} alt={t(meta.name, lang)} decoding="async" />
+            : <Illustration kind={c.illustration} label={t(meta.name, lang)} />}
+        </div>
+        <h2>{t(H.what, lang)}</h2>
+        {c.what.map((p: any) => <p class="body-text">{t(p, lang)}</p>)}
+      </div>
+
+      <Accordion title={t(H.causes, lang)}>
+        <ul class="bullets">{c.causes.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+        <h4 class="sub-h">{t(H.risks, lang)}</h4>
+        <ul class="bullets">{c.risks.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+      </Accordion>
+
+      <Accordion title={t(H.symptoms, lang)}>
+        <ul class="bullets">{c.symptoms.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+      </Accordion>
+
+      <Accordion title={t(H.diagnosis, lang)}>
+        <h4 class="sub-h first">{t(c.diagnosis.exam.title, lang)}</h4>
+        <p class="body-text">{t(c.diagnosis.exam.text, lang)}</p>
+        <h4 class="sub-h">{t(L.tests, lang)}</h4>
+        <ul class="test-list">
+          {c.diagnosis.tests.map((x: any) => (
+            <li><strong>{t(x.name, lang)}</strong><span>{t(x.text, lang)}</span></li>
+          ))}
+        </ul>
+      </Accordion>
+
+      <Accordion title={t(H.treatment, lang)}>
+        <ul class="test-list">
+          {c.treatment.items.map((x: any) => (
+            <li><strong>{t(x.title, lang)}</strong><span>{t(x.text, lang)}</span></li>
+          ))}
+        </ul>
+        <p class="note">{t(c.treatment.note, lang)}</p>
+      </Accordion>
+
+      <button type="button" class="redlink" data-goto="care">
+        <span class="rl-ico"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3L2 21h20z"/><path d="M12 10v5M12 18v.5"/></svg></span>
+        <span>{t(L.seeRedFlags, lang)}</span>
+      </button>
+    </section>
+
+    <!-- ===================== CARE ===================== -->
+    <section class="panel" id="panel-care" role="tabpanel" aria-labelledby="tab-care" data-panel="care" hidden>
+      <div class="redflags" id="redflags">
+        <div class="rf-head">
+          <span class="rf-ico"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3L2 21h20z"/><path d="M12 10v5M12 18v.5"/></svg></span>
+          <div>
+            <h2>{t(H.redflags, lang)}</h2>
+            <p>{t(H.redflagsSub, lang)}</p>
+          </div>
+        </div>
+        <ul class="rf-list">
+          {[...c.redFlags].sort((a: any, b: any) => Number(b.level === 'emergency') - Number(a.level === 'emergency')).map((r: any) => (
+            <li class={`rf rf-${r.level}`}>
+              <span class="rf-badge">{r.level === 'emergency' ? t(L.emergency, lang) : t(L.urgent, lang)}</span>
+              <strong>{t(r.title, lang)}</strong>
+              <span>{t(r.text, lang)}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div class="dd">
+        <div class="dd-col dd-do">
+          <h2><span class="dd-mark">✓</span>{t(H.dos, lang)}</h2>
+          <ul>{c.dos.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+        </div>
+        <div class="dd-col dd-dont">
+          <h2><span class="dd-mark">✕</span>{t(H.donts, lang)}</h2>
+          <ul>{c.donts.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+        </div>
+      </div>
+
+      <Accordion title={t(H.diet, lang)}>
+        <ul class="bullets">{c.diet.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+      </Accordion>
+
+      <Accordion title={t(H.recovery, lang)}>
+        <h4 class="sub-h first">{t(H.expect, lang)}</h4>
+        <ul class="bullets">{c.recovery.expect.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+        <h4 class="sub-h">{t(H.followup, lang)}</h4>
+        <ul class="bullets">{c.recovery.followup.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+        <h4 class="sub-h">{t(H.revisit, lang)}</h4>
+        <ul class="bullets">{c.recovery.revisit.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+      </Accordion>
+    </section>
+
+    <!-- ===================== EXERCISES ===================== -->
+    <section class="panel" id="panel-exercises" role="tabpanel" aria-labelledby="tab-exercises" data-panel="exercises" hidden>
+      <h2 class="panel-h">{t(H.exercises, lang)}</h2>
+      <p class="callout">{t(c.exercisesNote, lang)}</p>
+      <div class="ex-list">
+        {c.exercises.map((ex: any, i: number) => <ExerciseCard ex={ex} lang={lang} n={i + 1} />)}
+      </div>
+    </section>
+
+    <!-- ===================== FAQS ===================== -->
+    <section class="panel" id="panel-faqs" role="tabpanel" aria-labelledby="tab-faqs" data-panel="faqs" hidden>
+      <h2 class="panel-h">{t(H.myths, lang)}</h2>
+      <ul class="myths">
+        {c.myths.map((m: any) => (
+          <li>
+            <p class="m-myth"><span class="m-tag">✕ {t(L.myth, lang)}</span>{t(m.myth, lang)}</p>
+            <p class="m-fact"><span class="m-tag">✓ {t(L.fact, lang)}</span>{t(m.fact, lang)}</p>
+          </li>
+        ))}
+      </ul>
+
+      <h2 class="panel-h">{t(H.faqs, lang)}</h2>
+      <div class="faq-list">
+        {c.faqs.map((f: any) => (
+          <Accordion title={t(f.q, lang)}>
+            <p class="body-text">{t(f.a, lang)}</p>
+          </Accordion>
+        ))}
+      </div>
+    </section>
+
+    <p class="disclaimer">{t(ui.disclaimer, lang)}</p>
+  </main>
+</Base>
+
+<script is:inline>
+  (function () {
+    var root = document.querySelector('[data-tabs]');
+    if (!root) return;
+    var tabs = root.querySelectorAll('[data-tab]');
+    var panels = root.querySelectorAll('[data-panel]');
+    var names = ['overview', 'care', 'exercises', 'faqs'];
+
+    function show(name, push) {
+      if (names.indexOf(name) === -1) name = 'overview';
+      tabs.forEach(function (b) {
+        b.setAttribute('aria-selected', b.getAttribute('data-tab') === name ? 'true' : 'false');
+      });
+      panels.forEach(function (p) { p.hidden = p.getAttribute('data-panel') !== name; });
+      document.querySelectorAll('[data-set-lang]').forEach(function (a) {
+        var h = a.getAttribute('href').split('#')[0];
+        a.setAttribute('href', name === 'overview' ? h : h + '#' + name);
+      });
+      if (push) history.replaceState(null, '', name === 'overview' ? location.pathname : '#' + name);
+      window.scrollTo({ top: 0 });
+    }
+
+    tabs.forEach(function (b) {
+      b.addEventListener('click', function () { show(b.getAttribute('data-tab'), true); });
+    });
+    document.querySelectorAll('[data-goto]').forEach(function (b) {
+      b.addEventListener('click', function () { show(b.getAttribute('data-goto'), true); });
+    });
+
+    window.addEventListener('beforeprint', function () {
+      document.querySelectorAll('details').forEach(function (d) { d.open = true; });
+    });
+
+    var start = location.hash.replace('#', '');
+    if (start) show(start, false);
+  })();
+</script>

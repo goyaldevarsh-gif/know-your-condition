@@ -12,6 +12,9 @@ export function getStaticPaths() {
   return LANGS.flatMap((lang) => categories.map((c) => ({ params: { lang, slug: c.slug } })));
 }
 
+const ready = new Set(
+  Object.values(import.meta.glob('../../../content/conditions/*.json', { eager: true }) as Record<string, { default: any }>).map((m) => m.default.slug as string)
+);
 const lang = Astro.params.lang as Lang;
 const slug = Astro.params.slug as string;
 const cat = categories.find((c) => c.slug === slug)!;
@@ -33,13 +36,26 @@ const list = conditions.filter((c) => c.category === slug);
     ) : (
       <ul class="cond-list">
         {list.map((c) => (
-          <li class="cond-card">
-            <span class="thumb"><Icon name={cat.icon} size={40} /></span>
-            <span class="body">
-              <span class="name">{t(c.name, lang)}</span>
-              <span class="desc">{t(c.short, lang)}</span>
-            </span>
-            <span class="tag-soon">{t(ui.comingSoon, lang)}</span>
+          <li>
+            {ready.has(c.slug) ? (
+              <a class="cond-card" href={url(`${lang}/${c.slug}/`)}>
+                <span class="thumb"><Icon name={cat.icon} size={40} /></span>
+                <span class="body">
+                  <span class="name">{t(c.name, lang)}</span>
+                  <span class="desc">{t(c.short, lang)}</span>
+                </span>
+                <span class="go"><Icon name="arrow" size={22} stroke={3} /></span>
+              </a>
+            ) : (
+              <div class="cond-card is-soon">
+                <span class="thumb"><Icon name={cat.icon} size={40} /></span>
+                <span class="body">
+                  <span class="name">{t(c.name, lang)}</span>
+                  <span class="desc">{t(c.short, lang)}</span>
+                </span>
+                <span class="tag-soon">{t(ui.comingSoon, lang)}</span>
+              </div>
+            )}
           </li>
         ))}
       </ul>

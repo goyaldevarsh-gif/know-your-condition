@@ -12,6 +12,9 @@ export function getStaticPaths() {
   return LANGS.map((lang) => ({ params: { lang } }));
 }
 
+const ready = new Set(
+  Object.values(import.meta.glob('../../content/conditions/*.json', { eager: true }) as Record<string, { default: any }>).map((m) => m.default.slug as string)
+);
 const lang = Astro.params.lang as Lang;
 const catName = (slug: string) => categories.find((c) => c.slug === slug)!;
 const catIcon = (slug: string) => catName(slug).icon;
@@ -40,13 +43,26 @@ const catIcon = (slug: string) => catName(slug).icon;
 
     <ul id="results" class="cond-list" hidden>
       {conditions.map((c) => (
-        <li class="cond-card" data-q={`${c.name.en} ${c.short.en} ${c.short.hi} ${catName(c.category).name.en}`.toLowerCase()} hidden>
-          <span class="thumb"><Icon name={catIcon(c.category)} size={40} /></span>
-          <span class="body">
-            <span class="name">{t(c.name, lang)}</span>
-            <span class="desc">{t(c.short, lang)}</span>
-          </span>
-          <span class="tag-soon">{t(ui.comingSoon, lang)}</span>
+        <li data-q={`${c.name.en} ${c.short.en} ${c.short.hi} ${catName(c.category).name.en}`.toLowerCase()} hidden>
+          {ready.has(c.slug) ? (
+            <a class="cond-card" href={url(`${lang}/${c.slug}/`)}>
+              <span class="thumb"><Icon name={catIcon(c.category)} size={40} /></span>
+              <span class="body">
+                <span class="name">{t(c.name, lang)}</span>
+                <span class="desc">{t(c.short, lang)}</span>
+              </span>
+              <span class="go"><Icon name="arrow" size={22} stroke={3} /></span>
+            </a>
+          ) : (
+            <div class="cond-card is-soon">
+              <span class="thumb"><Icon name={catIcon(c.category)} size={40} /></span>
+              <span class="body">
+                <span class="name">{t(c.name, lang)}</span>
+                <span class="desc">{t(c.short, lang)}</span>
+              </span>
+              <span class="tag-soon">{t(ui.comingSoon, lang)}</span>
+            </div>
+          )}
         </li>
       ))}
     </ul>

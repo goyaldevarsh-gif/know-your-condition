@@ -1,0 +1,53 @@
+---
+import Illustration from './Illustration.astro';
+import { t } from '../lib/i18n';
+import type { Lang } from '../lib/i18n';
+import { url } from '../lib/i18n';
+import ui from '../content/ui-condition.json';
+
+interface Props {
+  ex: any;
+  lang: Lang;
+  n: number;
+}
+const { ex, lang, n } = Astro.props;
+const L = ui.l;
+---
+
+<article class="ex-card">
+  <div class="ex-fig">
+    {ex.image
+      ? <img src={url(ex.image)} alt={t(ex.title, lang)} loading="lazy" decoding="async" />
+      : <Illustration kind={ex.figure} label={t(ex.title, lang)} />}
+    <span class="ex-n">{n}</span>
+  </div>
+  <div class="ex-head">
+    <h3>{t(ex.title, lang)}</h3>
+    <p class="ex-reps">{t(ex.reps, lang)}</p>
+  </div>
+
+  <details class="ex-more">
+    <summary>{t(L.howto, lang)}
+      <svg class="chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6" /></svg>
+    </summary>
+    <div class="ex-body">
+      <h4>{t(L.start, lang)}</h4>
+      <p>{t(ex.start, lang)}</p>
+
+      <h4>{t(L.steps, lang)}</h4>
+      <ol class="steps">
+        {ex.steps.map((s: any) => <li>{t(s, lang)}</li>)}
+      </ol>
+
+      <h4 class="warn">{t(L.mistakes, lang)}</h4>
+      <ul class="x-list">
+        {ex.mistakes.map((s: any) => <li>{t(s, lang)}</li>)}
+      </ul>
+
+      <h4 class="warn">{t(L.precautions, lang)}</h4>
+      <ul class="x-list">
+        {ex.precautions.map((s: any) => <li>{t(s, lang)}</li>)}
+      </ul>
+    </div>
+  </details>
+</article>

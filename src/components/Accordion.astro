@@ -1,0 +1,18 @@
+---
+interface Props {
+  title: string;
+  open?: boolean;
+  tone?: 'default' | 'red';
+  count?: number;
+}
+const { title, open = false, tone = 'default', count } = Astro.props;
+---
+
+<details class={`acc acc-${tone}`} open={open}>
+  <summary>
+    <span class="acc-title">{title}</span>
+    {count !== undefined && <span class="acc-count">{count}</span>}
+    <svg class="chev" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6" /></svg>
+  </summary>
+  <div class="acc-body"><slot /></div>
+</details>
