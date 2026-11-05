@@ -3,16 +3,20 @@ import Base from '../layouts/Base.astro';
 import Icon from '../components/Icon.astro';
 import ui from '../content/ui.json';
 import { url } from '../lib/i18n';
+import { asset } from '../lib/assets';
 
 const roles = ui.doctorRole;
+const logo = asset('img/logo');
+const heroBg = asset('img/welcome-hero');
+const doc = asset('img/dr-devarsh');
 ---
 
 <Base title="Know Your Condition | Dr. Devarsh Goyal">
-  <main class="welcome">
-    <Icon name="knee" size={300} stroke={1.2} class="deco" />
+  <main class={`welcome${heroBg ? " has-bg" : ""}`} style={heroBg ? `--hero-img:url(${heroBg})` : undefined}>
+    {!heroBg && <Icon name="knee" size={300} stroke={1.2} class="deco" />}
 
     <div class="brand-row">
-      <div class="logo-badge"><Icon name="logo" size={30} /></div>
+      <div class={`logo-badge${logo ? " has-img" : ""}`}>{logo ? <img src={logo} alt="" /> : <Icon name="logo" size={30} />}</div>
       <div>
         <div class="brand-name">Know Your Condition</div>
         <div class="brand-sub">
@@ -39,7 +43,7 @@ const roles = ui.doctorRole;
     </div>
 
     <div class="doc-card">
-      <div class="doc-avatar" aria-hidden="true">DG</div>
+      <div class="doc-avatar" aria-hidden="true">{doc ? <img src={doc} alt="" /> : "DG"}</div>
       <div>
         <div class="doc-name">Dr. Devarsh Goyal</div>
         <div class="doc-meta">

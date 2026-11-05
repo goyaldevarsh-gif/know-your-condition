@@ -709,3 +709,26 @@ details[open] > summary .chev { transform: rotate(180deg); }
 a.cond-card:active { border-color: var(--teal); transform: scale(0.99); }
 .cond-card .go { flex: none; color: var(--teal); display: grid; place-items: center; }
 .cond-card.is-soon { opacity: 0.72; }
+
+/* ---------- Image slots ---------- */
+.ph {
+  aspect-ratio: 4 / 3;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(135deg, #e3f5f3, #f4f8fa);
+  color: var(--teal);
+  opacity: 0.9;
+  --icon-fill: transparent;
+}
+.cat-card .icon-wrap img { width: 72px; height: 72px; object-fit: contain; display: block; }
+.cond-card .thumb { overflow: hidden; }
+.cond-card .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.logo-badge.has-img { background: transparent; }
+.logo-badge img { width: 100%; height: 100%; object-fit: contain; display: block; }
+.welcome.has-bg {
+  background:
+    linear-gradient(180deg, rgba(11, 31, 51, 0.55) 0%, rgba(11, 31, 51, 0.82) 55%, rgba(11, 31, 51, 0.96) 100%),
+    var(--hero-img) center / cover no-repeat,
+    #0b1f33;
+}
+.ph svg { width: 72px !important; height: 72px !important; }

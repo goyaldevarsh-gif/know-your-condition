@@ -1,5 +1,6 @@
 ---
-import Illustration from './Illustration.astro';
+import Placeholder from './Placeholder.astro';
+import { asset } from '../lib/assets';
 import { t } from '../lib/i18n';
 import type { Lang } from '../lib/i18n';
 import { url } from '../lib/i18n';
@@ -9,16 +10,19 @@ interface Props {
   ex: any;
   lang: Lang;
   n: number;
+  slug: string;
+  icon: string;
 }
-const { ex, lang, n } = Astro.props;
+const { ex, lang, n, slug, icon } = Astro.props;
+const img = ex.image ? url(ex.image) : asset(`img/${slug}/${ex.id}`);
 const L = ui.l;
 ---
 
 <article class="ex-card">
   <div class="ex-fig">
-    {ex.image
-      ? <img src={url(ex.image)} alt={t(ex.title, lang)} loading="lazy" decoding="async" />
-      : <Illustration kind={ex.figure} label={t(ex.title, lang)} />}
+    {img
+      ? <img src={img} alt={t(ex.title, lang)} loading="lazy" decoding="async" />
+      : <Placeholder icon={icon} />}
     <span class="ex-n">{n}</span>
   </div>
   <div class="ex-head">

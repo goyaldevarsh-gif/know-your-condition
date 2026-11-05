@@ -6,6 +6,7 @@ import ui from '../../../content/ui.json';
 import categories from '../../../content/categories.json';
 import conditions from '../../../content/conditions-index.json';
 import { LANGS, t, url } from '../../../lib/i18n';
+import { thumbImg } from '../../../lib/assets';
 import type { Lang } from '../../../lib/i18n';
 
 export function getStaticPaths() {
@@ -39,7 +40,7 @@ const list = conditions.filter((c) => c.category === slug);
           <li>
             {ready.has(c.slug) ? (
               <a class="cond-card" href={url(`${lang}/${c.slug}/`)}>
-                <span class="thumb"><Icon name={cat.icon} size={40} /></span>
+                <span class="thumb">{thumbImg(c.slug, c.category) ? <img src={thumbImg(c.slug, c.category)!} alt="" loading="lazy" /> : <Icon name={cat.icon} size={40} />}</span>
                 <span class="body">
                   <span class="name">{t(c.name, lang)}</span>
                   <span class="desc">{t(c.short, lang)}</span>
@@ -48,7 +49,7 @@ const list = conditions.filter((c) => c.category === slug);
               </a>
             ) : (
               <div class="cond-card is-soon">
-                <span class="thumb"><Icon name={cat.icon} size={40} /></span>
+                <span class="thumb">{thumbImg(c.slug, c.category) ? <img src={thumbImg(c.slug, c.category)!} alt="" loading="lazy" /> : <Icon name={cat.icon} size={40} />}</span>
                 <span class="body">
                   <span class="name">{t(c.name, lang)}</span>
                   <span class="desc">{t(c.short, lang)}</span>

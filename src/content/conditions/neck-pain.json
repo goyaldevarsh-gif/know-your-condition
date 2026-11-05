@@ -3,71 +3,127 @@
   "status": "draft-for-doctor-review",
   "illustration": "neck-spine",
   "heroImage": null,
-
   "what": [
     {
       "en": "Cervical spondylosis is age-related wear and tear of the bones, discs and joints of the neck. It is very common after the age of 40.",
-      "hi": "Cervical spondylosis यानी गर्दन की हड्डियों, डिस्क और जोड़ों में उम्र के साथ होने वाला घिसाव। यह 40 साल की उम्र के बाद बहुत आम है।"
+      "hi": "गर्दन का घिसाव (Cervical Spondylosis) यानी गर्दन की हड्डियों, डिस्क (disc) और जोड़ों में उम्र के साथ होने वाला घिसाव। यह 40 साल की उम्र के बाद बहुत आम है।"
     },
     {
       "en": "It can cause neck pain and stiffness. Not every neck pain is spondylosis. Muscle strain from poor posture is also very common.",
-      "hi": "इससे गर्दन में दर्द और अकड़न हो सकती है। हर गर्दन का दर्द spondylosis नहीं होता। गलत posture से मांसपेशियों में खिंचाव भी बहुत आम कारण है।"
+      "hi": "इससे गर्दन में दर्द और अकड़न हो सकती है। हर गर्दन का दर्द घिसाव (spondylosis) नहीं होता। गलत मुद्रा (posture) से मांसपेशियों में खिंचाव भी बहुत आम कारण है।"
     },
     {
       "en": "Most people improve with simple care, good posture and exercises.",
-      "hi": "ज़्यादातर लोगों को आसान देखभाल, सही posture और व्यायाम से आराम मिलता है।"
+      "hi": "ज़्यादातर लोगों को आसान देखभाल, सही मुद्रा (posture) और व्यायाम से आराम मिलता है।"
     }
   ],
-
   "causes": [
-    { "en": "Age-related wear of the neck discs and joints", "hi": "गर्दन की डिस्क और जोड़ों में उम्र के साथ घिसाव" },
-    { "en": "Long hours on the mobile or laptop with the head bent forward", "hi": "मोबाइल या लैपटॉप पर घंटों सिर झुकाकर काम करना" },
-    { "en": "Poor sitting or sleeping posture, or a very high pillow", "hi": "बैठने या सोने का गलत तरीका, या बहुत ऊंचा तकिया" },
-    { "en": "Muscle strain from stress, or carrying heavy loads on the head or shoulders", "hi": "तनाव से मांसपेशियों में खिंचाव, या सिर और कंधे पर भारी वज़न उठाना" },
-    { "en": "An old neck injury or whiplash", "hi": "गर्दन की पुरानी चोट या झटका (whiplash)" }
+    {
+      "en": "Age-related wear of the neck discs and joints",
+      "hi": "गर्दन की डिस्क और जोड़ों में उम्र के साथ घिसाव"
+    },
+    {
+      "en": "Long hours on the mobile or laptop with the head bent forward",
+      "hi": "मोबाइल या लैपटॉप पर घंटों सिर झुकाकर काम करना"
+    },
+    {
+      "en": "Poor sitting or sleeping posture, or a very high pillow",
+      "hi": "बैठने या सोने का गलत तरीका, या बहुत ऊंचा तकिया"
+    },
+    {
+      "en": "Muscle strain from stress, or carrying heavy loads on the head or shoulders",
+      "hi": "तनाव से मांसपेशियों में खिंचाव, या सिर और कंधे पर भारी वज़न उठाना"
+    },
+    {
+      "en": "An old neck injury or whiplash",
+      "hi": "गर्दन की पुरानी चोट या झटका (whiplash)"
+    }
   ],
   "risks": [
-    { "en": "Age above 40 years", "hi": "उम्र 40 साल से ज़्यादा" },
-    { "en": "Desk job or long screen time", "hi": "डेस्क जॉब या ज़्यादा स्क्रीन टाइम" },
-    { "en": "Previous neck injury", "hi": "गर्दन की पुरानी चोट" },
-    { "en": "Family history of neck or back problems", "hi": "परिवार में गर्दन या कमर की तकलीफ़" },
-    { "en": "Very little physical activity", "hi": "शारीरिक गतिविधि बहुत कम होना" }
+    {
+      "en": "Age above 40 years",
+      "hi": "उम्र 40 साल से ज़्यादा"
+    },
+    {
+      "en": "Desk job or long screen time",
+      "hi": "डेस्क जॉब या ज़्यादा स्क्रीन टाइम"
+    },
+    {
+      "en": "Previous neck injury",
+      "hi": "गर्दन की पुरानी चोट"
+    },
+    {
+      "en": "Family history of neck or back problems",
+      "hi": "परिवार में गर्दन या कमर की तकलीफ़"
+    },
+    {
+      "en": "Very little physical activity",
+      "hi": "शारीरिक गतिविधि बहुत कम होना"
+    }
   ],
-
   "symptoms": [
-    { "en": "Neck pain and stiffness", "hi": "गर्दन में दर्द और अकड़न" },
-    { "en": "Pain spreading to the shoulder or between the shoulder blades", "hi": "दर्द कंधे या दोनों कंधों के बीच तक फैलना" },
-    { "en": "Headache starting from the back of the head", "hi": "सिर के पीछे से शुरू होने वाला सिरदर्द" },
-    { "en": "Tingling or numbness in the arm or hand", "hi": "बांह या हाथ में झुनझुनी या सुन्नपन" },
-    { "en": "Pain that is worse after long sitting, screen use or sleeping in an awkward position", "hi": "ज़्यादा देर बैठने, स्क्रीन देखने या गलत तरह से सोने के बाद दर्द बढ़ना" },
-    { "en": "Clicking or grinding sound when moving the neck", "hi": "गर्दन हिलाने पर कड़कड़ की आवाज़" }
+    {
+      "en": "Neck pain and stiffness",
+      "hi": "गर्दन में दर्द और अकड़न"
+    },
+    {
+      "en": "Pain spreading to the shoulder or between the shoulder blades",
+      "hi": "दर्द कंधे या दोनों कंधों के बीच तक फैलना"
+    },
+    {
+      "en": "Headache starting from the back of the head",
+      "hi": "सिर के पीछे से शुरू होने वाला सिरदर्द"
+    },
+    {
+      "en": "Tingling or numbness in the arm or hand",
+      "hi": "बांह या हाथ में झुनझुनी या सुन्नपन"
+    },
+    {
+      "en": "Pain that is worse after long sitting, screen use or sleeping in an awkward position",
+      "hi": "ज़्यादा देर बैठने, स्क्रीन देखने या गलत तरह से सोने के बाद दर्द बढ़ना"
+    },
+    {
+      "en": "Clicking or grinding sound when moving the neck",
+      "hi": "गर्दन हिलाने पर कड़कड़ की आवाज़"
+    }
   ],
-
   "diagnosis": {
     "exam": {
-      "title": { "en": "Check-up by the doctor", "hi": "डॉक्टर की जांच" },
+      "title": {
+        "en": "Check-up by the doctor",
+        "hi": "डॉक्टर की जांच"
+      },
       "text": {
         "en": "The doctor checks your neck movement, painful spots, muscle strength, reflexes and feeling in the arms.",
-        "hi": "डॉक्टर आपकी गर्दन की हरकत, दर्द की जगह, मांसपेशियों की ताकत, reflexes और बांहों में महसूस होने की जांच करते हैं।"
+        "hi": "डॉक्टर आपकी गर्दन की हरकत, दर्द की जगह, मांसपेशियों की ताकत, नसों की प्रतिक्रिया (reflexes) और बांहों में महसूस होने की जांच करते हैं।"
       }
     },
     "tests": [
       {
-        "name": { "en": "X-ray", "hi": "X-ray" },
+        "name": {
+          "en": "X-ray",
+          "hi": "एक्स-रे (X-ray)"
+        },
         "text": {
           "en": "Shows bone changes, disc space and the alignment of the neck. Many people have X-ray changes without any pain.",
-          "hi": "हड्डियों में बदलाव, डिस्क की जगह और गर्दन की सीध दिखाता है। कई लोगों के X-ray में बदलाव होते हैं, पर उन्हें दर्द नहीं होता।"
+          "hi": "हड्डियों में बदलाव, डिस्क की जगह और गर्दन की सीध दिखाता है। कई लोगों के एक्स-रे में बदलाव होते हैं, पर उन्हें दर्द नहीं होता।"
         }
       },
       {
-        "name": { "en": "MRI", "hi": "MRI" },
+        "name": {
+          "en": "MRI",
+          "hi": "एमआरआई (MRI)"
+        },
         "text": {
           "en": "Not needed for everyone. Done when there is arm pain, numbness or weakness, or when you are not improving. It shows the nerves and discs.",
           "hi": "सबको ज़रूरत नहीं होती। बांह में दर्द, सुन्नपन या कमज़ोरी होने पर, या आराम न मिलने पर की जाती है। इसमें नसें और डिस्क दिखती हैं।"
         }
       },
       {
-        "name": { "en": "Blood tests", "hi": "खून की जांच" },
+        "name": {
+          "en": "Blood tests",
+          "hi": "खून की जांच"
+        },
         "text": {
           "en": "Only when infection or inflammation is suspected.",
           "hi": "सिर्फ़ तब, जब इन्फेक्शन या सूजन का शक हो।"
@@ -75,42 +131,56 @@
       }
     ]
   },
-
   "treatment": {
     "items": [
       {
-        "title": { "en": "Daily care and rest from strain", "hi": "रोज़ की देखभाल और खिंचाव से आराम" },
+        "title": {
+          "en": "Daily care and rest from strain",
+          "hi": "रोज़ की देखभाल और खिंचाव से आराम"
+        },
         "text": {
           "en": "Reduce activities that increase pain, correct your posture and use a warm pack for stiffness. Complete bed rest is not advised.",
-          "hi": "जिन कामों से दर्द बढ़ता है उन्हें कम करें, posture सुधारें और अकड़न में गर्म सेक लें। पूरा बिस्तर पर आराम करने की सलाह नहीं दी जाती।"
+          "hi": "जिन कामों से दर्द बढ़ता है उन्हें कम करें, सही मुद्रा (posture) अपनाएं और अकड़न में गर्म सेक लें। पूरा बिस्तर पर आराम करने की सलाह नहीं दी जाती।"
         }
       },
       {
-        "title": { "en": "Medicines", "hi": "दवाइयां" },
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
         "text": {
           "en": "Your doctor may prescribe pain relief or muscle relaxant medicines. Take them only as advised. Do not self-medicate.",
           "hi": "डॉक्टर दर्द और मांसपेशियों को आराम देने की दवाइयां दे सकते हैं। इन्हें सिर्फ़ डॉक्टर की सलाह से लें। खुद से दवा न लें।"
         }
       },
       {
-        "title": { "en": "Physiotherapy", "hi": "Physiotherapy" },
+        "title": {
+          "en": "Physiotherapy",
+          "hi": "फिज़ियोथेरेपी (Physiotherapy)"
+        },
         "text": {
           "en": "Stretching and strengthening exercises for the neck and shoulder muscles, and posture training.",
-          "hi": "गर्दन और कंधे की मांसपेशियों के stretching और मज़बूती के व्यायाम, और posture की ट्रेनिंग।"
+          "hi": "गर्दन और कंधे की मांसपेशियों के खिंचाव (stretching) और मज़बूती के व्यायाम, और सही मुद्रा (posture) की ट्रेनिंग।"
         }
       },
       {
-        "title": { "en": "Neck collar", "hi": "Neck collar" },
+        "title": {
+          "en": "Neck collar",
+          "hi": "गर्दन का पट्टा (Neck Collar)"
+        },
         "text": {
           "en": "A soft collar is used only for a short time, and only if your doctor advises. Long use weakens the neck muscles.",
-          "hi": "Soft collar सिर्फ़ थोड़े समय के लिए और डॉक्टर के कहने पर ही पहनें। लंबे समय तक पहनने से गर्दन की मांसपेशियां कमज़ोर होती हैं।"
+          "hi": "नरम पट्टा (soft collar) सिर्फ़ थोड़े समय के लिए और डॉक्टर के कहने पर ही पहनें। लंबे समय तक पहनने से गर्दन की मांसपेशियां कमज़ोर होती हैं।"
         }
       },
       {
-        "title": { "en": "Injection or surgery", "hi": "इंजेक्शन या ऑपरेशन" },
+        "title": {
+          "en": "Injection or surgery",
+          "hi": "इंजेक्शन या ऑपरेशन"
+        },
         "text": {
           "en": "Rarely needed. Considered when pressure on a nerve or the spinal cord causes weakness, or when severe pain does not improve despite proper treatment.",
-          "hi": "बहुत कम लोगों को ज़रूरत पड़ती है। तब सोचा जाता है जब नस या spinal cord पर दबाव से कमज़ोरी हो, या सही इलाज के बाद भी तेज़ दर्द कम न हो।"
+          "hi": "बहुत कम लोगों को ज़रूरत पड़ती है। तब सोचा जाता है जब नस या रीढ़ की हड्डी की मुख्य नस (spinal cord) पर दबाव से कमज़ोरी हो, या सही इलाज के बाद भी तेज़ दर्द कम न हो।"
         }
       }
     ],
@@ -119,22 +189,50 @@
       "hi": "आपके लिए सही इलाज आपकी अपनी जांच पर निर्भर करता है।"
     }
   },
-
   "dos": [
-    { "en": "Keep your screen at eye level and your back supported.", "hi": "स्क्रीन आंखों की सीध में रखें और पीठ को सहारा दें।" },
-    { "en": "Take a posture break from the phone or laptop every 30 minutes.", "hi": "हर 30 मिनट में मोबाइल या लैपटॉप से posture ब्रेक लें।" },
-    { "en": "Use a low, supportive pillow that keeps your neck in line.", "hi": "नीचा और सहारा देने वाला तकिया लें, जो गर्दन को सीध में रखे।" },
-    { "en": "Use a warm pack for stiffness, for 15 to 20 minutes.", "hi": "अकड़न में 15 से 20 मिनट गर्म सेक लें।" },
-    { "en": "Stay active, walk daily and do your exercises gently.", "hi": "रोज़ टहलें, सक्रिय रहें और व्यायाम आराम से करें।" }
+    {
+      "en": "Keep your screen at eye level and your back supported.",
+      "hi": "स्क्रीन आंखों की सीध में रखें और पीठ को सहारा दें।"
+    },
+    {
+      "en": "Take a posture break from the phone or laptop every 30 minutes.",
+      "hi": "हर 30 मिनट में मोबाइल या लैपटॉप से ब्रेक लें और अपनी मुद्रा (posture) ठीक करें।"
+    },
+    {
+      "en": "Use a low, supportive pillow that keeps your neck in line.",
+      "hi": "नीचा और सहारा देने वाला तकिया लें, जो गर्दन को सीध में रखे।"
+    },
+    {
+      "en": "Use a warm pack for stiffness, for 15 to 20 minutes.",
+      "hi": "अकड़न में 15 से 20 मिनट गर्म सेक लें।"
+    },
+    {
+      "en": "Stay active, walk daily and do your exercises gently.",
+      "hi": "रोज़ टहलें, सक्रिय रहें और व्यायाम आराम से करें।"
+    }
   ],
   "donts": [
-    { "en": "Do not look down at your phone for long periods.", "hi": "मोबाइल में लंबे समय तक सिर झुकाकर न देखें।" },
-    { "en": "Avoid sudden, jerky neck movements.", "hi": "गर्दन को अचानक झटके से न घुमाएं।" },
-    { "en": "Do not let anyone forcefully crack or twist your neck.", "hi": "किसी से ज़ोर से गर्दन न चटकवाएं या मरोड़वाएं।" },
-    { "en": "Do not use a very high pillow, or many pillows.", "hi": "बहुत ऊंचा तकिया या कई तकिए न लगाएं।" },
-    { "en": "Do not carry heavy loads on your head or shoulders.", "hi": "सिर या कंधे पर भारी वज़न न उठाएं।" }
+    {
+      "en": "Do not look down at your phone for long periods.",
+      "hi": "मोबाइल में लंबे समय तक सिर झुकाकर न देखें।"
+    },
+    {
+      "en": "Avoid sudden, jerky neck movements.",
+      "hi": "गर्दन को अचानक झटके से न घुमाएं।"
+    },
+    {
+      "en": "Do not let anyone forcefully crack or twist your neck.",
+      "hi": "किसी से ज़ोर से गर्दन न चटकवाएं या मरोड़वाएं।"
+    },
+    {
+      "en": "Do not use a very high pillow, or many pillows.",
+      "hi": "बहुत ऊंचा तकिया या कई तकिए न लगाएं।"
+    },
+    {
+      "en": "Do not carry heavy loads on your head or shoulders.",
+      "hi": "सिर या कंधे पर भारी वज़न न उठाएं।"
+    }
   ],
-
   "exercisesNote": {
     "en": "Start only after your doctor confirms these suit you. Do not do them during sudden severe pain or after a recent injury. Stop and tell your doctor if arm pain, tingling, numbness, dizziness or headache increases.",
     "hi": "ये व्यायाम तभी शुरू करें जब डॉक्टर कहें कि ये आपके लिए ठीक हैं। अचानक तेज़ दर्द में या ताज़ा चोट के बाद न करें। बांह में दर्द, झुनझुनी, सुन्नपन, चक्कर या सिरदर्द बढ़े तो रुक जाएं और डॉक्टर को बताएं।"
@@ -144,189 +242,433 @@
       "id": "chin-tuck",
       "figure": "chin-tuck",
       "image": null,
-      "title": { "en": "Chin Tuck", "hi": "Chin Tuck (ठुड्डी अंदर)" },
-      "reps": { "en": "10 times, 2–3 sets a day", "hi": "10 बार, दिन में 2–3 सेट" },
-      "start": { "en": "Sit or stand tall and look straight ahead.", "hi": "सीधे बैठें या खड़े हों और सामने देखें।" },
+      "title": {
+        "en": "Chin Tuck",
+        "hi": "ठुड्डी अंदर करना (Chin Tuck)"
+      },
+      "reps": {
+        "en": "10 times, 2–3 sets a day",
+        "hi": "10 बार, दिन में 2–3 सेट"
+      },
+      "start": {
+        "en": "Sit or stand tall and look straight ahead.",
+        "hi": "सीधे बैठें या खड़े हों और सामने देखें।"
+      },
       "steps": [
-        { "en": "Gently pull your chin straight back, as if making a double chin.", "hi": "ठुड्डी को धीरे से सीधे पीछे खींचें, जैसे double chin बना रहे हों।" },
-        { "en": "Keep your eyes level. Do not tilt the head up or down.", "hi": "आंखें सीधी रखें। सिर ऊपर या नीचे न झुकाएं।" },
-        { "en": "Hold for 5 seconds, then relax.", "hi": "5 सेकंड रुकें, फिर आराम करें।" }
+        {
+          "en": "Gently pull your chin straight back, as if making a double chin.",
+          "hi": "ठुड्डी को धीरे से सीधे पीछे खींचें, जैसे दोहरी ठुड्डी (double chin) बना रहे हों।"
+        },
+        {
+          "en": "Keep your eyes level. Do not tilt the head up or down.",
+          "hi": "आंखें सीधी रखें। सिर ऊपर या नीचे न झुकाएं।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        }
       ],
       "mistakes": [
-        { "en": "Tilting the head down", "hi": "सिर को नीचे झुकाना" },
-        { "en": "Holding your breath", "hi": "सांस रोक लेना" }
+        {
+          "en": "Tilting the head down",
+          "hi": "सिर को नीचे झुकाना"
+        },
+        {
+          "en": "Holding your breath",
+          "hi": "सांस रोक लेना"
+        }
       ],
       "precautions": [
-        { "en": "Stop if you feel tingling in the arm or dizziness.", "hi": "बांह में झुनझुनी या चक्कर आए तो रुक जाएं।" }
+        {
+          "en": "Stop if you feel tingling in the arm or dizziness.",
+          "hi": "बांह में झुनझुनी या चक्कर आए तो रुक जाएं।"
+        }
       ]
     },
     {
       "id": "neck-isometrics",
       "figure": "neck-isometrics",
       "image": null,
-      "title": { "en": "Neck Isometrics", "hi": "Neck Isometrics (हाथ से दबाव)" },
-      "reps": { "en": "5 times in each direction, 1–2 times a day", "hi": "हर दिशा में 5 बार, दिन में 1–2 बार" },
-      "start": { "en": "Sit tall. Place one palm on the side of your head.", "hi": "सीधे बैठें। एक हथेली सिर की साइड पर रखें।" },
+      "title": {
+        "en": "Neck Isometrics",
+        "hi": "हाथ से सिर पर दबाव (Neck Isometrics)"
+      },
+      "reps": {
+        "en": "5 times in each direction, 1–2 times a day",
+        "hi": "हर दिशा में 5 बार, दिन में 1–2 बार"
+      },
+      "start": {
+        "en": "Sit tall. Place one palm on the side of your head.",
+        "hi": "सीधे बैठें। एक हथेली सिर की साइड पर रखें।"
+      },
       "steps": [
-        { "en": "Press your head gently into your hand. Do not let the head move.", "hi": "सिर को हाथ पर हल्के से दबाएं। सिर हिलना नहीं चाहिए।" },
-        { "en": "Hold for 5 seconds, then relax.", "hi": "5 सेकंड रुकें, फिर आराम करें।" },
-        { "en": "Repeat on the other side. Then repeat with the hand on the forehead and on the back of the head.", "hi": "दूसरी तरफ़ दोहराएं। फिर हाथ को माथे पर और सिर के पीछे रखकर दोहराएं।" }
+        {
+          "en": "Press your head gently into your hand. Do not let the head move.",
+          "hi": "सिर को हाथ पर हल्के से दबाएं। सिर हिलना नहीं चाहिए।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        },
+        {
+          "en": "Repeat on the other side. Then repeat with the hand on the forehead and on the back of the head.",
+          "hi": "दूसरी तरफ़ दोहराएं। फिर हाथ को माथे पर और सिर के पीछे रखकर दोहराएं।"
+        }
       ],
       "mistakes": [
-        { "en": "Pressing too hard", "hi": "बहुत ज़ोर से दबाना" },
-        { "en": "Letting the head tilt or move", "hi": "सिर को झुकने या हिलने देना" }
+        {
+          "en": "Pressing too hard",
+          "hi": "बहुत ज़ोर से दबाना"
+        },
+        {
+          "en": "Letting the head tilt or move",
+          "hi": "सिर को झुकने या हिलने देना"
+        }
       ],
       "precautions": [
-        { "en": "Use only gentle effort. Stop if the pain increases.", "hi": "सिर्फ़ हल्का ज़ोर लगाएं। दर्द बढ़े तो रुक जाएं।" }
+        {
+          "en": "Use only gentle effort. Stop if the pain increases.",
+          "hi": "सिर्फ़ हल्का ज़ोर लगाएं। दर्द बढ़े तो रुक जाएं।"
+        }
       ]
     },
     {
       "id": "neck-stretch",
       "figure": "neck-stretch",
       "image": null,
-      "title": { "en": "Gentle Neck Stretch", "hi": "Gentle Neck Stretch (साइड स्ट्रेच)" },
-      "reps": { "en": "2–3 times on each side, twice a day", "hi": "हर तरफ़ 2–3 बार, दिन में 2 बार" },
-      "start": { "en": "Sit tall with your shoulders relaxed.", "hi": "सीधे बैठें और कंधे ढीले रखें।" },
+      "title": {
+        "en": "Gentle Neck Stretch",
+        "hi": "गर्दन का हल्का खिंचाव (Gentle Neck Stretch)"
+      },
+      "reps": {
+        "en": "2–3 times on each side, twice a day",
+        "hi": "हर तरफ़ 2–3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Sit tall with your shoulders relaxed.",
+        "hi": "सीधे बैठें और कंधे ढीले रखें।"
+      },
       "steps": [
-        { "en": "Slowly tilt your ear towards your shoulder on one side.", "hi": "धीरे से एक तरफ़ कान को कंधे की ओर झुकाएं।" },
-        { "en": "You should feel a mild stretch on the opposite side of the neck.", "hi": "गर्दन की दूसरी तरफ़ हल्का खिंचाव महसूस होना चाहिए।" },
-        { "en": "Hold for 15–20 seconds, then come back slowly.", "hi": "15–20 सेकंड रुकें, फिर धीरे से वापस आएं।" }
+        {
+          "en": "Slowly tilt your ear towards your shoulder on one side.",
+          "hi": "धीरे से एक तरफ़ कान को कंधे की ओर झुकाएं।"
+        },
+        {
+          "en": "You should feel a mild stretch on the opposite side of the neck.",
+          "hi": "गर्दन की दूसरी तरफ़ हल्का खिंचाव महसूस होना चाहिए।"
+        },
+        {
+          "en": "Hold for 15–20 seconds, then come back slowly.",
+          "hi": "15–20 सेकंड रुकें, फिर धीरे से वापस आएं।"
+        }
       ],
       "mistakes": [
-        { "en": "Lifting the shoulder up towards the ear", "hi": "कंधे को कान की ओर उठाना" },
-        { "en": "Bouncing, or pulling hard with the hand", "hi": "झटका देना या हाथ से ज़ोर से खींचना" }
+        {
+          "en": "Lifting the shoulder up towards the ear",
+          "hi": "कंधे को कान की ओर उठाना"
+        },
+        {
+          "en": "Bouncing, or pulling hard with the hand",
+          "hi": "झटका देना या हाथ से ज़ोर से खींचना"
+        }
       ],
       "precautions": [
-        { "en": "The stretch should feel mild. Never force it. Stop if there is tingling in the arm.", "hi": "खिंचाव हल्का होना चाहिए। ज़बरदस्ती न करें। बांह में झुनझुनी हो तो रुक जाएं।" }
+        {
+          "en": "The stretch should feel mild. Never force it. Stop if there is tingling in the arm.",
+          "hi": "खिंचाव हल्का होना चाहिए। ज़बरदस्ती न करें। बांह में झुनझुनी हो तो रुक जाएं।"
+        }
       ]
     },
     {
       "id": "shoulder-blade-squeeze",
       "figure": "shoulder-squeeze",
       "image": null,
-      "title": { "en": "Shoulder Blade Squeeze", "hi": "Shoulder Blade Squeeze (कंधे पीछे)" },
-      "reps": { "en": "10–15 times, 2–3 sets a day", "hi": "10–15 बार, दिन में 2–3 सेट" },
-      "start": { "en": "Sit or stand tall with your arms relaxed at your sides.", "hi": "सीधे बैठें या खड़े हों और हाथ ढीले रखें।" },
+      "title": {
+        "en": "Shoulder Blade Squeeze",
+        "hi": "कंधे की हड्डियां पास लाना (Shoulder Blade Squeeze)"
+      },
+      "reps": {
+        "en": "10–15 times, 2–3 sets a day",
+        "hi": "10–15 बार, दिन में 2–3 सेट"
+      },
+      "start": {
+        "en": "Sit or stand tall with your arms relaxed at your sides.",
+        "hi": "सीधे बैठें या खड़े हों और हाथ ढीले रखें।"
+      },
       "steps": [
-        { "en": "Squeeze your shoulder blades together, as if holding a pencil between them.", "hi": "दोनों कंधों की हड्डियों को पीछे पास लाएं, जैसे बीच में पेंसिल दबा रखी हो।" },
-        { "en": "Keep your shoulders down. Do not shrug.", "hi": "कंधे नीचे रखें। ऊपर न उचकाएं।" },
-        { "en": "Hold for 5 seconds, then relax.", "hi": "5 सेकंड रुकें, फिर आराम करें।" }
+        {
+          "en": "Squeeze your shoulder blades together, as if holding a pencil between them.",
+          "hi": "दोनों कंधों की हड्डियों को पीछे पास लाएं, जैसे बीच में पेंसिल दबा रखी हो।"
+        },
+        {
+          "en": "Keep your shoulders down. Do not shrug.",
+          "hi": "कंधे नीचे रखें। ऊपर न उचकाएं।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        }
       ],
       "mistakes": [
-        { "en": "Shrugging the shoulders up", "hi": "कंधे ऊपर उचकाना" },
-        { "en": "Arching the lower back", "hi": "कमर को ज़्यादा पीछे मोड़ना" }
+        {
+          "en": "Shrugging the shoulders up",
+          "hi": "कंधे ऊपर उचकाना"
+        },
+        {
+          "en": "Arching the lower back",
+          "hi": "कमर को ज़्यादा पीछे मोड़ना"
+        }
       ],
       "precautions": [
-        { "en": "Do not push into pain. Stop if shoulder pain increases.", "hi": "दर्द में ज़बरदस्ती न करें। कंधे का दर्द बढ़े तो रुक जाएं।" }
+        {
+          "en": "Do not push into pain. Stop if shoulder pain increases.",
+          "hi": "दर्द में ज़बरदस्ती न करें। कंधे का दर्द बढ़े तो रुक जाएं।"
+        }
       ]
     }
   ],
-
   "diet": [
-    { "en": "Eat a balanced diet with calcium (milk, curd, paneer, ragi, green leafy vegetables) and protein (dal, sprouts, eggs).", "hi": "संतुलित खाना खाएं: calcium (दूध, दही, पनीर, रागी, हरी पत्तेदार सब्ज़ियां) और protein (दाल, अंकुरित अनाज, अंडा)।" },
-    { "en": "Get some sunlight daily. Take vitamin D or calcium tablets only if your doctor advises.", "hi": "रोज़ थोड़ी धूप लें। Vitamin D या calcium की गोलियां सिर्फ़ डॉक्टर के कहने पर लें।" },
-    { "en": "Drink enough water through the day.", "hi": "दिन भर पर्याप्त पानी पिएं।" },
-    { "en": "Sleep 7–8 hours and keep stress low. Stress makes neck muscles tight.", "hi": "7–8 घंटे सोएं और तनाव कम रखें। तनाव से गर्दन की मांसपेशियां कस जाती हैं।" },
-    { "en": "Walk daily, keep a healthy weight and stay away from tobacco.", "hi": "रोज़ टहलें, वज़न ठीक रखें और तंबाकू से दूर रहें।" }
-  ],
-
-  "myths": [
     {
-      "myth": { "en": "Spondylosis means the neck bone is broken.", "hi": "Spondylosis का मतलब है कि गर्दन की हड्डी टूट गई है।" },
-      "fact": { "en": "It is age-related wear and tear, not a fracture.", "hi": "यह उम्र के साथ होने वाला घिसाव है, फ्रैक्चर नहीं।" }
+      "en": "Eat a balanced diet with calcium (milk, curd, paneer, ragi, green leafy vegetables) and protein (dal, sprouts, eggs).",
+      "hi": "संतुलित खाना खाएं: कैल्शियम (calcium) के लिए दूध, दही, पनीर, रागी, हरी पत्तेदार सब्ज़ियां और प्रोटीन (protein) के लिए दाल, अंकुरित अनाज, अंडा।"
     },
     {
-      "myth": { "en": "You should avoid all movement and stay in bed.", "hi": "बिल्कुल हिलना नहीं चाहिए, बस बिस्तर पर आराम करें।" },
-      "fact": { "en": "Gentle movement and exercises help. Too much rest makes the neck stiffer.", "hi": "हल्की हरकत और व्यायाम फ़ायदा करते हैं। ज़्यादा आराम से गर्दन और अकड़ जाती है।" }
+      "en": "Get some sunlight daily. Take vitamin D or calcium tablets only if your doctor advises.",
+      "hi": "रोज़ थोड़ी धूप लें। विटामिन डी (Vitamin D) या कैल्शियम (calcium) की गोलियां सिर्फ़ डॉक्टर के कहने पर लें।"
     },
     {
-      "myth": { "en": "Surgery is the only treatment.", "hi": "ऑपरेशन ही एकमात्र इलाज है।" },
-      "fact": { "en": "Most people improve without surgery.", "hi": "ज़्यादातर लोग बिना ऑपरेशन के ठीक महसूस करते हैं।" }
+      "en": "Drink enough water through the day.",
+      "hi": "दिन भर पर्याप्त पानी पिएं।"
     },
     {
-      "myth": { "en": "Sleeping without any pillow cures neck pain.", "hi": "बिना तकिए सोने से गर्दन का दर्द ठीक हो जाता है।" },
-      "fact": { "en": "Use a low, supportive pillow. No pillow or a very high one can strain the neck.", "hi": "नीचा और सहारा देने वाला तकिया लें। बिना तकिए या बहुत ऊंचे तकिए से गर्दन पर खिंचाव पड़ता है।" }
+      "en": "Sleep 7–8 hours and keep stress low. Stress makes neck muscles tight.",
+      "hi": "7–8 घंटे सोएं और तनाव कम रखें। तनाव से गर्दन की मांसपेशियां कस जाती हैं।"
     },
     {
-      "myth": { "en": "Having the neck forcefully cracked gives a permanent cure.", "hi": "ज़ोर से गर्दन चटकवाने से पक्का इलाज हो जाता है।" },
-      "fact": { "en": "Forceful cracking can be dangerous and can injure nerves.", "hi": "ज़ोर से चटकवाना खतरनाक हो सकता है और नसों को चोट पहुंचा सकता है।" }
+      "en": "Walk daily, keep a healthy weight and stay away from tobacco.",
+      "hi": "रोज़ टहलें, वज़न ठीक रखें और तंबाकू से दूर रहें।"
     }
   ],
-
+  "myths": [
+    {
+      "myth": {
+        "en": "Spondylosis means the neck bone is broken.",
+        "hi": "गर्दन का घिसाव (Spondylosis) का मतलब है कि गर्दन की हड्डी टूट गई है।"
+      },
+      "fact": {
+        "en": "It is age-related wear and tear, not a fracture.",
+        "hi": "यह उम्र के साथ होने वाला घिसाव है, फ्रैक्चर नहीं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "You should avoid all movement and stay in bed.",
+        "hi": "बिल्कुल हिलना नहीं चाहिए, बस बिस्तर पर आराम करें।"
+      },
+      "fact": {
+        "en": "Gentle movement and exercises help. Too much rest makes the neck stiffer.",
+        "hi": "हल्की हरकत और व्यायाम फ़ायदा करते हैं। ज़्यादा आराम से गर्दन और अकड़ जाती है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Surgery is the only treatment.",
+        "hi": "ऑपरेशन ही एकमात्र इलाज है।"
+      },
+      "fact": {
+        "en": "Most people improve without surgery.",
+        "hi": "ज़्यादातर लोग बिना ऑपरेशन के ठीक महसूस करते हैं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Sleeping without any pillow cures neck pain.",
+        "hi": "बिना तकिए सोने से गर्दन का दर्द ठीक हो जाता है।"
+      },
+      "fact": {
+        "en": "Use a low, supportive pillow. No pillow or a very high one can strain the neck.",
+        "hi": "नीचा और सहारा देने वाला तकिया लें। बिना तकिए या बहुत ऊंचे तकिए से गर्दन पर खिंचाव पड़ता है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Having the neck forcefully cracked gives a permanent cure.",
+        "hi": "ज़ोर से गर्दन चटकवाने से पक्का इलाज हो जाता है।"
+      },
+      "fact": {
+        "en": "Forceful cracking can be dangerous and can injure nerves.",
+        "hi": "ज़ोर से चटकवाना खतरनाक हो सकता है और नसों को चोट पहुंचा सकता है।"
+      }
+    }
+  ],
   "redFlags": [
     {
       "level": "urgent",
-      "title": { "en": "Pain, numbness or weakness in the arms or hands that keeps getting worse", "hi": "हाथ या बांह में दर्द, सुन्नपन या कमज़ोरी जो बढ़ती जा रही हो" },
-      "text": { "en": "See your doctor soon, within a few days.", "hi": "जल्दी डॉक्टर को दिखाएं, कुछ ही दिनों में।" }
+      "title": {
+        "en": "Pain, numbness or weakness in the arms or hands that keeps getting worse",
+        "hi": "हाथ या बांह में दर्द, सुन्नपन या कमज़ोरी जो बढ़ती जा रही हो"
+      },
+      "text": {
+        "en": "See your doctor soon, within a few days.",
+        "hi": "जल्दी डॉक्टर को दिखाएं, कुछ ही दिनों में।"
+      }
     },
     {
       "level": "urgent",
-      "title": { "en": "Difficulty walking, loss of balance, stiff legs, or clumsy hands (dropping things, trouble with buttons)", "hi": "चलने में दिक्कत, संतुलन बिगड़ना, पैर अकड़ना, या हाथों में पकड़ कमज़ोर होना (चीज़ें गिरना, बटन लगाने में दिक्कत)" },
-      "text": { "en": "This can mean pressure on the spinal cord. Do not wait.", "hi": "इसका मतलब spinal cord पर दबाव हो सकता है। इंतज़ार न करें।" }
+      "title": {
+        "en": "Difficulty walking, loss of balance, stiff legs, or clumsy hands (dropping things, trouble with buttons)",
+        "hi": "चलने में दिक्कत, संतुलन बिगड़ना, पैर अकड़ना, या हाथों में पकड़ कमज़ोर होना (चीज़ें गिरना, बटन लगाने में दिक्कत)"
+      },
+      "text": {
+        "en": "This can mean pressure on the spinal cord. Do not wait.",
+        "hi": "इसका मतलब रीढ़ की हड्डी की मुख्य नस (spinal cord) पर दबाव हो सकता है। इंतज़ार न करें।"
+      }
     },
     {
       "level": "emergency",
-      "title": { "en": "Loss of control over urine or stool", "hi": "पेशाब या मल पर नियंत्रण न रहना" },
-      "text": { "en": "Go to the emergency department immediately.", "hi": "तुरंत emergency में जाएं।" }
+      "title": {
+        "en": "Loss of control over urine or stool",
+        "hi": "पेशाब या मल पर नियंत्रण न रहना"
+      },
+      "text": {
+        "en": "Go to the emergency department immediately.",
+        "hi": "तुरंत अस्पताल के इमरजेंसी विभाग (emergency) में जाएं।"
+      }
     },
     {
       "level": "emergency",
-      "title": { "en": "Neck pain after a fall or accident", "hi": "गिरने या एक्सीडेंट के बाद गर्दन में दर्द" },
-      "text": { "en": "Do not move the neck. Go to the emergency department.", "hi": "गर्दन को हिलाएं नहीं। तुरंत emergency में जाएं।" }
+      "title": {
+        "en": "Neck pain after a fall or accident",
+        "hi": "गिरने या एक्सीडेंट के बाद गर्दन में दर्द"
+      },
+      "text": {
+        "en": "Do not move the neck. Go to the emergency department.",
+        "hi": "गर्दन को हिलाएं नहीं। तुरंत अस्पताल के इमरजेंसी विभाग (emergency) में जाएं।"
+      }
     },
     {
       "level": "emergency",
-      "title": { "en": "Neck or arm pain with chest pain, sweating or breathlessness", "hi": "गर्दन या बांह के दर्द के साथ सीने में दर्द, पसीना या सांस फूलना" },
-      "text": { "en": "This could be a heart problem. Go to the emergency department immediately.", "hi": "यह दिल की समस्या हो सकती है। तुरंत emergency में जाएं।" }
+      "title": {
+        "en": "Neck or arm pain with chest pain, sweating or breathlessness",
+        "hi": "गर्दन या बांह के दर्द के साथ सीने में दर्द, पसीना या सांस फूलना"
+      },
+      "text": {
+        "en": "This could be a heart problem. Go to the emergency department immediately.",
+        "hi": "यह दिल की समस्या हो सकती है। तुरंत अस्पताल के इमरजेंसी विभाग (emergency) में जाएं।"
+      }
     },
     {
       "level": "urgent",
-      "title": { "en": "Neck pain with fever, severe headache with vomiting, or unexplained weight loss", "hi": "गर्दन के दर्द के साथ बुखार, उल्टी के साथ तेज़ सिरदर्द, या बिना वजह वज़न घटना" },
-      "text": { "en": "See a doctor the same day.", "hi": "उसी दिन डॉक्टर को दिखाएं।" }
+      "title": {
+        "en": "Neck pain with fever, severe headache with vomiting, or unexplained weight loss",
+        "hi": "गर्दन के दर्द के साथ बुखार, उल्टी के साथ तेज़ सिरदर्द, या बिना वजह वज़न घटना"
+      },
+      "text": {
+        "en": "See a doctor the same day.",
+        "hi": "उसी दिन डॉक्टर को दिखाएं।"
+      }
     }
   ],
-
   "faqs": [
     {
-      "q": { "en": "Do I need an MRI?", "hi": "क्या मुझे MRI करानी पड़ेगी?" },
-      "a": { "en": "Not always. Your doctor advises it if you have arm pain, numbness or weakness, or if you are not improving.", "hi": "हमेशा नहीं। बांह में दर्द, सुन्नपन या कमज़ोरी हो, या आराम न मिले, तब डॉक्टर MRI की सलाह देते हैं।" }
+      "q": {
+        "en": "Do I need an MRI?",
+        "hi": "क्या मुझे एमआरआई (MRI) करानी पड़ेगी?"
+      },
+      "a": {
+        "en": "Not always. Your doctor advises it if you have arm pain, numbness or weakness, or if you are not improving.",
+        "hi": "हमेशा नहीं। बांह में दर्द, सुन्नपन या कमज़ोरी हो, या आराम न मिले, तब डॉक्टर एमआरआई (MRI) की सलाह देते हैं।"
+      }
     },
     {
-      "q": { "en": "Should I wear a neck collar?", "hi": "क्या मुझे neck collar पहनना चाहिए?" },
-      "a": { "en": "Only for a short time and only if your doctor advises. Long use weakens the neck muscles.", "hi": "सिर्फ़ थोड़े समय के लिए और डॉक्टर के कहने पर। लंबे समय तक पहनने से गर्दन की मांसपेशियां कमज़ोर होती हैं।" }
+      "q": {
+        "en": "Should I wear a neck collar?",
+        "hi": "क्या मुझे गर्दन का पट्टा (neck collar) पहनना चाहिए?"
+      },
+      "a": {
+        "en": "Only for a short time and only if your doctor advises. Long use weakens the neck muscles.",
+        "hi": "सिर्फ़ थोड़े समय के लिए और डॉक्टर के कहने पर। लंबे समय तक पहनने से गर्दन की मांसपेशियां कमज़ोर होती हैं।"
+      }
     },
     {
-      "q": { "en": "Which pillow is best?", "hi": "कौन सा तकिया सही है?" },
-      "a": { "en": "A low, firm pillow that keeps your neck in line with your back. Sleep on your back or side.", "hi": "नीचा और थोड़ा सख्त तकिया, जो गर्दन को पीठ की सीध में रखे। पीठ के बल या करवट लेकर सोएं।" }
+      "q": {
+        "en": "Which pillow is best?",
+        "hi": "कौन सा तकिया सही है?"
+      },
+      "a": {
+        "en": "A low, firm pillow that keeps your neck in line with your back. Sleep on your back or side.",
+        "hi": "नीचा और थोड़ा सख्त तकिया, जो गर्दन को पीठ की सीध में रखे। पीठ के बल या करवट लेकर सोएं।"
+      }
     },
     {
-      "q": { "en": "Can I do yoga or go to the gym?", "hi": "क्या मैं योग या जिम कर सकता हूं?" },
-      "a": { "en": "Gentle activity is fine. Avoid heavy overhead lifting, headstands and extreme neck bending until your doctor says it is safe.", "hi": "हल्की गतिविधि ठीक है। जब तक डॉक्टर न कहें, सिर के ऊपर भारी वज़न उठाना, शीर्षासन और गर्दन को ज़्यादा मोड़ने वाले आसन न करें।" }
+      "q": {
+        "en": "Can I do yoga or go to the gym?",
+        "hi": "क्या मैं योग या जिम कर सकता हूं?"
+      },
+      "a": {
+        "en": "Gentle activity is fine. Avoid heavy overhead lifting, headstands and extreme neck bending until your doctor says it is safe.",
+        "hi": "हल्की गतिविधि ठीक है। जब तक डॉक्टर न कहें, सिर के ऊपर भारी वज़न उठाना, शीर्षासन और गर्दन को ज़्यादा मोड़ने वाले आसन न करें।"
+      }
     },
     {
-      "q": { "en": "Can I work on a computer?", "hi": "क्या मैं कंप्यूटर पर काम कर सकता हूं?" },
-      "a": { "en": "Yes. Keep the screen at eye level, support your back and take a posture break every 30 minutes.", "hi": "हां। स्क्रीन आंखों की सीध में रखें, पीठ को सहारा दें और हर 30 मिनट में ब्रेक लें।" }
+      "q": {
+        "en": "Can I work on a computer?",
+        "hi": "क्या मैं कंप्यूटर पर काम कर सकता हूं?"
+      },
+      "a": {
+        "en": "Yes. Keep the screen at eye level, support your back and take a posture break every 30 minutes.",
+        "hi": "हां। स्क्रीन आंखों की सीध में रखें, पीठ को सहारा दें और हर 30 मिनट में ब्रेक लें।"
+      }
     },
     {
-      "q": { "en": "Will the pain come back?", "hi": "क्या दर्द दोबारा आ सकता है?" },
-      "a": { "en": "It can. Regular exercises, good posture and less strain on the neck lower the chances.", "hi": "आ सकता है। नियमित व्यायाम, सही posture और गर्दन पर कम खिंचाव से इसकी संभावना कम होती है।" }
+      "q": {
+        "en": "Will the pain come back?",
+        "hi": "क्या दर्द दोबारा आ सकता है?"
+      },
+      "a": {
+        "en": "It can. Regular exercises, good posture and less strain on the neck lower the chances.",
+        "hi": "आ सकता है। नियमित व्यायाम, सही मुद्रा (posture) और गर्दन पर कम खिंचाव से इसकी संभावना कम होती है।"
+      }
     }
   ],
-
   "recovery": {
     "expect": [
-      { "en": "Many people feel better over a few weeks to a few months with regular exercise and posture care. Recovery time is different for everyone.", "hi": "कई लोगों को नियमित व्यायाम और posture की देखभाल से कुछ हफ़्तों से कुछ महीनों में आराम मिलता है। ठीक होने का समय सबका अलग होता है।" },
-      { "en": "Pain can flare up again, especially with long screen time or stress.", "hi": "ज़्यादा स्क्रीन टाइम या तनाव में दर्द फिर बढ़ सकता है।" }
+      {
+        "en": "Many people feel better over a few weeks to a few months with regular exercise and posture care. Recovery time is different for everyone.",
+        "hi": "कई लोगों को नियमित व्यायाम और सही मुद्रा (posture) की देखभाल से कुछ हफ़्तों से कुछ महीनों में आराम मिलता है। ठीक होने का समय सबका अलग होता है।"
+      },
+      {
+        "en": "Pain can flare up again, especially with long screen time or stress.",
+        "hi": "ज़्यादा स्क्रीन टाइम या तनाव में दर्द फिर बढ़ सकता है।"
+      }
     ],
     "followup": [
-      { "en": "Visit your doctor as advised, even if you feel better.", "hi": "आराम मिलने पर भी डॉक्टर के बताए अनुसार फॉलो-अप पर आएं।" },
-      { "en": "Bring your old X-rays, MRI and prescriptions.", "hi": "पुराने X-ray, MRI और पर्चे साथ लाएं।" },
-      { "en": "Tell the doctor about any tingling, numbness or weakness.", "hi": "झुनझुनी, सुन्नपन या कमज़ोरी हो तो डॉक्टर को ज़रूर बताएं।" }
+      {
+        "en": "Visit your doctor as advised, even if you feel better.",
+        "hi": "आराम मिलने पर भी डॉक्टर के बताए अनुसार फॉलो-अप पर आएं।"
+      },
+      {
+        "en": "Bring your old X-rays, MRI and prescriptions.",
+        "hi": "पुराने एक्स-रे (X-ray), एमआरआई (MRI) और पर्चे साथ लाएं।"
+      },
+      {
+        "en": "Tell the doctor about any tingling, numbness or weakness.",
+        "hi": "झुनझुनी, सुन्नपन या कमज़ोरी हो तो डॉक्टर को ज़रूर बताएं।"
+      }
     ],
     "revisit": [
-      { "en": "The pain is not improving after 4–6 weeks of regular care.", "hi": "4–6 हफ़्ते नियमित देखभाल के बाद भी दर्द कम न हो।" },
-      { "en": "The pain is increasing, or new tingling or weakness starts.", "hi": "दर्द बढ़ रहा हो, या नई झुनझुनी या कमज़ोरी शुरू हो।" },
-      { "en": "Any warning sign appears. See a doctor at once.", "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।" }
+      {
+        "en": "The pain is not improving after 4–6 weeks of regular care.",
+        "hi": "4–6 हफ़्ते नियमित देखभाल के बाद भी दर्द कम न हो।"
+      },
+      {
+        "en": "The pain is increasing, or new tingling or weakness starts.",
+        "hi": "दर्द बढ़ रहा हो, या नई झुनझुनी या कमज़ोरी शुरू हो।"
+      },
+      {
+        "en": "Any warning sign appears. See a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
     ]
   }
 }

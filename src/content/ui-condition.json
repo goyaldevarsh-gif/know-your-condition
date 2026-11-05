@@ -1,43 +1,148 @@
 {
   "tabs": {
-    "overview": { "en": "Overview", "hi": "जानकारी" },
-    "care": { "en": "Care", "hi": "देखभाल" },
-    "exercises": { "en": "Exercises", "hi": "व्यायाम" },
-    "faqs": { "en": "FAQs", "hi": "सवाल-जवाब" }
+    "overview": {
+      "en": "Overview",
+      "hi": "जानकारी"
+    },
+    "care": {
+      "en": "Care",
+      "hi": "देखभाल"
+    },
+    "exercises": {
+      "en": "Exercises",
+      "hi": "व्यायाम"
+    },
+    "faqs": {
+      "en": "FAQs",
+      "hi": "सवाल-जवाब"
+    }
   },
   "h": {
-    "what": { "en": "What is it?", "hi": "यह क्या है?" },
-    "causes": { "en": "Why does it happen?", "hi": "यह क्यों होता है?" },
-    "risks": { "en": "Who is more likely to get it?", "hi": "किसे ज़्यादा होता है?" },
-    "symptoms": { "en": "Common symptoms", "hi": "आम लक्षण" },
-    "diagnosis": { "en": "How is it diagnosed?", "hi": "जांच कैसे होती है?" },
-    "treatment": { "en": "Treatment options", "hi": "इलाज के तरीके" },
-    "redflags": { "en": "Red Flags", "hi": "Red Flags" },
-    "redflagsSub": { "en": "See a doctor urgently if you notice any of these", "hi": "इनमें से कुछ भी दिखे तो तुरंत डॉक्टर से मिलें" },
-    "dos": { "en": "Do's", "hi": "क्या करें" },
-    "donts": { "en": "Don'ts", "hi": "क्या न करें" },
-    "diet": { "en": "Diet and lifestyle", "hi": "खान-पान और जीवनशैली" },
-    "recovery": { "en": "Recovery and follow-up", "hi": "रिकवरी और फॉलो-अप" },
-    "expect": { "en": "What to expect", "hi": "क्या उम्मीद रखें" },
-    "followup": { "en": "Follow-up", "hi": "फॉलो-अप" },
-    "revisit": { "en": "See your doctor again if", "hi": "दोबारा डॉक्टर से मिलें अगर" },
-    "exercises": { "en": "Recommended exercises", "hi": "सुझाए गए व्यायाम" },
-    "myths": { "en": "Myths vs Facts", "hi": "भ्रम और सच" },
-    "faqs": { "en": "Common questions", "hi": "आम सवाल" }
+    "what": {
+      "en": "What is it?",
+      "hi": "यह क्या है?"
+    },
+    "causes": {
+      "en": "Why does it happen?",
+      "hi": "यह क्यों होता है?"
+    },
+    "risks": {
+      "en": "Who is more likely to get it?",
+      "hi": "किसे ज़्यादा होता है?"
+    },
+    "symptoms": {
+      "en": "Common symptoms",
+      "hi": "आम लक्षण"
+    },
+    "diagnosis": {
+      "en": "How is it diagnosed?",
+      "hi": "जांच कैसे होती है?"
+    },
+    "treatment": {
+      "en": "Treatment options",
+      "hi": "इलाज के तरीके"
+    },
+    "redflags": {
+      "en": "Red Flags",
+      "hi": "खतरे के संकेत (Red Flags)"
+    },
+    "redflagsSub": {
+      "en": "See a doctor urgently if you notice any of these",
+      "hi": "इनमें से कुछ भी दिखे तो तुरंत डॉक्टर से मिलें"
+    },
+    "dos": {
+      "en": "Do's",
+      "hi": "क्या करें"
+    },
+    "donts": {
+      "en": "Don'ts",
+      "hi": "क्या न करें"
+    },
+    "diet": {
+      "en": "Diet and lifestyle",
+      "hi": "खान-पान और जीवनशैली (Diet & Lifestyle)"
+    },
+    "recovery": {
+      "en": "Recovery and follow-up",
+      "hi": "ठीक होना और फॉलो-अप (Recovery & Follow-up)"
+    },
+    "expect": {
+      "en": "What to expect",
+      "hi": "क्या उम्मीद रखें"
+    },
+    "followup": {
+      "en": "Follow-up",
+      "hi": "फॉलो-अप"
+    },
+    "revisit": {
+      "en": "See your doctor again if",
+      "hi": "दोबारा डॉक्टर से मिलें अगर"
+    },
+    "exercises": {
+      "en": "Recommended exercises",
+      "hi": "सुझाए गए व्यायाम"
+    },
+    "myths": {
+      "en": "Myths vs Facts",
+      "hi": "भ्रम और सच (Myths vs Facts)"
+    },
+    "faqs": {
+      "en": "Common questions",
+      "hi": "आम सवाल"
+    }
   },
   "l": {
-    "myth": { "en": "Myth", "hi": "भ्रम" },
-    "fact": { "en": "Fact", "hi": "सच" },
-    "start": { "en": "Starting position", "hi": "शुरुआत की स्थिति" },
-    "steps": { "en": "How to do it", "hi": "कैसे करें" },
-    "mistakes": { "en": "Common mistakes", "hi": "आम गलतियां" },
-    "precautions": { "en": "Precautions", "hi": "सावधानी" },
-    "howto": { "en": "See how to do it", "hi": "करने का तरीका देखें" },
-    "urgent": { "en": "See a doctor soon", "hi": "जल्दी डॉक्टर को दिखाएं" },
-    "emergency": { "en": "Emergency", "hi": "आपातकाल" },
-    "tests": { "en": "Tests your doctor may advise", "hi": "डॉक्टर ये जांच करा सकते हैं" },
-    "seeRedFlags": { "en": "Warning signs: when to see a doctor urgently", "hi": "खतरे के संकेत: कब तुरंत डॉक्टर से मिलें" },
-    "print": { "en": "Print this page", "hi": "यह पेज प्रिंट करें" },
-    "share": { "en": "Share", "hi": "शेयर करें" }
+    "myth": {
+      "en": "Myth",
+      "hi": "भ्रम"
+    },
+    "fact": {
+      "en": "Fact",
+      "hi": "सच"
+    },
+    "start": {
+      "en": "Starting position",
+      "hi": "शुरुआत की स्थिति"
+    },
+    "steps": {
+      "en": "How to do it",
+      "hi": "कैसे करें"
+    },
+    "mistakes": {
+      "en": "Common mistakes",
+      "hi": "आम गलतियां"
+    },
+    "precautions": {
+      "en": "Precautions",
+      "hi": "सावधानी"
+    },
+    "howto": {
+      "en": "See how to do it",
+      "hi": "करने का तरीका देखें"
+    },
+    "urgent": {
+      "en": "See a doctor soon",
+      "hi": "जल्दी डॉक्टर को दिखाएं"
+    },
+    "emergency": {
+      "en": "Emergency",
+      "hi": "आपातकाल"
+    },
+    "tests": {
+      "en": "Tests your doctor may advise",
+      "hi": "डॉक्टर ये जांच करा सकते हैं"
+    },
+    "seeRedFlags": {
+      "en": "Warning signs: when to see a doctor urgently",
+      "hi": "खतरे के संकेत: कब तुरंत डॉक्टर से मिलें"
+    },
+    "print": {
+      "en": "Print this page",
+      "hi": "यह पेज प्रिंट करें"
+    },
+    "share": {
+      "en": "Share",
+      "hi": "शेयर करें"
+    }
   }
 }

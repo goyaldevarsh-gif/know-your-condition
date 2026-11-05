@@ -6,6 +6,7 @@ import ui from '../../content/ui.json';
 import categories from '../../content/categories.json';
 import conditions from '../../content/conditions-index.json';
 import { LANGS, t, url } from '../../lib/i18n';
+import { asset, catImg, thumbImg } from '../../lib/assets';
 import type { Lang } from '../../lib/i18n';
 
 export function getStaticPaths() {
@@ -18,12 +19,13 @@ const ready = new Set(
 const lang = Astro.params.lang as Lang;
 const catName = (slug: string) => categories.find((c) => c.slug === slug)!;
 const catIcon = (slug: string) => catName(slug).icon;
+const logo = asset('img/logo');
 ---
 
 <Base lang={lang} title={`${t(ui.homeTitle, lang)} | Dr. Devarsh Goyal`}>
   <header class="topbar">
     <a class="brand" href={url(`${lang}/`)} aria-label={t(ui.home, lang)}>
-      <span class="logo-badge"><Icon name="logo" size={24} /></span>
+      <span class={`logo-badge${logo ? " has-img" : ""}`}>{logo ? <img src={logo} alt="" /> : <Icon name="logo" size={24} />}</span>
       <span class="brand-name">Know Your Condition</span>
     </a>
     <LangSwitch lang={lang} hrefEn={url('en/')} hrefHi={url('hi/')} />
@@ -43,10 +45,10 @@ const catIcon = (slug: string) => catName(slug).icon;
 
     <ul id="results" class="cond-list" hidden>
       {conditions.map((c) => (
-        <li data-q={`${c.name.en} ${c.short.en} ${c.short.hi} ${catName(c.category).name.en}`.toLowerCase()} hidden>
+        <li data-q={`${c.name.en} ${c.name.hi} ${c.short.en} ${c.short.hi} ${catName(c.category).name.en}`.toLowerCase()} hidden>
           {ready.has(c.slug) ? (
             <a class="cond-card" href={url(`${lang}/${c.slug}/`)}>
-              <span class="thumb"><Icon name={catIcon(c.category)} size={40} /></span>
+              <span class="thumb">{thumbImg(c.slug, c.category) ? <img src={thumbImg(c.slug, c.category)!} alt="" loading="lazy" /> : <Icon name={catIcon(c.category)} size={40} />}</span>
               <span class="body">
                 <span class="name">{t(c.name, lang)}</span>
                 <span class="desc">{t(c.short, lang)}</span>
@@ -55,7 +57,7 @@ const catIcon = (slug: string) => catName(slug).icon;
             </a>
           ) : (
             <div class="cond-card is-soon">
-              <span class="thumb"><Icon name={catIcon(c.category)} size={40} /></span>
+              <span class="thumb">{thumbImg(c.slug, c.category) ? <img src={thumbImg(c.slug, c.category)!} alt="" loading="lazy" /> : <Icon name={catIcon(c.category)} size={40} />}</span>
               <span class="body">
                 <span class="name">{t(c.name, lang)}</span>
                 <span class="desc">{t(c.short, lang)}</span>
@@ -71,7 +73,7 @@ const catIcon = (slug: string) => catName(slug).icon;
     <nav id="cats" class="cat-grid" aria-label={t(ui.homeSub, lang)}>
       {categories.map((c) => (
         <a class="cat-card" href={url(`${lang}/category/${c.slug}/`)}>
-          <span class="icon-wrap"><Icon name={c.icon} size={56} /></span>
+          <span class="icon-wrap">{catImg(c.slug) ? <img src={catImg(c.slug)!} alt="" loading="lazy" /> : <Icon name={c.icon} size={56} />}</span>
           <span>{t(c.name, lang)}</span>
         </a>
       ))}

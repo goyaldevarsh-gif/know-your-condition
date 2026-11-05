@@ -1,0 +1,6 @@
+---
+import Icon from './Icon.astro';
+interface Props { icon?: string }
+const { icon = 'knee' } = Astro.props;
+---
+<div class="ph" aria-hidden="true"><Icon name={icon} size={72} stroke={1.6} /></div>
