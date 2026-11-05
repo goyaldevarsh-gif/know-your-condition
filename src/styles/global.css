@@ -481,8 +481,8 @@ h1, h2, h3, p {
 }
 
 .doc-avatar {
-  width: 62px;
-  height: 62px;
+  width: 76px;
+  height: 76px;
   border-radius: 50%;
   background: linear-gradient(135deg, var(--teal), #137a70);
   color: var(--white);
