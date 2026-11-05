@@ -1,0 +1,24 @@
+---
+import type { Lang } from '../lib/i18n';
+interface Props {
+  lang: Lang;
+  /** Path of the SAME page in the other language, e.g. "hi/category/spine-neck/" */
+  hrefEn: string;
+  hrefHi: string;
+}
+const { lang, hrefEn, hrefHi } = Astro.props;
+---
+
+<nav class="lang-switch" aria-label="Language / भाषा">
+  <a href={hrefEn} lang="en" hreflang="en" aria-current={lang === 'en' ? 'true' : undefined} data-set-lang="en">English</a>
+  <a href={hrefHi} lang="hi" hreflang="hi" aria-current={lang === 'hi' ? 'true' : undefined} data-set-lang="hi">हिंदी</a>
+</nav>
+
+<script is:inline>
+  // Remember the chosen language so the welcome screen and QR visits stay consistent.
+  document.querySelectorAll('[data-set-lang]').forEach(function (a) {
+    a.addEventListener('click', function () {
+      try { localStorage.setItem('kyc-lang', a.getAttribute('data-set-lang')); } catch (e) {}
+    });
+  });
+</script>

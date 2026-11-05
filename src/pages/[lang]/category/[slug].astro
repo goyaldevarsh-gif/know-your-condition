@@ -1,0 +1,49 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Icon from '../../../components/Icon.astro';
+import LangSwitch from '../../../components/LangSwitch.astro';
+import ui from '../../../content/ui.json';
+import categories from '../../../content/categories.json';
+import conditions from '../../../content/conditions-index.json';
+import { LANGS, t, url } from '../../../lib/i18n';
+import type { Lang } from '../../../lib/i18n';
+
+export function getStaticPaths() {
+  return LANGS.flatMap((lang) => categories.map((c) => ({ params: { lang, slug: c.slug } })));
+}
+
+const lang = Astro.params.lang as Lang;
+const slug = Astro.params.slug as string;
+const cat = categories.find((c) => c.slug === slug)!;
+const list = conditions.filter((c) => c.category === slug);
+---
+
+<Base lang={lang} title={`${t(cat.name, lang)} | Know Your Condition`}>
+  <header class="topbar">
+    <a class="back" href={url(`${lang}/`)} aria-label={t(ui.back, lang)}>
+      <Icon name="back" size={26} stroke={3} />
+    </a>
+    <h1 class="page-title">{t(cat.name, lang)}</h1>
+    <LangSwitch lang={lang} hrefEn={url(`en/category/${slug}/`)} hrefHi={url(`hi/category/${slug}/`)} />
+  </header>
+
+  <main class="sheet">
+    {list.length === 0 ? (
+      <p class="empty">{t(ui.noneYet, lang)}</p>
+    ) : (
+      <ul class="cond-list">
+        {list.map((c) => (
+          <li class="cond-card">
+            <span class="thumb"><Icon name={cat.icon} size={40} /></span>
+            <span class="body">
+              <span class="name">{t(c.name, lang)}</span>
+              <span class="desc">{t(c.short, lang)}</span>
+            </span>
+            <span class="tag-soon">{t(ui.comingSoon, lang)}</span>
+          </li>
+        ))}
+      </ul>
+    )}
+    <p class="disclaimer">{t(ui.disclaimer, lang)}</p>
+  </main>
+</Base>

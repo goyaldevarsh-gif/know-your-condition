@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "knee-osteoarthritis", "category": "knee-hip",
+    "name": { "en": "Knee Osteoarthritis", "hi": "Knee Osteoarthritis" },
+    "short": { "en": "Wear and tear of the knee joint.", "hi": "घुटने के जोड़ में घिसाव और बदलाव।" }
+  },
+  {
+    "slug": "pes-anserine-bursitis", "category": "knee-hip",
+    "name": { "en": "Pes Anserine Bursitis", "hi": "Pes Anserine Bursitis" },
+    "short": { "en": "Pain on the inner side of the knee, below the joint.", "hi": "घुटने के अंदर की तरफ़, जोड़ के नीचे दर्द।" }
+  },
+  {
+    "slug": "frozen-shoulder", "category": "shoulder-elbow",
+    "name": { "en": "Frozen Shoulder", "hi": "Frozen Shoulder" },
+    "short": { "en": "A stiff, painful shoulder that is hard to move.", "hi": "कंधा अकड़ जाना, दर्द और हिलाने में दिक्कत।" }
+  },
+  {
+    "slug": "rotator-cuff", "category": "shoulder-elbow",
+    "name": { "en": "Rotator Cuff Tendinopathy / Tear", "hi": "Rotator Cuff Tendinopathy / Tear" },
+    "short": { "en": "Pain in the shoulder from irritated or torn tendons.", "hi": "कंधे की नसों (tendons) में सूजन या फटने से दर्द।" }
+  },
+  {
+    "slug": "tennis-elbow", "category": "shoulder-elbow",
+    "name": { "en": "Tennis Elbow", "hi": "Tennis Elbow" },
+    "short": { "en": "Pain on the outer side of the elbow.", "hi": "कोहनी के बाहर की तरफ़ दर्द।" }
+  },
+  {
+    "slug": "low-back-pain", "category": "spine-neck",
+    "name": { "en": "Low Back Pain", "hi": "Low Back Pain" },
+    "short": { "en": "Pain in the lower part of the back.", "hi": "कमर के निचले हिस्से में दर्द।" }
+  },
+  {
+    "slug": "neck-pain", "category": "spine-neck",
+    "name": { "en": "Neck Pain / Cervical Spondylosis", "hi": "Neck Pain / Cervical Spondylosis" },
+    "short": { "en": "Neck pain and stiffness, often from age-related wear.", "hi": "गर्दन में दर्द और अकड़न, अक्सर उम्र के साथ घिसाव से।" }
+  },
+  {
+    "slug": "sciatica", "category": "spine-neck",
+    "name": { "en": "Sciatica / Lumbar Radiculopathy", "hi": "Sciatica / Lumbar Radiculopathy" },
+    "short": { "en": "Back pain that travels down the leg.", "hi": "कमर से पैर तक जाने वाला दर्द।" }
+  },
+  {
+    "slug": "plantar-fasciitis", "category": "foot-ankle",
+    "name": { "en": "Plantar Fasciitis", "hi": "Plantar Fasciitis" },
+    "short": { "en": "Heel pain, worst with the first steps in the morning.", "hi": "एड़ी में दर्द, सुबह पहले कदमों पर सबसे ज़्यादा।" }
+  },
+  {
+    "slug": "retrocalcaneal-heel-pain", "category": "foot-ankle",
+    "name": { "en": "Retrocalcaneal Heel Pain", "hi": "Retrocalcaneal Heel Pain" },
+    "short": { "en": "Pain at the back of the heel.", "hi": "एड़ी के पीछे की तरफ़ दर्द।" }
+  },
+  {
+    "slug": "ankle-sprain", "category": "foot-ankle",
+    "name": { "en": "Ankle Sprain", "hi": "Ankle Sprain" },
+    "short": { "en": "Twisted ankle with pain and swelling.", "hi": "टखना मुड़ने से दर्द और सूजन।" }
+  },
+  {
+    "slug": "achilles-tendinopathy", "category": "foot-ankle",
+    "name": { "en": "Achilles Tendinopathy", "hi": "Achilles Tendinopathy" },
+    "short": { "en": "Pain in the thick tendon above the heel.", "hi": "एड़ी के ऊपर की मोटी नस में दर्द।" }
+  },
+  {
+    "slug": "fracture-cast-care", "category": "trauma-fractures",
+    "name": { "en": "Fracture & Cast Care", "hi": "Fracture & Cast Care" },
+    "short": { "en": "Looking after a broken bone and its cast.", "hi": "टूटी हड्डी और प्लास्टर की देखभाल।" }
+  }
+]

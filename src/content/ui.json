@@ -1,0 +1,37 @@
+{
+  "appName": { "en": "Know Your Condition", "hi": "Know Your Condition" },
+  "appSub": { "en": "Orthopaedic Patient Education", "hi": "हड्डी और जोड़ों की जानकारी" },
+  "tagline": {
+    "en": "Understand Your Condition. Take Control of Your Recovery.",
+    "hi": "अपनी बीमारी को समझें। अपनी रिकवरी की ज़िम्मेदारी लें।"
+  },
+  "heroTitle": {
+    "en": "Understand Your Bone & Joint Problems",
+    "hi": "अपनी हड्डी और जोड़ों की समस्या को समझें"
+  },
+  "heroText": {
+    "en": "Simple, reliable information on common orthopaedic conditions, exercises and recovery.",
+    "hi": "आम हड्डी-जोड़ों की बीमारियों, व्यायाम और रिकवरी की आसान और भरोसेमंद जानकारी।"
+  },
+  "chooseLanguage": { "en": "Choose your language", "hi": "अपनी भाषा चुनें" },
+  "continue": { "en": "Continue", "hi": "आगे बढ़ें" },
+  "homeTitle": { "en": "Know Your Condition", "hi": "Know Your Condition" },
+  "homeSub": { "en": "Choose your problem to learn more.", "hi": "अपनी समस्या चुनें और जानकारी पाएं।" },
+  "search": { "en": "Search a condition...", "hi": "बीमारी खोजें..." },
+  "noResults": { "en": "No condition found. Try another word.", "hi": "कोई बीमारी नहीं मिली। दूसरा शब्द आज़माएं।" },
+  "back": { "en": "Back", "hi": "वापस" },
+  "home": { "en": "Home", "hi": "होम" },
+  "comingSoon": { "en": "Coming soon", "hi": "जल्द आ रहा है" },
+  "conditionsCount": { "en": "conditions", "hi": "बीमारियां" },
+  "noneYet": { "en": "Conditions will be added soon.", "hi": "इस हिस्से की जानकारी जल्द जोड़ी जाएगी।" },
+  "switchTo": { "en": "हिंदी", "hi": "English" },
+  "switchLabel": { "en": "Switch to Hindi", "hi": "Switch to English" },
+  "doctorRole": {
+    "en": ["MBBS, MS Orthopaedics", "SMS Medical College & Hospital, Jaipur", "Dip. in FIFA Medicine"],
+    "hi": ["MBBS, MS Orthopaedics", "SMS Medical College & Hospital, जयपुर", "Dip. in FIFA Medicine"]
+  },
+  "disclaimer": {
+    "en": "This information is for education only. It does not replace a check-up by your doctor.",
+    "hi": "यह जानकारी सिर्फ़ समझने के लिए है। यह डॉक्टर से जांच का विकल्प नहीं है।"
+  }
+}

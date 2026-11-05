@@ -1,0 +1,85 @@
+---
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import ui from '../content/ui.json';
+import { url } from '../lib/i18n';
+
+const roles = ui.doctorRole;
+---
+
+<Base title="Know Your Condition | Dr. Devarsh Goyal">
+  <main class="welcome">
+    <Icon name="knee" size={300} stroke={1.2} class="deco" />
+
+    <div class="brand-row">
+      <div class="logo-badge"><Icon name="logo" size={30} /></div>
+      <div>
+        <div class="brand-name">Know Your Condition</div>
+        <div class="brand-sub">
+          <span class="l-en">{ui.appSub.en}</span><span class="l-hi">{ui.appSub.hi}</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="hero">
+      <h1>
+        <span class="l-en">{ui.heroTitle.en}</span><span class="l-hi">{ui.heroTitle.hi}</span>
+      </h1>
+      <p>
+        <span class="l-en">{ui.heroText.en}</span><span class="l-hi">{ui.heroText.hi}</span>
+      </p>
+    </div>
+
+    <div class="lang-pick">
+      <div class="lang-label">Choose your language / अपनी भाषा चुनें</div>
+      <div class="lang-chips" role="group" aria-label="Language / भाषा">
+        <button type="button" class="lang-chip" data-pick="en" aria-pressed="true" lang="en">English</button>
+        <button type="button" class="lang-chip" data-pick="hi" aria-pressed="false" lang="hi">हिंदी</button>
+      </div>
+    </div>
+
+    <div class="doc-card">
+      <div class="doc-avatar" aria-hidden="true">DG</div>
+      <div>
+        <div class="doc-name">Dr. Devarsh Goyal</div>
+        <div class="doc-meta">
+          {roles.en.map((r, i) => (
+            <div>
+              <span class="l-en">{r}</span><span class="l-hi">{roles.hi[i]}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <a id="go" class="btn" href={url('en/')}>
+      <span class="l-en">{ui.continue.en}</span><span class="l-hi">{ui.continue.hi}</span>
+      <Icon name="arrow" size={22} stroke={3} />
+    </a>
+  </main>
+</Base>
+
+<script is:inline define:vars={{ enHref: url('en/'), hiHref: url('hi/') }}>
+  (function () {
+    var root = document.documentElement;
+    var go = document.getElementById('go');
+    var chips = document.querySelectorAll('.lang-chip');
+    function apply(l) {
+      root.setAttribute('data-lang', l);
+      root.setAttribute('lang', l);
+      go.setAttribute('href', l === 'hi' ? hiHref : enHref);
+      chips.forEach(function (c) {
+        c.setAttribute('aria-pressed', c.getAttribute('data-pick') === l ? 'true' : 'false');
+      });
+    }
+    var start = root.getAttribute('data-lang') || 'en';
+    apply(start);
+    chips.forEach(function (c) {
+      c.addEventListener('click', function () {
+        var l = c.getAttribute('data-pick');
+        apply(l);
+        try { localStorage.setItem('kyc-lang', l); } catch (e) {}
+      });
+    });
+  })();
+</script>

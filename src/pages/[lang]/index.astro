@@ -1,0 +1,88 @@
+---
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import LangSwitch from '../../components/LangSwitch.astro';
+import ui from '../../content/ui.json';
+import categories from '../../content/categories.json';
+import conditions from '../../content/conditions-index.json';
+import { LANGS, t, url } from '../../lib/i18n';
+import type { Lang } from '../../lib/i18n';
+
+export function getStaticPaths() {
+  return LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const catName = (slug: string) => categories.find((c) => c.slug === slug)!;
+const catIcon = (slug: string) => catName(slug).icon;
+---
+
+<Base lang={lang} title={`${t(ui.homeTitle, lang)} | Dr. Devarsh Goyal`}>
+  <header class="topbar">
+    <a class="brand" href={url(`${lang}/`)} aria-label={t(ui.home, lang)}>
+      <span class="logo-badge"><Icon name="logo" size={24} /></span>
+      <span class="brand-name">Know Your Condition</span>
+    </a>
+    <LangSwitch lang={lang} hrefEn={url('en/')} hrefHi={url('hi/')} />
+  </header>
+
+  <main class="sheet">
+    <div>
+      <h1>{t(ui.homeTitle, lang)}</h1>
+      <p class="sub">{t(ui.homeSub, lang)}</p>
+    </div>
+
+    <div class="search">
+      <label class="sr-only" for="q">{t(ui.search, lang)}</label>
+      <input id="q" type="search" placeholder={t(ui.search, lang)} autocomplete="off" enterkeyhint="search" />
+      <span class="search-icon"><Icon name="search" size={24} stroke={3} /></span>
+    </div>
+
+    <ul id="results" class="cond-list" hidden>
+      {conditions.map((c) => (
+        <li class="cond-card" data-q={`${c.name.en} ${c.short.en} ${c.short.hi} ${catName(c.category).name.en}`.toLowerCase()} hidden>
+          <span class="thumb"><Icon name={catIcon(c.category)} size={40} /></span>
+          <span class="body">
+            <span class="name">{t(c.name, lang)}</span>
+            <span class="desc">{t(c.short, lang)}</span>
+          </span>
+          <span class="tag-soon">{t(ui.comingSoon, lang)}</span>
+        </li>
+      ))}
+    </ul>
+    <p id="none" class="empty" hidden>{t(ui.noResults, lang)}</p>
+
+    <nav id="cats" class="cat-grid" aria-label={t(ui.homeSub, lang)}>
+      {categories.map((c) => (
+        <a class="cat-card" href={url(`${lang}/category/${c.slug}/`)}>
+          <span class="icon-wrap"><Icon name={c.icon} size={56} /></span>
+          <span>{t(c.name, lang)}</span>
+        </a>
+      ))}
+    </nav>
+
+    <p class="disclaimer">{t(ui.disclaimer, lang)}</p>
+  </main>
+</Base>
+
+<script is:inline>
+  (function () {
+    var q = document.getElementById('q');
+    var list = document.getElementById('results');
+    var none = document.getElementById('none');
+    var cats = document.getElementById('cats');
+    var items = list.querySelectorAll('li');
+    q.addEventListener('input', function () {
+      var v = q.value.trim().toLowerCase();
+      var shown = 0;
+      items.forEach(function (li) {
+        var hit = v && li.getAttribute('data-q').indexOf(v) !== -1;
+        li.hidden = !hit;
+        if (hit) shown++;
+      });
+      list.hidden = !v || shown === 0;
+      none.hidden = !v || shown > 0;
+      cats.hidden = !!v;
+    });
+  })();
+</script>
