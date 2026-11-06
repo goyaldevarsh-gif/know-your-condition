@@ -20,11 +20,12 @@ for f in files:
     size = max(14, round(W * 0.034)); font = ImageFont.truetype(FONT, size)
     d = ImageDraw.Draw(Image.new('RGBA', (1, 1)))
     tw = d.textlength(TEXT, font=font); pad = round(W * 0.025)
-    x, y = W - tw - pad, H - size - pad
+    x, y = W - tw - pad - round(size*0.55), H - size*1.2 - pad - round(size*0.32)
     layer = Image.new('RGBA', im.size, (0, 0, 0, 0)); ld = ImageDraw.Draw(layer)
-    ld.text((x + 1.5, y + 1.5), TEXT, font=font, fill=(0, 0, 0, 120))
-    layer = layer.filter(ImageFilter.GaussianBlur(1.2)); ld = ImageDraw.Draw(layer)
-    ld.text((x, y), TEXT, font=font, fill=(255, 255, 255, 170))
+    ph, pv = round(size * 0.55), round(size * 0.32)
+    box = (x - ph, y - pv, x + tw + ph, y + size * 1.2 + pv)
+    ld.rounded_rectangle(box, radius=round(size * 0.6), fill=(16, 42, 67, 150))
+    ld.text((x, y), TEXT, font=font, fill=(255, 255, 255, 235))
     Image.alpha_composite(im, layer).convert('RGB').save(f, 'webp', quality=88)
     done.add(rel); n += 1
 open(DONE, 'w').write('\n'.join(sorted(done)))
