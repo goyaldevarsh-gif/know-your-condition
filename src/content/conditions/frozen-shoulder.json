@@ -4,12 +4,12 @@
   "heroImage": null,
   "what": [
     {
-      "en": "Frozen shoulder is a painful, stiff shoulder where the lining around the joint (capsule) becomes tight. It is common between 40 and 60 years, and in people with diabetes.",
-      "hi": "जमा हुआ कंधा (Frozen Shoulder) यानी दर्द के साथ अकड़ा हुआ कंधा, जिसमें जोड़ की थैली (capsule) कस जाती है। यह 40 से 60 साल की उम्र में और डायबिटीज़ वालों में आम है।"
+      "en": "Frozen shoulder is a painful, stiff shoulder where the lining around the joint (capsule) becomes tight. It is more common between 40 and 70 years, and in people with diabetes.",
+      "hi": "जमा हुआ कंधा (Frozen Shoulder) यानी दर्द के साथ अकड़ा हुआ कंधा, जिसमें जोड़ की थैली (capsule) कस जाती है। यह 40 से 70 साल की उम्र में और डायबिटीज़ वालों में ज़्यादा होता है।"
     },
     {
-      "en": "It improves slowly, often over 1–3 years. Exercises help you move better sooner.",
-      "hi": "यह धीरे-धीरे ठीक होता है, अक्सर 1–3 साल में। व्यायाम से हरकत जल्दी बेहतर होती है।"
+      "en": "It improves slowly and can take a long time, sometimes years. Exercises help you move better sooner.",
+      "hi": "यह धीरे-धीरे ठीक होता है और इसमें लंबा समय लग सकता है, कभी-कभी सालों। व्यायाम से हरकत जल्दी बेहतर होती है।"
     }
   ],
   "symptoms": [
@@ -283,8 +283,8 @@
         "hi": "यह हमेशा के लिए जमा रहेगा।"
       },
       "fact": {
-        "en": "It improves slowly, usually within 1–3 years.",
-        "hi": "यह धीरे-धीरे ठीक होता है, आमतौर पर 1–3 साल में।"
+        "en": "It improves slowly. It can take a long time, sometimes years.",
+        "hi": "यह धीरे-धीरे ठीक होता है। इसमें लंबा समय लग सकता है, कभी-कभी सालों।"
       }
     }
   ],
@@ -335,8 +335,8 @@
         "hi": "कितना समय लगेगा?"
       },
       "a": {
-        "en": "Often 1–3 years, but exercises help you move better sooner.",
-        "hi": "अक्सर 1–3 साल, पर व्यायाम से हरकत जल्दी बेहतर होती है।"
+        "en": "It can take a long time, sometimes years, but exercises help you move better sooner.",
+        "hi": "इसमें लंबा समय लग सकता है, कभी-कभी सालों, पर व्यायाम से हरकत जल्दी बेहतर होती है।"
       }
     },
     {
@@ -353,8 +353,8 @@
   "recovery": {
     "expect": [
       {
-        "en": "Frozen shoulder improves slowly, often over 1–3 years, in stages. Daily exercises are the most important part.",
-        "hi": "जमा हुआ कंधा धीरे-धीरे, अक्सर 1–3 साल में, कई चरणों में ठीक होता है। रोज़ के व्यायाम सबसे ज़रूरी हैं।"
+        "en": "Frozen shoulder improves slowly and can take a long time, sometimes years. Daily exercises are the most important part.",
+        "hi": "जमा हुआ कंधा धीरे-धीरे ठीक होता है और इसमें लंबा समय लग सकता है, कभी-कभी सालों। रोज़ के व्यायाम सबसे ज़रूरी हैं।"
       }
     ],
     "revisit": [

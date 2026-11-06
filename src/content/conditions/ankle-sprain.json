@@ -8,8 +8,8 @@
       "hi": "टखने में मोच (Ankle Sprain) यानी पैर मुड़ने से टखने के लिगामेंट (ligament) में खिंचाव या हल्की फटन।"
     },
     {
-      "en": "Most sprains heal well in 2–6 weeks with early care and exercises.",
-      "hi": "ज़्यादातर मोच सही देखभाल और व्यायाम से 2–6 हफ़्ते में ठीक हो जाती है।"
+      "en": "Most sprains heal well within about 4–6 weeks with early care and exercises.",
+      "hi": "ज़्यादातर मोच सही देखभाल और व्यायाम से लगभग 4–6 हफ़्ते में ठीक हो जाती है।"
     }
   ],
   "symptoms": [
@@ -347,8 +347,8 @@
   "recovery": {
     "expect": [
       {
-        "en": "Most sprains heal in 2–6 weeks. Severe ones take longer. Keep doing the exercises, because a weak ankle can sprain again.",
-        "hi": "ज़्यादातर मोच 2–6 हफ़्ते में ठीक होती है। गंभीर मोच में ज़्यादा समय लगता है। व्यायाम जारी रखें, क्योंकि कमज़ोर टखना दोबारा मुड़ सकता है।"
+        "en": "Most sprains heal within about 4–6 weeks. Severe ones take longer. Keep doing the exercises, because a weak ankle can sprain again.",
+        "hi": "ज़्यादातर मोच लगभग 4–6 हफ़्ते में ठीक होती है। गंभीर मोच में ज़्यादा समय लगता है। व्यायाम जारी रखें, क्योंकि कमज़ोर टखना दोबारा मुड़ सकता है।"
       }
     ],
     "revisit": [
