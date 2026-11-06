@@ -1,0 +1,283 @@
+{
+  "slug": "flat-foot",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Flat foot means the inner arch of the foot is low or not visible when you stand. In most people it is flexible: the arch appears when you sit, or stand on your toes.",
+      "hi": "चपटे पैर (Flat Foot) में खड़े होने पर पैर के अंदर की तरफ़ का आर्च नीचा होता है या दिखता नहीं। ज़्यादातर लोगों में यह लचीला होता है: बैठने पर या पंजों पर खड़े होने पर आर्च दिखने लगता है।"
+    },
+    {
+      "en": "It is usually painless and needs no treatment. Treatment is needed only if the foot hurts.",
+      "hi": "यह आमतौर पर दर्द-रहित होता है और इसके इलाज की ज़रूरत नहीं होती। इलाज तभी चाहिए जब पैर में दर्द हो।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Low or flat arch when standing",
+      "hi": "खड़े होने पर आर्च नीचा या सपाट"
+    },
+    {
+      "en": "Arch appears when you sit or stand on your toes (flexible flat foot)",
+      "hi": "बैठने या पंजों पर खड़े होने पर आर्च दिखना (लचीला चपटा पैर)"
+    },
+    {
+      "en": "Often no pain at all",
+      "hi": "अक्सर बिल्कुल दर्द नहीं"
+    },
+    {
+      "en": "Some people have aching or tiredness in the foot after long standing or walking",
+      "hi": "कुछ लोगों को देर तक खड़े रहने या चलने के बाद पैर में दर्द या थकान"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Normal foot shape. Most children have flat feet before age 3. Arches usually form by about age 8, but about 1 in 5 people never develop one, and that is their normal shape.",
+      "hi": "पैर की सामान्य बनावट। ज़्यादातर बच्चों के पैर 3 साल से पहले चपटे होते हैं। आर्च आमतौर पर लगभग 8 साल तक बन जाता है, पर करीब 5 में से 1 व्यक्ति में नहीं बनता, और यही उनकी सामान्य बनावट होती है।"
+    },
+    {
+      "en": "Loose joints, or a family history of flat feet",
+      "hi": "ढीले जोड़, या परिवार में चपटे पैर"
+    },
+    {
+      "en": "In adults, a strained or weak tendon on the inner side of the ankle can make the arch fall",
+      "hi": "बड़ों में, टखने के अंदर की तरफ़ की नस (tendon) में खिंचाव या कमज़ोरी से आर्च बैठ सकता है"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "If there is no pain",
+          "hi": "अगर दर्द नहीं है"
+        },
+        "text": {
+          "en": "No treatment is needed.",
+          "hi": "इलाज की ज़रूरत नहीं है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Arch support insoles",
+          "hi": "आर्च सपोर्ट इनसोल"
+        },
+        "text": {
+          "en": "They can ease foot pain and tiredness, but they do not create an arch. Ready-made insoles often work as well as custom ones.",
+          "hi": "ये पैर का दर्द और थकान कम कर सकते हैं, पर आर्च नहीं बनाते। रेडीमेड इनसोल अक्सर कस्टम इनसोल जितना ही काम करते हैं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Stretching",
+          "hi": "स्ट्रेचिंग"
+        },
+        "text": {
+          "en": "A calf stretch, if your doctor finds the heel cord tight.",
+          "hi": "अगर डॉक्टर को एड़ी की नस (heel cord) कसी लगे तो पिंडली की स्ट्रेचिंग।"
+        }
+      },
+      {
+        "title": {
+          "en": "Adults with a new painful, flattening foot",
+          "hi": "बड़ों में नया दर्द वाला, धीरे-धीरे चपटा होता पैर"
+        },
+        "text": {
+          "en": "This can be a tendon problem. It needs early assessment. Treatment may include a brace or insole, a boot, and physiotherapy.",
+          "hi": "यह नस की समस्या हो सकती है। इसकी जांच जल्दी करानी चाहिए। इलाज में ब्रेस या इनसोल, बूट और फिज़ियोथेरेपी हो सकती है।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Surgery is rarely needed. Your treatment depends on your check-up.",
+      "hi": "ऑपरेशन की बहुत कम ज़रूरत पड़ती है। आपका इलाज आपकी जांच पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Wear comfortable shoes that suit your feet.",
+      "hi": "आरामदायक चप्पल-जूते पहनें जो आपके पैर के माफ़िक हों।"
+    },
+    {
+      "en": "If your feet ache, ask your doctor about arch support insoles.",
+      "hi": "पैर में दर्द हो तो आर्च सपोर्ट इनसोल के बारे में डॉक्टर से पूछें।"
+    },
+    {
+      "en": "Stay active. Flexible flat foot usually does not stop walking or sports.",
+      "hi": "चलते-फिरते और सक्रिय रहें। लचीला चपटा पैर आमतौर पर चलने या खेलने में रुकावट नहीं बनता।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not expect exercises or insoles to create an arch.",
+      "hi": "यह उम्मीद न रखें कि व्यायाम या इनसोल से आर्च बन जाएगा।"
+    },
+    {
+      "en": "Do not buy costly custom insoles without your doctor's advice.",
+      "hi": "डॉक्टर की सलाह के बिना महंगे कस्टम इनसोल न खरीदें।"
+    },
+    {
+      "en": "Do not ignore new pain or swelling on the inner side of the ankle, or an arch that keeps flattening.",
+      "hi": "टखने के अंदर की तरफ़ नया दर्द या सूजन, या आर्च का लगातार चपटा होते जाना, नज़रअंदाज़ न करें।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do this only if your doctor says so. A gentle stretch is fine. Stop if the pain increases.",
+    "hi": "यह व्यायाम तभी करें जब डॉक्टर कहें। हल्का खिंचाव ठीक है। दर्द बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "calf-stretch",
+      "title": {
+        "en": "Calf Stretch",
+        "hi": "पिंडली का खिंचाव (Calf Stretch)"
+      },
+      "reps": {
+        "en": "Hold 15–30 seconds, 3 times on each leg",
+        "hi": "15–30 सेकंड रुकें, हर पैर से 3 बार"
+      },
+      "start": {
+        "en": "Stand facing a wall with your hands on the wall.",
+        "hi": "दीवार की ओर मुंह करके खड़े हों, हाथ दीवार पर।"
+      },
+      "steps": [
+        {
+          "en": "Step one foot back. Keep the back knee straight and the heel pressed down. Bend the front knee.",
+          "hi": "एक पैर पीछे रखें। पीछे वाला घुटना सीधा और एड़ी ज़मीन पर दबी रखें। आगे वाला घुटना मोड़ें।"
+        },
+        {
+          "en": "Lean forward until you feel a stretch in the calf of the back leg.",
+          "hi": "पीछे वाले पैर की पिंडली में खिंचाव महसूस होने तक आगे झुकें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep the heel on the floor. Do not bounce.",
+          "hi": "एड़ी ज़मीन पर रखें। झटके न दें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Every flat foot needs treatment.",
+        "hi": "हर चपटे पैर का इलाज करना पड़ता है।"
+      },
+      "fact": {
+        "en": "If the foot is flexible and painless, no treatment is needed.",
+        "hi": "अगर पैर लचीला और दर्द-रहित है, तो इलाज की ज़रूरत नहीं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Exercises or insoles will build an arch.",
+        "hi": "व्यायाम या इनसोल से आर्च बन जाएगा।"
+      },
+      "fact": {
+        "en": "They do not create an arch, but they may ease pain or tiredness.",
+        "hi": "इनसे आर्च नहीं बनता, पर दर्द या थकान कम हो सकती है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "A child with flat feet will never get an arch.",
+        "hi": "चपटे पैर वाले बच्चे का आर्च कभी नहीं बनेगा।"
+      },
+      "fact": {
+        "en": "Arches usually form by about age 8. About 1 in 5 people never get one, and that is their normal foot shape.",
+        "hi": "आर्च आमतौर पर लगभग 8 साल तक बन जाता है। करीब 5 में से 1 व्यक्ति में नहीं बनता, और यही उनके पैर की सामान्य बनावट है।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Foot or ankle red, hot and swollen, with fever",
+        "hi": "पैर या टखना लाल, गर्म और सूजा हुआ, साथ में बुखार"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Foot pain, or your feet limit your activity",
+        "hi": "पैर में दर्द, या पैर की वजह से गतिविधि सीमित होना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Only one foot is flat",
+        "hi": "सिर्फ़ एक पैर चपटा हो"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "The arch does not appear when you sit or stand on your toes (a stiff flat foot)",
+        "hi": "बैठने या पंजों पर खड़े होने पर भी आर्च न दिखे (अकड़ा हुआ चपटा पैर)"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Adults: new pain or swelling on the inner side of the ankle, the arch slowly flattening, or difficulty rising on your toes",
+        "hi": "बड़ों में: टखने के अंदर की तरफ़ नया दर्द या सूजन, आर्च धीरे-धीरे चपटा होना, या पंजों पर उठने में दिक्कत"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Does my child need treatment?",
+        "hi": "क्या मेरे बच्चे को इलाज चाहिए?"
+      },
+      "a": {
+        "en": "Flexible flat feet in children do not need treatment. See a doctor if there is pain, limited activity, or only one foot is flat.",
+        "hi": "बच्चों में लचीले चपटे पैर को इलाज की ज़रूरत नहीं होती। दर्द हो, गतिविधि सीमित हो, या सिर्फ़ एक पैर चपटा हो तो डॉक्टर को दिखाएं।"
+      }
+    },
+    {
+      "q": {
+        "en": "Do I need insoles?",
+        "hi": "क्या मुझे इनसोल चाहिए?"
+      },
+      "a": {
+        "en": "Only if your feet hurt or tire easily. Ready-made arch supports often work as well as custom ones. Ask your doctor.",
+        "hi": "सिर्फ़ तब, जब पैर में दर्द हो या जल्दी थकान हो। रेडीमेड आर्च सपोर्ट अक्सर कस्टम जितना ही काम करते हैं। डॉक्टर से पूछें।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I play sports?",
+        "hi": "क्या मैं खेल सकता हूं?"
+      },
+      "a": {
+        "en": "Usually yes. Flexible flat foot is usually painless and does not get in the way of walking or sports.",
+        "hi": "आमतौर पर हां। लचीला चपटा पैर आमतौर पर दर्द-रहित होता है और चलने या खेलने में रुकावट नहीं बनता।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "For many people flat feet are just their normal foot shape. If it is painless, no treatment is needed, and many adults with flat feet have no long-term problems.",
+        "hi": "कई लोगों के लिए चपटे पैर बस उनके पैर की सामान्य बनावट है। दर्द न हो तो इलाज की ज़रूरत नहीं, और चपटे पैर वाले कई बड़ों को लंबे समय तक कोई समस्या नहीं होती।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Foot pain starts, or your feet limit your activity.",
+        "hi": "पैर में दर्द शुरू हो, या पैर की वजह से गतिविधि सीमित हो।"
+      },
+      {
+        "en": "Only one foot is flat, or the foot becomes stiff.",
+        "hi": "सिर्फ़ एक पैर चपटा हो, या पैर अकड़ जाए।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी ख़तरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}

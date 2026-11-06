@@ -1,0 +1,321 @@
+{
+  "slug": "de-quervains-tenosynovitis",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "De Quervain's is pain on the thumb side of the wrist. The tendons that move the thumb run through a small tunnel. When the tunnel thickens and narrows, the tendons get irritated.",
+      "hi": "डी क्वेरवेन (De Quervain's) यानी कलाई में अंगूठे की तरफ़ का दर्द। अंगूठा हिलाने वाली नसें (tendons) एक छोटी सुरंग से गुज़रती हैं। जब यह सुरंग मोटी और तंग हो जाती है, तो नसों में जलन होती है।"
+    },
+    {
+      "en": "It is linked to repeated thumb and wrist movements. It is also seen in new mothers.",
+      "hi": "यह अंगूठे और कलाई की बार-बार की हरकत से जुड़ा है। नई माताओं में भी देखा जाता है।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Pain and swelling on the thumb side of the wrist",
+      "hi": "कलाई में अंगूठे की तरफ़ दर्द और सूजन"
+    },
+    {
+      "en": "More pain on gripping, pinching or twisting",
+      "hi": "पकड़ने, चुटकी भरने या मरोड़ने पर दर्द ज़्यादा"
+    },
+    {
+      "en": "Pain and difficulty gripping with the thumb",
+      "hi": "अंगूठे से पकड़ने में दर्द और दिक्कत"
+    },
+    {
+      "en": "A grating or catching feeling when the thumb moves",
+      "hi": "अंगूठा हिलाने पर रगड़ या अटकने जैसा एहसास"
+    },
+    {
+      "en": "It usually starts slowly",
+      "hi": "यह आमतौर पर धीरे-धीरे शुरू होता है"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Repeated pinching, gripping or thumb and wrist movements, like writing, carrying boxes, turning keys or making the bed",
+      "hi": "बार-बार चुटकी भरना, पकड़ना या अंगूठे-कलाई की हरकत, जैसे लिखना, डिब्बे उठाना, चाबी घुमाना या बिस्तर लगाना"
+    },
+    {
+      "en": "New mothers, usually starting a month or two after delivery",
+      "hi": "नई माताएं, आमतौर पर प्रसव के एक-दो महीने बाद शुरू होता है"
+    },
+    {
+      "en": "Sometimes the cause is not clear",
+      "hi": "कभी-कभी वजह साफ़ नहीं होती"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Rest",
+          "hi": "आराम"
+        },
+        "text": {
+          "en": "Rest the thumb and wrist from the movements that cause pain. A cold pack can help.",
+          "hi": "जिन हरकतों से दर्द हो, उनसे अंगूठे और कलाई को आराम दें। ठंडी सेक मदद कर सकती है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Splint",
+          "hi": "स्प्लिंट"
+        },
+        "text": {
+          "en": "A splint holds the wrist and thumb still. It may be needed for 4–6 weeks. Pain often returns if the splint is removed too early.",
+          "hi": "स्प्लिंट कलाई और अंगूठे को स्थिर रखता है। यह 4–6 हफ़्ते तक चाहिए हो सकता है। स्प्लिंट जल्दी हटाने पर दर्द अक्सर लौट आता है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
+        "text": {
+          "en": "Pain relievers or anti-inflammatory medicines, only as your doctor advises.",
+          "hi": "दर्द की या सूजन घटाने वाली दवाइयां, सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Injection",
+          "hi": "इंजेक्शन"
+        },
+        "text": {
+          "en": "A steroid injection into the tendon tunnel can help when pain is moderate or severe. Your doctor will decide.",
+          "hi": "अगर दर्द मध्यम या तेज़ है, तो नस की सुरंग में स्टेरॉइड इंजेक्शन से फ़ायदा हो सकता है। डॉक्टर तय करेंगे।"
+        }
+      },
+      {
+        "title": {
+          "en": "Surgery",
+          "hi": "ऑपरेशन"
+        },
+        "text": {
+          "en": "Only if other treatments do not work. It opens the tunnel to give the tendons more room.",
+          "hi": "सिर्फ़ तब, जब बाकी इलाज से आराम न मिले। इसमें सुरंग खोलकर नसों को ज़्यादा जगह दी जाती है।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up.",
+      "hi": "आपका इलाज आपकी जांच पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Rest the thumb and wrist from painful movements.",
+      "hi": "दर्द वाली हरकतों से अंगूठे और कलाई को आराम दें।"
+    },
+    {
+      "en": "Wear the splint as your doctor or therapist advises.",
+      "hi": "डॉक्टर या थेरेपिस्ट के बताए अनुसार स्प्लिंट पहनें।"
+    },
+    {
+      "en": "Use a cold pack wrapped in a cloth for 10–15 minutes if the wrist is sore.",
+      "hi": "कलाई में दर्द हो तो कपड़े में लपेटा कोल्ड पैक 10–15 मिनट लगाएं।"
+    },
+    {
+      "en": "Keep your fingers, elbow and shoulder moving.",
+      "hi": "उंगलियां, कोहनी और कंधा हिलाते रहें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not keep gripping hard, pinching or twisting with the thumb.",
+      "hi": "अंगूठे से ज़ोर से पकड़ना, चुटकी भरना या मरोड़ना बार-बार न करें।"
+    },
+    {
+      "en": "Do not remove the splint too early. The pain often comes back.",
+      "hi": "स्प्लिंट जल्दी न हटाएं। दर्द अक्सर लौट आता है।"
+    },
+    {
+      "en": "Do not ignore pain that keeps getting worse.",
+      "hi": "बढ़ते जाते दर्द को नज़रअंदाज़ न करें।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "These keep the free joints moving. Keep the wrist and thumb still. Start wrist and thumb exercises only if your doctor or therapist advises.",
+    "hi": "ये खुले जोड़ों को चलाते रहते हैं। कलाई और अंगूठा स्थिर रखें। कलाई और अंगूठे के व्यायाम तभी शुरू करें जब डॉक्टर या थेरेपिस्ट कहें।"
+  },
+  "exercises": [
+    {
+      "id": "finger-bend",
+      "title": {
+        "en": "Open and Close the Fingers",
+        "hi": "उंगलियां खोलना और बंद करना"
+      },
+      "reps": {
+        "en": "10 times, a few times a day",
+        "hi": "10 बार, दिन में कुछ बार"
+      },
+      "start": {
+        "en": "Sit with your forearm resting on a table. Keep the wrist and thumb still.",
+        "hi": "बैठें और बांह मेज़ पर टिकाएं। कलाई और अंगूठा स्थिर रखें।"
+      },
+      "steps": [
+        {
+          "en": "Open your fingers wide.",
+          "hi": "उंगलियां पूरी खोलें।"
+        },
+        {
+          "en": "Close them gently into a soft fist. Repeat.",
+          "hi": "उन्हें हल्के से धीरे-धीरे मुट्ठी में बंद करें। दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Move gently. Stop if the pain increases.",
+          "hi": "हल्के से करें। दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "elbow-bend",
+      "title": {
+        "en": "Elbow Bend and Straighten",
+        "hi": "कोहनी मोड़ना और सीधा करना"
+      },
+      "reps": {
+        "en": "10 times, a few times a day",
+        "hi": "10 बार, दिन में कुछ बार"
+      },
+      "start": {
+        "en": "Sit with the arm hanging relaxed. Keep the wrist and thumb still.",
+        "hi": "बैठें और हाथ ढीला लटकने दें। कलाई और अंगूठा स्थिर रखें।"
+      },
+      "steps": [
+        {
+          "en": "Bend the elbow so the hand comes towards the shoulder.",
+          "hi": "कोहनी मोड़कर हाथ को कंधे की ओर लाएं।"
+        },
+        {
+          "en": "Straighten it slowly. Repeat.",
+          "hi": "धीरे से सीधा करें। दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not twist the wrist. Stop if the pain increases.",
+          "hi": "कलाई को न मरोड़ें। दर्द बढ़े तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Only new mothers get it.",
+        "hi": "यह सिर्फ़ नई माताओं को होता है।"
+      },
+      "fact": {
+        "en": "It affects people of all ages and anyone who repeats thumb and wrist movements often.",
+        "hi": "यह हर उम्र के लोगों को हो सकता है, खासकर उन्हें जो अंगूठे और कलाई की हरकत बार-बार करते हैं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "A splint cures it for good.",
+        "hi": "स्प्लिंट से यह हमेशा के लिए ठीक हो जाता है।"
+      },
+      "fact": {
+        "en": "A splint helps, but pain often returns when it is removed. Sometimes an injection or other treatment is needed.",
+        "hi": "स्प्लिंट से आराम मिलता है, पर हटाने पर दर्द अक्सर लौट आता है। कभी-कभी इंजेक्शन या दूसरा इलाज चाहिए होता है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "It always needs surgery.",
+        "hi": "इसमें हमेशा ऑपरेशन करना पड़ता है।"
+      },
+      "fact": {
+        "en": "Surgery is only for people whose pain does not settle with other treatment.",
+        "hi": "ऑपरेशन सिर्फ़ उन्हें चाहिए जिनका दर्द बाकी इलाज से ठीक न हो।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Wrist or hand red, hot and swollen, with fever",
+        "hi": "कलाई या हाथ लाल, गर्म और सूजा हुआ, साथ में बुखार"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Wrist pain after a fall or injury",
+        "hi": "गिरने या चोट के बाद कलाई में दर्द"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Numbness or tingling in the thumb or fingers",
+        "hi": "अंगूठे या उंगलियों में सुन्नपन या झुनझुनी"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain not better after 4–6 weeks of rest and splint, or it keeps getting worse",
+        "hi": "4–6 हफ़्ते आराम और स्प्लिंट के बाद भी आराम न मिलना, या दर्द बढ़ते जाना"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray or MRI?",
+        "hi": "क्या मुझे एक्स-रे (X-ray) या एमआरआई (MRI) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Usually your doctor can tell by examining the wrist and thumb. Your doctor will decide.",
+        "hi": "आमतौर पर डॉक्टर कलाई और अंगूठे की जांच से ही पहचान लेते हैं। डॉक्टर तय करेंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "How long will I wear the splint?",
+        "hi": "स्प्लिंट कितने समय पहनना होगा?"
+      },
+      "a": {
+        "en": "It may be 4–6 weeks. Your doctor or therapist will guide you.",
+        "hi": "यह 4–6 हफ़्ते हो सकता है। डॉक्टर या थेरेपिस्ट आपको बताएंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "Will I need an injection?",
+        "hi": "क्या इंजेक्शन लगवाना पड़ेगा?"
+      },
+      "a": {
+        "en": "Sometimes, if pain is moderate or severe, or you cannot wear a splint. Your doctor will decide.",
+        "hi": "कभी-कभी, अगर दर्द मध्यम या तेज़ हो, या आप स्प्लिंट न पहन पाएं। डॉक्टर तय करेंगे।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Most people improve over time with rest, a splint and treatment. If pain does not settle, an injection or surgery may be needed.",
+        "hi": "ज़्यादातर लोग आराम, स्प्लिंट और इलाज से समय के साथ ठीक हो जाते हैं। दर्द न जाए तो इंजेक्शन या ऑपरेशन की ज़रूरत पड़ सकती है।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after 4–6 weeks, or is getting worse.",
+        "hi": "4–6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी ख़तरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}

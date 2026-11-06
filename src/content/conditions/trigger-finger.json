@@ -1,0 +1,306 @@
+{
+  "slug": "trigger-finger",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Trigger finger is a painful condition where a finger gets stuck in a bent position. Swelling narrows the sheath around the tendon, so the tendon cannot glide smoothly.",
+      "hi": "उंगली अटकना (Trigger Finger) यानी वह दर्द भरी समस्या जिसमें उंगली मुड़ी हुई स्थिति में अटक जाती है। सूजन से नस (tendon) की म्यान तंग हो जाती है, इसलिए नस आराम से सरक नहीं पाती।"
+    },
+    {
+      "en": "It is not life-threatening. Many people improve with simple treatment.",
+      "hi": "यह जानलेवा नहीं है। कई लोग आसान इलाज से ठीक हो जाते हैं।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Soreness at the base of the finger, often first",
+      "hi": "उंगली की जड़ में दर्द, अक्सर सबसे पहले"
+    },
+    {
+      "en": "A click or snap when the finger bends or straightens",
+      "hi": "उंगली मोड़ने या सीधा करने पर खटक या झटका"
+    },
+    {
+      "en": "The finger may lock in a bent or straight position",
+      "hi": "उंगली मुड़ी या सीधी स्थिति में लॉक हो सकती है"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Repeated gripping, for example in farmers, musicians and factory workers",
+      "hi": "बार-बार पकड़ना, जैसे किसान, संगीतकार और फ़ैक्ट्री के कामगारों में"
+    },
+    {
+      "en": "More common in women and in people with diabetes",
+      "hi": "महिलाओं और डायबिटीज़ वालों में ज़्यादा होता है"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Rest and splint",
+          "hi": "आराम और स्प्लिंट"
+        },
+        "text": {
+          "en": "Rest from repeated gripping. A splint can hold the finger straight to rest it, for mild cases.",
+          "hi": "बार-बार पकड़ने से आराम दें। हल्के मामलों में स्प्लिंट उंगली को सीधा रखकर आराम देता है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
+        "text": {
+          "en": "Pain relievers such as ibuprofen or naproxen may ease pain, only as your doctor advises.",
+          "hi": "इबुप्रोफ़ेन या नेप्रोक्सन जैसी दर्द की दवाइयां दर्द कम कर सकती हैं, सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Steroid injection",
+          "hi": "स्टेरॉइड इंजेक्शन"
+        },
+        "text": {
+          "en": "An injection near the tendon sheath can reduce swelling. It often works for more than a year. A second injection is sometimes needed.",
+          "hi": "नस की म्यान के पास इंजेक्शन से सूजन कम हो सकती है। यह अक्सर एक साल से ज़्यादा असर करता है। कभी-कभी दूसरा इंजेक्शन चाहिए होता है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Procedure or surgery",
+          "hi": "प्रक्रिया या ऑपरेशन"
+        },
+        "text": {
+          "en": "A small needle procedure or a small cut to open the narrow part of the sheath. It is advised for severe cases, or to prevent permanent stiffness.",
+          "hi": "एक छोटी सुई की प्रक्रिया, या म्यान का तंग हिस्सा खोलने के लिए छोटा चीरा। यह गंभीर मामलों में, या हमेशा की अकड़न रोकने के लिए सुझाया जाता है।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up.",
+      "hi": "आपका इलाज आपकी जांच पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Rest the hand from repeated gripping.",
+      "hi": "बार-बार पकड़ने वाले कामों से हाथ को आराम दें।"
+    },
+    {
+      "en": "Use padded gloves if you must use vibrating tools.",
+      "hi": "कंपन वाले औज़ार इस्तेमाल करने ही पड़ें तो पैडेड दस्ताने पहनें।"
+    },
+    {
+      "en": "Wear the splint if your doctor advises.",
+      "hi": "डॉक्टर कहें तो स्प्लिंट पहनें।"
+    },
+    {
+      "en": "Do gentle finger stretches to keep the finger moving.",
+      "hi": "उंगली चलती रहे, इसके लिए हल्की स्ट्रेचिंग करें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not keep gripping hard or using vibrating tools without padding.",
+      "hi": "बार-बार ज़ोर से न पकड़ें, और बिना पैडिंग के कंपन वाले औज़ार इस्तेमाल न करें।"
+    },
+    {
+      "en": "Do not wait if the finger keeps locking. Severe cases may need a procedure to prevent permanent stiffness.",
+      "hi": "उंगली बार-बार लॉक हो तो इंतज़ार न करें। गंभीर मामलों में हमेशा की अकड़न रोकने के लिए प्रक्रिया चाहिए हो सकती है।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so. They are gentle stretches to keep the finger moving. Stop if the pain increases.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। ये उंगली को चलती रखने वाली हल्की स्ट्रेचिंग हैं। दर्द बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "finger-stretch",
+      "title": {
+        "en": "Gentle Finger Stretch",
+        "hi": "उंगली का हल्का खिंचाव"
+      },
+      "reps": {
+        "en": "Hold 10 seconds, 5 times, a few times a day",
+        "hi": "10 सेकंड रुकें, 5 बार, दिन में कुछ बार"
+      },
+      "start": {
+        "en": "Rest your hand on a table, palm up.",
+        "hi": "हाथ मेज़ पर रखें, हथेली ऊपर।"
+      },
+      "steps": [
+        {
+          "en": "With your other hand, gently straighten the affected finger as far as is comfortable.",
+          "hi": "दूसरे हाथ से प्रभावित उंगली को हल्के से जितना आराम से हो उतना सीधा करें।"
+        },
+        {
+          "en": "Hold, then relax.",
+          "hi": "रुकें, फिर आराम करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not force a stuck finger straight. Stop if the pain is sharp.",
+          "hi": "अटकी उंगली को ज़बरदस्ती सीधा न करें। तेज़ दर्द हो तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "finger-fist",
+      "title": {
+        "en": "Open and Close the Hand",
+        "hi": "हाथ खोलना और बंद करना"
+      },
+      "reps": {
+        "en": "10 times, a few times a day",
+        "hi": "10 बार, दिन में कुछ बार"
+      },
+      "start": {
+        "en": "Sit with your hand resting on a table.",
+        "hi": "बैठें और हाथ मेज़ पर रखें।"
+      },
+      "steps": [
+        {
+          "en": "Slowly close your fingers into a soft fist.",
+          "hi": "उंगलियों को धीरे-धीरे हल्की मुट्ठी में बंद करें।"
+        },
+        {
+          "en": "Slowly open and straighten them. Repeat.",
+          "hi": "धीरे से खोलकर सीधा करें। दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Go slowly, only as far as is comfortable. Stop if the finger locks or the pain increases.",
+          "hi": "धीरे करें, सिर्फ़ जितना आराम से हो। उंगली लॉक हो या दर्द बढ़े तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Trigger finger is dangerous.",
+        "hi": "उंगली अटकना खतरनाक है।"
+      },
+      "fact": {
+        "en": "It is painful but not life-threatening.",
+        "hi": "यह दर्द भरा है, पर जानलेवा नहीं है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "It always needs surgery.",
+        "hi": "इसमें हमेशा ऑपरेशन करना पड़ता है।"
+      },
+      "fact": {
+        "en": "Rest, a splint, medicines and injections are usually tried first.",
+        "hi": "आमतौर पर पहले आराम, स्प्लिंट, दवाइयां और इंजेक्शन आज़माए जाते हैं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "One injection cures it for ever.",
+        "hi": "एक इंजेक्शन से हमेशा के लिए ठीक हो जाता है।"
+      },
+      "fact": {
+        "en": "An injection often works for more than a year, but a second one is sometimes needed.",
+        "hi": "इंजेक्शन अक्सर एक साल से ज़्यादा असर करता है, पर कभी-कभी दूसरा भी चाहिए होता है।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Finger or hand red, hot and swollen, with fever",
+        "hi": "उंगली या हाथ लाल, गर्म और सूजा हुआ, साथ में बुखार"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "The finger is locked and you cannot straighten it",
+        "hi": "उंगली लॉक हो गई है और आप उसे सीधा नहीं कर पा रहे"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain after a fall or injury to the hand",
+        "hi": "हाथ में गिरने या चोट के बाद दर्द"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Numbness or tingling in the finger",
+        "hi": "उंगली में सुन्नपन या झुनझुनी"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Not better after a few weeks of rest and splint, or getting worse",
+        "hi": "कुछ हफ़्ते आराम और स्प्लिंट के बाद भी आराम न मिलना, या बढ़ते जाना"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray?",
+        "hi": "क्या मुझे एक्स-रे (X-ray) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Usually not. Your doctor can tell by taking your history and examining your hand.",
+        "hi": "आमतौर पर नहीं। डॉक्टर आपकी बात सुनकर और हाथ की जांच करके पहचान लेते हैं।"
+      }
+    },
+    {
+      "q": {
+        "en": "Will I need surgery?",
+        "hi": "क्या ऑपरेशन करना पड़ेगा?"
+      },
+      "a": {
+        "en": "Not always. It is advised for severe cases, or to prevent permanent stiffness. Your doctor will decide.",
+        "hi": "हमेशा नहीं। यह गंभीर मामलों में, या हमेशा की अकड़न रोकने के लिए सुझाया जाता है। डॉक्टर तय करेंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "Does diabetes matter?",
+        "hi": "क्या डायबिटीज़ का असर पड़ता है?"
+      },
+      "a": {
+        "en": "Trigger finger is more common in people with diabetes. Tell your doctor if you have diabetes.",
+        "hi": "डायबिटीज़ वालों में उंगली अटकना ज़्यादा होता है। डायबिटीज़ हो तो डॉक्टर को बताएं।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Many people improve with rest, a splint and medicines. If not, an injection or a small procedure helps. An injection often works for more than a year.",
+        "hi": "कई लोग आराम, स्प्लिंट और दवाइयों से ठीक हो जाते हैं। न हों तो इंजेक्शन या छोटी प्रक्रिया से आराम मिलता है। इंजेक्शन अक्सर एक साल से ज़्यादा असर करता है।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after a few weeks, or is getting worse.",
+        "hi": "कुछ हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+      },
+      {
+        "en": "The finger locks.",
+        "hi": "उंगली लॉक हो जाए।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी ख़तरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}
