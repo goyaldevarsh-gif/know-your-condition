@@ -14,6 +14,10 @@ public/img/ankle-sprain/band-exercise.webp
 public/img/ankle-sprain/calf-stretch.webp
 public/img/ankle-sprain/hero.webp
 public/img/ankle-sprain/single-leg-balance.webp
+public/img/carpal-tunnel-syndrome/finger-bend.webp
+public/img/carpal-tunnel-syndrome/hero.webp
+public/img/carpal-tunnel-syndrome/night-splint.webp
+public/img/carpal-tunnel-syndrome/wrist-bend.webp
 public/img/cast-care-lower-limb/hero.webp
 public/img/cast-care-lower-limb/knee-bend.webp
 public/img/cast-care-lower-limb/leg-elevation.webp

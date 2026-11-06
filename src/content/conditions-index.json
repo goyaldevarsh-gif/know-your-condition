@@ -286,5 +286,17 @@
       "en": "Slip disc: back pain with leg pain or numbness",
       "hi": "स्लिप डिस्क: कमर दर्द, साथ में पैर में दर्द या सुन्नपन"
     }
+  },
+  {
+    "slug": "carpal-tunnel-syndrome",
+    "category": "hand-wrist",
+    "name": {
+      "en": "Carpal Tunnel Syndrome",
+      "hi": "कार्पल टनल सिंड्रोम (Carpal Tunnel Syndrome)"
+    },
+    "short": {
+      "en": "Hand numbness and tingling, worse at night",
+      "hi": "हाथ सुन्न होना और झुनझुनी, रात में ज़्यादा"
+    }
   }
 ]
