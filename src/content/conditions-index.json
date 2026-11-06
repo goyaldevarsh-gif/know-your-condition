@@ -178,5 +178,77 @@
       "en": "Looking after a plaster on the leg, ankle or foot.",
       "hi": "टांग, टखने या पैर के प्लास्टर की देखभाल।"
     }
+  },
+  {
+    "slug": "cervical-radiculopathy",
+    "category": "spine-neck",
+    "name": {
+      "en": "Cervical Radiculopathy (Pinched Neck Nerve)",
+      "hi": "गर्दन की नस दबना (Cervical Radiculopathy)"
+    },
+    "short": {
+      "en": "Neck pain with pain, tingling or numbness going down the arm.",
+      "hi": "गर्दन का दर्द, जो बांह में दर्द, झनझनाहट या सुन्नपन के साथ नीचे जाता है।"
+    }
+  },
+  {
+    "slug": "shoulder-impingement",
+    "category": "shoulder-elbow",
+    "name": {
+      "en": "Shoulder Impingement",
+      "hi": "कंधे में नस का दबना (Shoulder Impingement)"
+    },
+    "short": {
+      "en": "Pain at the front or side of the shoulder when lifting the arm.",
+      "hi": "हाथ ऊपर उठाने पर कंधे के आगे या बगल में दर्द।"
+    }
+  },
+  {
+    "slug": "de-quervains-tenosynovitis",
+    "category": "hand-wrist",
+    "name": {
+      "en": "De Quervain's Tenosynovitis",
+      "hi": "अंगूठे की तरफ़ कलाई का दर्द (De Quervain's)"
+    },
+    "short": {
+      "en": "Pain at the thumb side of the wrist, worse with gripping and lifting.",
+      "hi": "कलाई में अंगूठे की तरफ़ दर्द, पकड़ने और उठाने पर ज़्यादा।"
+    }
+  },
+  {
+    "slug": "trigger-finger",
+    "category": "hand-wrist",
+    "name": {
+      "en": "Trigger Finger",
+      "hi": "उंगली अटकना (Trigger Finger)"
+    },
+    "short": {
+      "en": "A finger that catches or locks when you bend it.",
+      "hi": "उंगली मोड़ने पर अटकना या लॉक हो जाना।"
+    }
+  },
+  {
+    "slug": "acl-pcl-injury",
+    "category": "knee-hip",
+    "name": {
+      "en": "ACL / PCL Injury",
+      "hi": "घुटने के लिगामेंट की चोट (ACL / PCL Injury)"
+    },
+    "short": {
+      "en": "Knee injury with swelling and a feeling of giving way.",
+      "hi": "घुटने की चोट, सूजन और घुटना धोखा देने का एहसास।"
+    }
+  },
+  {
+    "slug": "flat-foot",
+    "category": "foot-ankle",
+    "name": {
+      "en": "Flat Foot",
+      "hi": "चपटा पैर (Flat Foot)"
+    },
+    "short": {
+      "en": "Low or no arch in the foot, sometimes with foot or leg pain.",
+      "hi": "पैर में आर्च कम या नहीं, कभी-कभी पैर या पिंडली में दर्द।"
+    }
   }
 ]
