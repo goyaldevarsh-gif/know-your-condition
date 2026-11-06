@@ -8,8 +8,8 @@
       "hi": "कमर से पैर तक जाने वाला दर्द (Sciatica) यानी कमर या कूल्हे से पैर तक उतरने वाला दर्द। यह कमर की नस (nerve) पर दबाव या जलन से होता है, अक्सर डिस्क (disc) की वजह से।"
     },
     {
-      "en": "Most people improve in 6–12 weeks without surgery.",
-      "hi": "ज़्यादातर लोग 6–12 हफ़्ते में बिना ऑपरेशन ठीक हो जाते हैं।"
+      "en": "Most people improve over a few weeks to a few months, without surgery.",
+      "hi": "ज़्यादातर लोग कुछ हफ़्तों से कुछ महीनों में बिना ऑपरेशन ठीक हो जाते हैं।"
     }
   ],
   "symptoms": [
@@ -293,8 +293,8 @@
     {
       "level": "emergency",
       "title": {
-        "en": "Sudden weakness in the leg, or you cannot lift your foot",
-        "hi": "पैर में अचानक कमज़ोरी, या पंजा उठा न पाना"
+        "en": "Sudden weakness in the leg, you cannot lift your foot, or pain or numbness in both legs",
+        "hi": "पैर में अचानक कमज़ोरी, पंजा उठा न पाना, या दोनों पैरों में दर्द या सुन्नपन"
       }
     },
     {
@@ -336,8 +336,8 @@
         "hi": "ठीक होने में कितना समय लगेगा?"
       },
       "a": {
-        "en": "Most people improve in 6–12 weeks.",
-        "hi": "ज़्यादातर लोग 6–12 हफ़्ते में ठीक हो जाते हैं।"
+        "en": "Usually a few weeks to a few months. It can last longer or come back.",
+        "hi": "आमतौर पर कुछ हफ़्तों से कुछ महीनों में। यह ज़्यादा समय भी ले सकता है या वापस आ सकता है।"
       }
     },
     {
@@ -354,14 +354,14 @@
   "recovery": {
     "expect": [
       {
-        "en": "Most people improve in 6–12 weeks. Stay active and keep exercising so it does not come back.",
-        "hi": "ज़्यादातर लोग 6–12 हफ़्ते में ठीक होते हैं। चलते-फिरते रहें और व्यायाम जारी रखें, ताकि दर्द वापस न आए।"
+        "en": "Sciatica usually gets better in a few weeks to a few months. It can last longer or come back, so stay active and keep exercising.",
+        "hi": "साइटिका आमतौर पर कुछ हफ़्तों से कुछ महीनों में ठीक होता है। यह ज़्यादा समय भी ले सकता है या वापस आ सकता है, इसलिए चलते-फिरते रहें और व्यायाम जारी रखें।"
       }
     ],
     "revisit": [
       {
-        "en": "Pain is not better after 4–6 weeks, or is getting worse.",
-        "hi": "4–6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+        "en": "Pain is not better after a few weeks, or is getting worse.",
+        "hi": "कुछ हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
       },
       {
         "en": "The leg feels weaker, or numbness is spreading.",

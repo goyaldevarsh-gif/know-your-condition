@@ -4,8 +4,8 @@
   "heroImage": null,
   "what": [
     {
-      "en": "A cast or slab (plaster) holds a broken bone still so it can heal. Arm, wrist and hand fractures usually need 4–8 weeks.",
-      "hi": "प्लास्टर टूटी हड्डी को स्थिर रखता है ताकि वह जुड़ सके। बांह, कलाई और हाथ की हड्डी को आमतौर पर 4–8 हफ़्ते लगते हैं।"
+      "en": "A cast or slab (plaster) holds a broken bone still so it can heal. A wrist cast is usually worn for about 4–6 weeks, sometimes more or less.",
+      "hi": "प्लास्टर टूटी हड्डी को स्थिर रखता है ताकि वह जुड़ सके। कलाई का प्लास्टर आमतौर पर लगभग 4–6 हफ़्ते रहता है, कभी कम या ज़्यादा भी।"
     },
     {
       "en": "Good cast care and moving the free joints keep your fingers, elbow and shoulder from getting stiff.",
@@ -336,8 +336,8 @@
         "hi": "प्लास्टर कितने दिन रहेगा?"
       },
       "a": {
-        "en": "Usually 4–8 weeks. Your doctor will check with X-rays.",
-        "hi": "आमतौर पर 4–8 हफ़्ते। डॉक्टर एक्स-रे से देखकर बताएंगे।"
+        "en": "For a wrist fracture, usually about 4–6 weeks, sometimes more or less. Your doctor will check with X-rays.",
+        "hi": "कलाई के फ्रैक्चर में आमतौर पर लगभग 4–6 हफ़्ते, कभी कम या ज़्यादा। डॉक्टर एक्स-रे से देखकर बताएंगे।"
       }
     },
     {
@@ -346,16 +346,16 @@
         "hi": "क्या प्लास्टर खुलने के बाद हाथ अकड़ा रहेगा?"
       },
       "a": {
-        "en": "Some stiffness is normal. Exercises and physiotherapy help.",
-        "hi": "थोड़ी अकड़न सामान्य है। व्यायाम और फिज़ियोथेरेपी से आराम मिलता है।"
+        "en": "Some stiffness and weakness is common after the cast. Exercises and physiotherapy help.",
+        "hi": "प्लास्टर के बाद थोड़ी अकड़न और कमज़ोरी आम है। व्यायाम और फिज़ियोथेरेपी से आराम मिलता है।"
       }
     }
   ],
   "recovery": {
     "expect": [
       {
-        "en": "Most arm and hand fractures need 4–8 weeks in a cast. After that, exercises bring back movement and strength over a few more weeks.",
-        "hi": "बांह और हाथ के ज़्यादातर फ्रैक्चर में 4–8 हफ़्ते प्लास्टर रहता है। उसके बाद व्यायाम से कुछ और हफ़्तों में हरकत और ताकत लौटती है।"
+        "en": "A wrist cast is usually worn for about 4–6 weeks, sometimes more or less. After the cast, some stiffness and weakness is common, and exercises help.",
+        "hi": "कलाई का प्लास्टर आमतौर पर लगभग 4–6 हफ़्ते रहता है, कभी कम या ज़्यादा। प्लास्टर के बाद थोड़ी अकड़न और कमज़ोरी आम है, और व्यायाम से आराम मिलता है।"
       }
     ],
     "revisit": [

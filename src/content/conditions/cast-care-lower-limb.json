@@ -4,8 +4,8 @@
   "heroImage": null,
   "what": [
     {
-      "en": "A cast or slab (plaster) holds a broken leg, ankle or foot bone still so it can heal. Leg fractures often need 6–12 weeks.",
-      "hi": "प्लास्टर टूटी टांग, टखने या पैर की हड्डी को स्थिर रखता है ताकि वह जुड़ सके। टांग के फ्रैक्चर में अक्सर 6–12 हफ़्ते लगते हैं।"
+      "en": "A cast or slab (plaster) holds a broken leg, ankle or foot bone still so it can heal. How long it stays depends on the bone. An ankle cast is usually worn for 4–6 weeks.",
+      "hi": "प्लास्टर टूटी टांग, टखने या पैर की हड्डी को स्थिर रखता है ताकि वह जुड़ सके। कितने समय रहेगा, यह हड्डी पर निर्भर है। टखने का प्लास्टर आमतौर पर 4–6 हफ़्ते रहता है।"
     },
     {
       "en": "Your doctor will tell you when you can put weight on the leg. Follow this strictly.",
@@ -346,16 +346,16 @@
         "hi": "प्लास्टर कितने दिन रहेगा?"
       },
       "a": {
-        "en": "Usually 6–12 weeks, depending on the bone. Your doctor will check with X-rays.",
-        "hi": "हड्डी के हिसाब से आमतौर पर 6–12 हफ़्ते। डॉक्टर एक्स-रे से देखकर बताएंगे।"
+        "en": "It depends on the bone. An ankle cast is usually 4–6 weeks. Your doctor will tell you for your fracture and check with X-rays.",
+        "hi": "यह हड्डी पर निर्भर है। टखने का प्लास्टर आमतौर पर 4–6 हफ़्ते का होता है। आपके फ्रैक्चर के लिए डॉक्टर बताएंगे और एक्स-रे से जांच करेंगे।"
       }
     }
   ],
   "recovery": {
     "expect": [
       {
-        "en": "Leg fractures often need 6–12 weeks to heal. After the cast, physiotherapy helps you walk normally again.",
-        "hi": "टांग के फ्रैक्चर को अक्सर 6–12 हफ़्ते लगते हैं। प्लास्टर खुलने के बाद फिज़ियोथेरेपी से दोबारा सामान्य चलना आसान होता है।"
+        "en": "How long the cast stays depends on the bone (an ankle cast is usually 4–6 weeks). After the cast, physiotherapy helps you walk normally again.",
+        "hi": "प्लास्टर कितने समय रहेगा, यह हड्डी पर निर्भर है (टखने का प्लास्टर आमतौर पर 4–6 हफ़्ते)। प्लास्टर खुलने के बाद फिज़ियोथेरेपी से दोबारा सामान्य चलना आसान होता है।"
       }
     ],
     "revisit": [

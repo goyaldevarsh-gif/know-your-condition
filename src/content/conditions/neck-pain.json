@@ -314,6 +314,13 @@
       }
     },
     {
+      "level": "emergency",
+      "title": {
+        "en": "Face drooping on one side, trouble speaking, or you cannot lift both arms",
+        "hi": "चेहरा एक तरफ़ लटकना, बोलने में दिक्कत, या दोनों हाथ उठा न पाना"
+      }
+    },
+    {
       "level": "urgent",
       "title": {
         "en": "Weakness or numbness in arms or hands that keeps worsening, or difficulty walking",
@@ -363,14 +370,14 @@
   "recovery": {
     "expect": [
       {
-        "en": "Most people feel better in a few weeks to months. Keep exercising so the pain does not return.",
-        "hi": "ज़्यादातर लोगों को कुछ हफ़्तों से महीनों में आराम मिलता है। दर्द वापस न आए, इसलिए व्यायाम जारी रखें।"
+        "en": "Treatment usually takes a few weeks to work. The pain can come back, so keep exercising.",
+        "hi": "इलाज का असर आमतौर पर कुछ हफ़्तों में दिखता है। दर्द वापस आ सकता है, इसलिए व्यायाम जारी रखें।"
       }
     ],
     "revisit": [
       {
-        "en": "Pain is not better after 4–6 weeks, or is getting worse.",
-        "hi": "4–6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+        "en": "Pain is not better after a few weeks, or is getting worse.",
+        "hi": "कुछ हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
       },
       {
         "en": "Any warning sign: see a doctor at once.",

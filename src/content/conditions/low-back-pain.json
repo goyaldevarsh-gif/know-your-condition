@@ -360,8 +360,8 @@
   "recovery": {
     "expect": [
       {
-        "en": "Most back pain improves in 2–6 weeks. Keep exercising so it does not come back.",
-        "hi": "ज़्यादातर कमर दर्द 2–6 हफ़्ते में ठीक होता है। दर्द वापस न आए, इसलिए व्यायाम जारी रखें।"
+        "en": "Most back pain improves within a few weeks. Keep exercising so it does not come back.",
+        "hi": "ज़्यादातर कमर दर्द कुछ हफ़्तों में ठीक होता है। दर्द वापस न आए, इसलिए व्यायाम जारी रखें।"
       }
     ],
     "revisit": [
