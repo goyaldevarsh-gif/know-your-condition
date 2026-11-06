@@ -1,0 +1,376 @@
+{
+  "slug": "sciatica",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Sciatica is pain that travels from the lower back or buttock down the leg, often below the knee. It happens when a nerve in the lower back is pressed or irritated, often by a disc.",
+      "hi": "कमर से पैर तक जाने वाला दर्द (Sciatica) यानी कमर या कूल्हे से पैर तक उतरने वाला दर्द। यह कमर की नस (nerve) पर दबाव या जलन से होता है, अक्सर डिस्क (disc) की वजह से।"
+    },
+    {
+      "en": "Most people improve in 6–12 weeks without surgery.",
+      "hi": "ज़्यादातर लोग 6–12 हफ़्ते में बिना ऑपरेशन ठीक हो जाते हैं।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Pain from the lower back or buttock down the leg",
+      "hi": "कमर या कूल्हे से पैर तक उतरता दर्द"
+    },
+    {
+      "en": "Tingling or burning in the leg or foot",
+      "hi": "पैर में झुनझुनी या जलन"
+    },
+    {
+      "en": "More pain on sitting, bending, coughing or sneezing",
+      "hi": "बैठने, झुकने, खांसने या छींकने पर दर्द बढ़ना"
+    },
+    {
+      "en": "Mild numbness in the leg or foot",
+      "hi": "पैर या पंजे में हल्का सुन्नपन"
+    }
+  ],
+  "causes": [
+    {
+      "en": "A slipped (prolapsed) disc pressing on a nerve",
+      "hi": "खिसकी हुई डिस्क (disc) का नस पर दबाव"
+    },
+    {
+      "en": "Wear or narrowing of the spine with age",
+      "hi": "उम्र के साथ रीढ़ का घिसाव या सिकुड़न"
+    },
+    {
+      "en": "Heavy lifting, long sitting or sudden bending",
+      "hi": "भारी वज़न उठाना, देर तक बैठना या अचानक झुकना"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Daily care",
+          "hi": "रोज़ की देखभाल"
+        },
+        "text": {
+          "en": "Stay gently active. Use a warm pack.",
+          "hi": "हल्का चलते-फिरते रहें। गर्म सेक लें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
+        "text": {
+          "en": "Only as your doctor advises.",
+          "hi": "सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Physiotherapy",
+          "hi": "फिज़ियोथेरेपी (Physiotherapy)"
+        },
+        "text": {
+          "en": "Back exercises and nerve gliding.",
+          "hi": "कमर के व्यायाम और नस को सरकाने वाले व्यायाम।"
+        }
+      },
+      {
+        "title": {
+          "en": "Injection or surgery",
+          "hi": "इंजेक्शन या ऑपरेशन"
+        },
+        "text": {
+          "en": "Only if pain is severe, does not improve, or there is weakness.",
+          "hi": "सिर्फ़ तब, जब दर्द बहुत तेज़ हो, आराम न मिले, या कमज़ोरी हो।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up and scan.",
+      "hi": "आपका इलाज आपकी जांच और स्कैन पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Keep moving. Short, gentle walks help.",
+      "hi": "चलते-फिरते रहें। छोटी, हल्की सैर फ़ायदा करती है।"
+    },
+    {
+      "en": "Sit with a pillow supporting your lower back.",
+      "hi": "कमर के निचले हिस्से के पीछे तकिया लगाकर बैठें।"
+    },
+    {
+      "en": "Sleep on your side with a pillow between your knees.",
+      "hi": "करवट लेकर सोएं, घुटनों के बीच तकिया रखें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not stay in bed for days.",
+      "hi": "दिनों तक बिस्तर पर न पड़े रहें।"
+    },
+    {
+      "en": "Do not lift heavy weight or bend forward suddenly.",
+      "hi": "भारी वज़न न उठाएं और अचानक आगे न झुकें।"
+    },
+    {
+      "en": "Do not sit for hours without a break.",
+      "hi": "घंटों बिना उठे न बैठे रहें।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so. Stop if the leg pain gets worse or goes further down the leg, or if numbness increases.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। पैर का दर्द बढ़े या और नीचे उतरे, या सुन्नपन बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "knee-to-chest",
+      "title": {
+        "en": "Knee to Chest",
+        "hi": "घुटना सीने तक लाना (Knee to Chest)"
+      },
+      "reps": {
+        "en": "Hold 15–20 seconds, 3 times each leg, twice a day",
+        "hi": "15–20 सेकंड रुकें, हर पैर से 3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Lie on your back with your legs straight.",
+        "hi": "पीठ के बल लेटें, पैर सीधे।"
+      },
+      "steps": [
+        {
+          "en": "Bring one knee towards your chest with both hands.",
+          "hi": "दोनों हाथों से एक घुटना सीने की ओर लाएं।"
+        },
+        {
+          "en": "Hold, then lower slowly. Repeat with the other leg.",
+          "hi": "रुकें, फिर धीरे से नीचे लाएं। दूसरे पैर से दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not pull hard. Stop if leg pain increases.",
+          "hi": "ज़ोर से न खींचें। पैर का दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "pelvic-tilt",
+      "title": {
+        "en": "Pelvic Tilt",
+        "hi": "कमर को ज़मीन की ओर दबाना (Pelvic Tilt)"
+      },
+      "reps": {
+        "en": "10 times, hold 5 seconds, twice a day",
+        "hi": "10 बार, 5 सेकंड रुकें, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Lie on your back with knees bent and feet flat.",
+        "hi": "पीठ के बल लेटें, घुटने मुड़े और तलवे ज़मीन पर।"
+      },
+      "steps": [
+        {
+          "en": "Tighten your tummy. Gently press your lower back into the floor.",
+          "hi": "पेट कसें। कमर के निचले हिस्से को हल्के से ज़मीन की ओर दबाएं।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep breathing normally.",
+          "hi": "सांस सामान्य रखें।"
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "title": {
+        "en": "Bridge",
+        "hi": "कूल्हे ऊपर उठाना (Bridge)"
+      },
+      "reps": {
+        "en": "10 times, hold 3 seconds, twice a day",
+        "hi": "10 बार, 3 सेकंड रुकें, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Lie on your back with knees bent, feet flat and arms by your sides.",
+        "hi": "पीठ के बल लेटें, घुटने मुड़े, तलवे ज़मीन पर और हाथ बगल में।"
+      },
+      "steps": [
+        {
+          "en": "Tighten your buttocks. Lift your hips until shoulders, hips and knees are in a line.",
+          "hi": "कूल्हे कसें। कूल्हे ऊपर उठाएं जब तक कंधे, कूल्हे और घुटने एक सीध में न आ जाएं।"
+        },
+        {
+          "en": "Hold for 3 seconds. Lower slowly.",
+          "hi": "3 सेकंड रुकें। धीरे से नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not arch your lower back.",
+          "hi": "कमर को ज़्यादा न मोड़ें।"
+        }
+      ]
+    },
+    {
+      "id": "nerve-glide",
+      "title": {
+        "en": "Nerve Glide",
+        "hi": "नस को सरकाने वाला व्यायाम (Nerve Glide)"
+      },
+      "reps": {
+        "en": "10 times each leg, twice a day",
+        "hi": "हर पैर से 10 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Sit tall on a chair with your feet on the floor.",
+        "hi": "कुर्सी पर सीधे बैठें, पैर ज़मीन पर।"
+      },
+      "steps": [
+        {
+          "en": "Slowly straighten one knee and pull your toes towards you.",
+          "hi": "एक घुटना धीरे से सीधा करें और पंजे को अपनी ओर खींचें।"
+        },
+        {
+          "en": "Bend the knee and point the toes down. Repeat.",
+          "hi": "घुटना मोड़ें और पंजा नीचे की ओर करें। दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Move gently. Stop if tingling or pain increases.",
+          "hi": "धीरे करें। झुनझुनी या दर्द बढ़े तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Sciatica always needs surgery.",
+        "hi": "साइटिका में हमेशा ऑपरेशन करना पड़ता है।"
+      },
+      "fact": {
+        "en": "Most people recover without surgery.",
+        "hi": "ज़्यादातर लोग बिना ऑपरेशन ठीक हो जाते हैं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Bed rest is the best treatment.",
+        "hi": "बिस्तर पर आराम करना सबसे अच्छा इलाज है।"
+      },
+      "fact": {
+        "en": "Gentle activity helps nerve pain settle faster.",
+        "hi": "हल्का चलने-फिरने से नस का दर्द जल्दी शांत होता है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "The nerve is cut or permanently damaged.",
+        "hi": "नस कट गई है या हमेशा के लिए खराब हो गई है।"
+      },
+      "fact": {
+        "en": "The nerve is irritated, not cut. Most nerves recover.",
+        "hi": "नस में जलन है, कटी नहीं है। ज़्यादातर नसें ठीक हो जाती हैं।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Loss of control over urine or stool, or numbness around the buttocks and groin",
+        "hi": "पेशाब या मल पर नियंत्रण न रहना, या कूल्हों और जांघों के बीच सुन्नपन"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Sudden weakness in the leg, or you cannot lift your foot",
+        "hi": "पैर में अचानक कमज़ोरी, या पंजा उठा न पाना"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Back or leg pain after a fall or accident",
+        "hi": "गिरने या एक्सीडेंट के बाद कमर या पैर में दर्द"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Leg pain with fever, or unexplained weight loss",
+        "hi": "पैर के दर्द के साथ बुखार, या बिना वजह वज़न घटना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Severe pain that does not ease, or numbness that keeps spreading",
+        "hi": "बहुत तेज़ दर्द जो कम न हो, या सुन्नपन जो फैलता जाए"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an MRI?",
+        "hi": "क्या मुझे एमआरआई (MRI) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Often not at first. Your doctor will decide, especially if pain lasts or there is weakness.",
+        "hi": "शुरू में अक्सर नहीं। डॉक्टर तय करेंगे, खासकर अगर दर्द लंबा चले या कमज़ोरी हो।"
+      }
+    },
+    {
+      "q": {
+        "en": "How long will it take to heal?",
+        "hi": "ठीक होने में कितना समय लगेगा?"
+      },
+      "a": {
+        "en": "Most people improve in 6–12 weeks.",
+        "hi": "ज़्यादातर लोग 6–12 हफ़्ते में ठीक हो जाते हैं।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I drive or travel?",
+        "hi": "क्या मैं गाड़ी चला या सफ़र कर सकता हूं?"
+      },
+      "a": {
+        "en": "Short trips with breaks are usually fine. Avoid long sitting.",
+        "hi": "बीच-बीच में रुककर छोटे सफ़र आमतौर पर ठीक हैं। देर तक बैठने से बचें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Most people improve in 6–12 weeks. Stay active and keep exercising so it does not come back.",
+        "hi": "ज़्यादातर लोग 6–12 हफ़्ते में ठीक होते हैं। चलते-फिरते रहें और व्यायाम जारी रखें, ताकि दर्द वापस न आए।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after 4–6 weeks, or is getting worse.",
+        "hi": "4–6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+      },
+      {
+        "en": "The leg feels weaker, or numbness is spreading.",
+        "hi": "पैर कमज़ोर लगे, या सुन्नपन फैल रहा हो।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}

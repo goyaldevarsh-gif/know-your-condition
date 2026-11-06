@@ -1,0 +1,371 @@
+{
+  "slug": "plantar-fasciitis",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Plantar fasciitis is irritation of the thick band under the foot that joins the heel to the toes.",
+      "hi": "एड़ी का दर्द (Plantar Fasciitis) यानी तलवे की उस मोटी पट्टी (plantar fascia) में सूजन, जो एड़ी को उंगलियों से जोड़ती है।"
+    },
+    {
+      "en": "Most people improve in a few months with stretching and good footwear. Some take longer.",
+      "hi": "ज़्यादातर लोग स्ट्रेचिंग और सही चप्पल-जूते से कुछ महीनों में ठीक हो जाते हैं। कुछ को ज़्यादा समय लगता है।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Heel pain with the first steps in the morning",
+      "hi": "सुबह के पहले कदमों पर एड़ी में दर्द"
+    },
+    {
+      "en": "Pain after sitting for a while, easing after a few steps",
+      "hi": "कुछ देर बैठने के बाद दर्द, कुछ कदम चलने पर कम होना"
+    },
+    {
+      "en": "Pain after long standing or walking",
+      "hi": "देर तक खड़े रहने या चलने के बाद दर्द"
+    },
+    {
+      "en": "Tenderness under the heel",
+      "hi": "एड़ी के नीचे दबाने पर दर्द"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Long hours of standing or walking on hard floors",
+      "hi": "सख्त फ़र्श पर देर तक खड़े रहना या चलना"
+    },
+    {
+      "en": "Thin, flat or worn-out chappals and shoes",
+      "hi": "पतली, सपाट या घिसी हुई चप्पल-जूते"
+    },
+    {
+      "en": "Extra weight or a tight calf",
+      "hi": "ज़्यादा वज़न या पिंडली में खिंचाव"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Daily care",
+          "hi": "रोज़ की देखभाल"
+        },
+        "text": {
+          "en": "Stretch the foot and calf. Take breaks from long standing.",
+          "hi": "पैर और पिंडली की स्ट्रेचिंग करें। देर तक खड़े रहने से ब्रेक लें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Footwear",
+          "hi": "चप्पल-जूते"
+        },
+        "text": {
+          "en": "Soft, cushioned heel or insoles.",
+          "hi": "नरम, गद्देदार एड़ी या इनसोल।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
+        "text": {
+          "en": "Only as your doctor advises.",
+          "hi": "सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Injection or surgery",
+          "hi": "इंजेक्शन या ऑपरेशन"
+        },
+        "text": {
+          "en": "Rarely needed, only if pain stays for many months.",
+          "hi": "बहुत कम ज़रूरत, सिर्फ़ तब जब दर्द कई महीने बना रहे।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up.",
+      "hi": "आपका इलाज आपकी जांच पर निर्भर करता है।"
+    }
+  },
+  "diet": [
+    {
+      "en": "Keep your weight in check. Extra weight strains the heel.",
+      "hi": "वज़न काबू में रखें। ज़्यादा वज़न से एड़ी पर ज़ोर पड़ता है।"
+    }
+  ],
+  "dos": [
+    {
+      "en": "Wear supportive footwear with a cushioned heel, even at home.",
+      "hi": "घर में भी गद्देदार एड़ी वाली सहारा देने वाली चप्पल या जूते पहनें।"
+    },
+    {
+      "en": "Stretch your foot and calf before the first step in the morning.",
+      "hi": "सुबह पहला कदम रखने से पहले पैर और पिंडली की स्ट्रेचिंग करें।"
+    },
+    {
+      "en": "Take breaks from long standing.",
+      "hi": "देर तक खड़े रहने के बीच आराम करें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not walk barefoot on hard floors.",
+      "hi": "सख्त फ़र्श पर नंगे पैर न चलें।"
+    },
+    {
+      "en": "Avoid thin, flat slippers.",
+      "hi": "पतली, सपाट चप्पल न पहनें।"
+    },
+    {
+      "en": "Do not run or jump on hard ground until the pain settles.",
+      "hi": "दर्द ठीक होने तक सख्त ज़मीन पर दौड़ें या कूदें नहीं।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so. A gentle stretch is fine. Stop if the pain becomes sharp.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। हल्का खिंचाव ठीक है। तेज़ दर्द हो तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "plantar-fascia-stretch",
+      "title": {
+        "en": "Foot Stretch",
+        "hi": "तलवे का खिंचाव (Plantar Fascia Stretch)"
+      },
+      "reps": {
+        "en": "Hold 15 seconds, 3 times, before the first step and after long rest",
+        "hi": "15 सेकंड रुकें, 3 बार, पहला कदम रखने से पहले और देर बैठने के बाद"
+      },
+      "start": {
+        "en": "Sit and cross the painful foot over the other knee.",
+        "hi": "बैठकर दर्द वाला पैर दूसरे घुटने पर रखें।"
+      },
+      "steps": [
+        {
+          "en": "Hold your toes and pull them gently back towards your shin.",
+          "hi": "पंजे की उंगलियां पकड़कर धीरे से पिंडली की ओर खींचें।"
+        },
+        {
+          "en": "Feel the stretch under the foot. Hold, then relax.",
+          "hi": "तलवे में खिंचाव महसूस करें। रुकें, फिर छोड़ें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Pull gently. Do not force.",
+          "hi": "धीरे से खींचें। ज़बरदस्ती न करें।"
+        }
+      ]
+    },
+    {
+      "id": "calf-stretch",
+      "title": {
+        "en": "Calf Stretch",
+        "hi": "पिंडली का खिंचाव (Calf Stretch)"
+      },
+      "reps": {
+        "en": "Hold 20–30 seconds, 3 times, twice a day",
+        "hi": "20–30 सेकंड रुकें, 3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Stand facing a wall with your hands on the wall.",
+        "hi": "दीवार की ओर मुंह करके खड़े हों, हाथ दीवार पर।"
+      },
+      "steps": [
+        {
+          "en": "Step the painful foot back. Keep the heel flat and the knee straight.",
+          "hi": "दर्द वाला पैर पीछे रखें। एड़ी ज़मीन पर और घुटना सीधा रखें।"
+        },
+        {
+          "en": "Lean forward until you feel a stretch in the calf.",
+          "hi": "पिंडली में खिंचाव महसूस होने तक आगे झुकें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep the heel on the floor. Do not bounce.",
+          "hi": "एड़ी ज़मीन पर रखें। झटके न दें।"
+        }
+      ]
+    },
+    {
+      "id": "towel-curl",
+      "title": {
+        "en": "Towel Curl",
+        "hi": "तौलिया खींचना (Towel Curl)"
+      },
+      "reps": {
+        "en": "10 times, twice a day",
+        "hi": "10 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Sit on a chair with a small towel flat on the floor under your foot.",
+        "hi": "कुर्सी पर बैठें। पैर के नीचे ज़मीन पर छोटा तौलिया बिछाएं।"
+      },
+      "steps": [
+        {
+          "en": "Curl your toes and pull the towel towards you.",
+          "hi": "उंगलियां मोड़कर तौलिए को अपनी ओर खींचें।"
+        },
+        {
+          "en": "Relax and repeat.",
+          "hi": "आराम करें और दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Stop if pain increases.",
+          "hi": "दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "bottle-roll",
+      "title": {
+        "en": "Foot Rolling",
+        "hi": "बोतल पर पैर घुमाना (Foot Rolling)"
+      },
+      "reps": {
+        "en": "2–3 minutes, once or twice a day",
+        "hi": "2–3 मिनट, दिन में 1–2 बार"
+      },
+      "start": {
+        "en": "Sit on a chair with a water bottle or small ball on the floor.",
+        "hi": "कुर्सी पर बैठें। ज़मीन पर पानी की बोतल या छोटी गेंद रखें।"
+      },
+      "steps": [
+        {
+          "en": "Place the foot on it and roll it back and forth under the arch.",
+          "hi": "पैर उस पर रखकर तलवे के नीचे आगे-पीछे घुमाएं।"
+        },
+        {
+          "en": "Press lightly. Pause on tender spots.",
+          "hi": "हल्का दबाव दें। दर्द वाली जगह पर थोड़ा रुकें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Gentle pressure only.",
+          "hi": "सिर्फ़ हल्का दबाव दें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "The heel spur causes the pain and must be removed.",
+        "hi": "एड़ी की हड्डी (heel spur) दर्द की वजह है और उसे निकालना पड़ेगा।"
+      },
+      "fact": {
+        "en": "Spurs are common and are usually not the cause. Most people do not need surgery.",
+        "hi": "स्पर आम है और आमतौर पर दर्द की वजह नहीं होता। ज़्यादातर लोगों को ऑपरेशन नहीं चाहिए।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Complete rest will cure it.",
+        "hi": "पूरा आराम करने से ठीक हो जाएगा।"
+      },
+      "fact": {
+        "en": "Stretching and good footwear help the most.",
+        "hi": "स्ट्रेचिंग और सही चप्पल-जूते सबसे ज़्यादा फ़ायदा करते हैं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "It will never go away.",
+        "hi": "यह कभी ठीक नहीं होगा।"
+      },
+      "fact": {
+        "en": "Most people recover with stretching, footwear and time.",
+        "hi": "ज़्यादातर लोग स्ट्रेचिंग, सही चप्पल और समय से ठीक हो जाते हैं।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Foot or heel red, hot and swollen, with fever",
+        "hi": "पैर या एड़ी लाल, गर्म और सूजी हुई, साथ में बुखार"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Sudden severe pain after a fall or jump, and you cannot walk",
+        "hi": "गिरने या कूदने के बाद अचानक तेज़ दर्द, और चल न पाना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Numbness, tingling or burning in the foot",
+        "hi": "पैर में सुन्नपन, झुनझुनी या जलन"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain not better after 6 weeks, or pain at night even at rest",
+        "hi": "6 हफ़्ते बाद भी आराम न मिलना, या आराम में भी रात को दर्द"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray?",
+        "hi": "क्या मुझे एक्स-रे (X-ray) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Not always. A heel spur on X-ray is common and is usually not the cause.",
+        "hi": "हमेशा नहीं। एक्स-रे में हील स्पर दिखना आम है और आमतौर पर वह दर्द की वजह नहीं होता।"
+      }
+    },
+    {
+      "q": {
+        "en": "Are insoles or heel cushions useful?",
+        "hi": "क्या इनसोल या एड़ी का गद्दा फ़ायदा करता है?"
+      },
+      "a": {
+        "en": "Often yes. Your doctor can tell you which one.",
+        "hi": "अक्सर हां। कौन सा लेना है, डॉक्टर बताएंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I walk or exercise?",
+        "hi": "क्या मैं चल या व्यायाम कर सकता हूं?"
+      },
+      "a": {
+        "en": "Yes, gently. Avoid long running or jumping until the pain settles.",
+        "hi": "हां, हल्का। दर्द ठीक होने तक लंबी दौड़ या कूदने से बचें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Most people improve in a few months. Keep stretching even after the pain is gone, so it does not come back.",
+        "hi": "ज़्यादातर लोग कुछ महीनों में ठीक हो जाते हैं। दर्द जाने के बाद भी स्ट्रेचिंग जारी रखें, ताकि वापस न आए।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after 6 weeks, or is getting worse.",
+        "hi": "6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}
