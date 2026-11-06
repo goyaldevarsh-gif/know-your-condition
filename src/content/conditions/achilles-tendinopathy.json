@@ -244,8 +244,8 @@
       ],
       "precautions": [
         {
-          "en": "Hold the rail. Stop if the pain is sharp.",
-          "hi": "रेलिंग पकड़े रहें। तेज़ दर्द हो तो रुकें।"
+          "en": "Do this only if the pain is in the middle of the tendon, not right at the heel bone. Hold the rail. Stop if the pain is sharp.",
+          "hi": "यह तभी करें जब दर्द नस के बीच में हो, सीधे एड़ी की हड्डी पर नहीं। रेलिंग पकड़े रहें। तेज़ दर्द हो तो रुकें।"
         }
       ]
     }
@@ -339,16 +339,16 @@
         "hi": "कितना समय लगेगा?"
       },
       "a": {
-        "en": "Usually about 3 months of regular exercises. Be patient.",
-        "hi": "आमतौर पर लगभग 3 महीने के नियमित व्यायाम। धैर्य रखें।"
+        "en": "Often 3 months or longer of regular exercises. Be patient.",
+        "hi": "अक्सर 3 महीने या उससे ज़्यादा के नियमित व्यायाम। धैर्य रखें।"
       }
     }
   ],
   "recovery": {
     "expect": [
       {
-        "en": "Most people improve in about 3 months with regular exercises. Return to running slowly.",
-        "hi": "ज़्यादातर लोग नियमित व्यायाम से लगभग 3 महीने में ठीक होते हैं। दौड़ना धीरे-धीरे शुरू करें।"
+        "en": "Many people improve in about 3 months or longer with regular exercises. Return to running slowly.",
+        "hi": "कई लोग नियमित व्यायाम से 3 महीने या उससे ज़्यादा में ठीक होते हैं। दौड़ना धीरे-धीरे शुरू करें।"
       }
     ],
     "revisit": [

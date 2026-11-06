@@ -8,8 +8,8 @@
       "hi": "घुटने के अंदर की तरफ़, जोड़ के थोड़ा नीचे का दर्द (Pes Anserine Bursitis)। यहां जांघ की तीन नसें जुड़ती हैं और एक छोटी पानी की थैली (bursa) में सूजन आ जाती है। यह घुटने के गठिया, ज़्यादा वज़न और दौड़ने वालों में आम है।"
     },
     {
-      "en": "It is not a serious joint damage and usually settles in a few weeks with rest and exercises.",
-      "hi": "यह जोड़ की गंभीर खराबी नहीं है और आमतौर पर आराम और व्यायाम से कुछ हफ़्तों में ठीक हो जाता है।"
+      "en": "It is not serious damage to the joint. With rest, stretching and exercises it usually improves, but this can take several weeks.",
+      "hi": "यह जोड़ की गंभीर खराबी नहीं है। आराम, स्ट्रेचिंग और व्यायाम से यह आमतौर पर ठीक हो जाता है, पर इसमें कई हफ़्ते लग सकते हैं।"
     }
   ],
   "symptoms": [
@@ -94,8 +94,8 @@
       "hi": "दर्द कम होने तक सीढ़ियां, लंबी सैर और दौड़ से आराम करें।"
     },
     {
-      "en": "Apply ice wrapped in a cloth for 10–15 minutes on the sore spot.",
-      "hi": "कपड़े में लपेटी बर्फ़ दर्द वाली जगह पर 10–15 मिनट लगाएं।"
+      "en": "Apply ice wrapped in a cloth to the sore spot for 20 minutes, 3–4 times a day.",
+      "hi": "कपड़े में लपेटी बर्फ़ दर्द वाली जगह पर 20 मिनट, दिन में 3–4 बार लगाएं।"
     },
     {
       "en": "Sleep with a pillow between your knees.",
@@ -194,8 +194,8 @@
         "hi": "तौलिए से जांघ के पीछे का खिंचाव (Hamstring Stretch)"
       },
       "reps": {
-        "en": "Hold 20–30 seconds, 3 times, twice a day",
-        "hi": "20–30 सेकंड रुकें, 3 बार, दिन में 2 बार"
+        "en": "Hold 30 seconds, 3 times, twice a day",
+        "hi": "30 सेकंड रुकें, 3 बार, दिन में 2 बार"
       },
       "start": {
         "en": "Lie on your back. Loop a towel around the sole of one foot.",
@@ -347,8 +347,8 @@
   "recovery": {
     "expect": [
       {
-        "en": "Most people feel better in 3–6 weeks with rest and exercises.",
-        "hi": "ज़्यादातर लोगों को आराम और व्यायाम से 3–6 हफ़्ते में राहत मिल जाती है।"
+        "en": "Most people improve with rest, stretching and exercises, but it can take several weeks. Restart sport slowly, once the pain is gone.",
+        "hi": "ज़्यादातर लोग आराम, स्ट्रेचिंग और व्यायाम से ठीक हो जाते हैं, पर इसमें कई हफ़्ते लग सकते हैं। दर्द जाने के बाद ही खेल धीरे-धीरे शुरू करें।"
       }
     ],
     "revisit": [

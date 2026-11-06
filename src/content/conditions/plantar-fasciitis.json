@@ -138,8 +138,8 @@
         "hi": "तलवे का खिंचाव (Plantar Fascia Stretch)"
       },
       "reps": {
-        "en": "Hold 15 seconds, 3 times, before the first step and after long rest",
-        "hi": "15 सेकंड रुकें, 3 बार, पहला कदम रखने से पहले और देर बैठने के बाद"
+        "en": "Hold 10 seconds, repeat 10–20 times, before the first step in the morning and after long rest",
+        "hi": "10 सेकंड रुकें, 10–20 बार दोहराएं, सुबह पहला कदम रखने से पहले और देर बैठने के बाद"
       },
       "start": {
         "en": "Sit and cross the painful foot over the other knee.",
@@ -353,8 +353,8 @@
   "recovery": {
     "expect": [
       {
-        "en": "Most people improve in a few months. Keep stretching even after the pain is gone, so it does not come back.",
-        "hi": "ज़्यादातर लोग कुछ महीनों में ठीक हो जाते हैं। दर्द जाने के बाद भी स्ट्रेचिंग जारी रखें, ताकि वापस न आए।"
+        "en": "Most people improve in a few months, and most within about 10 months. Keep stretching even after the pain is gone, so it does not come back.",
+        "hi": "ज़्यादातर लोग कुछ महीनों में, और अधिकांश लगभग 10 महीने के अंदर ठीक हो जाते हैं। दर्द जाने के बाद भी स्ट्रेचिंग जारी रखें, ताकि वापस न आए।"
       }
     ],
     "revisit": [

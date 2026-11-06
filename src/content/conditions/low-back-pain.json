@@ -292,8 +292,8 @@
     {
       "level": "emergency",
       "title": {
-        "en": "Loss of control over urine or stool, or numbness around the buttocks and groin",
-        "hi": "पेशाब या मल पर नियंत्रण न रहना, या कूल्हों और जांघों के बीच सुन्नपन"
+        "en": "Loss of control over urine or stool, difficulty passing urine, or numbness around the buttocks, genitals or back passage",
+        "hi": "पेशाब या मल पर नियंत्रण न रहना, पेशाब करने में दिक्कत, या कूल्हों, गुप्तांग या मल-द्वार के आसपास सुन्नपन"
       }
     },
     {
@@ -366,8 +366,8 @@
     ],
     "revisit": [
       {
-        "en": "Pain is not better after 4–6 weeks, or is getting worse.",
-        "hi": "4–6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+        "en": "Pain is not better after 2–3 weeks, or is getting worse.",
+        "hi": "2–3 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
       },
       {
         "en": "Pain travels below the knee, or you feel tingling in the leg.",

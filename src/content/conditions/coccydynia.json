@@ -52,8 +52,8 @@
           "hi": "रोज़ की देखभाल"
         },
         "text": {
-          "en": "Use a ring or wedge cushion. Lean forward when sitting. Warm pack.",
-          "hi": "रिंग या वेज कुशन इस्तेमाल करें। बैठते समय थोड़ा आगे झुकें। गर्म सेक लें।"
+          "en": "Use a wedge (V-shaped) or ring cushion on a firm seat. Lean slightly forward if it eases the pain. Warm pack.",
+          "hi": "फ़र्म सीट पर वेज (V-आकार) या रिंग कुशन इस्तेमाल करें। आराम मिले तो थोड़ा आगे झुककर बैठें। गर्म सेक लें।"
         }
       },
       {
@@ -100,12 +100,12 @@
   ],
   "dos": [
     {
-      "en": "Use a ring (doughnut) or wedge cushion when sitting.",
-      "hi": "बैठते समय रिंग (डोनट) या वेज कुशन इस्तेमाल करें।"
+      "en": "Use a wedge (V-shaped) or ring (doughnut) cushion when sitting.",
+      "hi": "बैठते समय वेज (V-आकार) या रिंग (डोनट) कुशन इस्तेमाल करें।"
     },
     {
-      "en": "Lean slightly forward when sitting. Stand and move every 30 minutes.",
-      "hi": "बैठते समय थोड़ा आगे झुकें। हर 30 मिनट में उठकर चलें।"
+      "en": "Lean slightly forward when sitting if it eases the pain. Stand and move every 30 minutes.",
+      "hi": "आराम मिले तो बैठते समय थोड़ा आगे झुकें। हर 30 मिनट में उठकर चलें।"
     },
     {
       "en": "Eat fibre and drink water to avoid straining on the toilet.",
@@ -114,8 +114,8 @@
   ],
   "donts": [
     {
-      "en": "Do not sit for long on hard surfaces, or lean back while sitting.",
-      "hi": "सख्त जगह पर देर तक न बैठें, और बैठते समय पीछे न टिकें।"
+      "en": "Do not sit for long on hard surfaces, and do not slouch back onto the tailbone.",
+      "hi": "सख्त जगह पर देर तक न बैठें, और टेलबोन पर पीछे लुढ़ककर न बैठें।"
     },
     {
       "en": "Avoid long bike or scooter rides until the pain settles.",
@@ -252,8 +252,8 @@
         "hi": "सबसे अच्छा है नरम, मोटे सोफ़े पर बैठना।"
       },
       "fact": {
-        "en": "Soft sofas sink and add pressure. Use a ring cushion on a firm seat.",
-        "hi": "नरम सोफ़ा धंस जाता है और दबाव बढ़ाता है। मज़बूत सीट पर रिंग कुशन इस्तेमाल करें।"
+        "en": "Soft sofas sink and add pressure. Use a wedge or ring cushion on a firm seat.",
+        "hi": "नरम सोफ़ा धंस जाता है और दबाव बढ़ाता है। मज़बूत सीट पर वेज या रिंग कुशन इस्तेमाल करें।"
       }
     }
   ],
@@ -261,8 +261,8 @@
     {
       "level": "emergency",
       "title": {
-        "en": "Loss of control over urine or stool, or numbness around the buttocks and groin",
-        "hi": "पेशाब या मल पर नियंत्रण न रहना, या कूल्हों और जांघों के बीच सुन्नपन"
+        "en": "Loss of control over urine or stool, difficulty passing urine, or numbness around the buttocks, genitals or back passage",
+        "hi": "पेशाब या मल पर नियंत्रण न रहना, पेशाब करने में दिक्कत, या कूल्हों, गुप्तांग या मल-द्वार के आसपास सुन्नपन"
       }
     },
     {
@@ -314,8 +314,8 @@
         "hi": "कौन सा कुशन लूं?"
       },
       "a": {
-        "en": "A ring (doughnut) or wedge cushion that takes pressure off the tailbone. Your doctor can advise.",
-        "hi": "रिंग (डोनट) या वेज कुशन, जो टेलबोन से दबाव हटाए। डॉक्टर सलाह दे सकते हैं।"
+        "en": "A wedge (V-shaped) or ring (doughnut) cushion that takes pressure off the tailbone. Many people find the wedge more comfortable. Your doctor can advise.",
+        "hi": "वेज (V-आकार) या रिंग (डोनट) कुशन, जो टेलबोन से दबाव हटाए। कई लोगों को वेज ज़्यादा आरामदेह लगता है। डॉक्टर सलाह दे सकते हैं।"
       }
     }
   ],

@@ -108,8 +108,8 @@
   ],
   "donts": [
     {
-      "en": "Do not lift heavy weights or work overhead for long.",
-      "hi": "भारी वज़न न उठाएं और देर तक सिर के ऊपर काम न करें।"
+      "en": "Do not lift heavy weights or work overhead for long. Using a painful shoulder can make a tear bigger.",
+      "hi": "भारी वज़न न उठाएं और देर तक सिर के ऊपर काम न करें। दर्द वाले कंधे से काम लेते रहने पर फटन बढ़ सकती है।"
     },
     {
       "en": "Do not sleep on the painful shoulder.",
@@ -354,8 +354,8 @@
   "recovery": {
     "expect": [
       {
-        "en": "Many people improve in 6–12 weeks with exercises. Some tears need longer or surgery.",
-        "hi": "कई लोग व्यायाम से 6–12 हफ़्ते में ठीक होते हैं। कुछ फटन में ज़्यादा समय या ऑपरेशन लगता है।"
+        "en": "Many people improve over a few months with exercises. Some tears need longer or surgery.",
+        "hi": "कई लोगों को व्यायाम से कुछ महीनों में आराम मिलता है। कुछ फटन में ज़्यादा समय या ऑपरेशन लगता है।"
       }
     ],
     "revisit": [
