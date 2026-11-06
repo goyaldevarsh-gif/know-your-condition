@@ -792,3 +792,10 @@ a.cond-card:active { border-color: var(--teal); transform: scale(0.99); }
 .care-img { margin: 0; }
 .care-img img { display: block; width: 100%; height: auto; border-radius: 12px; }
 .care-img figcaption { font-size: 0.85rem; margin-top: 6px; text-align: center; }
+
+/* Small phones: keep all five tabs inside the screen */
+.tabs button { min-width: 0; }
+@media (max-width: 380px) {
+  .tabs { padding-left: 4px; padding-right: 4px; gap: 0; }
+  .tabs button { font-size: 0.72rem; padding: 0 4px; }
+}
