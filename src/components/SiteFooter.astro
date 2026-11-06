@@ -1,0 +1,13 @@
+---
+import site from '../content/site.json';
+import { t } from '../lib/i18n';
+import type { Lang } from '../lib/i18n';
+interface Props { lang?: Lang }
+const { lang } = Astro.props;
+const langs: Lang[] = lang ? [lang] : ['en', 'hi'];
+---
+<footer class="site-foot">
+  <p class="sf-name">{t(site.doctor, langs[0])}<span> · {t(site.degree, langs[0])}</span></p>
+  <p class="sf-copy">{site.copyright}</p>
+  {langs.map((l) => <p class="sf-rights" lang={l}>{t(site.rights, l)}</p>)}
+</footer>

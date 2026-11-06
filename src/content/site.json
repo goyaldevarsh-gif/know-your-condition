@@ -1,7 +1,17 @@
 {
-  "doctor": { "en": "Dr. Devarsh Goyal", "hi": "डॉ. देवर्ष गोयल" },
-  "degree": { "en": "MBBS, MS Orthopaedics", "hi": "MBBS, MS ऑर्थोपेडिक्स" },
+  "doctor": {
+    "en": "Dr. Devarsh Goyal",
+    "hi": "डॉ. देवर्ष गोयल"
+  },
+  "degree": {
+    "en": "MBBS, MS Orthopaedics",
+    "hi": "MBBS, MS ऑर्थोपेडिक्स"
+  },
   "phoneDisplay": "+91-7852860654",
   "phoneDigits": "917852860654",
-  "copyright": "© 2026 Dr. Devarsh Goyal. All rights reserved."
+  "copyright": "© 2026 Dr. Devarsh Goyal. All rights reserved.",
+  "rights": {
+    "en": "The text, images and design on this site belong to Dr. Devarsh Goyal. Please do not copy or reuse them without written permission.",
+    "hi": "इस साइट के लेख, चित्र और डिज़ाइन डॉ. देवर्ष गोयल की संपत्ति हैं। कृपया लिखित अनुमति के बिना इन्हें कॉपी या दोबारा इस्तेमाल न करें।"
+  }
 }

@@ -799,3 +799,54 @@ a.cond-card:active { border-color: var(--teal); transform: scale(0.99); }
   .tabs { padding-left: 4px; padding-right: 4px; gap: 0; }
   .tabs button { font-size: 0.72rem; padding: 0 4px; }
 }
+
+/* ---------- Text size control (header stays fixed-size; content scales) ---------- */
+.topbar .lang-switch a { font-size: 15px; }
+.fs { position: relative; flex: none; }
+.fs-btn {
+  width: 42px; height: 42px; border-radius: 50%; border: 0; cursor: pointer;
+  background: rgba(255, 255, 255, 0.14); color: var(--white);
+  display: grid; place-items: center; font: inherit; font-weight: 800;
+}
+.fs-btn:focus-visible, .fs-opt:focus-visible { outline: 3px solid var(--teal); outline-offset: 2px; }
+.fs-a1 { font-size: 13px; }
+.fs-a2 { font-size: 19px; }
+.fs-pop {
+  position: absolute; top: 50px; right: 0; z-index: 20;
+  display: flex; gap: 6px; padding: 8px;
+  background: var(--white); border-radius: 16px; box-shadow: 0 8px 28px rgba(16, 42, 67, 0.25);
+}
+.fs-pop[hidden] { display: none; }
+.fs-opt {
+  width: 48px; height: 48px; border-radius: 12px; border: 2px solid var(--border);
+  background: var(--white); color: var(--navy); font: inherit; font-weight: 800; cursor: pointer;
+}
+.fs-o0 { font-size: 15px; } .fs-o1 { font-size: 20px; } .fs-o2 { font-size: 26px; }
+.fs-opt[aria-pressed='true'] { background: var(--teal); border-color: var(--teal); color: var(--white); }
+.topbar { gap: 8px; }
+@media print { .fs { display: none !important; } }
+
+/* Large text: let the five tabs scroll sideways instead of squeezing */
+.tabs { overflow-x: auto; scrollbar-width: none; }
+.tabs::-webkit-scrollbar { display: none; }
+
+/* ---------- Branding / copyright footer (every page) ---------- */
+.site-foot {
+  padding: 18px 20px 26px;
+  text-align: center;
+  font-size: 0.72rem;
+  line-height: 1.5;
+  color: var(--muted);
+  background: var(--bg);
+}
+.site-foot .sf-name { font-weight: 800; color: var(--navy); font-size: 0.8rem; }
+.site-foot .sf-name span { font-weight: 600; color: var(--muted); }
+.site-foot p + p { margin-top: 4px; }
+@media print { .site-foot { display: none; } }
+
+/* Large text: keep the bottom bar and contact buttons inside the screen */
+.ab-row, .contact-btns { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+.ab-btn { font-size: min(0.98rem, 17px); min-width: 0; }
+.ab-btn span { min-width: 0; overflow-wrap: anywhere; }
+.ab-hint { font-size: min(0.74rem, 13px); }
+.cbtn { min-width: 0; font-size: min(1rem, 18px); }

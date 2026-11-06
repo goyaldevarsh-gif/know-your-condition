@@ -10,6 +10,8 @@ import '@fontsource/noto-sans-devanagari/700.css';
 import '@fontsource/noto-sans-devanagari/800.css';
 import type { Lang } from '../lib/i18n';
 import { url } from '../lib/i18n';
+import SiteFooter from '../components/SiteFooter.astro';
+import site from '../content/site.json';
 
 interface Props {
   title: string;
@@ -26,8 +28,16 @@ const { title, description = 'Simple, reliable orthopaedic patient education by 
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="theme-color" content="#102A43" />
     <meta name="description" content={description} />
+    <meta name="author" content="Dr. Devarsh Goyal" />
+    <meta name="copyright" content={site.copyright} />
     <title>{title}</title>
     <link rel="icon" type="image/svg+xml" href={url('favicon.svg')} />
+    <script is:inline>
+      try {
+        var f = parseInt(localStorage.getItem('kyc-fs'), 10);
+        if (f === 1 || f === 2) document.documentElement.style.fontSize = [18, 21, 24][f] + 'px';
+      } catch (e) {}
+    </script>
     {!lang && (
       <script is:inline>
         try {
@@ -40,6 +50,7 @@ const { title, description = 'Simple, reliable orthopaedic patient education by 
   <body>
     <div class="app">
       <slot />
+      <SiteFooter lang={lang} />
     </div>
   </body>
 </html>

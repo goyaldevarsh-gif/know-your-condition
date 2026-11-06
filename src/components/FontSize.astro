@@ -1,0 +1,55 @@
+---
+import type { Lang } from '../lib/i18n';
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const label = lang === 'hi' ? 'अक्षर का आकार' : 'Text size';
+const names = lang === 'hi' ? ['सामान्य', 'बड़ा', 'सबसे बड़ा'] : ['Normal', 'Large', 'Extra large'];
+---
+
+<div class="fs" data-fs>
+  <button type="button" class="fs-btn" aria-label={label} aria-expanded="false" aria-haspopup="true" data-fs-toggle>
+    <span aria-hidden="true"><span class="fs-a1">A</span><span class="fs-a2">A</span></span>
+  </button>
+  <div class="fs-pop" role="group" aria-label={label} hidden>
+    {names.map((n, i) => (
+      <button type="button" class={`fs-opt fs-o${i}`} data-fs-set={i} aria-label={n} aria-pressed={i === 0 ? 'true' : 'false'}>A</button>
+    ))}
+  </div>
+</div>
+
+<script is:inline>
+  (function () {
+    var SIZES = [18, 21, 24];
+    var root = document.documentElement;
+    function apply(i) {
+      root.style.fontSize = SIZES[i] + 'px';
+      document.querySelectorAll('[data-fs-set]').forEach(function (b) {
+        b.setAttribute('aria-pressed', String(Number(b.getAttribute('data-fs-set')) === i));
+      });
+    }
+    var cur = 0;
+    try { var s = parseInt(localStorage.getItem('kyc-fs'), 10); if (s >= 0 && s <= 2) cur = s; } catch (e) {}
+    apply(cur);
+    document.querySelectorAll('[data-fs]').forEach(function (box) {
+      var t = box.querySelector('[data-fs-toggle]');
+      var pop = box.querySelector('.fs-pop');
+      function close() { pop.hidden = true; t.setAttribute('aria-expanded', 'false'); }
+      t.addEventListener('click', function (e) {
+        e.stopPropagation();
+        var open = pop.hidden;
+        pop.hidden = !open;
+        t.setAttribute('aria-expanded', String(open));
+      });
+      pop.addEventListener('click', function (e) {
+        var b = e.target.closest('[data-fs-set]');
+        if (!b) return;
+        var i = Number(b.getAttribute('data-fs-set'));
+        apply(i);
+        try { localStorage.setItem('kyc-fs', String(i)); } catch (err) {}
+        close();
+      });
+      document.addEventListener('click', close);
+      document.addEventListener('keydown', function (e) { if (e.key === 'Escape') close(); });
+    });
+  })();
+</script>
