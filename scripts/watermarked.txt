@@ -74,6 +74,9 @@ public/img/plantar-fasciitis/calf-stretch.webp
 public/img/plantar-fasciitis/hero.webp
 public/img/plantar-fasciitis/plantar-fascia-stretch.webp
 public/img/plantar-fasciitis/towel-curl.webp
+public/img/post-surgery-care/ankle-pumps.webp
+public/img/post-surgery-care/finger-open-close.webp
+public/img/post-surgery-care/hero.webp
 public/img/retrocalcaneal-heel-pain/calf-stretch.webp
 public/img/retrocalcaneal-heel-pain/double-heel-raise.webp
 public/img/retrocalcaneal-heel-pain/hero.webp

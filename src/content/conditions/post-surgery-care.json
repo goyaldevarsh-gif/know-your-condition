@@ -30,12 +30,22 @@
     "items": [
       {
         "title": {
-          "en": "Wound",
-          "hi": "घाव"
+          "en": "Wound and dressing",
+          "hi": "घाव और ड्रेसिंग"
         },
         "text": {
-          "en": "Keep the dressing clean, dry and in place until your team says otherwise. Do not soak the wound in water. If the dressing gets loose, re-cover it and tell your team.",
-          "hi": "ड्रेसिंग साफ़, सूखी और अपनी जगह पर रखें, जब तक टीम कुछ और न कहे। घाव को पानी में न भिगोएं। ड्रेसिंग ढीली हो जाए तो दोबारा ढकें और टीम को बताएं।"
+          "en": "Wash your hands before touching it. Keep the dressing clean, dry and in place until your team says otherwise. If it gets loose, re-cover it and tell your team. A little oozing in the first day or two is common: press on it gently for 15 minutes.",
+          "hi": "घाव छूने से पहले हाथ धोएं। ड्रेसिंग साफ़, सूखी और अपनी जगह पर रखें, जब तक टीम कुछ और न कहे। ढीली हो जाए तो दोबारा ढकें और टीम को बताएं। पहले एक-दो दिन थोड़ा रिसाव आम है: उसे 15 मिनट हल्के से दबाएं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Stitches, tapes and washing",
+          "hi": "टांके, टेप और नहाना"
+        },
+        "text": {
+          "en": "A nurse removes stitches or clips on the date written on your discharge sheet. Tapes (Steri-Strips) stay on for 10 to 14 days and peel off by themselves. Once the dressing is off, let clean water run gently over the wound and pat it dry. Do not soak it, and do not use soaps, lotions, creams or powders on it.",
+          "hi": "टांके या क्लिप डिस्चार्ज शीट पर लिखी तारीख़ को नर्स निकालती है। टेप (Steri-Strips) 10 से 14 दिन लगे रहते हैं और अपने आप उतर जाते हैं। ड्रेसिंग हटने के बाद घाव पर साफ़ पानी धीरे से बहने दें और थपथपाकर सुखाएं। उसे पानी में न भिगोएं, और उस पर साबुन, लोशन, क्रीम या पाउडर न लगाएं।"
         }
       },
       {
@@ -86,8 +96,8 @@
   },
   "dos": [
     {
-      "en": "Keep the dressing clean, dry and in place.",
-      "hi": "ड्रेसिंग साफ़, सूखी और अपनी जगह पर रखें।"
+      "en": "Wash your hands before touching the wound or dressing. Keep the dressing clean, dry and in place.",
+      "hi": "घाव या ड्रेसिंग छूने से पहले हाथ धोएं। ड्रेसिंग साफ़, सूखी और अपनी जगह पर रखें।"
     },
     {
       "en": "Keep the limb raised and rest as advised.",
@@ -100,12 +110,12 @@
   ],
   "donts": [
     {
-      "en": "Do not smoke.",
-      "hi": "धूम्रपान न करें।"
+      "en": "Do not use soap, lotion, cream or powder on the wound.",
+      "hi": "घाव पर साबुन, लोशन, क्रीम या पाउडर न लगाएं।"
     },
     {
-      "en": "Do not soak the wound in water for a long time.",
-      "hi": "घाव को देर तक पानी में न भिगोएं।"
+      "en": "Do not smoke.",
+      "hi": "धूम्रपान न करें।"
     }
   ],
   "exercisesNote": {
@@ -240,16 +250,6 @@
     }
   ],
   "faqs": [
-    {
-      "q": {
-        "en": "When will my stitches come out?",
-        "hi": "टांके कब निकलेंगे?"
-      },
-      "a": {
-        "en": "Your team will write the date on your discharge sheet. Ask before you leave.",
-        "hi": "आपकी टीम डिस्चार्ज शीट पर तारीख़ लिखेगी। जाने से पहले पूछ लें।"
-      }
-    },
     {
       "q": {
         "en": "When can I drive and go back to work?",
