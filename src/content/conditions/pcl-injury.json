@@ -54,6 +54,16 @@
       },
       {
         "title": {
+          "en": "If a bone piece has pulled off (avulsion fracture)",
+          "hi": "अगर हड्डी का टुकड़ा खिंच गया हो (एवल्शन फ़्रैक्चर)"
+        },
+        "text": {
+          "en": "An X-ray shows the bone piece. When the piece is only slightly displaced, treatment is generally without surgery. When it is markedly displaced and the knee is unstable, surgery to fix the bone piece is done. Fixing it also allows earlier rehab. A CT scan may be needed.",
+          "hi": "एक्स-रे में हड्डी का टुकड़ा दिखता है। टुकड़ा थोड़ा ही हिला हो तो इलाज आमतौर पर बिना ऑपरेशन होता है। टुकड़ा काफ़ी हिला हो और घुटना अस्थिर हो तो हड्डी के टुकड़े को जोड़ने का ऑपरेशन किया जाता है। जोड़ने से जल्दी रीहैब भी शुरू हो पाता है। सीटी (CT) स्कैन की ज़रूरत पड़ सकती है।"
+        }
+      },
+      {
+        "title": {
           "en": "Without surgery",
           "hi": "बिना ऑपरेशन"
         },
@@ -70,16 +80,6 @@
         "text": {
           "en": "Almost always needed when other ligaments are injured too (for example a dislocated knee). For an isolated tear, it is considered if instability or pain continues despite treatment. A tissue graft is used, usually by arthroscopy.",
           "hi": "जब दूसरे लिगामेंट भी चोटिल हों (जैसे घुटना डिसलोकेट होना) तो लगभग हमेशा चाहिए। सिर्फ़ PCL की चोट में तब सोचा जाता है जब इलाज के बाद भी अस्थिरता या दर्द बना रहे। ग्राफ़्ट लगाया जाता है, आमतौर पर दूरबीन (arthroscopy) से।"
-        }
-      },
-      {
-        "title": {
-          "en": "PCL avulsion fracture",
-          "hi": "PCL एवल्शन फ़्रैक्चर"
-        },
-        "text": {
-          "en": "An X-ray shows the bone piece. When the piece is only slightly displaced, treatment is generally without surgery. When it is markedly displaced and the knee is unstable, surgery to fix the bone piece is done. Fixing it also allows earlier rehab. A CT scan may be needed.",
-          "hi": "एक्स-रे में हड्डी का टुकड़ा दिखता है। टुकड़ा थोड़ा ही हिला हो तो इलाज आमतौर पर बिना ऑपरेशन होता है। टुकड़ा काफ़ी हिला हो और घुटना अस्थिर हो तो हड्डी के टुकड़े को जोड़ने का ऑपरेशन किया जाता है। जोड़ने से जल्दी रीहैब भी शुरू हो पाता है। सीटी (CT) स्कैन की ज़रूरत पड़ सकती है।"
         }
       }
     ],
@@ -113,8 +113,8 @@
     }
   ],
   "exercisesNote": {
-    "en": "Do these only if your doctor or physiotherapist says so. They strengthen the thigh muscle. Stop if the pain increases.",
-    "hi": "ये व्यायाम तभी करें जब डॉक्टर या फिज़ियोथेरेपिस्ट कहें। ये जांघ की मांसपेशी मज़बूत करते हैं। दर्द बढ़े तो रुकें।"
+    "en": "Do these only if your doctor or physiotherapist says so. They strengthen the thigh muscle. Stop if the pain increases. These are early exercises. Your physiotherapist will plan the rest of your rehab for you.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर या फिज़ियोथेरेपिस्ट कहें। ये जांघ की मांसपेशी मज़बूत करते हैं। दर्द बढ़े तो रुकें। ये शुरुआती व्यायाम हैं। आगे की रीहैब फिज़ियोथेरेपिस्ट आपके लिए तय करेंगे।"
   },
   "exercises": [
     {

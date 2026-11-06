@@ -48,12 +48,12 @@
     "items": [
       {
         "title": {
-          "en": "First 2–3 days",
-          "hi": "पहले 2–3 दिन"
+          "en": "First few days",
+          "hi": "पहले कुछ दिन"
         },
         "text": {
-          "en": "Rest, ice, bandage and keep the foot raised.",
-          "hi": "आराम, बर्फ़, पट्टी और पैर ऊपर रखें।"
+          "en": "Rest does not mean total rest. Walk as normally as you can. Use ice and a support when on your feet, and keep the foot raised.",
+          "hi": "आराम का मतलब पूरा आराम नहीं है। जितना हो सके सामान्य चलें। बर्फ़ लगाएं, चलते समय सपोर्ट पहनें और पैर ऊपर रखें।"
         }
       },
       {
@@ -72,8 +72,8 @@
           "hi": "व्यायाम"
         },
         "text": {
-          "en": "Start gentle movement early. Then build strength and balance.",
-          "hi": "जल्दी हल्की हरकत शुरू करें। फिर ताकत और संतुलन बढ़ाएं।"
+          "en": "Start gentle movement straight away. Over the next 1–2 weeks, build strength and balance.",
+          "hi": "हल्की हरकत तुरंत शुरू करें। अगले 1–2 हफ़्ते में ताकत और संतुलन बढ़ाएं।"
         }
       },
       {
@@ -94,22 +94,26 @@
   },
   "dos": [
     {
-      "en": "Ice wrapped in a cloth for 15 minutes, a few times a day, for the first 2–3 days.",
-      "hi": "पहले 2–3 दिन कपड़े में लपेटी बर्फ़ 15 मिनट, दिन में कई बार।"
+      "en": "Ice wrapped in a cloth for 10–15 minutes, every few hours, in the first few days.",
+      "hi": "पहले कुछ दिन कपड़े में लपेटी बर्फ़ 10–15 मिनट, हर कुछ घंटे में।"
     },
     {
-      "en": "Keep the foot raised on pillows when sitting or lying.",
-      "hi": "बैठते या लेटते समय पैर तकिए पर ऊपर रखें।"
+      "en": "When sitting, keep the foot raised above hip height.",
+      "hi": "बैठते समय पैर कूल्हे की ऊंचाई से ऊपर रखें।"
     },
     {
-      "en": "Start gentle ankle movements as soon as the pain allows.",
-      "hi": "दर्द कम होते ही टखने की हल्की हरकत शुरू करें।"
+      "en": "Start gentle ankle movements straight away, as far as you can without pushing into pain.",
+      "hi": "टखने की हल्की हरकत तुरंत शुरू करें, जितना दर्द में ज़ोर लगाए बिना हो सके।"
+    },
+    {
+      "en": "Walk as normally as you can. Do not hop or walk on your toes.",
+      "hi": "जितना हो सके सामान्य तरह से चलें। कूदकर या पंजों पर न चलें।"
     }
   ],
   "donts": [
     {
-      "en": "Do not apply heat or rub hard in the first 2–3 days.",
-      "hi": "पहले 2–3 दिन गर्म सेक या ज़ोर से मालिश न करें।"
+      "en": "Do not wear the bandage overnight, or while resting with the foot raised.",
+      "hi": "पट्टी रात भर या पैर ऊपर रखकर आराम करते समय न बांधे रखें।"
     },
     {
       "en": "Do not go back to running or sports until the ankle is pain-free and steady.",
@@ -121,8 +125,8 @@
     }
   ],
   "exercisesNote": {
-    "en": "Start only when the pain settles and your doctor allows. Stop if pain or swelling increases.",
-    "hi": "दर्द कम होने पर और डॉक्टर के कहने पर ही शुरू करें। दर्द या सूजन बढ़े तो रुकें।"
+    "en": "Start gentle movement early, but do not push into pain. Stop if pain or swelling increases. Your doctor will tell you when to add strength and balance exercises.",
+    "hi": "हल्की हरकत जल्दी शुरू करें, पर दर्द में ज़ोर न लगाएं। दर्द या सूजन बढ़े तो रुकें। ताकत और संतुलन के व्यायाम कब जोड़ने हैं, डॉक्टर बताएंगे।"
   },
   "exercises": [
     {

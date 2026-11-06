@@ -40,8 +40,8 @@
       "hi": "ज़्यादा वज़न से घुटनों पर बोझ"
     },
     {
-      "en": "Old knee injury, or years of squatting and climbing",
-      "hi": "पुरानी चोट, या सालों तक उकड़ू बैठना और सीढ़ियां चढ़ना"
+      "en": "Old knee injury",
+      "hi": "पुरानी चोट"
     }
   ],
   "treatment": {
@@ -110,16 +110,20 @@
     {
       "en": "Use a warm pack when the knee feels stiff.",
       "hi": "अकड़न हो तो गर्म सेक लें।"
+    },
+    {
+      "en": "On stairs, hold the handrail. Go up with the good leg first and down with the sore leg first.",
+      "hi": "सीढ़ियों पर रेलिंग पकड़ें। चढ़ते समय अच्छा पैर पहले और उतरते समय दर्द वाला पैर पहले रखें।"
     }
   ],
   "donts": [
     {
-      "en": "Do not sit cross-legged or squat for long.",
-      "hi": "देर तक पालथी मारकर या उकड़ू न बैठें।"
+      "en": "Squatting and kneeling can set off pain. Use a chair, and a pad if you must kneel.",
+      "hi": "उकड़ू और घुटनों के बल बैठने से दर्द उठ सकता है। कुर्सी इस्तेमाल करें, और घुटनों के बल बैठना ही पड़े तो गद्दी रखें।"
     },
     {
-      "en": "Avoid climbing stairs again and again, and carrying heavy loads.",
-      "hi": "बार-बार सीढ़ियां चढ़ने और भारी सामान उठाने से बचें।"
+      "en": "Do not push through pain. If stairs, squatting or lifting make the pain worse, ease back and build up slowly.",
+      "hi": "दर्द के बावजूद ज़ोर न लगाएं। सीढ़ी, उकड़ू बैठने या वज़न उठाने से दर्द बढ़े तो कम करें और धीरे-धीरे बढ़ाएं।"
     },
     {
       "en": "Do not stop moving because of pain. Too much rest makes the knee stiffer.",

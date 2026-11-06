@@ -37,12 +37,8 @@
       "hi": "उम्र के साथ डिस्क और जोड़ों का घिसाव"
     },
     {
-      "en": "Long hours on the phone or laptop with the head bent",
-      "hi": "मोबाइल या लैपटॉप पर घंटों सिर झुकाकर काम"
-    },
-    {
-      "en": "Poor posture or a very high pillow",
-      "hi": "गलत मुद्रा (posture) या बहुत ऊंचा तकिया"
+      "en": "Neck muscle strain, for example after an awkward sleeping position or long hours with the head bent. How much posture matters is not certain.",
+      "hi": "गर्दन की मांसपेशियों में खिंचाव, जैसे गलत स्थिति में सोने या घंटों सिर झुकाकर काम करने के बाद। मुद्रा (posture) का कितना असर होता है, यह पक्का नहीं है।"
     }
   ],
   "treatment": {
@@ -53,8 +49,8 @@
           "hi": "रोज़ की देखभाल"
         },
         "text": {
-          "en": "Correct your posture. Use a warm pack.",
-          "hi": "मुद्रा (posture) ठीक करें। गर्म सेक लें।"
+          "en": "Keep your head in line with your body when sitting and lying. Use a warm pack.",
+          "hi": "बैठते और लेटते समय सिर को शरीर की सीध में रखें। गर्म सेक लें।"
         }
       },
       {
@@ -99,8 +95,8 @@
       "hi": "स्क्रीन आंखों की सीध में रखें। हर 30 मिनट में ब्रेक लें।"
     },
     {
-      "en": "Use a low, supportive pillow.",
-      "hi": "नीचा और सहारा देने वाला तकिया लें।"
+      "en": "Keep your head in line with your body when you sleep. Do not sleep on your stomach.",
+      "hi": "सोते समय सिर को शरीर की सीध में रखें। पेट के बल न सोएं।"
     },
     {
       "en": "Walk daily and do your exercises gently.",

@@ -1,0 +1,37 @@
+---
+// Short entry link for per-condition QR codes: /c/<slug>/
+// Opens the patient's saved language, or lets them choose English / हिंदी.
+import Base from '../../layouts/Base.astro';
+import index from '../../content/conditions-index.json';
+import { url } from '../../lib/i18n';
+
+export function getStaticPaths() {
+  return index.map((c) => ({ params: { condition: c.slug }, props: { c } }));
+}
+const { c } = Astro.props;
+const en = url(`en/${c.slug}/`);
+const hi = url(`hi/${c.slug}/`);
+---
+<Base title={`${c.name.en} | Know Your Condition`} description={c.short.en}>
+  <main class="sheet" style="margin-top:0;padding-top:40px;text-align:center;min-height:100vh;">
+    <h1 style="font-size:1.4rem;line-height:1.3;margin:0 0 6px;">{c.name.en}</h1>
+    <p style="font-size:1.1rem;font-weight:700;color:var(--teal-dark);margin:0 0 28px;">{c.name.hi}</p>
+    <p style="margin:0 0 14px;font-weight:700;">Choose your language / अपनी भाषा चुनें</p>
+    <div style="display:grid;gap:12px;max-width:340px;margin:0 auto;">
+      <a class="ab-btn ab-pdf" data-set-lang="en" href={en} style="min-height:64px;font-size:1.1rem;">English</a>
+      <a class="ab-btn ab-wa" data-set-lang="hi" href={hi} style="min-height:64px;font-size:1.1rem;">हिंदी</a>
+    </div>
+  </main>
+  <script is:inline define:vars={{ en, hi }}>
+    try {
+      var l = localStorage.getItem('kyc-lang');
+      if (l === 'en') location.replace(en);
+      else if (l === 'hi') location.replace(hi);
+    } catch (e) {}
+    document.querySelectorAll('[data-set-lang]').forEach(function (a) {
+      a.addEventListener('click', function () {
+        try { localStorage.setItem('kyc-lang', a.getAttribute('data-set-lang')); } catch (e) {}
+      });
+    });
+  </script>
+</Base>
