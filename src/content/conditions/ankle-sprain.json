@@ -1,0 +1,365 @@
+{
+  "slug": "ankle-sprain",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "An ankle sprain is a stretch or tear of the ligaments (strong bands) around the ankle. It usually happens when the foot twists.",
+      "hi": "टखने में मोच (Ankle Sprain) यानी पैर मुड़ने से टखने के लिगामेंट (ligament) में खिंचाव या हल्की फटन।"
+    },
+    {
+      "en": "Most sprains heal well in 2–6 weeks with early care and exercises.",
+      "hi": "ज़्यादातर मोच सही देखभाल और व्यायाम से 2–6 हफ़्ते में ठीक हो जाती है।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Pain and swelling around the ankle",
+      "hi": "टखने के आसपास दर्द और सूजन"
+    },
+    {
+      "en": "Bruising (blue or black skin)",
+      "hi": "नीला या काला निशान"
+    },
+    {
+      "en": "Pain on standing or walking",
+      "hi": "खड़े होने या चलने पर दर्द"
+    },
+    {
+      "en": "Ankle feels weak or unsteady",
+      "hi": "टखना कमज़ोर या डगमगाता लगना"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Twisting the foot on uneven ground or stairs",
+      "hi": "ऊबड़-खाबड़ ज़मीन या सीढ़ी पर पैर मुड़ जाना"
+    },
+    {
+      "en": "Sports, running or a jump landing",
+      "hi": "खेलते, दौड़ते या कूदकर उतरते समय"
+    },
+    {
+      "en": "Weak ankle from an old sprain",
+      "hi": "पुरानी मोच से कमज़ोर टखना"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "First 2–3 days",
+          "hi": "पहले 2–3 दिन"
+        },
+        "text": {
+          "en": "Rest, ice, bandage and keep the foot raised.",
+          "hi": "आराम, बर्फ़, पट्टी और पैर ऊपर रखें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Support",
+          "hi": "सहारा"
+        },
+        "text": {
+          "en": "Crepe bandage or brace, as your doctor advises.",
+          "hi": "क्रेप बैंडेज या ब्रेस, डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Exercises",
+          "hi": "व्यायाम"
+        },
+        "text": {
+          "en": "Start gentle movement early. Then build strength and balance.",
+          "hi": "जल्दी हल्की हरकत शुरू करें। फिर ताकत और संतुलन बढ़ाएं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
+        "text": {
+          "en": "Only as your doctor advises.",
+          "hi": "सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Surgery is rarely needed. Your treatment depends on your check-up and X-ray.",
+      "hi": "ऑपरेशन की बहुत कम ज़रूरत पड़ती है। आपका इलाज आपकी जांच और एक्स-रे पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Ice wrapped in a cloth for 15 minutes, a few times a day, for the first 2–3 days.",
+      "hi": "पहले 2–3 दिन कपड़े में लपेटी बर्फ़ 15 मिनट, दिन में कई बार।"
+    },
+    {
+      "en": "Keep the foot raised on pillows when sitting or lying.",
+      "hi": "बैठते या लेटते समय पैर तकिए पर ऊपर रखें।"
+    },
+    {
+      "en": "Start gentle ankle movements as soon as the pain allows.",
+      "hi": "दर्द कम होते ही टखने की हल्की हरकत शुरू करें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not apply heat or rub hard in the first 2–3 days.",
+      "hi": "पहले 2–3 दिन गर्म सेक या ज़ोर से मालिश न करें।"
+    },
+    {
+      "en": "Do not go back to running or sports until the ankle is pain-free and steady.",
+      "hi": "जब तक टखना दर्द-रहित और मज़बूत न हो, दौड़ना या खेलना शुरू न करें।"
+    },
+    {
+      "en": "Do not ignore it. An untreated sprain can leave the ankle weak.",
+      "hi": "इसे अनदेखा न करें। बिना इलाज की मोच से टखना कमज़ोर रह सकता है।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Start only when the pain settles and your doctor allows. Stop if pain or swelling increases.",
+    "hi": "दर्द कम होने पर और डॉक्टर के कहने पर ही शुरू करें। दर्द या सूजन बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "ankle-alphabet",
+      "title": {
+        "en": "Ankle Alphabet",
+        "hi": "टखने से अक्षर लिखना (Ankle Alphabet)"
+      },
+      "reps": {
+        "en": "A to Z once, 2–3 times a day",
+        "hi": "A से Z एक बार, दिन में 2–3 बार"
+      },
+      "start": {
+        "en": "Sit with your leg out and the foot off the floor.",
+        "hi": "पैर आगे करके बैठें, पैर ज़मीन से ऊपर।"
+      },
+      "steps": [
+        {
+          "en": "Draw the letters A to Z in the air with your big toe.",
+          "hi": "पैर के अंगूठे से हवा में A से Z लिखें।"
+        },
+        {
+          "en": "Move only the ankle, not the knee.",
+          "hi": "सिर्फ़ टखना हिलाएं, घुटना नहीं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Gentle movements. Stop if pain increases.",
+          "hi": "हल्की हरकत करें। दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "calf-stretch",
+      "title": {
+        "en": "Calf Stretch",
+        "hi": "पिंडली का खिंचाव (Calf Stretch)"
+      },
+      "reps": {
+        "en": "Hold 20–30 seconds, 3 times, twice a day",
+        "hi": "20–30 सेकंड रुकें, 3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Stand facing a wall with your hands on the wall.",
+        "hi": "दीवार की ओर मुंह करके खड़े हों, हाथ दीवार पर।"
+      },
+      "steps": [
+        {
+          "en": "Step the injured foot back. Keep the heel flat and the knee straight.",
+          "hi": "चोट वाला पैर पीछे रखें। एड़ी ज़मीन पर और घुटना सीधा रखें।"
+        },
+        {
+          "en": "Lean forward gently until you feel a stretch in the calf.",
+          "hi": "पिंडली में खिंचाव महसूस होने तक हल्का आगे झुकें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep the heel on the floor. Do not bounce.",
+          "hi": "एड़ी ज़मीन पर रखें। झटके न दें।"
+        }
+      ]
+    },
+    {
+      "id": "band-exercise",
+      "title": {
+        "en": "Resistance Band Exercise",
+        "hi": "रबर बैंड से व्यायाम (Resistance Band)"
+      },
+      "reps": {
+        "en": "10 times, 2 sets a day",
+        "hi": "10 बार, दिन में 2 सेट"
+      },
+      "start": {
+        "en": "Sit with your leg straight. Loop a light band around the front of the foot and hold the ends.",
+        "hi": "पैर सीधा करके बैठें। हल्का रबर बैंड पंजे पर लपेटकर सिरे पकड़ें।"
+      },
+      "steps": [
+        {
+          "en": "Slowly turn the foot outward against the band.",
+          "hi": "पंजे को बैंड के खिलाफ़ धीरे से बाहर की ओर घुमाएं।"
+        },
+        {
+          "en": "Come back slowly. Then repeat.",
+          "hi": "धीरे से वापस आएं। फिर दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Start only after the swelling has settled.",
+          "hi": "सूजन उतरने के बाद ही शुरू करें।"
+        }
+      ]
+    },
+    {
+      "id": "single-leg-balance",
+      "title": {
+        "en": "Single-Leg Balance",
+        "hi": "एक पैर पर संतुलन (Single-Leg Balance)"
+      },
+      "reps": {
+        "en": "Hold 30 seconds, 3 times, twice a day",
+        "hi": "30 सेकंड रुकें, 3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Stand next to a wall or a chair for support.",
+        "hi": "दीवार या कुर्सी के पास खड़े हों, सहारे के लिए।"
+      },
+      "steps": [
+        {
+          "en": "Lift the other foot. Balance on the injured leg.",
+          "hi": "दूसरा पैर उठाएं। चोट वाले पैर पर संतुलन बनाएं।"
+        },
+        {
+          "en": "Keep your knee slightly soft and eyes ahead.",
+          "hi": "घुटना हल्का ढीला और नज़र सामने रखें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep the wall or chair within reach. Stop if you feel dizzy.",
+          "hi": "दीवार या कुर्सी पास रखें। चक्कर आए तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "A sprain will go away on its own. No care is needed.",
+        "hi": "मोच अपने आप ठीक हो जाती है। कुछ करने की ज़रूरत नहीं।"
+      },
+      "fact": {
+        "en": "Without rest and exercises the ankle can stay weak and sprain again.",
+        "hi": "आराम और व्यायाम के बिना टखना कमज़ोर रह सकता है और फिर मुड़ सकता है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Hot compress is best from day one.",
+        "hi": "पहले दिन से गर्म सेक सबसे अच्छा है।"
+      },
+      "fact": {
+        "en": "Heat on a fresh sprain increases swelling. Use ice first.",
+        "hi": "ताज़ा मोच पर गर्मी से सूजन बढ़ती है। पहले बर्फ़ लगाएं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Pulling the foot or heavy massage fixes a sprain.",
+        "hi": "पैर खिंचवाने या ज़ोर की मालिश से मोच ठीक होती है।"
+      },
+      "fact": {
+        "en": "Forceful pulling can cause more damage. Get the ankle checked.",
+        "hi": "ज़ोर से खींचने से और नुकसान हो सकता है। पहले जांच कराएं।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Cannot put any weight on the foot, or the ankle looks bent or out of shape",
+        "hi": "पैर पर बिल्कुल वज़न न डाल पाना, या टखना टेढ़ा या बेढंगा दिखना"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Foot or toes turn cold, pale, blue or numb",
+        "hi": "पैर या उंगलियां ठंडी, पीली, नीली या सुन्न हो जाना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain and swelling not better after 1 week, or the ankle keeps giving way",
+        "hi": "1 हफ़्ते बाद भी दर्द और सूजन कम न होना, या टखना बार-बार मुड़ जाना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Red, hot ankle with fever",
+        "hi": "टखना लाल और गर्म, साथ में बुखार"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray?",
+        "hi": "क्या मुझे एक्स-रे (X-ray) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Often yes, to check for a broken bone. Your doctor will decide.",
+        "hi": "अक्सर हां, हड्डी टूटी तो नहीं यह देखने के लिए। डॉक्टर तय करेंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "Do I need a plaster?",
+        "hi": "क्या प्लास्टर चढ़ेगा?"
+      },
+      "a": {
+        "en": "Usually not. Most sprains need a bandage or brace. A few severe ones need a plaster or boot.",
+        "hi": "आमतौर पर नहीं। ज़्यादातर मोच में पट्टी या ब्रेस काफ़ी है। कुछ गंभीर मोच में प्लास्टर या बूट लगता है।"
+      }
+    },
+    {
+      "q": {
+        "en": "When can I play sports again?",
+        "hi": "खेलना कब शुरू कर सकता हूं?"
+      },
+      "a": {
+        "en": "When the ankle is pain-free, not swollen and steady on one leg. Usually after a few weeks.",
+        "hi": "जब टखना दर्द-रहित हो, सूजन न हो और एक पैर पर स्थिर रहे। आमतौर पर कुछ हफ़्ते बाद।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Most sprains heal in 2–6 weeks. Severe ones take longer. Keep doing the exercises, because a weak ankle can sprain again.",
+        "hi": "ज़्यादातर मोच 2–6 हफ़्ते में ठीक होती है। गंभीर मोच में ज़्यादा समय लगता है। व्यायाम जारी रखें, क्योंकि कमज़ोर टखना दोबारा मुड़ सकता है।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain or swelling is not better after 1 week, or the ankle keeps giving way.",
+        "hi": "1 हफ़्ते बाद भी दर्द या सूजन कम न हो, या टखना बार-बार मुड़ जाए।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}
