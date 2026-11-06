@@ -48,7 +48,7 @@
     },
     "redflags": {
       "en": "Red Flags",
-      "hi": "खतरे के संकेत (Red Flags)"
+      "hi": "ख़तरे के संकेत (Red Flags)"
     },
     "redflagsSub": {
       "en": "See a doctor urgently if you notice any of these",
@@ -114,7 +114,7 @@
     },
     "mistakes": {
       "en": "Common mistakes",
-      "hi": "आम गलतियां"
+      "hi": "आम ग़लतियां"
     },
     "precautions": {
       "en": "Precautions",
@@ -138,7 +138,7 @@
     },
     "seeRedFlags": {
       "en": "Warning signs: when to see a doctor urgently",
-      "hi": "खतरे के संकेत: कब तुरंत डॉक्टर से मिलें"
+      "hi": "ख़तरे के संकेत: कब तुरंत डॉक्टर से मिलें"
     },
     "print": {
       "en": "Print this page",
@@ -178,7 +178,7 @@
     },
     "safety": {
       "en": "If you see any Red Flag, do not wait for a phone reply. Go to the nearest emergency.",
-      "hi": "कोई भी खतरे का संकेत (Red Flag) दिखे तो फ़ोन के जवाब का इंतज़ार न करें। सीधे नज़दीकी इमरजेंसी (emergency) जाएं।"
+      "hi": "कोई भी ख़तरे का संकेत (Red Flag) दिखे तो फ़ोन के जवाब का इंतज़ार न करें। सीधे नज़दीकी इमरजेंसी (emergency) में जाएं।"
     },
     "pdfFooter": {
       "en": "For education only. It does not replace a check-up by your doctor.",

@@ -5,7 +5,7 @@
   "what": [
     {
       "en": "Coccydynia is pain in the tailbone, the small bone at the very bottom of the spine. It is worse when sitting, especially on hard seats.",
-      "hi": "कॉक्सीडाइनिया (Coccydynia) यानी टेलबोन (पूंछ की हड्डी) का दर्द। यह रीढ़ के सबसे नीचे की छोटी हड्डी है। बैठने पर, खासकर सख्त सीट पर, दर्द बढ़ता है।"
+      "hi": "कॉक्सीडाइनिया (Coccydynia) यानी टेलबोन (पूंछ की हड्डी) का दर्द। यह रीढ़ के सबसे नीचे की छोटी हड्डी है। बैठने पर, ख़ासकर सख्त सीट पर, दर्द बढ़ता है।"
     },
     {
       "en": "Most people improve in a few weeks to months with simple changes.",
@@ -15,7 +15,7 @@
   "symptoms": [
     {
       "en": "Pain at the bottom of the spine when sitting, mainly on hard seats",
-      "hi": "बैठने पर रीढ़ के सबसे नीचे दर्द, खासकर सख्त सीट पर"
+      "hi": "बैठने पर रीढ़ के सबसे नीचे दर्द, ख़ासकर सख्त सीट पर"
     },
     {
       "en": "More pain when getting up from a chair",
@@ -27,7 +27,7 @@
     },
     {
       "en": "Pain while passing stool in some people",
-      "hi": "कुछ लोगों में पोटी करते समय दर्द"
+      "hi": "कुछ लोगों में शौच के समय दर्द"
     }
   ],
   "causes": [
@@ -269,7 +269,7 @@
       "level": "emergency",
       "title": {
         "en": "Severe pain after a fall or accident, and you cannot sit, stand or walk",
-        "hi": "गिरने या एक्सीडेंट के बाद बहुत तेज़ दर्द, और बैठ, खड़े या चल न पाना"
+        "hi": "गिरने या एक्सीडेंट के बाद बहुत तेज़ दर्द, और बैठ न पाना, खड़े न हो पाना या चल न पाना"
       }
     },
     {
@@ -295,7 +295,7 @@
       },
       "a": {
         "en": "Sometimes, mainly after a fall, to check for a fracture. Your doctor will decide.",
-        "hi": "कभी-कभी, खासकर गिरने के बाद, फ्रैक्चर देखने के लिए। डॉक्टर तय करेंगे।"
+        "hi": "कभी-कभी, ख़ासकर गिरने के बाद, फ्रैक्चर देखने के लिए। डॉक्टर तय करेंगे।"
       }
     },
     {
@@ -333,7 +333,7 @@
       },
       {
         "en": "Any warning sign: see a doctor at once.",
-        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+        "hi": "कोई भी ख़तरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
       }
     ]
   }

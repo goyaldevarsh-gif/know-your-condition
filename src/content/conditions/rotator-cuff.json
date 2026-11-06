@@ -15,7 +15,7 @@
   "symptoms": [
     {
       "en": "Shoulder pain, mainly when lifting the arm sideways or overhead",
-      "hi": "कंधे का दर्द, खासकर हाथ बगल से या सिर के ऊपर उठाने पर"
+      "hi": "कंधे का दर्द, ख़ासकर हाथ बगल से या सिर के ऊपर उठाने पर"
     },
     {
       "en": "Night pain, hard to sleep on that side",
@@ -222,20 +222,20 @@
       "id": "wall-slide",
       "title": {
         "en": "Wall Slide",
-        "hi": "दीवार पर बांह सरकाना (Wall Slide)"
+        "hi": "दीवार पर हाथ सरकाना (Wall Slide)"
       },
       "reps": {
         "en": "10 times, twice a day",
         "hi": "10 बार, दिन में 2 बार"
       },
       "start": {
-        "en": "Stand facing a wall. Rest your forearms on it at shoulder height, elbows bent.",
-        "hi": "दीवार की ओर मुंह करके खड़े हों। बांहें कंधे की ऊंचाई पर दीवार पर रखें, कोहनियां मुड़ी।"
+        "en": "Stand facing a wall. Place your hands flat on the wall at shoulder height, elbows slightly bent.",
+        "hi": "दीवार की ओर मुंह करके खड़े हों। हथेलियां कंधे की ऊंचाई पर दीवार पर सपाट रखें, कोहनियां हल्की मुड़ी।"
       },
       "steps": [
         {
-          "en": "Slide your forearms slowly up the wall as high as is comfortable.",
-          "hi": "बांहों को दीवार पर जितना आराम से हो उतना ऊपर सरकाएं।"
+          "en": "Slide your hands slowly up the wall as high as is comfortable.",
+          "hi": "हाथों को दीवार पर जितना आराम से हो उतना ऊपर सरकाएं।"
         },
         {
           "en": "Slowly slide back down.",
@@ -257,8 +257,8 @@
         "hi": "रोटेटर कफ़ फटने पर हमेशा ऑपरेशन ही करना पड़ता है।"
       },
       "fact": {
-        "en": "Many tears improve with exercises. Surgery is needed only for some.",
-        "hi": "कई फटन व्यायाम से ठीक हो जाती हैं। ऑपरेशन सिर्फ़ कुछ में चाहिए।"
+        "en": "Many people with a tear improve with exercises. Surgery is needed only for some.",
+        "hi": "फटन होने पर भी कई लोगों को व्यायाम से आराम मिल जाता है। ऑपरेशन सिर्फ़ कुछ को चाहिए।"
       }
     },
     {
@@ -327,7 +327,7 @@
       },
       "a": {
         "en": "Often not at first. Your doctor will decide, mainly if weakness continues or a tear is suspected.",
-        "hi": "शुरू में अक्सर नहीं। डॉक्टर तय करेंगे, खासकर अगर कमज़ोरी बनी रहे या फटन का शक हो।"
+        "hi": "शुरू में अक्सर नहीं। डॉक्टर तय करेंगे, ख़ासकर अगर कमज़ोरी बनी रहे या फटन का शक हो।"
       }
     },
     {
@@ -365,7 +365,7 @@
       },
       {
         "en": "Any warning sign: see a doctor at once.",
-        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+        "hi": "कोई भी ख़तरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
       }
     ]
   }
