@@ -921,3 +921,20 @@ html[data-hc] a:focus-visible, html[data-hc] button:focus-visible, html[data-hc]
 }
 .print-btn:focus-visible { outline: 3px solid var(--navy); outline-offset: 2px; }
 @media print { .tools { display: none !important; } }
+/* Final size trim: contact card + tools row stay compact at every text size */
+.contact { padding: 10px 12px; gap: 2px; }
+.contact h2 { font-size: min(0.9rem, 16px); }
+.contact-who { font-size: min(0.82rem, 14px); }
+.contact-who span { font-size: min(0.72rem, 12px); }
+.contact-num { font-size: min(1rem, 17px); }
+.cbtn { min-height: 38px; padding: 0 8px; border-radius: 10px; font-size: min(0.82rem, 14px); gap: 5px; }
+.cbtn svg { width: 15px; height: 15px; }
+.contact-safety { font-size: min(0.72rem, 12px); padding: 6px 9px; }
+.listen-btn { min-height: 38px; padding: 0 12px 0 10px; gap: 6px; font-size: 14px; }
+.listen-btn svg { width: 17px; height: 17px; }
+.print-btn { width: 38px; height: 38px; }
+.print-btn svg { width: 18px; height: 18px; }
+.tools { margin-top: 8px; }
+.ab-btn { min-height: 44px; border-radius: 12px; font-size: min(0.85rem, 14px); gap: 6px; padding: 0 8px; }
+.ab-btn svg { width: 18px; height: 18px; }
+.ab-hint { margin-top: 4px; }
