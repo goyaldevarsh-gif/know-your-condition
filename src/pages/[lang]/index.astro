@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import Icon from '../../components/Icon.astro';
 import LangSwitch from '../../components/LangSwitch.astro';
+import Contact from '../../components/Contact.astro';
 import ui from '../../content/ui.json';
 import categories from '../../content/categories.json';
 import conditions from '../../content/conditions-index.json';
@@ -79,6 +80,7 @@ const logo = asset('img/logo');
       ))}
     </nav>
 
+    <Contact lang={lang} safety={false} />
     <p class="disclaimer">{t(ui.disclaimer, lang)}</p>
   </main>
 </Base>

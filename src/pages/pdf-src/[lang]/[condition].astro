@@ -1,0 +1,159 @@
+---
+// Print-only source for the downloadable PDFs. scripts/make-pdfs.mjs renders it
+// to dist/pdf/<lang>/<slug>.pdf at build time and then deletes this page from dist.
+import '@fontsource/plus-jakarta-sans/500.css';
+import '@fontsource/plus-jakarta-sans/700.css';
+import '@fontsource/plus-jakarta-sans/800.css';
+import '@fontsource/noto-sans-devanagari/500.css';
+import '@fontsource/noto-sans-devanagari/700.css';
+import '@fontsource/noto-sans-devanagari/800.css';
+import QRCode from 'qrcode';
+import site from '../../../content/site.json';
+import cui from '../../../content/ui-condition.json';
+import index from '../../../content/conditions-index.json';
+import { asset } from '../../../lib/assets';
+import { LANGS, t, url } from '../../../lib/i18n';
+import type { Lang } from '../../../lib/i18n';
+
+export function getStaticPaths() {
+  const f = import.meta.glob('../../../content/conditions/*.json', { eager: true }) as Record<string, { default: any }>;
+  const slugs = Object.values(f).map((m) => m.default.slug as string);
+  return LANGS.flatMap((lang) => slugs.map((condition) => ({ params: { lang, condition } })));
+}
+
+const files = import.meta.glob('../../../content/conditions/*.json', { eager: true }) as Record<string, { default: any }>;
+const all = Object.values(files).map((m) => m.default);
+const lang = Astro.params.lang as Lang;
+const slug = Astro.params.condition as string;
+const c = all.find((x) => x.slug === slug)!;
+const meta = index.find((x) => x.slug === slug)!;
+const H = cui.h;
+const L = cui.l;
+const pageUrl = new URL(url(`${lang}/${slug}/`), Astro.site).toString();
+const qr = await QRCode.toString(pageUrl, { type: 'svg', margin: 0, width: 96, color: { dark: '#102a43', light: '#ffffff' } });
+const flags = [...c.redFlags].sort((a: any, b: any) => Number(b.level === 'emergency') - Number(a.level === 'emergency'));
+const logo = asset('img/logo');
+---
+<!doctype html>
+<html lang={lang}>
+<head>
+  <meta charset="utf-8" />
+  <meta name="robots" content="noindex" />
+  <title>{t(meta.name, lang)}</title>
+  <style is:global>
+    @page { size: A4; margin: 10mm 12mm 8mm; }
+    * { box-sizing: border-box; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    html, body { margin: 0; padding: 0; }
+    body { font-family: 'Plus Jakarta Sans', 'Noto Sans Devanagari', sans-serif; font-size: 13.5pt; line-height: 1.5; color: #102a43; }
+    table.sheet { width: 100%; border-collapse: collapse; }
+    table.sheet td { padding: 0; }
+    .foot { margin-top: 5mm; border-top: 1px solid #d9e2ea; padding-top: 2.5mm; font-size: 8.5pt; color: #52667a; display: flex; justify-content: space-between; gap: 8mm; }
+    .brand { display: flex; align-items: center; gap: 4mm; background: #102a43; color: #fff; border-radius: 4mm; padding: 3.5mm 5mm; }
+    .brand img { width: 12mm; height: 12mm; border-radius: 50%; }
+    .brand b { font-size: 14pt; font-weight: 800; display: block; line-height: 1.2; }
+    .brand span { font-size: 9.5pt; opacity: .85; }
+    .brand .dr { margin-left: auto; text-align: right; }
+    h1 { font-size: 24pt; line-height: 1.2; margin: 5mm 0 2mm; font-weight: 800; }
+    h2 { font-size: 13.5pt; margin: 0 0 2mm; font-weight: 800; }
+    p { margin: 0 0 1.5mm; }
+    .what { margin-bottom: 4mm; }
+    .dd { display: grid; grid-template-columns: 1fr 1fr; gap: 4mm; margin-bottom: 4mm; }
+    .dd > div { border-radius: 3.5mm; padding: 3.5mm 4.5mm; }
+    .dd ul { margin: 0; padding-left: 5mm; }
+    .dd li { margin-bottom: 1.5mm; }
+    .do { background: #e3f5f3; } .do h2 { color: #137a70; }
+    .dont { background: #fdecec; } .dont h2 { color: #a52b2b; }
+    .rf { border: 0.6mm solid #d64545; border-radius: 3.5mm; padding: 3.5mm 4.5mm; margin-bottom: 4mm; break-inside: avoid; }
+    .rf h2 { color: #a52b2b; }
+    .rf ul { list-style: none; margin: 0; padding: 0; }
+    .rf li { display: flex; gap: 3mm; align-items: baseline; margin-bottom: 1.8mm; }
+    .badge { flex: none; font-size: 8.5pt; font-weight: 800; border-radius: 99px; padding: 0.4mm 2.4mm; color: #fff; white-space: nowrap; }
+    .b-emergency { background: #d64545; } .b-urgent { background: #b7791f; }
+    .contact { display: flex; align-items: center; gap: 5mm; border: 0.4mm solid #d9e2ea; border-radius: 3.5mm; padding: 3.5mm 4.5mm; break-inside: avoid; }
+    .contact .who { flex: 1; }
+    .contact .num { font-size: 17pt; font-weight: 800; margin: 0.5mm 0; }
+    .contact .safe { font-size: 9.5pt; color: #a52b2b; font-weight: 700; margin: 1.5mm 0 0; line-height: 1.35; }
+    .qr { text-align: center; font-size: 7.5pt; color: #52667a; width: 28mm; }
+    .qr svg { width: 26mm; height: 26mm; display: block; margin: 0 auto 1mm; }
+    .p2 { break-before: page; }
+    .note { background: #e3f5f3; border-radius: 3mm; padding: 2.5mm 4mm; font-weight: 700; margin-bottom: 4mm; font-size: 11pt; }
+    .ex { display: grid; grid-template-columns: 1fr 1fr; gap: 4mm; }
+    .exc { border: 0.4mm solid #d9e2ea; border-radius: 3.5mm; overflow: hidden; break-inside: avoid; }
+    .exc img { width: 100%; height: 38mm; object-fit: cover; display: block; }
+    .exc .b { padding: 2.5mm 3.5mm 3mm; font-size: 10.5pt; line-height: 1.4; }
+    .exc h3 { font-size: 12pt; margin: 0 0 0.5mm; font-weight: 800; }
+    .exc .reps { color: #137a70; font-weight: 800; font-size: 10pt; margin-bottom: 1.5mm; }
+    .exc ol { margin: 1mm 0 1.5mm; padding-left: 4.5mm; }
+    .exc .pre { color: #a52b2b; font-weight: 700; }
+    .rv { margin-top: 4mm; }
+    .rv ul { margin: 0; padding-left: 5mm; }
+  </style>
+</head>
+<body>
+<table class="sheet">
+  <tbody><tr><td>
+    <div class="brand">
+      {logo && <img src={logo} alt="" />}
+      <div><b>Know Your Condition</b><span>{lang === 'hi' ? 'ऑर्थोपेडिक मरीज़ शिक्षा' : 'Orthopaedic Patient Education'}</span></div>
+      <div class="dr"><b>{t(site.doctor, lang)}</b><span>{t(site.degree, lang)}</span></div>
+    </div>
+
+    <h1>{t(meta.name, lang)}</h1>
+    <div class="what">{c.what.map((p: any) => <p>{t(p, lang)}</p>)}</div>
+
+    <div class="dd">
+      <div class="do"><h2>✓ {t(H.dos, lang)}</h2><ul>{c.dos.map((x: any) => <li>{t(x, lang)}</li>)}</ul></div>
+      <div class="dont"><h2>✕ {t(H.donts, lang)}</h2><ul>{c.donts.map((x: any) => <li>{t(x, lang)}</li>)}</ul></div>
+    </div>
+
+    <div class="rf">
+      <h2>⚠ {t(H.redflags, lang)}</h2>
+      <ul>
+        {flags.map((r: any) => (
+          <li><span class={`badge b-${r.level}`}>{r.level === 'emergency' ? t(L.emergency, lang) : t(L.urgent, lang)}</span><span><strong>{t(r.title, lang)}</strong></span></li>
+        ))}
+      </ul>
+    </div>
+
+    <div class="contact">
+      <div class="who">
+        <b>{t(L.contactTitle, lang)}</b>
+        <div class="num">{site.phoneDisplay}</div>
+        <div>{t(site.doctor, lang)}</div>
+        <p class="safe">{t(L.safety, lang)}</p>
+      </div>
+      <div class="qr"><Fragment set:html={qr} />{t(L.scanAgain, lang)}</div>
+    </div>
+
+    <div class="p2">
+      <h1 style="margin-top:0">{t(L.page2, lang)}</h1>
+      <p class="note">{t(c.exercisesNote, lang)}</p>
+      <div class="ex">
+        {c.exercises.map((ex: any) => {
+          const img = ex.image ? url(ex.image) : asset(`img/${slug}/${ex.id}`);
+          return (
+            <div class="exc">
+              {img && <img src={img} alt="" />}
+              <div class="b">
+                <h3>{t(ex.title, lang)}</h3>
+                <div class="reps">{t(ex.reps, lang)}</div>
+                <div>{t(ex.start, lang)}</div>
+                <ol>{ex.steps.map((s: any) => <li>{t(s, lang)}</li>)}</ol>
+                {ex.precautions && <div class="pre">{ex.precautions.map((s: any) => t(s, lang)).join(' ')}</div>}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+      <div class="rv">
+        <h2>{t(H.revisit, lang)}</h2>
+        <ul>{c.recovery.revisit.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+      </div>
+    </div>
+  </td></tr></tbody>
+  <tfoot><tr><td>
+    <div class="foot"><span>{site.copyright}</span><span>{t(L.pdfFooter, lang)}</span></div>
+  </td></tr></tfoot>
+</table>
+</body>
+</html>

@@ -147,6 +147,50 @@
     "share": {
       "en": "Share",
       "hi": "शेयर करें"
+    },
+    "pdf": {
+      "en": "Download PDF",
+      "hi": "PDF डाउनलोड करें"
+    },
+    "wa": {
+      "en": "Send on WhatsApp",
+      "hi": "WhatsApp पर भेजें"
+    },
+    "shareHint": {
+      "en": "Send to yourself or your family so you always have it.",
+      "hi": "अपने नंबर पर या घर वालों को भेज दें, ताकि हमेशा मिले।"
+    },
+    "shareMsg": {
+      "en": "Information about {name} from Dr. Devarsh Goyal:",
+      "hi": "डॉ. देवर्ष गोयल की ओर से {name} की जानकारी:"
+    },
+    "contactTitle": {
+      "en": "Have a question?",
+      "hi": "कोई सवाल है?"
+    },
+    "call": {
+      "en": "Call",
+      "hi": "फ़ोन करें"
+    },
+    "chat": {
+      "en": "WhatsApp",
+      "hi": "WhatsApp"
+    },
+    "safety": {
+      "en": "If you see any Red Flag, do not wait for a phone reply. Go to the nearest emergency.",
+      "hi": "कोई भी खतरे का संकेत (Red Flag) दिखे तो फ़ोन के जवाब का इंतज़ार न करें। सीधे नज़दीकी इमरजेंसी (emergency) जाएं।"
+    },
+    "pdfFooter": {
+      "en": "For education only. It does not replace a check-up by your doctor.",
+      "hi": "यह सिर्फ़ जानकारी के लिए है। यह डॉक्टर की जांच का विकल्प नहीं है।"
+    },
+    "scanAgain": {
+      "en": "Scan to open online",
+      "hi": "ऑनलाइन खोलने के लिए स्कैन करें"
+    },
+    "page2": {
+      "en": "Exercises",
+      "hi": "व्यायाम"
     }
   }
 }

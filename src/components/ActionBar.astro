@@ -1,0 +1,50 @@
+---
+import cui from '../content/ui-condition.json';
+import { t, url } from '../lib/i18n';
+import type { Lang } from '../lib/i18n';
+interface Props { lang: Lang; slug: string; name: string }
+const { lang, slug, name } = Astro.props;
+const L = cui.l;
+const pdf = url(`pdf/${lang}/${slug}.pdf`);
+const page = new URL(url(`${lang}/${slug}/`), Astro.site).toString();
+const msg = t(L.shareMsg, lang).replace('{name}', name);
+---
+<nav class="actionbar" aria-label="Save and share">
+  <div class="ab-row">
+    <a class="ab-btn ab-pdf" href={pdf} download={`${slug}-${lang}.pdf`}>
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12M7 11l5 5 5-5M5 21h14"/></svg>
+      <span>{t(L.pdf, lang)}</span>
+    </a>
+    <button type="button" class="ab-btn ab-wa" id="wa-share" data-pdf={pdf} data-page={page} data-msg={msg} data-file={`${slug}-${lang}.pdf`}>
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a9 9 0 0 1-13.4 7.8L3 21l1.3-4.4A9 9 0 1 1 21 12z"/></svg>
+      <span>{t(L.wa, lang)}</span>
+    </button>
+  </div>
+  <p class="ab-hint">{t(L.shareHint, lang)}</p>
+</nav>
+
+<script is:inline>
+  (function () {
+    var btn = document.getElementById('wa-share');
+    if (!btn) return;
+    var file = null;
+    fetch(btn.dataset.pdf).then(function (r) { return r.ok ? r.blob() : null; }).then(function (b) {
+      if (b) file = new File([b], btn.dataset.file, { type: 'application/pdf' });
+    }).catch(function () {});
+    function viaLink(text) {
+      window.open('https://wa.me/?text=' + encodeURIComponent(text), '_blank');
+    }
+    btn.addEventListener('click', function () {
+      var text = btn.dataset.msg + '\n' + btn.dataset.page;
+      try {
+        if (file && navigator.canShare && navigator.canShare({ files: [file] })) {
+          navigator.share({ files: [file], text: text }).catch(function (e) {
+            if (!e || e.name !== 'AbortError') viaLink(text);
+          });
+          return;
+        }
+      } catch (e) {}
+      viaLink(text);
+    });
+  })();
+</script>

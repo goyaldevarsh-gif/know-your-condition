@@ -743,3 +743,47 @@ a.cond-card:active { border-color: var(--teal); transform: scale(0.99); }
 
 .tabs button[data-tab='redflags'] { color: var(--red); }
 .tabs button[data-tab='redflags'][aria-selected='true'] { background: var(--red); color: var(--white); box-shadow: 0 4px 12px rgba(214, 69, 69, 0.35); }
+
+/* =====================================================
+   Action bar (PDF + WhatsApp) and contact card
+   ===================================================== */
+.actionbar {
+  position: sticky;
+  bottom: 0;
+  z-index: 30;
+  background: var(--white);
+  border-top: 1px solid var(--border);
+  box-shadow: 0 -6px 20px rgba(16, 42, 67, 0.1);
+  padding: 10px 16px calc(8px + env(safe-area-inset-bottom));
+}
+.ab-row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.ab-btn {
+  display: flex; align-items: center; justify-content: center; gap: 8px;
+  min-height: 56px; border-radius: 16px; border: 2px solid var(--navy);
+  font: inherit; font-size: 0.98rem; font-weight: 800; cursor: pointer;
+  text-decoration: none; line-height: 1.15; text-align: center; padding: 0 8px;
+}
+.ab-pdf { background: var(--white); color: var(--navy); }
+.ab-wa { background: #178f4a; border-color: #178f4a; color: #fff; }
+.ab-hint { margin: 6px 0 0; font-size: 0.74rem; line-height: 1.3; color: var(--muted); text-align: center; }
+
+.contact { padding: 18px; display: flex; flex-direction: column; gap: 8px; }
+.contact h2 { margin: 0; font-size: 1.15rem; }
+.contact-who { margin: 0; display: flex; flex-direction: column; font-size: 0.95rem; }
+.contact-who span { color: var(--muted); font-size: 0.82rem; }
+.contact-num { margin: 0; font-size: 1.35rem; font-weight: 800; letter-spacing: 0.02em; }
+.contact-btns { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 4px; }
+.cbtn {
+  display: flex; align-items: center; justify-content: center; gap: 8px;
+  min-height: 54px; border-radius: 14px; font-weight: 800; font-size: 1rem; text-decoration: none;
+}
+.cbtn-call { background: var(--navy); color: #fff; }
+.cbtn-wa { background: #178f4a; color: #fff; }
+.contact-safety {
+  margin: 6px 0 0; padding: 10px 12px; border-radius: 12px;
+  background: #fdecec; color: #a52b2b; font-size: 0.88rem; font-weight: 700; line-height: 1.4;
+}
+
+@media print {
+  .actionbar, .contact { display: none; }
+}

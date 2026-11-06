@@ -24,7 +24,10 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: npx playwright-core install --with-deps chromium
       - run: npm run build
+        env:
+          REQUIRE_PDF: '1'
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
