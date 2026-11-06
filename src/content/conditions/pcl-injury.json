@@ -100,10 +100,6 @@
     {
       "en": "See an orthopaedic doctor early. Scans can look normal if the injury is more than 3 months old.",
       "hi": "जल्दी हड्डी रोग विशेषज्ञ को दिखाएं। चोट 3 महीने से पुरानी हो तो स्कैन सामान्य दिख सकते हैं।"
-    },
-    {
-      "en": "Follow the physiotherapy plan, especially thigh muscle strengthening.",
-      "hi": "फिज़ियोथेरेपी प्लान का पालन करें, ख़ासकर जांघ की मांसपेशी मज़बूत करना।"
     }
   ],
   "donts": [
@@ -234,13 +230,6 @@
         "en": "The knee sags backward or feels very unstable",
         "hi": "घुटना पीछे की ओर बैठता है या बहुत अस्थिर लगता है"
       }
-    },
-    {
-      "level": "urgent",
-      "title": {
-        "en": "Knee injury from a car accident or a strong blow",
-        "hi": "कार दुर्घटना या ज़ोरदार चोट से घुटने की चोट"
-      }
     }
   ],
   "faqs": [
@@ -262,16 +251,6 @@
       "a": {
         "en": "It depends on how severe the injury is. After surgery, full recovery typically takes 6 to 12 months. A desk job may be possible after several weeks, while physically demanding jobs may take months.",
         "hi": "यह चोट की गंभीरता पर निर्भर है। ऑपरेशन के बाद पूरी तरह ठीक होने में आमतौर पर 6 से 12 महीने लगते हैं। डेस्क जॉब कई हफ़्तों बाद संभव हो सकती है, जबकि मेहनत वाले काम में महीने लग सकते हैं।"
-      }
-    },
-    {
-      "q": {
-        "en": "What is a PCL avulsion fracture?",
-        "hi": "PCL एवल्शन फ़्रैक्चर क्या है?"
-      },
-      "a": {
-        "en": "The ligament pulls off a small piece of bone from the shin bone. It shows on an X-ray. Treatment depends on how far the piece has moved and whether the knee is unstable.",
-        "hi": "लिगामेंट पिंडली की हड्डी से हड्डी का छोटा टुकड़ा खींच लाता है। यह एक्स-रे में दिखता है। इलाज इस पर निर्भर है कि टुकड़ा कितना हिला है और घुटना अस्थिर है या नहीं।"
       }
     }
   ],
