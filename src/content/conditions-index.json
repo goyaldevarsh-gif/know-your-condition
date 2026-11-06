@@ -96,6 +96,18 @@
     }
   },
   {
+    "slug": "coccydynia",
+    "category": "spine-neck",
+    "name": {
+      "en": "Coccydynia (Tailbone Pain)",
+      "hi": "टेलबोन (पूंछ की हड्डी) का दर्द (Coccydynia)"
+    },
+    "short": {
+      "en": "Pain at the very bottom of the spine, worse on sitting.",
+      "hi": "रीढ़ के सबसे नीचे दर्द, बैठने पर ज़्यादा।"
+    }
+  },
+  {
     "slug": "plantar-fasciitis",
     "category": "foot-ankle",
     "name": {

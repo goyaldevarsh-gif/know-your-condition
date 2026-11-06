@@ -1,0 +1,340 @@
+{
+  "slug": "coccydynia",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Coccydynia is pain in the tailbone, the small bone at the very bottom of the spine. It is worse when sitting, especially on hard seats.",
+      "hi": "कॉक्सीडाइनिया (Coccydynia) यानी टेलबोन (पूंछ की हड्डी) का दर्द। यह रीढ़ के सबसे नीचे की छोटी हड्डी है। बैठने पर, खासकर सख्त सीट पर, दर्द बढ़ता है।"
+    },
+    {
+      "en": "Most people improve in a few weeks to months with simple changes.",
+      "hi": "ज़्यादातर लोग आसान बदलावों से कुछ हफ़्तों से महीनों में ठीक हो जाते हैं।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Pain at the bottom of the spine when sitting, mainly on hard seats",
+      "hi": "बैठने पर रीढ़ के सबसे नीचे दर्द, खासकर सख्त सीट पर"
+    },
+    {
+      "en": "More pain when getting up from a chair",
+      "hi": "कुर्सी से उठते समय दर्द ज़्यादा"
+    },
+    {
+      "en": "Tender when pressed over the tailbone",
+      "hi": "टेलबोन को दबाने पर दर्द"
+    },
+    {
+      "en": "Pain while passing stool in some people",
+      "hi": "कुछ लोगों में पोटी करते समय दर्द"
+    }
+  ],
+  "causes": [
+    {
+      "en": "A fall on the buttocks",
+      "hi": "कूल्हों के बल गिरना"
+    },
+    {
+      "en": "Long hours on hard seats, or poor sitting posture",
+      "hi": "सख्त सीट पर देर तक बैठना, या गलत तरीके से बैठना"
+    },
+    {
+      "en": "After childbirth, or no clear reason (this is common)",
+      "hi": "प्रसव के बाद, या बिना किसी साफ़ वजह के (यह आम है)"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Daily care",
+          "hi": "रोज़ की देखभाल"
+        },
+        "text": {
+          "en": "Use a ring or wedge cushion. Lean forward when sitting. Warm pack.",
+          "hi": "रिंग या वेज कुशन इस्तेमाल करें। बैठते समय थोड़ा आगे झुकें। गर्म सेक लें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
+        "text": {
+          "en": "Only as your doctor advises.",
+          "hi": "सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Physiotherapy",
+          "hi": "फिज़ियोथेरेपी (Physiotherapy)"
+        },
+        "text": {
+          "en": "Gentle hip and pelvic stretches.",
+          "hi": "कूल्हे और पेल्विस के हल्के खिंचाव वाले व्यायाम।"
+        }
+      },
+      {
+        "title": {
+          "en": "Injection or surgery",
+          "hi": "इंजेक्शन या ऑपरेशन"
+        },
+        "text": {
+          "en": "Rarely needed, only if pain stays for many months.",
+          "hi": "बहुत कम ज़रूरत, सिर्फ़ तब जब दर्द कई महीने बना रहे।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up and X-ray.",
+      "hi": "आपका इलाज आपकी जांच और एक्स-रे पर निर्भर करता है।"
+    }
+  },
+  "diet": [
+    {
+      "en": "Eat fibre (vegetables, fruits, dalia) and drink enough water. Hard stools make tailbone pain worse.",
+      "hi": "रेशेदार चीज़ें (सब्ज़ी, फल, दलिया) खाएं और खूब पानी पिएं। कब्ज़ से टेलबोन का दर्द बढ़ता है।"
+    }
+  ],
+  "dos": [
+    {
+      "en": "Use a ring (doughnut) or wedge cushion when sitting.",
+      "hi": "बैठते समय रिंग (डोनट) या वेज कुशन इस्तेमाल करें।"
+    },
+    {
+      "en": "Lean slightly forward when sitting. Stand and move every 30 minutes.",
+      "hi": "बैठते समय थोड़ा आगे झुकें। हर 30 मिनट में उठकर चलें।"
+    },
+    {
+      "en": "Eat fibre and drink water to avoid straining on the toilet.",
+      "hi": "टॉयलेट में ज़ोर न लगाना पड़े, इसलिए रेशेदार खाना खाएं और पानी पिएं।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not sit for long on hard surfaces, or lean back while sitting.",
+      "hi": "सख्त जगह पर देर तक न बैठें, और बैठते समय पीछे न टिकें।"
+    },
+    {
+      "en": "Avoid long bike or scooter rides until the pain settles.",
+      "hi": "दर्द ठीक होने तक बाइक या स्कूटर की लंबी सवारी से बचें।"
+    },
+    {
+      "en": "Do not press or massage the tailbone hard.",
+      "hi": "टेलबोन को ज़ोर से न दबाएं और न मालिश करें।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so. They are gentle stretches. Stop if the pain increases.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। ये हल्के खिंचाव वाले हैं। दर्द बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "knee-to-chest",
+      "title": {
+        "en": "Knee to Chest",
+        "hi": "घुटना सीने तक लाना (Knee to Chest)"
+      },
+      "reps": {
+        "en": "Hold 15–20 seconds, 3 times each leg, twice a day",
+        "hi": "15–20 सेकंड रुकें, हर पैर से 3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Lie on your back with your legs straight.",
+        "hi": "पीठ के बल लेटें, पैर सीधे।"
+      },
+      "steps": [
+        {
+          "en": "Bring one knee towards your chest with both hands.",
+          "hi": "दोनों हाथों से एक घुटना सीने की ओर लाएं।"
+        },
+        {
+          "en": "Hold, then lower slowly. Repeat with the other leg.",
+          "hi": "रुकें, फिर धीरे से नीचे लाएं। दूसरे पैर से दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not pull hard. Stop if the tailbone pain increases.",
+          "hi": "ज़ोर से न खींचें। टेलबोन का दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "buttock-stretch",
+      "title": {
+        "en": "Buttock Stretch",
+        "hi": "कूल्हे की मांसपेशी का खिंचाव (Buttock Stretch)"
+      },
+      "reps": {
+        "en": "Hold 20–30 seconds, 3 times each side, twice a day",
+        "hi": "20–30 सेकंड रुकें, हर तरफ़ 3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Lie on your back with knees bent and feet flat.",
+        "hi": "पीठ के बल लेटें, घुटने मुड़े और तलवे ज़मीन पर।"
+      },
+      "steps": [
+        {
+          "en": "Cross one ankle over the opposite knee.",
+          "hi": "एक टखने को दूसरे घुटने पर रखें।"
+        },
+        {
+          "en": "Hold the thigh of the lower leg and pull it gently towards your chest. Feel the stretch in the buttock.",
+          "hi": "नीचे वाले पैर की जांघ पकड़कर धीरे से सीने की ओर खींचें। कूल्हे में खिंचाव महसूस करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Pull gently. Stop if the tailbone pain increases.",
+          "hi": "धीरे से खींचें। टेलबोन का दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "belly-breathing",
+      "title": {
+        "en": "Deep Belly Breathing",
+        "hi": "गहरी सांस, पेट से (Belly Breathing)"
+      },
+      "reps": {
+        "en": "5 minutes, twice a day",
+        "hi": "5 मिनट, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Lie on your back with knees bent and a pillow under the knees.",
+        "hi": "पीठ के बल लेटें, घुटने मुड़े और घुटनों के नीचे तकिया।"
+      },
+      "steps": [
+        {
+          "en": "Breathe in slowly through the nose. Let the belly rise and the buttocks relax.",
+          "hi": "नाक से धीरे से सांस लें। पेट को ऊपर उठने दें और कूल्हे ढीले छोड़ें।"
+        },
+        {
+          "en": "Breathe out slowly. Repeat.",
+          "hi": "धीरे से सांस छोड़ें। दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep it relaxed. Do not strain.",
+          "hi": "आराम से करें। ज़ोर न लगाएं।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Tailbone pain always means a broken bone.",
+        "hi": "टेलबोन के दर्द का मतलब हमेशा हड्डी टूटना है।"
+      },
+      "fact": {
+        "en": "Most tailbone pain is from bruising or strain and settles with time.",
+        "hi": "ज़्यादातर टेलबोन का दर्द चोट या खिंचाव से होता है और समय के साथ ठीक होता है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "The tailbone must be removed by surgery.",
+        "hi": "टेलबोन को ऑपरेशन से निकालना ही पड़ता है।"
+      },
+      "fact": {
+        "en": "Surgery is rarely needed. Most people improve without it.",
+        "hi": "ऑपरेशन की बहुत कम ज़रूरत पड़ती है। ज़्यादातर लोग उसके बिना ठीक हो जाते हैं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "A soft, thick sofa is best to sit on.",
+        "hi": "सबसे अच्छा है नरम, मोटे सोफ़े पर बैठना।"
+      },
+      "fact": {
+        "en": "Soft sofas sink and add pressure. Use a ring cushion on a firm seat.",
+        "hi": "नरम सोफ़ा धंस जाता है और दबाव बढ़ाता है। मज़बूत सीट पर रिंग कुशन इस्तेमाल करें।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Loss of control over urine or stool, or numbness around the buttocks and groin",
+        "hi": "पेशाब या मल पर नियंत्रण न रहना, या कूल्हों और जांघों के बीच सुन्नपन"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Severe pain after a fall or accident, and you cannot sit, stand or walk",
+        "hi": "गिरने या एक्सीडेंट के बाद बहुत तेज़ दर्द, और बैठ, खड़े या चल न पाना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Fever with redness, swelling or discharge near the tailbone",
+        "hi": "बुखार के साथ टेलबोन के पास लाली, सूजन या पानी/मवाद"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain not better after 4–6 weeks, or night pain and unexplained weight loss",
+        "hi": "4–6 हफ़्ते बाद भी आराम न मिलना, या रात का दर्द और बिना वजह वज़न घटना"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray?",
+        "hi": "क्या मुझे एक्स-रे (X-ray) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Sometimes, mainly after a fall, to check for a fracture. Your doctor will decide.",
+        "hi": "कभी-कभी, खासकर गिरने के बाद, फ्रैक्चर देखने के लिए। डॉक्टर तय करेंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "How long will it take to heal?",
+        "hi": "ठीक होने में कितना समय लगेगा?"
+      },
+      "a": {
+        "en": "Most people improve in a few weeks to months. Some take longer.",
+        "hi": "ज़्यादातर लोग कुछ हफ़्तों से महीनों में ठीक होते हैं। कुछ को ज़्यादा समय लगता है।"
+      }
+    },
+    {
+      "q": {
+        "en": "Which cushion should I use?",
+        "hi": "कौन सा कुशन लूं?"
+      },
+      "a": {
+        "en": "A ring (doughnut) or wedge cushion that takes pressure off the tailbone. Your doctor can advise.",
+        "hi": "रिंग (डोनट) या वेज कुशन, जो टेलबोन से दबाव हटाए। डॉक्टर सलाह दे सकते हैं।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Most tailbone pain improves in weeks to a few months. Keep using the cushion and doing the stretches.",
+        "hi": "ज़्यादातर टेलबोन का दर्द हफ़्तों से कुछ महीनों में ठीक होता है। कुशन और व्यायाम जारी रखें।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after 4–6 weeks, or is getting worse.",
+        "hi": "4–6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}
