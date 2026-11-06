@@ -913,3 +913,11 @@ html[data-hc] a:focus-visible, html[data-hc] button:focus-visible, html[data-hc]
 .listen { padding: 0 16px; margin-top: 10px; display: flex; flex-direction: column; align-items: flex-start; }
 .listen-btn { width: auto; min-height: 44px; padding: 0 16px 0 12px; gap: 8px; border-radius: 999px; border-width: 2px; font-size: 15px; font-weight: 700; }
 .listen-btn svg { width: 20px; height: 20px; }
+.tools { display: flex; align-items: center; gap: 10px; padding: 0 16px; margin-top: 10px; }
+.tools .listen { padding: 0; margin: 0; }
+.print-btn {
+  width: 44px; height: 44px; border-radius: 50%; border: 2px solid var(--border); background: var(--white); color: var(--navy);
+  display: grid; place-items: center; flex: none;
+}
+.print-btn:focus-visible { outline: 3px solid var(--navy); outline-offset: 2px; }
+@media print { .tools { display: none !important; } }

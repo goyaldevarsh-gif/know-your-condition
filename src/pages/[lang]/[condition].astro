@@ -55,7 +55,12 @@ const TABS = ['overview', 'care', 'exercises', 'redflags', 'faqs'] as const;
       ))}
     </div>
 
-    <Listen lang={lang} />
+    <div class="tools">
+      <Listen lang={lang} />
+      <a class="print-btn" href={url(`pdf/${lang}/${slug}.pdf`)} target="_blank" rel="noopener" aria-label={lang === 'hi' ? 'प्रिंट करें (A4 PDF)' : 'Print (A4 PDF)'} title={lang === 'hi' ? 'प्रिंट' : 'Print'}>
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9V3h12v6"/><path d="M6 18H4a1 1 0 0 1-1-1v-6a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v6a1 1 0 0 1-1 1h-2"/><rect x="6" y="14" width="12" height="7" rx="1"/></svg>
+      </a>
+    </div>
 
     <!-- ===================== OVERVIEW ===================== -->
     <section class="panel" id="panel-overview" role="tabpanel" aria-labelledby="tab-overview" data-panel="overview">
