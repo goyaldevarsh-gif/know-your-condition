@@ -66,14 +66,16 @@ const TABS = ['overview', 'care', 'exercises', 'redflags', 'faqs'] as const;
         {c.what.map((p: any) => <p class="body-text">{t(p, lang)}</p>)}
       </div>
 
+{c.causes && (
       <Accordion title={t(H.causes, lang)}>
         <ul class="bullets">{c.causes.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
         {c.risks && <h4 class="sub-h">{t(H.risks, lang)}</h4>}
         {c.risks && <ul class="bullets">{c.risks.map((x: any) => <li>{t(x, lang)}</li>)}</ul>}
       </Accordion>
+)}
 
 {c.symptoms && (
-      <Accordion title={t(H.symptoms, lang)}>
+      <Accordion title={t(c.symptomsTitle ?? H.symptoms, lang)}>
         <ul class="bullets">{c.symptoms.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
       </Accordion>
 )}

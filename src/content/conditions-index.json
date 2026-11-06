@@ -144,15 +144,27 @@
     }
   },
   {
-    "slug": "fracture-cast-care",
+    "slug": "cast-care-upper-limb",
     "category": "trauma-fractures",
     "name": {
-      "en": "Fracture & Cast Care",
-      "hi": "फ्रैक्चर और प्लास्टर की देखभाल (Fracture & Cast Care)"
+      "en": "Cast Care: Arm, Hand & Wrist",
+      "hi": "हाथ और बांह के प्लास्टर की देखभाल (Cast Care: Arm)"
     },
     "short": {
-      "en": "Looking after a broken bone and its cast.",
-      "hi": "टूटी हड्डी और प्लास्टर की देखभाल।"
+      "en": "Looking after a plaster on the arm, wrist or hand.",
+      "hi": "बांह, कलाई या हाथ के प्लास्टर की देखभाल।"
+    }
+  },
+  {
+    "slug": "cast-care-lower-limb",
+    "category": "trauma-fractures",
+    "name": {
+      "en": "Cast Care: Leg, Ankle & Foot",
+      "hi": "पैर और टांग के प्लास्टर की देखभाल (Cast Care: Leg)"
+    },
+    "short": {
+      "en": "Looking after a plaster on the leg, ankle or foot.",
+      "hi": "टांग, टखने या पैर के प्लास्टर की देखभाल।"
     }
   }
 ]

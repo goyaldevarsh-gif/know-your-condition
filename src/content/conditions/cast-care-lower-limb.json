@@ -1,0 +1,368 @@
+{
+  "slug": "cast-care-lower-limb",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "A cast (plaster) holds a broken leg, ankle or foot bone still so it can heal. Leg fractures often need 6–12 weeks.",
+      "hi": "प्लास्टर टूटी टांग, टखने या पैर की हड्डी को स्थिर रखता है ताकि वह जुड़ सके। टांग के फ्रैक्चर में अक्सर 6–12 हफ़्ते लगते हैं।"
+    },
+    {
+      "en": "Your doctor will tell you when you can put weight on the leg. Follow this strictly.",
+      "hi": "पैर पर वज़न कब डालना है, यह डॉक्टर बताएंगे। इसका सख्ती से पालन करें।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "What is normal with a cast",
+    "hi": "प्लास्टर में क्या सामान्य है"
+  },
+  "symptoms": [
+    {
+      "en": "Mild swelling of the toes, more by evening. It reduces when you raise the leg.",
+      "hi": "उंगलियों में हल्की सूजन, शाम को ज़्यादा। पैर ऊपर रखने से कम होती है।"
+    },
+    {
+      "en": "Itching under the cast",
+      "hi": "प्लास्टर के अंदर खुजली"
+    },
+    {
+      "en": "Some aching in the first week",
+      "hi": "पहले हफ़्ते में हल्का दर्द"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Cast (plaster)",
+          "hi": "प्लास्टर"
+        },
+        "text": {
+          "en": "Keeps the bone still while it heals.",
+          "hi": "हड्डी को जुड़ने तक स्थिर रखता है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Crutches or walker",
+          "hi": "बैसाखी या वॉकर"
+        },
+        "text": {
+          "en": "Use them as taught. No weight on the leg unless your doctor allows.",
+          "hi": "सिखाए अनुसार इस्तेमाल करें। डॉक्टर के कहे बिना पैर पर वज़न न डालें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Follow-up X-rays",
+          "hi": "फॉलो-अप एक्स-रे"
+        },
+        "text": {
+          "en": "To check healing. Do not miss them.",
+          "hi": "जुड़ने की जांच के लिए। इन्हें न छोड़ें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Surgery",
+          "hi": "ऑपरेशन"
+        },
+        "text": {
+          "en": "Some fractures need a plate, screws or a rod. Your doctor will tell you.",
+          "hi": "कुछ फ्रैक्चर में प्लेट, स्क्रू या रॉड लगती है। डॉक्टर आपको बताएंगे।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your X-ray and your doctor's advice.",
+      "hi": "आपका इलाज आपके एक्स-रे और डॉक्टर की सलाह पर निर्भर करता है।"
+    }
+  },
+  "diet": [
+    {
+      "en": "Eat normal healthy food with milk, dal, eggs or paneer for calcium and protein.",
+      "hi": "दूध, दाल, अंडा या पनीर वाला सामान्य पौष्टिक खाना खाएं। इनसे कैल्शियम और प्रोटीन मिलता है।"
+    },
+    {
+      "en": "Do not smoke or chew tobacco. It slows bone healing.",
+      "hi": "बीड़ी-सिगरेट या तंबाकू न लें। इससे हड्डी देर से जुड़ती है।"
+    }
+  ],
+  "dos": [
+    {
+      "en": "Raise the leg on pillows, above the level of the heart, when resting.",
+      "hi": "आराम करते समय पैर को तकियों पर, दिल से ऊपर रखें।"
+    },
+    {
+      "en": "Move your toes, knee and hip many times a day.",
+      "hi": "पंजे की उंगलियां, घुटना और कूल्हा दिन में कई बार हिलाएं।"
+    },
+    {
+      "en": "Use crutches or a walker as taught. Keep floors dry and clear.",
+      "hi": "सिखाए अनुसार बैसाखी या वॉकर इस्तेमाल करें। फ़र्श सूखा और साफ़ रखें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not put weight on the leg unless your doctor says so.",
+      "hi": "डॉक्टर के कहे बिना पैर पर वज़न न डालें।"
+    },
+    {
+      "en": "Do not put anything inside the cast to scratch. Keep it dry.",
+      "hi": "खुजली के लिए प्लास्टर के अंदर कुछ न डालें। उसे सूखा रखें।"
+    },
+    {
+      "en": "Do not sit for long with the leg hanging down.",
+      "hi": "देर तक पैर लटकाकर न बैठें।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "These keep the free joints moving, reduce swelling and protect the muscles. Never move the broken bone itself. Stop if pain increases.",
+    "hi": "ये खुले जोड़ों को चलाते हैं, सूजन घटाते हैं और मांसपेशियों को बचाते हैं। टूटी हड्डी वाली जगह न हिलाएं। दर्द बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "toe-wiggle",
+      "title": {
+        "en": "Wiggle the Toes",
+        "hi": "पंजे की उंगलियां हिलाना"
+      },
+      "reps": {
+        "en": "10 times, every hour while awake",
+        "hi": "10 बार, जागते समय हर घंटे"
+      },
+      "start": {
+        "en": "Sit or lie with the leg raised on pillows.",
+        "hi": "बैठें या लेटें, पैर तकियों पर ऊपर रखें।"
+      },
+      "steps": [
+        {
+          "en": "Curl your toes down.",
+          "hi": "उंगलियां नीचे की ओर मोड़ें।"
+        },
+        {
+          "en": "Spread them up and out. Repeat.",
+          "hi": "फिर ऊपर और फैलाकर खोलें। दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Tell your doctor if the toes cannot move or feel numb.",
+          "hi": "उंगलियां न हिलें या सुन्न लगें तो डॉक्टर को बताएं।"
+        }
+      ]
+    },
+    {
+      "id": "quads-set",
+      "title": {
+        "en": "Thigh Tightening",
+        "hi": "जांघ की मांसपेशी कसना (Quads Set)"
+      },
+      "reps": {
+        "en": "10 times, hold 5 seconds, 3 times a day",
+        "hi": "10 बार, 5 सेकंड रोकें, दिन में 3 बार"
+      },
+      "start": {
+        "en": "Lie or sit with the leg straight and supported.",
+        "hi": "पैर सीधा करके सहारे से लेटें या बैठें।"
+      },
+      "steps": [
+        {
+          "en": "Tighten the thigh muscle. Push the back of the knee down.",
+          "hi": "जांघ की मांसपेशी कसें। घुटने के पीछे से नीचे दबाएं।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not hold your breath.",
+          "hi": "सांस न रोकें।"
+        }
+      ]
+    },
+    {
+      "id": "knee-bend",
+      "title": {
+        "en": "Knee Bend and Straighten",
+        "hi": "घुटना मोड़ना और सीधा करना"
+      },
+      "reps": {
+        "en": "10 times, 3 times a day",
+        "hi": "10 बार, दिन में 3 बार"
+      },
+      "start": {
+        "en": "Sit on a chair. Only if the cast stops below the knee.",
+        "hi": "कुर्सी पर बैठें। सिर्फ़ तब, जब प्लास्टर घुटने के नीचे तक हो।"
+      },
+      "steps": [
+        {
+          "en": "Slowly straighten the knee.",
+          "hi": "घुटने को धीरे से सीधा करें।"
+        },
+        {
+          "en": "Lower it slowly. Repeat.",
+          "hi": "धीरे से नीचे लाएं। दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not put the cast foot on the floor to take weight.",
+          "hi": "प्लास्टर वाले पैर को ज़मीन पर रखकर वज़न न डालें।"
+        }
+      ]
+    },
+    {
+      "id": "leg-elevation",
+      "title": {
+        "en": "Raise the Leg to Reduce Swelling",
+        "hi": "सूजन घटाने के लिए पैर ऊपर रखना"
+      },
+      "reps": {
+        "en": "Most of the day for the first 2–3 days",
+        "hi": "पहले 2–3 दिन ज़्यादातर समय"
+      },
+      "start": {
+        "en": "Lie back with 2–3 pillows under the leg.",
+        "hi": "टेक लगाकर लेटें, पैर के नीचे 2–3 तकिए रखें।"
+      },
+      "steps": [
+        {
+          "en": "Rest the whole leg on the pillows.",
+          "hi": "पूरी टांग तकियों पर रखें।"
+        },
+        {
+          "en": "Keep the toes higher than the heart.",
+          "hi": "पंजे की उंगलियां दिल से ऊपर रखें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not keep the leg hanging down.",
+          "hi": "पैर को नीचे लटकने न दें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Once the pain is gone, I can walk on the leg.",
+        "hi": "दर्द चला गया तो पैर पर चल सकता हूं।"
+      },
+      "fact": {
+        "en": "Pain goes before the bone is strong. Walking too early can shift the fracture.",
+        "hi": "हड्डी मज़बूत होने से पहले ही दर्द चला जाता है। जल्दी चलने से फ्रैक्चर खिसक सकता है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "A stick or pen is fine to scratch under the cast.",
+        "hi": "प्लास्टर के अंदर डंडी या पेन से खुजलाना ठीक है।"
+      },
+      "fact": {
+        "en": "It can cause wounds and infection. Tap the cast over the itch, or use cool air from a hair dryer.",
+        "hi": "इससे घाव और इन्फेक्शन हो सकता है। खुजली वाली जगह प्लास्टर पर थपथपाएं, या हेयर ड्रायर की ठंडी हवा लें।"
+      }
+    },
+    {
+      "myth": {
+        "en": "I should not move anything while in a cast.",
+        "hi": "प्लास्टर में कुछ भी हिलाना नहीं चाहिए।"
+      },
+      "fact": {
+        "en": "Moving the toes, knee and hip reduces swelling and stiffness, and helps prevent clots.",
+        "hi": "उंगलियां, घुटना और कूल्हा हिलाने से सूजन और अकड़न कम होती है और खून के थक्के बनने से बचाव होता है।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Toes turn blue, white or cold, or become numb",
+        "hi": "पंजे की उंगलियां नीली, सफ़ेद या ठंडी हो जाएं, या सुन्न पड़ जाएं"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Severe pain that keeps increasing and does not ease when you raise the leg",
+        "hi": "बहुत तेज़ दर्द जो बढ़ता जाए और पैर ऊपर रखने से भी कम न हो"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Calf pain or swelling, or sudden breathlessness or chest pain",
+        "hi": "पिंडली में दर्द या सूजन, या अचानक सांस फूलना या सीने में दर्द"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Cast feels too tight, is wet, soft, cracked or smells bad",
+        "hi": "प्लास्टर बहुत कसा लगे, भीग जाए, नरम पड़े, टूटे या बदबू आए"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Fever, or redness or discharge at the cast edge",
+        "hi": "बुखार, या प्लास्टर के किनारे पर लाली या पानी/मवाद"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Can I take a bath?",
+        "hi": "क्या मैं नहा सकता हूं?"
+      },
+      "a": {
+        "en": "Yes, but keep the cast dry. Cover it with a plastic bag and keep it out of the water. If it gets wet, tell your doctor.",
+        "hi": "हां, पर प्लास्टर सूखा रखें। उस पर पॉलिथीन चढ़ाएं और पानी से दूर रखें। भीग जाए तो डॉक्टर को बताएं।"
+      }
+    },
+    {
+      "q": {
+        "en": "When can I walk on the leg?",
+        "hi": "पैर पर चलना कब शुरू कर सकता हूं?"
+      },
+      "a": {
+        "en": "Only when your doctor allows, after checking the X-ray. It may be several weeks.",
+        "hi": "सिर्फ़ तब, जब एक्स-रे देखकर डॉक्टर कहें। इसमें कई हफ़्ते लग सकते हैं।"
+      }
+    },
+    {
+      "q": {
+        "en": "How long will the cast stay?",
+        "hi": "प्लास्टर कितने दिन रहेगा?"
+      },
+      "a": {
+        "en": "Usually 6–12 weeks, depending on the bone. Your doctor will check with X-rays.",
+        "hi": "हड्डी के हिसाब से आमतौर पर 6–12 हफ़्ते। डॉक्टर एक्स-रे से देखकर बताएंगे।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Leg fractures often need 6–12 weeks to heal. After the cast, physiotherapy helps you walk normally again.",
+        "hi": "टांग के फ्रैक्चर को अक्सर 6–12 हफ़्ते लगते हैं। प्लास्टर खुलने के बाद फिज़ियोथेरेपी से दोबारा सामान्य चलना आसान होता है।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "The cast is cracked, loose or too tight.",
+        "hi": "प्लास्टर टूटे, ढीला या बहुत कसा लगे।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "slug": "cast-care-upper-limb",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "A cast (plaster) holds a broken bone still so it can heal. Arm, wrist and hand fractures usually need 4–8 weeks.",
+      "hi": "प्लास्टर टूटी हड्डी को स्थिर रखता है ताकि वह जुड़ सके। बांह, कलाई और हाथ की हड्डी को आमतौर पर 4–8 हफ़्ते लगते हैं।"
+    },
+    {
+      "en": "Good cast care and moving the free joints keep your fingers, elbow and shoulder from getting stiff.",
+      "hi": "प्लास्टर की सही देखभाल और खुले जोड़ों की हरकत से उंगलियां, कोहनी और कंधा अकड़ने से बचते हैं।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "What is normal with a cast",
+    "hi": "प्लास्टर में क्या सामान्य है"
+  },
+  "symptoms": [
+    {
+      "en": "Mild swelling of the fingers in the first days. It reduces when you raise the arm.",
+      "hi": "शुरू के दिनों में उंगलियों में हल्की सूजन। हाथ ऊपर रखने से कम होती है।"
+    },
+    {
+      "en": "Itching under the cast",
+      "hi": "प्लास्टर के अंदर खुजली"
+    },
+    {
+      "en": "Some aching in the first week, more at night",
+      "hi": "पहले हफ़्ते में हल्का दर्द, रात में ज़्यादा"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Cast (plaster)",
+          "hi": "प्लास्टर"
+        },
+        "text": {
+          "en": "Keeps the bone still while it heals.",
+          "hi": "हड्डी को जुड़ने तक स्थिर रखता है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Sling",
+          "hi": "स्लिंग"
+        },
+        "text": {
+          "en": "Rests the arm, only if your doctor advises.",
+          "hi": "हाथ को आराम देती है, सिर्फ़ डॉक्टर के कहने पर।"
+        }
+      },
+      {
+        "title": {
+          "en": "Follow-up X-rays",
+          "hi": "फॉलो-अप एक्स-रे"
+        },
+        "text": {
+          "en": "To check healing. Do not miss them.",
+          "hi": "जुड़ने की जांच के लिए। इन्हें न छोड़ें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Surgery",
+          "hi": "ऑपरेशन"
+        },
+        "text": {
+          "en": "A few fractures need a plate, screws or a rod. Your doctor will tell you.",
+          "hi": "कुछ फ्रैक्चर में प्लेट, स्क्रू या रॉड लगती है। डॉक्टर आपको बताएंगे।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your X-ray and your doctor's advice.",
+      "hi": "आपका इलाज आपके एक्स-रे और डॉक्टर की सलाह पर निर्भर करता है।"
+    }
+  },
+  "diet": [
+    {
+      "en": "Eat normal healthy food with milk, dal, eggs or paneer for calcium and protein.",
+      "hi": "दूध, दाल, अंडा या पनीर वाला सामान्य पौष्टिक खाना खाएं। इनसे कैल्शियम और प्रोटीन मिलता है।"
+    },
+    {
+      "en": "Do not smoke or chew tobacco. It slows bone healing.",
+      "hi": "बीड़ी-सिगरेट या तंबाकू न लें। इससे हड्डी देर से जुड़ती है।"
+    }
+  ],
+  "dos": [
+    {
+      "en": "Raise the arm on pillows, above the level of the heart, for the first 2–3 days.",
+      "hi": "पहले 2–3 दिन हाथ को तकियों पर, दिल से ऊपर रखें।"
+    },
+    {
+      "en": "Move your fingers, elbow and shoulder many times a day.",
+      "hi": "उंगलियां, कोहनी और कंधा दिन में कई बार हिलाएं।"
+    },
+    {
+      "en": "Keep the cast dry. Cover it with a plastic bag when bathing.",
+      "hi": "प्लास्टर सूखा रखें। नहाते समय उस पर पॉलिथीन चढ़ाएं।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not put anything inside the cast to scratch.",
+      "hi": "खुजली के लिए प्लास्टर के अंदर कुछ न डालें।"
+    },
+    {
+      "en": "Do not wear rings, bangles or a watch on the injured hand.",
+      "hi": "चोट वाले हाथ में अंगूठी, चूड़ी या घड़ी न पहनें।"
+    },
+    {
+      "en": "Do not lift weight or lean on the cast.",
+      "hi": "वज़न न उठाएं और प्लास्टर पर ज़ोर न डालें।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "These keep the free joints moving and reduce swelling. Never move the broken bone itself. Stop if pain increases.",
+    "hi": "ये खुले जोड़ों को चलाते हैं और सूजन घटाते हैं। टूटी हड्डी वाली जगह न हिलाएं। दर्द बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "finger-fist",
+      "title": {
+        "en": "Open and Close Fingers",
+        "hi": "उंगलियां खोलना और बंद करना"
+      },
+      "reps": {
+        "en": "10 times, every hour while awake",
+        "hi": "10 बार, जागते समय हर घंटे"
+      },
+      "start": {
+        "en": "Sit or stand with the arm raised.",
+        "hi": "बैठें या खड़े हों, हाथ ऊपर रखें।"
+      },
+      "steps": [
+        {
+          "en": "Open your fingers wide.",
+          "hi": "उंगलियां पूरी खोलें।"
+        },
+        {
+          "en": "Close them into a fist. Repeat.",
+          "hi": "मुट्ठी बंद करें। दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Tell your doctor if the fingers cannot move or feel numb.",
+          "hi": "उंगलियां न हिलें या सुन्न लगें तो डॉक्टर को बताएं।"
+        }
+      ]
+    },
+    {
+      "id": "elbow-bend",
+      "title": {
+        "en": "Elbow Bend and Straighten",
+        "hi": "कोहनी मोड़ना और सीधा करना"
+      },
+      "reps": {
+        "en": "10 times, 3 times a day",
+        "hi": "10 बार, दिन में 3 बार"
+      },
+      "start": {
+        "en": "Sit with the arm supported. Only if the cast does not cover the elbow.",
+        "hi": "हाथ को सहारा देकर बैठें। सिर्फ़ तब, जब प्लास्टर कोहनी को न ढके।"
+      },
+      "steps": [
+        {
+          "en": "Bend the elbow so the hand comes towards the shoulder.",
+          "hi": "कोहनी मोड़कर हाथ को कंधे की ओर लाएं।"
+        },
+        {
+          "en": "Straighten it fully.",
+          "hi": "फिर पूरा सीधा करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not twist the forearm.",
+          "hi": "कलाई या बांह को मरोड़ें नहीं।"
+        }
+      ]
+    },
+    {
+      "id": "shoulder-raise",
+      "title": {
+        "en": "Shoulder Raise",
+        "hi": "कंधा ऊपर उठाना (Shoulder Raise)"
+      },
+      "reps": {
+        "en": "10 times, 3 times a day",
+        "hi": "10 बार, दिन में 3 बार"
+      },
+      "start": {
+        "en": "Stand or sit tall. Support the cast hand with the other hand.",
+        "hi": "सीधे खड़े हों या बैठें। प्लास्टर वाले हाथ को दूसरे हाथ से सहारा दें।"
+      },
+      "steps": [
+        {
+          "en": "Slowly lift the arm up as high as is comfortable.",
+          "hi": "हाथ को धीरे से जितना आराम से हो उतना ऊपर उठाएं।"
+        },
+        {
+          "en": "Lower it slowly.",
+          "hi": "धीरे से नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not carry any weight.",
+          "hi": "कोई वज़न न उठाएं।"
+        }
+      ]
+    },
+    {
+      "id": "arm-elevation",
+      "title": {
+        "en": "Raise the Arm to Reduce Swelling",
+        "hi": "सूजन घटाने के लिए हाथ ऊपर रखना"
+      },
+      "reps": {
+        "en": "Most of the day for the first 2–3 days",
+        "hi": "पहले 2–3 दिन ज़्यादातर समय"
+      },
+      "start": {
+        "en": "Sit or lie back with 2–3 pillows beside you.",
+        "hi": "बैठें या टेक लगाकर लेटें, पास में 2–3 तकिए रखें।"
+      },
+      "steps": [
+        {
+          "en": "Rest the arm on the pillows.",
+          "hi": "हाथ को तकियों पर रखें।"
+        },
+        {
+          "en": "Keep the hand higher than the elbow, and the elbow higher than the heart.",
+          "hi": "हथेली कोहनी से ऊपर और कोहनी दिल से ऊपर रखें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not let the hand hang down.",
+          "hi": "हाथ को नीचे लटकने न दें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Moving my fingers will disturb the fracture.",
+        "hi": "उंगलियां हिलाने से फ्रैक्चर हिल जाएगा।"
+      },
+      "fact": {
+        "en": "Finger movement is safe. It prevents swelling and stiffness.",
+        "hi": "उंगलियां हिलाना सुरक्षित है। इससे सूजन और अकड़न नहीं होती।"
+      }
+    },
+    {
+      "myth": {
+        "en": "A stick or pen is fine to scratch under the cast.",
+        "hi": "प्लास्टर के अंदर डंडी या पेन से खुजलाना ठीक है।"
+      },
+      "fact": {
+        "en": "It can cause wounds and infection. Tap the cast over the itch, or use cool air from a hair dryer.",
+        "hi": "इससे घाव और इन्फेक्शन हो सकता है। खुजली वाली जगह प्लास्टर पर थपथपाएं, या हेयर ड्रायर की ठंडी हवा लें।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Once the pain is gone, the cast can come off.",
+        "hi": "दर्द चला गया तो प्लास्टर खुलवा सकते हैं।"
+      },
+      "fact": {
+        "en": "Pain goes before the bone is strong. Keep the cast until your doctor says.",
+        "hi": "हड्डी मज़बूत होने से पहले ही दर्द चला जाता है। डॉक्टर के कहने तक प्लास्टर रखें।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Fingers turn blue, white or cold, or become numb",
+        "hi": "उंगलियां नीली, सफ़ेद या ठंडी हो जाएं, या सुन्न पड़ जाएं"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Severe pain that keeps increasing and does not ease when you raise the arm",
+        "hi": "बहुत तेज़ दर्द जो बढ़ता जाए और हाथ ऊपर रखने से भी कम न हो"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Cast feels too tight, or the fingers are swollen and tight",
+        "hi": "प्लास्टर बहुत कसा लगे, या उंगलियां सूजी और कसी हुई हों"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Cast is wet, soft, cracked or smells bad",
+        "hi": "प्लास्टर भीग जाए, नरम पड़े, टूटे या बदबू आए"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Fever, or redness or discharge at the cast edge",
+        "hi": "बुखार, या प्लास्टर के किनारे पर लाली या पानी/मवाद"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Can I take a bath?",
+        "hi": "क्या मैं नहा सकता हूं?"
+      },
+      "a": {
+        "en": "Yes, but keep the cast dry. Cover it with a plastic bag and keep it out of the water. If it gets wet, tell your doctor.",
+        "hi": "हां, पर प्लास्टर सूखा रखें। उस पर पॉलिथीन चढ़ाएं और पानी से दूर रखें। भीग जाए तो डॉक्टर को बताएं।"
+      }
+    },
+    {
+      "q": {
+        "en": "How long will the cast stay?",
+        "hi": "प्लास्टर कितने दिन रहेगा?"
+      },
+      "a": {
+        "en": "Usually 4–8 weeks. Your doctor will check with X-rays.",
+        "hi": "आमतौर पर 4–8 हफ़्ते। डॉक्टर एक्स-रे से देखकर बताएंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "Will my hand be stiff after the cast?",
+        "hi": "क्या प्लास्टर खुलने के बाद हाथ अकड़ा रहेगा?"
+      },
+      "a": {
+        "en": "Some stiffness is normal. Exercises and physiotherapy help.",
+        "hi": "थोड़ी अकड़न सामान्य है। व्यायाम और फिज़ियोथेरेपी से आराम मिलता है।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Most arm and hand fractures need 4–8 weeks in a cast. After that, exercises bring back movement and strength over a few more weeks.",
+        "hi": "बांह और हाथ के ज़्यादातर फ्रैक्चर में 4–8 हफ़्ते प्लास्टर रहता है। उसके बाद व्यायाम से कुछ और हफ़्तों में हरकत और ताकत लौटती है।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "The cast is cracked, loose or too tight.",
+        "hi": "प्लास्टर टूटे, ढीला या बहुत कसा लगे।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}
