@@ -188,6 +188,37 @@
       ]
     },
     {
+      "id": "hamstring-stretch",
+      "title": {
+        "en": "Hamstring Stretch with Towel",
+        "hi": "तौलिए से जांघ के पीछे का खिंचाव (Hamstring Stretch)"
+      },
+      "reps": {
+        "en": "Hold 20–30 seconds, 3 times, twice a day",
+        "hi": "20–30 सेकंड रुकें, 3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Lie on your back. Loop a towel around the sole of one foot.",
+        "hi": "पीठ के बल लेटें। एक पैर के तलवे पर तौलिया लपेटें।"
+      },
+      "steps": [
+        {
+          "en": "Raise that leg up, keeping the knee straight. Hold the towel ends with both hands.",
+          "hi": "उस पैर को घुटना सीधा रखकर ऊपर उठाएं। दोनों हाथों से तौलिए के सिरे पकड़ें।"
+        },
+        {
+          "en": "Gently pull the towel towards you until you feel a stretch behind the thigh. Hold, then lower slowly.",
+          "hi": "तौलिए को धीरे से अपनी ओर खींचें, जब तक जांघ के पीछे खिंचाव न लगे। रुकें, फिर धीरे से नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep the knee straight. Pull gently. Stop if the pain is sharp or you feel tingling.",
+          "hi": "घुटना सीधा रखें। हल्का खींचें। तेज़ दर्द या झुनझुनी हो तो रुकें।"
+        }
+      ]
+    },
+    {
       "id": "heel-slide",
       "title": {
         "en": "Heel Slide",
