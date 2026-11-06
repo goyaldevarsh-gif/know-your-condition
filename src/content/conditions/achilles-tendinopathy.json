@@ -1,0 +1,365 @@
+{
+  "slug": "achilles-tendinopathy",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Achilles tendinopathy is irritation of the Achilles tendon, the thick cord at the back of the ankle that joins the calf to the heel. It is common in runners and after a sudden increase in activity.",
+      "hi": "एड़ी के ऊपर की नस की तकलीफ़ (Achilles Tendinopathy) यानी एड़ी के पीछे की मोटी नस (Achilles tendon) में सूजन, जो पिंडली को एड़ी से जोड़ती है। यह दौड़ने वालों में और अचानक गतिविधि बढ़ाने पर आम है।"
+    },
+    {
+      "en": "Most people improve over a few months with slow, regular strengthening exercises.",
+      "hi": "ज़्यादातर लोग धीरे-धीरे, नियमित ताकत वाले व्यायाम से कुछ महीनों में ठीक हो जाते हैं।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Pain and stiffness in the cord above the heel, worst in the morning",
+      "hi": "एड़ी के ऊपर की नस में दर्द और अकड़न, सुबह सबसे ज़्यादा"
+    },
+    {
+      "en": "Pain at the start of walking or running, may ease and return later",
+      "hi": "चलने या दौड़ने की शुरुआत में दर्द, फिर कम और बाद में दोबारा"
+    },
+    {
+      "en": "Thickening or a small swelling on the cord",
+      "hi": "नस पर मोटापन या छोटी सूजन"
+    },
+    {
+      "en": "Pain on climbing stairs or standing on the toes",
+      "hi": "सीढ़ी चढ़ने या पंजों पर खड़े होने पर दर्द"
+    }
+  ],
+  "causes": [
+    {
+      "en": "A sudden increase in running, walking or sports",
+      "hi": "दौड़ना, चलना या खेल अचानक बढ़ा देना"
+    },
+    {
+      "en": "Tight calf, or worn-out or unsuitable shoes",
+      "hi": "पिंडली में खिंचाव, या घिसे हुए या गलत जूते"
+    },
+    {
+      "en": "Age, extra weight or diabetes",
+      "hi": "उम्र, ज़्यादा वज़न या डायबिटीज़"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Daily care",
+          "hi": "रोज़ की देखभाल"
+        },
+        "text": {
+          "en": "Reduce the painful activity. Wear shoes with a slightly raised heel.",
+          "hi": "दर्द वाली गतिविधि कम करें। थोड़ी ऊंची एड़ी वाले जूते पहनें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Physiotherapy",
+          "hi": "फिज़ियोथेरेपी (Physiotherapy)"
+        },
+        "text": {
+          "en": "Slow heel-raise strengthening is the most important treatment.",
+          "hi": "धीरे-धीरे एड़ी उठाने वाले व्यायाम सबसे ज़रूरी इलाज हैं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
+        "text": {
+          "en": "Only as your doctor advises.",
+          "hi": "सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Injection or surgery",
+          "hi": "इंजेक्शन या ऑपरेशन"
+        },
+        "text": {
+          "en": "Injections near this tendon can weaken it, so they are usually avoided. Surgery only if pain stays for many months.",
+          "hi": "इस नस के पास इंजेक्शन से नस कमज़ोर हो सकती है, इसलिए आमतौर पर नहीं लगाते। ऑपरेशन सिर्फ़ तब, जब दर्द कई महीने बना रहे।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up.",
+      "hi": "आपका इलाज आपकी जांच पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Reduce running and jumping, but keep walking within what your pain allows.",
+      "hi": "दौड़ना और कूदना कम करें, पर दर्द की सीमा में चलते रहें।"
+    },
+    {
+      "en": "Warm up and stretch the calf before activity.",
+      "hi": "गतिविधि से पहले वार्म-अप करें और पिंडली खींचें।"
+    },
+    {
+      "en": "Wear shoes with a cushioned, slightly raised heel.",
+      "hi": "गद्देदार, थोड़ी ऊंची एड़ी वाले जूते पहनें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not run or jump through sharp pain.",
+      "hi": "तेज़ दर्द में दौड़ें या कूदें नहीं।"
+    },
+    {
+      "en": "Do not walk barefoot or in flat slippers.",
+      "hi": "नंगे पैर या सपाट चप्पल में न चलें।"
+    },
+    {
+      "en": "Do not increase activity suddenly. Build up slowly.",
+      "hi": "गतिविधि अचानक न बढ़ाएं। धीरे-धीरे बढ़ाएं।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so. Mild pain during the exercise is acceptable if it settles within a day. Stop if the pain is sharp.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। व्यायाम के दौरान हल्का दर्द ठीक है, अगर वह एक दिन में शांत हो जाए। तेज़ दर्द हो तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "calf-stretch",
+      "title": {
+        "en": "Calf Stretch",
+        "hi": "पिंडली का खिंचाव (Calf Stretch)"
+      },
+      "reps": {
+        "en": "Hold 20–30 seconds, 3 times, twice a day",
+        "hi": "20–30 सेकंड रुकें, 3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Stand facing a wall with your hands on the wall.",
+        "hi": "दीवार की ओर मुंह करके खड़े हों, हाथ दीवार पर।"
+      },
+      "steps": [
+        {
+          "en": "Step the painful foot back. Keep the heel flat and the knee straight.",
+          "hi": "दर्द वाला पैर पीछे रखें। एड़ी ज़मीन पर और घुटना सीधा रखें।"
+        },
+        {
+          "en": "Lean forward until you feel a stretch in the calf.",
+          "hi": "पिंडली में खिंचाव महसूस होने तक आगे झुकें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep the heel on the floor. Do not bounce.",
+          "hi": "एड़ी ज़मीन पर रखें। झटके न दें।"
+        }
+      ]
+    },
+    {
+      "id": "double-heel-raise",
+      "title": {
+        "en": "Heel Raise (Both Feet)",
+        "hi": "दोनों पंजों पर ऊपर उठना (Heel Raise)"
+      },
+      "reps": {
+        "en": "10–15 times, 2–3 sets a day",
+        "hi": "10–15 बार, दिन में 2–3 सेट"
+      },
+      "start": {
+        "en": "Stand holding a wall or chair for balance, feet hip-width apart.",
+        "hi": "दीवार या कुर्सी पकड़कर खड़े हों, पैर कंधों की चौड़ाई पर।"
+      },
+      "steps": [
+        {
+          "en": "Slowly rise up on your toes.",
+          "hi": "धीरे से पंजों पर ऊपर उठें।"
+        },
+        {
+          "en": "Slowly lower down over 3 seconds.",
+          "hi": "3 सेकंड में धीरे से नीचे आएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Go slowly. Stop if the pain is sharp.",
+          "hi": "धीरे करें। तेज़ दर्द हो तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "single-heel-raise",
+      "title": {
+        "en": "Heel Raise (One Foot)",
+        "hi": "एक पंजे पर ऊपर उठना (Single Heel Raise)"
+      },
+      "reps": {
+        "en": "10–15 times, 2–3 sets a day",
+        "hi": "10–15 बार, दिन में 2–3 सेट"
+      },
+      "start": {
+        "en": "Stand on the painful leg, holding a wall for balance.",
+        "hi": "दर्द वाले पैर पर खड़े हों, संतुलन के लिए दीवार पकड़ें।"
+      },
+      "steps": [
+        {
+          "en": "Slowly rise up on your toes.",
+          "hi": "धीरे से पंजे पर ऊपर उठें।"
+        },
+        {
+          "en": "Slowly lower down over 3 seconds.",
+          "hi": "3 सेकंड में धीरे से नीचे आएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Start only when the two-foot raise feels easy.",
+          "hi": "तभी शुरू करें जब दोनों पैरों वाला व्यायाम आसान लगे।"
+        }
+      ]
+    },
+    {
+      "id": "heel-drop",
+      "title": {
+        "en": "Slow Heel Drop",
+        "hi": "एड़ी को धीरे नीचे लाना (Heel Drop)"
+      },
+      "reps": {
+        "en": "15 times, 2 sets, twice a day",
+        "hi": "15 बार, 2 सेट, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Stand on the edge of a step on the balls of both feet, holding the rail.",
+        "hi": "सीढ़ी के किनारे पर दोनों पंजों के अगले हिस्से पर खड़े हों, रेलिंग पकड़ें।"
+      },
+      "steps": [
+        {
+          "en": "Rise up on both feet. Shift your weight to the painful leg.",
+          "hi": "दोनों पैरों पर ऊपर उठें। फिर वज़न दर्द वाले पैर पर डालें।"
+        },
+        {
+          "en": "Slowly lower the heel below the step over 3 seconds.",
+          "hi": "एड़ी को 3 सेकंड में धीरे से सीढ़ी के स्तर से नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Hold the rail. Stop if the pain is sharp.",
+          "hi": "रेलिंग पकड़े रहें। तेज़ दर्द हो तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Rest completely until the pain is gone.",
+        "hi": "दर्द जाने तक पूरा आराम करें।"
+      },
+      "fact": {
+        "en": "Complete rest weakens the tendon. Slow, steady exercises heal it.",
+        "hi": "पूरे आराम से नस कमज़ोर होती है। धीरे-धीरे के नियमित व्यायाम उसे ठीक करते हैं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "A steroid injection is the best cure.",
+        "hi": "स्टेरॉइड इंजेक्शन सबसे अच्छा इलाज है।"
+      },
+      "fact": {
+        "en": "Injections near the Achilles can weaken it. Exercises are the main treatment.",
+        "hi": "एड़ी की नस के पास इंजेक्शन से वह कमज़ोर हो सकती है। मुख्य इलाज व्यायाम है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "A painful Achilles will surely tear.",
+        "hi": "दर्द वाली एड़ी की नस ज़रूर फट जाएगी।"
+      },
+      "fact": {
+        "en": "Most do not. But a sudden sharp pain or a pop needs urgent care.",
+        "hi": "ज़्यादातर नहीं फटती। पर अचानक तेज़ दर्द या \"पट\" की आवाज़ हो तो तुरंत दिखाएं।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Sudden sharp pain or a \"pop\" at the back of the ankle, and you cannot stand on your toes",
+        "hi": "टखने के पीछे अचानक तेज़ दर्द या \"पट\" की आवाज़, और पंजों पर खड़े न हो पाना"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Red, hot and swollen heel or ankle, with fever",
+        "hi": "एड़ी या टखना लाल, गर्म और सूजा हुआ, साथ में बुखार"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain not better after 6 weeks of regular exercises, or it keeps getting worse",
+        "hi": "6 हफ़्ते नियमित व्यायाम के बाद भी आराम न मिलना, या दर्द बढ़ते जाना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain at night even at rest",
+        "hi": "आराम में भी रात को दर्द"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray or MRI?",
+        "hi": "क्या मुझे एक्स-रे (X-ray) या एमआरआई (MRI) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Not always. An ultrasound may be done. Your doctor will decide.",
+        "hi": "हमेशा नहीं। अल्ट्रासाउंड हो सकता है। डॉक्टर तय करेंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I keep running?",
+        "hi": "क्या मैं दौड़ना जारी रख सकता हूं?"
+      },
+      "a": {
+        "en": "Reduce running, and return slowly once the pain settles. Your doctor will guide you.",
+        "hi": "दौड़ना कम करें और दर्द शांत होने पर धीरे-धीरे लौटें। डॉक्टर आपको बताएंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "How long will it take?",
+        "hi": "कितना समय लगेगा?"
+      },
+      "a": {
+        "en": "Usually about 3 months of regular exercises. Be patient.",
+        "hi": "आमतौर पर लगभग 3 महीने के नियमित व्यायाम। धैर्य रखें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Most people improve in about 3 months with regular exercises. Return to running slowly.",
+        "hi": "ज़्यादातर लोग नियमित व्यायाम से लगभग 3 महीने में ठीक होते हैं। दौड़ना धीरे-धीरे शुरू करें।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after 6 weeks, or is getting worse.",
+        "hi": "6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}

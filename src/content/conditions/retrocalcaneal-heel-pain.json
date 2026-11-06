@@ -1,0 +1,334 @@
+{
+  "slug": "retrocalcaneal-heel-pain",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Retrocalcaneal heel pain is pain at the back of the heel, where the Achilles tendon meets the heel bone. The small fluid sac there (bursa) or the tendon gets irritated.",
+      "hi": "एड़ी के पीछे का दर्द (Retrocalcaneal Heel Pain) यानी एड़ी के पीछे, जहां Achilles नस हड्डी से जुड़ती है, वहां दर्द। वहां की छोटी पानी की थैली (bursa) या नस में सूजन आ जाती है।"
+    },
+    {
+      "en": "Most people improve with better footwear, stretching and exercises.",
+      "hi": "ज़्यादातर लोग सही चप्पल-जूते, स्ट्रेचिंग और व्यायाम से ठीक हो जाते हैं।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Pain and tenderness at the back of the heel",
+      "hi": "एड़ी के पीछे दर्द और दबाने पर तकलीफ़"
+    },
+    {
+      "en": "Swelling or a bony bump at the back of the heel",
+      "hi": "एड़ी के पीछे सूजन या हड्डी का उभार"
+    },
+    {
+      "en": "More pain when the shoe presses, or on stairs and uphill",
+      "hi": "जूता दबने पर, सीढ़ी या चढ़ाई पर दर्द ज़्यादा"
+    },
+    {
+      "en": "Pain worse with the first steps and after activity",
+      "hi": "पहले कदमों पर और गतिविधि के बाद दर्द ज़्यादा"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Shoes with a hard or tight back",
+      "hi": "पीछे से सख्त या कसे हुए जूते"
+    },
+    {
+      "en": "Too much running, uphill walking or sudden activity",
+      "hi": "बहुत दौड़ना, चढ़ाई पर चलना या अचानक गतिविधि"
+    },
+    {
+      "en": "Tight calf, or a bony bump on the heel",
+      "hi": "पिंडली में खिंचाव, या एड़ी की हड्डी का उभार"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Daily care",
+          "hi": "रोज़ की देखभाल"
+        },
+        "text": {
+          "en": "Rest from the painful activity. Ice for swelling.",
+          "hi": "दर्द वाली गतिविधि से आराम। सूजन में बर्फ़।"
+        }
+      },
+      {
+        "title": {
+          "en": "Footwear",
+          "hi": "चप्पल-जूते"
+        },
+        "text": {
+          "en": "Soft-backed shoes or open-back chappals. A small heel lift may help.",
+          "hi": "पीछे से नरम जूते या खुली एड़ी वाली चप्पल। छोटा हील लिफ़्ट फ़ायदा कर सकता है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Physiotherapy",
+          "hi": "फिज़ियोथेरेपी (Physiotherapy)"
+        },
+        "text": {
+          "en": "Gentle calf stretching and strengthening.",
+          "hi": "पिंडली की हल्की स्ट्रेचिंग और ताकत वाले व्यायाम।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines, injection or surgery",
+          "hi": "दवाइयां, इंजेक्शन या ऑपरेशन"
+        },
+        "text": {
+          "en": "Medicines only as advised. Injections near the tendon are avoided. Surgery only for long-standing pain.",
+          "hi": "दवाइयां सिर्फ़ सलाह से। नस के पास इंजेक्शन से बचते हैं। ऑपरेशन सिर्फ़ बहुत पुराने दर्द में।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up and X-ray.",
+      "hi": "आपका इलाज आपकी जांच और एक्स-रे पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Wear soft-backed shoes or open-back chappals.",
+      "hi": "पीछे से नरम जूते या खुली एड़ी वाली चप्पल पहनें।"
+    },
+    {
+      "en": "Use a small heel lift or pad in the shoe, if your doctor advises.",
+      "hi": "डॉक्टर कहें तो जूते में छोटा हील लिफ़्ट या पैड लगाएं।"
+    },
+    {
+      "en": "If swollen, apply ice wrapped in a cloth for 10–15 minutes.",
+      "hi": "सूजन हो तो कपड़े में लपेटी बर्फ़ 10–15 मिनट लगाएं।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not wear tight shoes with a hard back.",
+      "hi": "पीछे से सख्त, कसे हुए जूते न पहनें।"
+    },
+    {
+      "en": "Do not run uphill or on hard ground until the pain settles.",
+      "hi": "दर्द ठीक होने तक चढ़ाई पर या सख्त ज़मीन पर न दौड़ें।"
+    },
+    {
+      "en": "Do not drop the heel below the edge of a step while stretching.",
+      "hi": "स्ट्रेचिंग में एड़ी को सीढ़ी के किनारे से नीचे न लाएं।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so. Keep the heel level on the floor. Do not drop it below a step. Stop if the pain is sharp.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। एड़ी को ज़मीन के स्तर पर रखें, सीढ़ी से नीचे न लाएं। तेज़ दर्द हो तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "calf-stretch",
+      "title": {
+        "en": "Calf Stretch",
+        "hi": "पिंडली का खिंचाव (Calf Stretch)"
+      },
+      "reps": {
+        "en": "Hold 20–30 seconds, 3 times, twice a day",
+        "hi": "20–30 सेकंड रुकें, 3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Stand facing a wall with your hands on the wall.",
+        "hi": "दीवार की ओर मुंह करके खड़े हों, हाथ दीवार पर।"
+      },
+      "steps": [
+        {
+          "en": "Step the painful foot back. Keep the heel flat and the knee straight.",
+          "hi": "दर्द वाला पैर पीछे रखें। एड़ी ज़मीन पर और घुटना सीधा रखें।"
+        },
+        {
+          "en": "Lean forward until you feel a stretch in the calf.",
+          "hi": "पिंडली में खिंचाव महसूस होने तक आगे झुकें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep the heel on the floor. Do not bounce.",
+          "hi": "एड़ी ज़मीन पर रखें। झटके न दें।"
+        }
+      ]
+    },
+    {
+      "id": "double-heel-raise",
+      "title": {
+        "en": "Heel Raise (Both Feet)",
+        "hi": "दोनों पंजों पर ऊपर उठना (Heel Raise)"
+      },
+      "reps": {
+        "en": "10–15 times, 2–3 sets a day",
+        "hi": "10–15 बार, दिन में 2–3 सेट"
+      },
+      "start": {
+        "en": "Stand holding a wall or chair for balance, feet hip-width apart.",
+        "hi": "दीवार या कुर्सी पकड़कर खड़े हों, पैर कंधों की चौड़ाई पर।"
+      },
+      "steps": [
+        {
+          "en": "Slowly rise up on your toes.",
+          "hi": "धीरे से पंजों पर ऊपर उठें।"
+        },
+        {
+          "en": "Slowly lower down over 3 seconds.",
+          "hi": "3 सेकंड में धीरे से नीचे आएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Go slowly. Stop if the pain is sharp.",
+          "hi": "धीरे करें। तेज़ दर्द हो तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "towel-calf-stretch",
+      "title": {
+        "en": "Seated Towel Stretch",
+        "hi": "बैठकर तौलिए से पिंडली खींचना (Towel Stretch)"
+      },
+      "reps": {
+        "en": "Hold 20–30 seconds, 3 times, twice a day",
+        "hi": "20–30 सेकंड रुकें, 3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Sit with the painful leg straight. Loop a towel around the front of the foot.",
+        "hi": "दर्द वाला पैर सीधा करके बैठें। पंजे के अगले हिस्से पर तौलिया लपेटें।"
+      },
+      "steps": [
+        {
+          "en": "Gently pull the towel towards you, so the toes point up.",
+          "hi": "तौलिए को धीरे से अपनी ओर खींचें, ताकि पंजा ऊपर की ओर आए।"
+        },
+        {
+          "en": "Feel the stretch in the calf. Hold, then relax.",
+          "hi": "पिंडली में खिंचाव महसूस करें। रुकें, फिर छोड़ें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Pull gently. Stop if the heel pain increases.",
+          "hi": "धीरे से खींचें। एड़ी का दर्द बढ़े तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "It is a heel bone problem that needs surgery.",
+        "hi": "यह एड़ी की हड्डी की समस्या है, ऑपरेशन करना पड़ेगा।"
+      },
+      "fact": {
+        "en": "Most cases come from shoe pressure and irritated tendon. Surgery is rarely needed.",
+        "hi": "ज़्यादातर मामले जूते के दबाव और नस की सूजन से होते हैं। ऑपरेशन की बहुत कम ज़रूरत पड़ती है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Rubbing or pressing the painful spot helps.",
+        "hi": "दर्द वाली जगह को रगड़ने या दबाने से फ़ायदा होता है।"
+      },
+      "fact": {
+        "en": "It can irritate the area more. Reduce the pressure instead.",
+        "hi": "इससे जगह और चिढ़ सकती है। इसके बजाय दबाव कम करें।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Rest alone will cure it.",
+        "hi": "सिर्फ़ आराम से यह ठीक हो जाएगा।"
+      },
+      "fact": {
+        "en": "Footwear change and stretching are needed along with rest.",
+        "hi": "आराम के साथ चप्पल-जूते बदलना और स्ट्रेचिंग भी ज़रूरी है।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Sudden sharp pain or a \"pop\" at the back of the ankle, and you cannot stand on your toes",
+        "hi": "टखने के पीछे अचानक तेज़ दर्द या \"पट\" की आवाज़, और पंजों पर खड़े न हो पाना"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Red, hot and swollen heel or ankle, with fever",
+        "hi": "एड़ी या टखना लाल, गर्म और सूजा हुआ, साथ में बुखार"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "The skin over the heel breaks, or there is a wound or discharge",
+        "hi": "एड़ी की त्वचा फट जाए, या घाव या पानी/मवाद निकले"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain not better after 6 weeks, or it keeps getting worse",
+        "hi": "6 हफ़्ते बाद भी आराम न मिलना, या दर्द बढ़ते जाना"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray?",
+        "hi": "क्या मुझे एक्स-रे (X-ray) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Often yes, to look at the heel bone. Your doctor will decide.",
+        "hi": "अक्सर हां, एड़ी की हड्डी देखने के लिए। डॉक्टर तय करेंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "Which shoes are best?",
+        "hi": "कौन से जूते सबसे अच्छे हैं?"
+      },
+      "a": {
+        "en": "Soft-backed shoes or open-back chappals, with a small heel lift. Avoid tight, hard backs.",
+        "hi": "पीछे से नरम जूते या खुली एड़ी वाली चप्पल, छोटे हील लिफ़्ट के साथ। कसे और सख्त पीछे वाले जूते न पहनें।"
+      }
+    },
+    {
+      "q": {
+        "en": "Will I need surgery?",
+        "hi": "क्या ऑपरेशन करना पड़ेगा?"
+      },
+      "a": {
+        "en": "Rarely. Only if pain stays for many months despite treatment.",
+        "hi": "बहुत कम। सिर्फ़ तब, जब इलाज के बाद भी दर्द कई महीने बना रहे।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Most people improve in a few months once the pressure and strain are reduced. Keep stretching and wearing good footwear.",
+        "hi": "दबाव और खिंचाव कम होने पर ज़्यादातर लोग कुछ महीनों में ठीक हो जाते हैं। स्ट्रेचिंग और अच्छे चप्पल-जूते जारी रखें।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after 6 weeks, or is getting worse.",
+        "hi": "6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}
