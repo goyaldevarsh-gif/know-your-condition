@@ -262,5 +262,17 @@
       "en": "Knee injury from a blow to the bent knee, including a bone piece pulled off.",
       "hi": "मुड़े घुटने पर चोट से PCL की समस्या, जिसमें हड्डी का टुकड़ा भी खिंच सकता है।"
     }
+  },
+  {
+    "slug": "post-surgery-care",
+    "category": "trauma-fractures",
+    "name": {
+      "en": "Post-Surgery Care (General)",
+      "hi": "ऑपरेशन के बाद की देखभाल (Post-Surgery Care)"
+    },
+    "short": {
+      "en": "General care after any bone or joint surgery: wound, pain, swelling, clots and warning signs.",
+      "hi": "किसी भी हड्डी या जोड़ के ऑपरेशन के बाद की देखभाल: घाव, दर्द, सूजन, थक्का और ख़तरे के संकेत।"
+    }
   }
 ]

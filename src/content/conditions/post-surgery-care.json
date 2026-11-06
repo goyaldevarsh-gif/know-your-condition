@@ -1,0 +1,286 @@
+{
+  "slug": "post-surgery-care",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "General care after any bone or joint operation, whether after an injury (trauma) or planned, like a joint replacement. Every surgery is different, and your surgeon's instructions always come first.",
+      "hi": "किसी भी हड्डी या जोड़ के ऑपरेशन के बाद की सामान्य देखभाल, चाहे चोट (ट्रॉमा) के बाद हो या पहले से तय, जैसे जोड़ बदलना। हर ऑपरेशन अलग होता है, और सर्जन के निर्देश हमेशा सबसे ऊपर हैं।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "What is normal after surgery",
+    "hi": "ऑपरेशन के बाद क्या सामान्य है"
+  },
+  "symptoms": [
+    {
+      "en": "Mild pain and swelling around the operated area",
+      "hi": "ऑपरेशन की जगह के आसपास हल्का दर्द और सूजन"
+    },
+    {
+      "en": "The skin around the wound can feel numb, tingly, lumpy or itchy",
+      "hi": "घाव के आसपास की त्वचा सुन्न, झुनझुनी वाली, गांठदार या खुजली वाली लग सकती है"
+    },
+    {
+      "en": "The scar can stay red for 6 months or more",
+      "hi": "निशान 6 महीने या उससे ज़्यादा समय तक लाल रह सकता है"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Wound",
+          "hi": "घाव"
+        },
+        "text": {
+          "en": "Keep the dressing clean, dry and in place until your team says otherwise. Do not soak the wound in water. If the dressing gets loose, re-cover it and tell your team.",
+          "hi": "ड्रेसिंग साफ़, सूखी और अपनी जगह पर रखें, जब तक टीम कुछ और न कहे। घाव को पानी में न भिगोएं। ड्रेसिंग ढीली हो जाए तो दोबारा ढकें और टीम को बताएं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Pain",
+          "hi": "दर्द"
+        },
+        "text": {
+          "en": "Take painkillers as your doctor advised, regularly in the first few days. After bone surgery, ask your surgeon before taking ibuprofen or diclofenac, as they may slow bone healing.",
+          "hi": "दर्द की दवाइयां डॉक्टर के बताए अनुसार लें, शुरू के कुछ दिन नियमित रूप से। हड्डी के ऑपरेशन के बाद इबुप्रोफ़ेन या डाइक्लोफ़ेनाक लेने से पहले सर्जन से पूछें, ये हड्डी जुड़ने में देर कर सकती हैं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Swelling",
+          "hi": "सूजन"
+        },
+        "text": {
+          "en": "Rest and keep the limb raised as advised. Swelling can last a long time, especially after long sitting or standing.",
+          "hi": "आराम करें और हाथ या पैर बताए अनुसार ऊंचा रखें। सूजन लंबे समय तक रह सकती है, ख़ासकर देर तक बैठने या खड़े रहने के बाद।"
+        }
+      },
+      {
+        "title": {
+          "en": "Moving safely",
+          "hi": "सुरक्षित हरकत"
+        },
+        "text": {
+          "en": "Follow your instructions on weight-bearing and use crutches or a sling as shown. Avoid falls.",
+          "hi": "वज़न डालने के निर्देश मानें और बैसाखी या स्लिंग सिखाए अनुसार इस्तेमाल करें। गिरने से बचें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Preventing blood clots",
+          "hi": "खून के थक्के से बचाव"
+        },
+        "text": {
+          "en": "Gentle exercise helps prevent clots in the legs. Do not smoke, as it slows healing and raises the risk of clots and infection.",
+          "hi": "हल्का व्यायाम पैरों में थक्के बनने से रोकता है। धूम्रपान न करें, इससे घाव देर से भरता है और थक्के व इन्फ़ेक्शन का ख़तरा बढ़ता है।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Ask before you go home: How much weight can I put? Sling, brace or crutches? When do stitches come out? When can I drive and return to work?",
+      "hi": "घर जाने से पहले पूछें: कितना वज़न डाल सकता हूं? स्लिंग, ब्रेस या बैसाखी? टांके कब निकलेंगे? गाड़ी चलाना और काम पर लौटना कब?"
+    }
+  },
+  "dos": [
+    {
+      "en": "Keep the dressing clean, dry and in place.",
+      "hi": "ड्रेसिंग साफ़, सूखी और अपनी जगह पर रखें।"
+    },
+    {
+      "en": "Keep the limb raised and rest as advised.",
+      "hi": "बताए अनुसार हाथ या पैर ऊंचा रखें और आराम करें।"
+    },
+    {
+      "en": "Do the gentle movements your team has allowed.",
+      "hi": "टीम ने जो हल्की हरकतें बताई हैं, वही करें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not smoke.",
+      "hi": "धूम्रपान न करें।"
+    },
+    {
+      "en": "Do not soak the wound in water for a long time.",
+      "hi": "घाव को देर तक पानी में न भिगोएं।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your surgeon or physiotherapist allows. Move only the parts that are free. Do not move a joint that is in a plaster or splint. Stop if the pain increases.",
+    "hi": "ये व्यायाम तभी करें जब सर्जन या फिज़ियोथेरेपिस्ट कहें। सिर्फ़ वही हिस्से हिलाएं जो आज़ाद हैं। प्लास्टर या स्प्लिंट में बंद जोड़ को न हिलाएं। दर्द बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "ankle-pumps",
+      "title": {
+        "en": "Ankle Pumps",
+        "hi": "टखना ऊपर-नीचे करना (Ankle Pumps)"
+      },
+      "reps": {
+        "en": "10 times, every hour while awake",
+        "hi": "10 बार, जागते समय हर घंटे"
+      },
+      "start": {
+        "en": "Sit or lie with your leg supported. Do this on the leg that is free to move.",
+        "hi": "पैर को सहारा देकर बैठें या लेटें। यह उस पैर से करें जो हिलाया जा सकता है।"
+      },
+      "steps": [
+        {
+          "en": "Slowly pull your toes and foot up towards you.",
+          "hi": "धीरे से पंजे और पैर को अपनी ओर ऊपर खींचें।"
+        },
+        {
+          "en": "Then point them down, away from you. Repeat.",
+          "hi": "फिर नीचे की ओर, अपने से दूर करें। दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Move gently. Stop if the pain increases.",
+          "hi": "हल्के से करें। दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "finger-open-close",
+      "title": {
+        "en": "Open and Close the Fingers",
+        "hi": "उंगलियां खोलना और बंद करना"
+      },
+      "reps": {
+        "en": "10 times, a few times a day",
+        "hi": "10 बार, दिन में कुछ बार"
+      },
+      "start": {
+        "en": "Rest your arm on a pillow, raised. Do this if your fingers are free.",
+        "hi": "बांह को तकिए पर ऊंचा रखकर आराम दें। यह तब करें जब उंगलियां आज़ाद हों।"
+      },
+      "steps": [
+        {
+          "en": "Open your fingers wide.",
+          "hi": "उंगलियां पूरी खोलें।"
+        },
+        {
+          "en": "Close them gently into a soft fist. Repeat.",
+          "hi": "उन्हें हल्के से मुट्ठी में बंद करें। दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Stop if the fingers become more swollen, numb or painful.",
+          "hi": "उंगलियों में सूजन, सुन्नपन या दर्द बढ़े तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "A numb or lumpy scar means something is wrong.",
+        "hi": "निशान के आसपास सुन्नपन या गांठ हो तो कुछ गड़बड़ है।"
+      },
+      "fact": {
+        "en": "The wound area can feel numb, tingly, lumpy or itchy. The scar can stay red for 6 months or more.",
+        "hi": "घाव का हिस्सा सुन्न, झुनझुनी वाला, गांठदार या खुजली वाला लग सकता है। निशान 6 महीने या उससे ज़्यादा लाल रह सकता है।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Chest pain, sudden shortness of breath, coughing blood, or feeling faint",
+        "hi": "सीने में दर्द, अचानक सांस फूलना, खून की खांसी, या बेहोशी जैसा लगना"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Bleeding that does not stop after pressing on it for 5 minutes",
+        "hi": "5 मिनट दबाने के बाद भी खून न रुकना"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "The limb is cold, pale or blue, or the fingers or toes cannot move",
+        "hi": "हाथ या पैर ठंडा, पीला या नीला पड़ना, या उंगलियां या पंजे न हिल पाना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Fever or shivering",
+        "hi": "बुखार या कंपकंपी"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "The wound becomes more red, swollen, hot or painful, leaks pus or blood, or opens",
+        "hi": "घाव ज़्यादा लाल, सूजा, गर्म या दर्दनाक हो जाए, उससे मवाद या खून रिसे, या घाव खुल जाए"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "A painful or swollen calf",
+        "hi": "पिंडली में दर्द या सूजन"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain that keeps increasing and your painkillers do not help",
+        "hi": "दर्द लगातार बढ़ता जाए और दवाइयों से आराम न मिले"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "When will my stitches come out?",
+        "hi": "टांके कब निकलेंगे?"
+      },
+      "a": {
+        "en": "Your team will write the date on your discharge sheet. Ask before you leave.",
+        "hi": "आपकी टीम डिस्चार्ज शीट पर तारीख़ लिखेगी। जाने से पहले पूछ लें।"
+      }
+    },
+    {
+      "q": {
+        "en": "When can I drive and go back to work?",
+        "hi": "गाड़ी चलाना और काम पर लौटना कब हो सकता है?"
+      },
+      "a": {
+        "en": "It depends on your surgery and recovery. Ask your surgeon. Drive only when you can make an emergency stop safely.",
+        "hi": "यह आपके ऑपरेशन और रिकवरी पर निर्भर है। सर्जन से पूछें। गाड़ी तभी चलाएं जब ज़रूरत पर तुरंत ब्रेक लगा सकें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Recovery depends on the surgery you had. Mild pain and swelling are common, and swelling can last a long time. Your surgeon will guide you.",
+        "hi": "रिकवरी इस पर निर्भर है कि कौन-सा ऑपरेशन हुआ। हल्का दर्द और सूजन आम है, और सूजन लंबे समय तक रह सकती है। सर्जन आपको बताएंगे।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Go to every follow-up visit your team has given you.",
+        "hi": "टीम ने जितने भी फ़ॉलो-अप दिए हैं, सबमें जाएं।"
+      },
+      {
+        "en": "Contact your hospital if you have a wound problem or a question.",
+        "hi": "घाव की कोई समस्या या सवाल हो तो अपने अस्पताल से संपर्क करें।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी ख़तरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}
