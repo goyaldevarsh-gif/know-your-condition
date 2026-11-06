@@ -1,0 +1,334 @@
+{
+  "slug": "pes-anserine-bursitis",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Pes anserine bursitis is pain on the inner side of the knee, just below the joint line, where three thigh tendons attach and a small fluid sac (bursa) gets irritated. It is common in people with knee arthritis, extra weight, and runners.",
+      "hi": "घुटने के अंदर की तरफ़, जोड़ के थोड़ा नीचे का दर्द (Pes Anserine Bursitis)। यहां जांघ की तीन नसें जुड़ती हैं और एक छोटी पानी की थैली (bursa) में सूजन आ जाती है। यह घुटने के गठिया, ज़्यादा वज़न और दौड़ने वालों में आम है।"
+    },
+    {
+      "en": "It is not a serious joint damage and usually settles in a few weeks with rest and exercises.",
+      "hi": "यह जोड़ की गंभीर खराबी नहीं है और आमतौर पर आराम और व्यायाम से कुछ हफ़्तों में ठीक हो जाता है।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Pain and tenderness on the inner side of the knee, below the joint",
+      "hi": "घुटने के अंदर की तरफ़, जोड़ के नीचे दर्द और दबाने पर तकलीफ़"
+    },
+    {
+      "en": "Pain on climbing stairs, getting up from a chair or at night when lying on that side",
+      "hi": "सीढ़ी चढ़ने, कुर्सी से उठने या उस करवट लेटने पर रात में दर्द"
+    },
+    {
+      "en": "Mild swelling in the area, but the knee joint itself moves freely",
+      "hi": "उस जगह हल्की सूजन, पर घुटने का जोड़ आराम से मुड़ता है"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Knee arthritis, flat feet or knock-knees",
+      "hi": "घुटने का गठिया, चपटे पैर या अंदर की ओर झुके घुटने"
+    },
+    {
+      "en": "Too much walking, running or stairs, or a tight hamstring",
+      "hi": "बहुत चलना, दौड़ना या सीढ़ियां, या हैमस्ट्रिंग में खिंचाव"
+    },
+    {
+      "en": "Extra body weight",
+      "hi": "ज़्यादा वज़न"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Daily care",
+          "hi": "रोज़ की देखभाल"
+        },
+        "text": {
+          "en": "Reduce stairs and long walks for a while. Ice for pain. A pillow between the knees at night.",
+          "hi": "कुछ समय सीढ़ियां और लंबी सैर कम करें। दर्द में बर्फ़। रात को दोनों घुटनों के बीच तकिया रखें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Physiotherapy",
+          "hi": "फिज़ियोथेरेपी (Physiotherapy)"
+        },
+        "text": {
+          "en": "Thigh strengthening and hamstring stretching.",
+          "hi": "जांघ की ताकत और हैमस्ट्रिंग की स्ट्रेचिंग।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
+        "text": {
+          "en": "Only as your doctor advises.",
+          "hi": "सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Injection",
+          "hi": "इंजेक्शन"
+        },
+        "text": {
+          "en": "A local injection is sometimes given if pain does not settle. Your doctor will decide.",
+          "hi": "दर्द न जाए तो कभी-कभी लोकल इंजेक्शन दिया जाता है। डॉक्टर तय करेंगे।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up.",
+      "hi": "आपका इलाज आपकी जांच पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Rest from stairs, long walks and running until the pain eases.",
+      "hi": "दर्द कम होने तक सीढ़ियां, लंबी सैर और दौड़ से आराम करें।"
+    },
+    {
+      "en": "Apply ice wrapped in a cloth for 10–15 minutes on the sore spot.",
+      "hi": "कपड़े में लपेटी बर्फ़ दर्द वाली जगह पर 10–15 मिनट लगाएं।"
+    },
+    {
+      "en": "Sleep with a pillow between your knees.",
+      "hi": "दोनों घुटनों के बीच तकिया रखकर सोएं।"
+    },
+    {
+      "en": "Wear cushioned footwear. Reduce weight if you are overweight.",
+      "hi": "गद्देदार चप्पल-जूते पहनें। वज़न ज़्यादा हो तो कम करें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not keep climbing stairs or running through the pain.",
+      "hi": "दर्द में सीढ़ियां चढ़ना या दौड़ना जारी न रखें।"
+    },
+    {
+      "en": "Do not massage or press hard on the sore spot.",
+      "hi": "दर्द वाली जगह पर ज़ोर से मालिश या दबाव न डालें।"
+    },
+    {
+      "en": "Do not sit cross-legged for long.",
+      "hi": "देर तक पालथी मारकर न बैठें।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so. Mild discomfort is fine. Stop if the pain is sharp.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। हल्की तकलीफ़ ठीक है। तेज़ दर्द हो तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "quads-set",
+      "title": {
+        "en": "Thigh Tightening",
+        "hi": "जांघ की मांसपेशी कसना (Quads Set)"
+      },
+      "reps": {
+        "en": "10 times, hold 5 seconds, 2–3 times a day",
+        "hi": "10 बार, 5 सेकंड रोकें, दिन में 2–3 बार"
+      },
+      "start": {
+        "en": "Sit or lie with your leg straight. Keep a small rolled towel under the knee.",
+        "hi": "पैर सीधा करके बैठें या लेटें। घुटने के नीचे छोटा लपेटा हुआ तौलिया रखें।"
+      },
+      "steps": [
+        {
+          "en": "Press the back of your knee down into the towel. Tighten the thigh muscle.",
+          "hi": "घुटने के पीछे से तौलिए को नीचे दबाएं। जांघ की मांसपेशी कसें।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not hold your breath.",
+          "hi": "सांस न रोकें।"
+        }
+      ]
+    },
+    {
+      "id": "straight-leg-raise",
+      "title": {
+        "en": "Straight Leg Raise",
+        "hi": "सीधा पैर उठाना (Straight Leg Raise)"
+      },
+      "reps": {
+        "en": "10 times each leg, 2 sets a day",
+        "hi": "हर पैर से 10 बार, दिन में 2 सेट"
+      },
+      "start": {
+        "en": "Lie on your back. Bend the other knee. Keep the exercising leg straight.",
+        "hi": "पीठ के बल लेटें। दूसरा घुटना मोड़ लें। जिस पैर का व्यायाम करना है उसे सीधा रखें।"
+      },
+      "steps": [
+        {
+          "en": "Tighten the thigh. Lift the straight leg about one foot.",
+          "hi": "जांघ कसें। सीधे पैर को लगभग एक फुट ऊपर उठाएं।"
+        },
+        {
+          "en": "Hold for 3 seconds. Lower slowly.",
+          "hi": "3 सेकंड रुकें। धीरे से नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep the knee straight. Stop if the knee pain increases.",
+          "hi": "घुटना सीधा रखें। घुटने का दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "heel-slide",
+      "title": {
+        "en": "Heel Slide",
+        "hi": "एड़ी सरकाना (Heel Slide)"
+      },
+      "reps": {
+        "en": "10 times, 2 times a day",
+        "hi": "10 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Lie on your back with both legs straight.",
+        "hi": "पीठ के बल लेटें, दोनों पैर सीधे।"
+      },
+      "steps": [
+        {
+          "en": "Slowly slide your heel towards your buttock. Bend the knee as far as is comfortable.",
+          "hi": "एड़ी को धीरे से कूल्हे की ओर सरकाएं। जितना आराम से हो उतना घुटना मोड़ें।"
+        },
+        {
+          "en": "Hold for 5 seconds. Slide back.",
+          "hi": "5 सेकंड रुकें। वापस सरकाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Go only till a mild stretch, not pain.",
+          "hi": "सिर्फ़ हल्के खिंचाव तक जाएं, दर्द तक नहीं।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "It means my knee joint is worn out.",
+        "hi": "इसका मतलब मेरा घुटना घिस गया है।"
+      },
+      "fact": {
+        "en": "This is irritation outside the joint. It can happen even with a healthy joint.",
+        "hi": "यह जोड़ के बाहर की सूजन है। स्वस्थ जोड़ में भी हो सकती है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Rubbing and massage will cure it.",
+        "hi": "मालिश करने से ठीक हो जाएगा।"
+      },
+      "fact": {
+        "en": "Hard rubbing can irritate it more. Rest and exercises help.",
+        "hi": "ज़ोर से रगड़ने से सूजन बढ़ सकती है। आराम और व्यायाम फ़ायदा करते हैं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "It needs surgery.",
+        "hi": "इसके लिए ऑपरेशन करना पड़ेगा।"
+      },
+      "fact": {
+        "en": "Almost never. Most settle without surgery.",
+        "hi": "लगभग कभी नहीं। ज़्यादातर बिना ऑपरेशन ठीक हो जाते हैं।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Red, hot, swollen knee with fever",
+        "hi": "घुटना लाल, गर्म और सूजा हुआ, साथ में बुखार"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Whole knee swollen, or you cannot bend or straighten it",
+        "hi": "पूरा घुटना सूजा हो, या मोड़ या सीधा न कर पाएं"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain after a fall or injury, or the knee gives way",
+        "hi": "गिरने या चोट के बाद दर्द, या घुटना अचानक मुड़ जाना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain not better after 4 weeks of rest and exercises",
+        "hi": "4 हफ़्ते आराम और व्यायाम के बाद भी आराम न मिलना"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray or MRI?",
+        "hi": "क्या मुझे एक्स-रे (X-ray) या एमआरआई (MRI) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Often the doctor can tell from the check-up. An X-ray may be done to look at the joint.",
+        "hi": "अक्सर डॉक्टर जांच से ही पहचान लेते हैं। जोड़ देखने के लिए एक्स-रे हो सकता है।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I walk?",
+        "hi": "क्या मैं चल सकता हूं?"
+      },
+      "a": {
+        "en": "Yes, short walks on flat ground. Avoid stairs and slopes for now.",
+        "hi": "हां, समतल ज़मीन पर छोटी सैर। अभी सीढ़ी और ढलान से बचें।"
+      }
+    },
+    {
+      "q": {
+        "en": "Will it come back?",
+        "hi": "क्या यह दोबारा आ सकता है?"
+      },
+      "a": {
+        "en": "It can, if the thigh muscles stay weak or weight stays high. Keep exercising.",
+        "hi": "आ सकता है, अगर जांघ की मांसपेशियां कमज़ोर रहें या वज़न ज़्यादा रहे। व्यायाम जारी रखें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Most people feel better in 3–6 weeks with rest and exercises.",
+        "hi": "ज़्यादातर लोगों को आराम और व्यायाम से 3–6 हफ़्ते में आराम मिल जाता है।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after 4 weeks, or is getting worse.",
+        "hi": "4 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}
