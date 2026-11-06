@@ -1,0 +1,371 @@
+{
+  "slug": "knee-osteoarthritis",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Knee osteoarthritis is wear of the cartilage (cushion) inside the knee joint. It is common after 50.",
+      "hi": "घुटने का घिसाव (Knee Osteoarthritis) यानी घुटने के जोड़ की गद्दी (cartilage) का घिसना। यह 50 साल के बाद आम है।"
+    },
+    {
+      "en": "Most people feel better with exercises, weight control and simple care. Surgery is needed only in a few.",
+      "hi": "ज़्यादातर लोगों को व्यायाम, वज़न काबू में रखने और सही देखभाल से आराम मिलता है। ऑपरेशन बहुत कम लोगों को चाहिए।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Knee pain while walking or climbing stairs",
+      "hi": "चलने या सीढ़ी चढ़ने में घुटने का दर्द"
+    },
+    {
+      "en": "Stiffness after sitting for long or in the morning",
+      "hi": "देर तक बैठने या सुबह उठने पर अकड़न"
+    },
+    {
+      "en": "Crackling sound and mild swelling",
+      "hi": "घुटने में आवाज़ आना और हल्की सूजन"
+    },
+    {
+      "en": "Difficulty sitting on the floor or using an Indian toilet",
+      "hi": "ज़मीन पर बैठने या इंडियन टॉयलेट में दिक्कत"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Age-related wear over the years",
+      "hi": "उम्र के साथ सालों का घिसाव"
+    },
+    {
+      "en": "Extra body weight puts load on the knees",
+      "hi": "ज़्यादा वज़न से घुटनों पर बोझ"
+    },
+    {
+      "en": "Old knee injury, or years of squatting and climbing",
+      "hi": "पुरानी चोट, या सालों तक उकड़ू बैठना और सीढ़ियां चढ़ना"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Daily care",
+          "hi": "रोज़ की देखभाल"
+        },
+        "text": {
+          "en": "Reduce extra weight. Use a warm pack for stiffness.",
+          "hi": "वज़न कम करें। अकड़न में गर्म सेक लें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
+        "text": {
+          "en": "Only as your doctor advises.",
+          "hi": "सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Physiotherapy",
+          "hi": "फिज़ियोथेरेपी (Physiotherapy)"
+        },
+        "text": {
+          "en": "Thigh muscle exercises help the most.",
+          "hi": "जांघ की मांसपेशियों के व्यायाम सबसे ज़्यादा फ़ायदा करते हैं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Injection or surgery",
+          "hi": "इंजेक्शन या ऑपरेशन"
+        },
+        "text": {
+          "en": "Only if pain is severe and other treatment has not helped. Knee replacement is one option.",
+          "hi": "जब दर्द बहुत तेज़ हो और बाकी इलाज से आराम न मिले। घुटना बदलना (Knee Replacement) एक विकल्प है।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up and X-ray.",
+      "hi": "आपका इलाज आपकी जांच और एक्स-रे पर निर्भर करता है।"
+    }
+  },
+  "diet": [
+    {
+      "en": "Keep your weight in check. Every kilo you lose takes load off your knees.",
+      "hi": "वज़न काबू में रखें। हर किलो कम होने से घुटनों का बोझ घटता है।"
+    }
+  ],
+  "dos": [
+    {
+      "en": "Walk daily on flat ground. Swimming or cycling is also good.",
+      "hi": "रोज़ समतल ज़मीन पर टहलें। तैराकी या साइकिल भी अच्छी है।"
+    },
+    {
+      "en": "Use a commode toilet and a chair instead of sitting on the floor.",
+      "hi": "ज़मीन पर बैठने की जगह कमोड और कुर्सी इस्तेमाल करें।"
+    },
+    {
+      "en": "Use a warm pack when the knee feels stiff.",
+      "hi": "अकड़न हो तो गर्म सेक लें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not sit cross-legged or squat for long.",
+      "hi": "देर तक पालथी मारकर या उकड़ू न बैठें।"
+    },
+    {
+      "en": "Avoid climbing stairs again and again, and carrying heavy loads.",
+      "hi": "बार-बार सीढ़ियां चढ़ने और भारी सामान उठाने से बचें।"
+    },
+    {
+      "en": "Do not stop moving because of pain. Too much rest makes the knee stiffer.",
+      "hi": "दर्द के डर से हिलना बंद न करें। ज़्यादा आराम से घुटना और अकड़ता है।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so. Mild discomfort is fine. Stop if the pain becomes sharp or the knee swells.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। हल्की तकलीफ़ ठीक है। तेज़ दर्द हो या घुटना सूजे तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "quads-set",
+      "title": {
+        "en": "Thigh Tightening",
+        "hi": "जांघ की मांसपेशी कसना (Quads Set)"
+      },
+      "reps": {
+        "en": "10 times, hold 5 seconds, 2–3 times a day",
+        "hi": "10 बार, 5 सेकंड रोकें, दिन में 2–3 बार"
+      },
+      "start": {
+        "en": "Sit or lie with your leg straight. Keep a small rolled towel under the knee.",
+        "hi": "पैर सीधा करके बैठें या लेटें। घुटने के नीचे छोटा लपेटा हुआ तौलिया रखें।"
+      },
+      "steps": [
+        {
+          "en": "Press the back of your knee down into the towel. Tighten the thigh muscle.",
+          "hi": "घुटने के पीछे से तौलिए को नीचे दबाएं। जांघ की मांसपेशी कसें।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not hold your breath.",
+          "hi": "सांस न रोकें।"
+        }
+      ]
+    },
+    {
+      "id": "straight-leg-raise",
+      "title": {
+        "en": "Straight Leg Raise",
+        "hi": "सीधा पैर उठाना (Straight Leg Raise)"
+      },
+      "reps": {
+        "en": "10 times each leg, 2 sets a day",
+        "hi": "हर पैर से 10 बार, दिन में 2 सेट"
+      },
+      "start": {
+        "en": "Lie on your back. Bend the other knee. Keep the exercising leg straight.",
+        "hi": "पीठ के बल लेटें। दूसरा घुटना मोड़ लें। जिस पैर का व्यायाम करना है उसे सीधा रखें।"
+      },
+      "steps": [
+        {
+          "en": "Tighten the thigh. Lift the straight leg about one foot.",
+          "hi": "जांघ कसें। सीधे पैर को लगभग एक फुट ऊपर उठाएं।"
+        },
+        {
+          "en": "Hold for 3 seconds. Lower slowly.",
+          "hi": "3 सेकंड रुकें। धीरे से नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep the knee straight. Stop if the knee pain increases.",
+          "hi": "घुटना सीधा रखें। घुटने का दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "heel-slide",
+      "title": {
+        "en": "Heel Slide",
+        "hi": "एड़ी सरकाना (Heel Slide)"
+      },
+      "reps": {
+        "en": "10 times, 2 times a day",
+        "hi": "10 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Lie on your back with both legs straight.",
+        "hi": "पीठ के बल लेटें, दोनों पैर सीधे।"
+      },
+      "steps": [
+        {
+          "en": "Slowly slide your heel towards your buttock. Bend the knee as far as is comfortable.",
+          "hi": "एड़ी को धीरे से कूल्हे की ओर सरकाएं। जितना आराम से हो उतना घुटना मोड़ें।"
+        },
+        {
+          "en": "Hold for 5 seconds. Slide back.",
+          "hi": "5 सेकंड रुकें। वापस सरकाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Go only till a mild stretch, not pain.",
+          "hi": "सिर्फ़ हल्के खिंचाव तक जाएं, दर्द तक नहीं।"
+        }
+      ]
+    },
+    {
+      "id": "seated-knee-extension",
+      "title": {
+        "en": "Seated Knee Straightening",
+        "hi": "बैठकर घुटना सीधा करना (Knee Extension)"
+      },
+      "reps": {
+        "en": "10 times each leg, 2 sets a day",
+        "hi": "हर पैर से 10 बार, दिन में 2 सेट"
+      },
+      "start": {
+        "en": "Sit on a chair with your back supported and feet on the floor.",
+        "hi": "कुर्सी पर पीठ टिकाकर बैठें, पैर ज़मीन पर।"
+      },
+      "steps": [
+        {
+          "en": "Slowly straighten one knee fully.",
+          "hi": "एक घुटने को धीरे से पूरा सीधा करें।"
+        },
+        {
+          "en": "Hold for 5 seconds. Lower slowly.",
+          "hi": "5 सेकंड रुकें। धीरे से नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not add ankle weights unless your doctor says so.",
+          "hi": "डॉक्टर के कहे बिना पैर पर वज़न न बांधें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Walking will wear out the knee more.",
+        "hi": "चलने से घुटना और घिस जाएगा।"
+      },
+      "fact": {
+        "en": "Walking and exercises protect the knee. Too much rest makes it stiffer.",
+        "hi": "चलना और व्यायाम घुटने को बचाते हैं। ज़्यादा आराम से अकड़न बढ़ती है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Knee replacement is the only treatment.",
+        "hi": "घुटना बदलना ही एकमात्र इलाज है।"
+      },
+      "fact": {
+        "en": "Most people do not need surgery.",
+        "hi": "ज़्यादातर लोगों को ऑपरेशन की ज़रूरत नहीं पड़ती।"
+      }
+    },
+    {
+      "myth": {
+        "en": "A cracking sound means serious damage.",
+        "hi": "घुटने से आवाज़ आना यानी गंभीर नुकसान।"
+      },
+      "fact": {
+        "en": "Crackling is common and usually harmless if there is no pain.",
+        "hi": "आवाज़ आना आम बात है। दर्द न हो तो आमतौर पर नुकसान की बात नहीं।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Knee suddenly red, hot and very swollen, with fever",
+        "hi": "घुटना अचानक लाल, गर्म और बहुत सूजा हुआ, साथ में बुखार"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Pain and swelling after a fall or injury, and you cannot stand on the leg",
+        "hi": "गिरने या चोट के बाद दर्द और सूजन, और पैर पर खड़े न हो पाना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Knee locks, gives way, or you cannot straighten it",
+        "hi": "घुटना अटक जाना, अचानक मुड़ जाना, या सीधा न हो पाना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain wakes you at night or keeps getting worse despite treatment",
+        "hi": "रात में दर्द से नींद खुलना, या इलाज के बाद भी दर्द बढ़ते जाना"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray?",
+        "hi": "क्या मुझे एक्स-रे (X-ray) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Usually once. Your doctor will decide.",
+        "hi": "आमतौर पर एक बार। डॉक्टर तय करेंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "Will I need a knee replacement?",
+        "hi": "क्या मुझे घुटना बदलना पड़ेगा?"
+      },
+      "a": {
+        "en": "Only if pain is severe and other treatment has not helped.",
+        "hi": "सिर्फ़ तब, जब दर्द बहुत तेज़ हो और बाकी इलाज से आराम न मिले।"
+      }
+    },
+    {
+      "q": {
+        "en": "Should I take calcium or glucosamine?",
+        "hi": "क्या मुझे कैल्शियम या ग्लूकोसामाइन लेना चाहिए?"
+      },
+      "a": {
+        "en": "Ask your doctor. They are not a cure for wear.",
+        "hi": "डॉक्टर से पूछें। ये घिसाव का इलाज नहीं हैं।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Knee osteoarthritis is long-term, but pain can be well controlled. Keep exercising to stay comfortable.",
+        "hi": "घुटने का घिसाव लंबे समय का है, पर दर्द अच्छी तरह काबू में रह सकता है। आराम बना रहे, इसलिए व्यायाम जारी रखें।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after 4–6 weeks, or is getting worse.",
+        "hi": "4–6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}
