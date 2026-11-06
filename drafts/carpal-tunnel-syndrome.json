@@ -1,0 +1,308 @@
+{
+  "slug": "carpal-tunnel-syndrome",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Carpal tunnel syndrome is pressure on a nerve (the median nerve) at the wrist. It causes tingling, numbness and pain in the hand and fingers, often worse at night.",
+      "hi": "कार्पल टनल सिंड्रोम (Carpal Tunnel Syndrome) यानी कलाई में एक नस (median nerve) पर दबाव। इससे हाथ और उंगलियों में झुनझुनी, सुन्नपन और दर्द होता है, जो अक्सर रात में ज़्यादा होता है।"
+    },
+    {
+      "en": "It can often be managed at home, but recovery may take months. It sometimes settles by itself within a few months, especially when linked to pregnancy.",
+      "hi": "इसे अक्सर घर पर संभाला जा सकता है, पर ठीक होने में महीने लग सकते हैं। यह कभी-कभी कुछ महीनों में अपने आप ठीक हो जाता है, खासकर गर्भावस्था से जुड़े मामलों में।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Tingling or pins and needles in the hand and fingers",
+      "hi": "हाथ और उंगलियों में झुनझुनी"
+    },
+    {
+      "en": "Numbness, or aching and pain in the fingers, hand or arm",
+      "hi": "उंगलियों, हाथ या बांह में सुन्नपन या दर्द"
+    },
+    {
+      "en": "A weak thumb, or trouble gripping",
+      "hi": "अंगूठे में कमज़ोरी, या पकड़ने में दिक्कत"
+    },
+    {
+      "en": "Symptoms start slowly, come and go, and are usually worse at night",
+      "hi": "तकलीफ़ धीरे-धीरे शुरू होती है, आती-जाती रहती है, और आमतौर पर रात में ज़्यादा होती है"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Swelling in the wrist tunnel squeezes the nerve",
+      "hi": "कलाई की सुरंग में सूजन से नस दब जाती है"
+    },
+    {
+      "en": "Being overweight or pregnant",
+      "hi": "वज़न ज़्यादा होना या गर्भावस्था"
+    },
+    {
+      "en": "Repeated wrist bending or hard gripping, for example vibrating tools",
+      "hi": "कलाई का बार-बार मुड़ना या ज़ोर से पकड़ना, जैसे कंपन वाले औज़ार"
+    },
+    {
+      "en": "Arthritis or diabetes",
+      "hi": "गठिया (arthritis) या डायबिटीज़"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Night splint",
+          "hi": "रात का स्प्लिंट"
+        },
+        "text": {
+          "en": "A wrist splint worn at night keeps the wrist straight and eases pressure on the nerve. It may take up to 6 weeks to feel better. Use it for 6 weeks first, then for up to 3 months after symptoms settle, if advised.",
+          "hi": "रात को पहना जाने वाला कलाई का स्प्लिंट कलाई को सीधा रखता है और नस का दबाव कम करता है। आराम मिलने में 6 हफ़्ते तक लग सकते हैं। पहले 6 हफ़्ते पहनें, फिर सलाह हो तो तकलीफ़ ठीक होने के बाद भी 3 महीने तक।"
+        }
+      },
+      {
+        "title": {
+          "en": "Change activities",
+          "hi": "काम के तरीके बदलें"
+        },
+        "text": {
+          "en": "Cut down on activities that bend the wrist or need a hard grip. If work seems to cause it, speak to your supervisor about equipment or how you do the task.",
+          "hi": "जिन कामों में कलाई मुड़ती है या कसकर पकड़ना पड़ता है, उन्हें कम करें। काम से तकलीफ़ लगे तो अपने सुपरवाइज़र से औज़ार या काम करने के तरीके पर बात करें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Painkillers",
+          "hi": "दर्द की दवा"
+        },
+        "text": {
+          "en": "They may ease pain briefly but do not treat the cause. Take only as your doctor advises.",
+          "hi": "इनसे थोड़ी देर दर्द कम हो सकता है, पर ये कारण का इलाज नहीं करतीं। सिर्फ़ डॉक्टर की सलाह से लें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Steroid injection",
+          "hi": "स्टेरॉइड इंजेक्शन"
+        },
+        "text": {
+          "en": "Advised if a splint does not help. It reduces swelling around the nerve, but it is not always a cure and the problem can come back after a few months.",
+          "hi": "स्प्लिंट से आराम न मिले तो सुझाया जाता है। यह नस के आसपास की सूजन कम करता है, पर हमेशा पक्का इलाज नहीं है और कुछ महीनों बाद तकलीफ़ लौट सकती है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Surgery",
+          "hi": "ऑपरेशन"
+        },
+        "text": {
+          "en": "Considered if symptoms get worse and other treatment has failed, or the nerve is badly squeezed or the hand is weak. It usually cures the problem. Done under local anaesthetic in about 20 minutes, and you go home the same day.",
+          "hi": "तकलीफ़ बढ़े और दूसरे इलाज काम न करें, या नस बहुत दब गई हो या हाथ कमज़ोर हो, तब इस पर विचार होता है। इससे आमतौर पर समस्या ठीक हो जाती है। यह लोकल एनेस्थीसिया में लगभग 20 मिनट में होता है और आप उसी दिन घर जा सकते हैं।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up. If the hand muscles look thinner, tell your doctor quickly.",
+      "hi": "आपका इलाज आपकी जांच पर निर्भर करता है। हाथ की मांसपेशियां पतली दिखें तो डॉक्टर को जल्दी बताएं।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Wear the splint at night. Start with part of the night and build up to the whole night.",
+      "hi": "स्प्लिंट रात में पहनें। पहले रात के कुछ हिस्से से शुरू करें, फिर पूरी रात तक बढ़ाएं।"
+    },
+    {
+      "en": "Take breaks from tasks that bend the wrist or need a hard grip.",
+      "hi": "जिन कामों में कलाई मुड़ती है या कसकर पकड़ना पड़ता है, उनसे बीच-बीच में आराम लें।"
+    },
+    {
+      "en": "Do the gentle hand exercises if your doctor advises.",
+      "hi": "डॉक्टर कहें तो हाथ के हल्के व्यायाम करें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not drive while wearing the splint.",
+      "hi": "स्प्लिंट पहनकर गाड़ी न चलाएं।"
+    },
+    {
+      "en": "Do not keep bending the wrist or gripping hard for long.",
+      "hi": "कलाई को बार-बार मोड़ते या देर तक कसकर पकड़ते न रहें।"
+    },
+    {
+      "en": "Do not wait if your thumb feels weak or hand muscles look thinner. See your doctor soon.",
+      "hi": "अंगूठा कमज़ोर लगे या हाथ की मांसपेशियां पतली दिखें तो इंतज़ार न करें, जल्दी डॉक्टर को दिखाएं।"
+    }
+  ],
+  "careImages": [
+    {
+      "id": "night-splint",
+      "caption": {
+        "en": "Night splint: keeps the wrist straight",
+        "hi": "रात का स्प्लिंट: कलाई को सीधा रखता है"
+      }
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so. Stop if the tingling or pain increases.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। झुनझुनी या दर्द बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "wrist-bend",
+      "title": {
+        "en": "Wrist Bend",
+        "hi": "कलाई मोड़ना"
+      },
+      "reps": {
+        "en": "Hold 5 seconds each way, 10 times, 3 sets",
+        "hi": "हर तरफ़ 5 सेकंड रुकें, 10 बार, 3 सेट"
+      },
+      "start": {
+        "en": "Rest your elbow on a table with your forearm pointing up and your wrist straight.",
+        "hi": "कोहनी मेज़ पर टिकाएं, बांह ऊपर की ओर और कलाई सीधी।"
+      },
+      "steps": [
+        {
+          "en": "Bend your wrist forward and hold for 5 seconds.",
+          "hi": "कलाई को आगे की ओर मोड़ें और 5 सेकंड रुकें।"
+        },
+        {
+          "en": "Return to straight, then bend your wrist backwards and hold for 5 seconds.",
+          "hi": "वापस सीधा करें, फिर कलाई को पीछे की ओर मोड़ें और 5 सेकंड रुकें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Move gently. Stop if the tingling or pain increases.",
+          "hi": "धीरे-धीरे करें। झुनझुनी या दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "finger-bend",
+      "title": {
+        "en": "Finger Bend",
+        "hi": "उंगलियां मोड़ना"
+      },
+      "reps": {
+        "en": "Hold 5 seconds, 10 times, 3 sets",
+        "hi": "5 सेकंड रुकें, 10 बार, 3 सेट"
+      },
+      "start": {
+        "en": "Hold your fingers straight out.",
+        "hi": "उंगलियां सीधी फैलाएं।"
+      },
+      "steps": [
+        {
+          "en": "Gently bend the middle joints of your fingers towards the upper palm.",
+          "hi": "उंगलियों के बीच के जोड़ों को हल्के से ऊपरी हथेली की ओर मोड़ें।"
+        },
+        {
+          "en": "Hold for 5 seconds, then straighten.",
+          "hi": "5 सेकंड रुकें, फिर सीधा करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not force the fingers. Stop if the pain increases.",
+          "hi": "उंगलियों पर ज़ोर न डालें। दर्द बढ़े तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Carpal tunnel always needs an operation.",
+        "hi": "कार्पल टनल में हमेशा ऑपरेशन ही करना पड़ता है।"
+      },
+      "fact": {
+        "en": "Many people manage with a night splint and changes to activities. Surgery is for those who get worse or do not improve with other treatment.",
+        "hi": "कई लोग रात के स्प्लिंट और काम के तरीके बदलकर ठीक रहते हैं। ऑपरेशन उन लोगों के लिए है जिनकी तकलीफ़ बढ़े या दूसरे इलाज से न सुधरे।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Hand symptoms with bladder or bowel problems, numbness around the private parts, or new balance problems",
+        "hi": "हाथ की तकलीफ़ के साथ पेशाब-शौच की दिक्कत, प्राइवेट पार्ट्स के आसपास सुन्नपन, या चलने में नया डगमगाना"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "A large loss of strength or coordination in the arms and hands",
+        "hi": "बांहों और हाथों की ताक़त या तालमेल में बहुत ज़्यादा कमी"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Your thumb is weak, or the muscles at the base of the thumb look thinner",
+        "hi": "अंगूठा कमज़ोर है, या अंगूठे की जड़ की मांसपेशियां पतली दिखती हैं"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Symptoms are getting worse, or are not improving with the splint",
+        "hi": "तकलीफ़ बढ़ रही है, या स्प्लिंट से आराम नहीं मिल रहा"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How long do I wear the night splint?",
+        "hi": "रात का स्प्लिंट कितने समय तक पहनना है?"
+      },
+      "a": {
+        "en": "Usually for 6 weeks first. If it helps, many doctors advise carrying on for up to 3 months after symptoms settle. Follow your doctor's advice.",
+        "hi": "आमतौर पर पहले 6 हफ़्ते। फ़ायदा हो तो तकलीफ़ ठीक होने के बाद भी 3 महीने तक पहनने की सलाह दी जाती है। अपने डॉक्टर की सलाह मानें।"
+      }
+    },
+    {
+      "q": {
+        "en": "How long is recovery after surgery?",
+        "hi": "ऑपरेशन के बाद ठीक होने में कितना समय लगता है?"
+      },
+      "a": {
+        "en": "Most people are back to normal activities in about a month, or less. Your surgeon will guide you.",
+        "hi": "ज़्यादातर लोग लगभग एक महीने में, या उससे कम समय में सामान्य कामों पर लौट आते हैं। आपके सर्जन आपको बताएंगे।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Recovery may take months. Some people improve by themselves.",
+        "hi": "ठीक होने में महीने लग सकते हैं। कुछ लोग अपने आप ठीक हो जाते हैं।"
+      },
+      {
+        "en": "The splint may take up to 6 weeks to help.",
+        "hi": "स्प्लिंट का असर दिखने में 6 हफ़्ते तक लग सकते हैं।"
+      },
+      {
+        "en": "After surgery, most people return to normal activities in about a month.",
+        "hi": "ऑपरेशन के बाद ज़्यादातर लोग लगभग एक महीने में सामान्य कामों पर लौटते हैं।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Symptoms are getting worse or are not going away.",
+        "hi": "तकलीफ़ बढ़ रही है या जा नहीं रही।"
+      },
+      {
+        "en": "The splint is not helping.",
+        "hi": "स्प्लिंट से आराम नहीं मिल रहा।"
+      },
+      {
+        "en": "Your thumb feels weak.",
+        "hi": "अंगूठा कमज़ोर लग रहा है।"
+      }
+    ]
+  }
+}

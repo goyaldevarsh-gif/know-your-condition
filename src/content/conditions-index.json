@@ -274,5 +274,17 @@
       "en": "General care after any bone or joint surgery: wound, pain, swelling, clots and warning signs.",
       "hi": "किसी भी हड्डी या जोड़ के ऑपरेशन के बाद की देखभाल: घाव, दर्द, सूजन, थक्का और ख़तरे के संकेत।"
     }
+  },
+  {
+    "slug": "lumbar-disc-prolapse",
+    "category": "spine-neck",
+    "name": {
+      "en": "Slipped Disc (Lumbar Disc Prolapse)",
+      "hi": "स्लिप डिस्क (Lumbar Disc Prolapse)"
+    },
+    "short": {
+      "en": "Slip disc: back pain with leg pain or numbness",
+      "hi": "स्लिप डिस्क: कमर दर्द, साथ में पैर में दर्द या सुन्नपन"
+    }
   }
 ]

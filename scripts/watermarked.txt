@@ -1,3 +1,4 @@
+
 public/img/achilles-tendinopathy/calf-stretch.webp
 public/img/achilles-tendinopathy/double-heel-raise.webp
 public/img/achilles-tendinopathy/heel-drop.webp
@@ -54,6 +55,11 @@ public/img/low-back-pain/cat-camel.webp
 public/img/low-back-pain/hero.webp
 public/img/low-back-pain/knee-to-chest.webp
 public/img/low-back-pain/pelvic-tilt.webp
+public/img/lumbar-disc-prolapse/bridge.webp
+public/img/lumbar-disc-prolapse/hero.webp
+public/img/lumbar-disc-prolapse/knee-to-chest.webp
+public/img/lumbar-disc-prolapse/nerve-glide.webp
+public/img/lumbar-disc-prolapse/pelvic-tilt.webp
 public/img/neck-pain/chin-tuck.webp
 public/img/neck-pain/hero.webp
 public/img/neck-pain/neck-isometrics.webp
