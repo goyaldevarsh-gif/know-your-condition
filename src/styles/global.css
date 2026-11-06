@@ -857,3 +857,14 @@ a.cond-card:active { border-color: var(--teal); transform: scale(0.99); }
 .redlink-top::after { content: '›'; margin-left: auto; font-size: 1.6rem; line-height: 1; }
 
 .site-foot .sf-brand { font-weight: 800; font-size: 0.95rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--teal-dark); margin-bottom: 2px; }
+
+/* Slimmer "Have a question?" contact card */
+.contact { padding: 12px 14px; gap: 4px; }
+.contact h2 { font-size: 0.95rem; }
+.contact-who { font-size: 0.85rem; }
+.contact-who span { font-size: 0.74rem; }
+.contact-num { font-size: 1.05rem; }
+.contact-btns { gap: 8px; margin-top: 2px; }
+.cbtn { min-height: 42px; border-radius: 12px; font-size: min(0.88rem, 16px); gap: 6px; }
+.cbtn svg { width: 17px; height: 17px; }
+.contact-safety { margin-top: 4px; padding: 7px 10px; font-size: 0.74rem; border-radius: 10px; }
