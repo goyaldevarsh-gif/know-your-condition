@@ -4,7 +4,7 @@
   "heroImage": null,
   "what": [
     {
-      "en": "A cast (plaster) holds a broken leg, ankle or foot bone still so it can heal. Leg fractures often need 6–12 weeks.",
+      "en": "A cast or slab (plaster) holds a broken leg, ankle or foot bone still so it can heal. Leg fractures often need 6–12 weeks.",
       "hi": "प्लास्टर टूटी टांग, टखने या पैर की हड्डी को स्थिर रखता है ताकि वह जुड़ सके। टांग के फ्रैक्चर में अक्सर 6–12 हफ़्ते लगते हैं।"
     },
     {
@@ -117,8 +117,8 @@
     }
   ],
   "exercisesNote": {
-    "en": "These keep the free joints moving, reduce swelling and protect the muscles. Never move the broken bone itself. Stop if pain increases.",
-    "hi": "ये खुले जोड़ों को चलाते हैं, सूजन घटाते हैं और मांसपेशियों को बचाते हैं। टूटी हड्डी वाली जगह न हिलाएं। दर्द बढ़े तो रुकें।"
+    "en": "These keep the free joints moving, reduce swelling and protect the muscles. Never move the broken bone itself. Stop if pain increases. If your cast goes above the knee, skip the knee exercise.",
+    "hi": "ये खुले जोड़ों को चलाते हैं, सूजन घटाते हैं और मांसपेशियों को बचाते हैं। टूटी हड्डी वाली जगह न हिलाएं। दर्द बढ़े तो रुकें। अगर प्लास्टर घुटने के ऊपर तक है, तो घुटने वाला व्यायाम छोड़ दें।"
   },
   "exercises": [
     {
