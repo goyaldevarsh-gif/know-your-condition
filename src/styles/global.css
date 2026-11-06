@@ -787,3 +787,8 @@ a.cond-card:active { border-color: var(--teal); transform: scale(0.99); }
 @media print {
   .actionbar, .contact { display: none; }
 }
+
+.care-imgs { display: grid; gap: 12px; margin: 16px 0; grid-template-columns: 1fr 1fr; }
+.care-img { margin: 0; }
+.care-img img { display: block; width: 100%; height: auto; border-radius: 12px; }
+.care-img figcaption { font-size: 0.85rem; margin-top: 6px; text-align: center; }

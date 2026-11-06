@@ -121,6 +121,20 @@ const TABS = ['overview', 'care', 'exercises', 'redflags', 'faqs'] as const;
         </div>
       </div>
 
+{c.careImages && (
+      <div class="care-imgs">
+        {c.careImages.map((ci: any) => {
+          const src = asset(`img/${slug}/${ci.id}`);
+          return src && (
+            <figure class="care-img">
+              <img src={src} alt={t(ci.caption, lang)} loading="lazy" decoding="async" />
+              <figcaption>{t(ci.caption, lang)}</figcaption>
+            </figure>
+          );
+        })}
+      </div>
+)}
+
 {c.diet && (
       <Accordion title={t(H.diet, lang)}>
         <ul class="bullets">{c.diet.map((x: any) => <li>{t(x, lang)}</li>)}</ul>

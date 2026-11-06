@@ -271,5 +271,21 @@
         "hi": "कोई भी ख़तरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
       }
     ]
-  }
+  },
+  "careImages": [
+    {
+      "id": "knee-brace",
+      "caption": {
+        "en": "Knee brace",
+        "hi": "घुटने का ब्रेस (Knee Brace)"
+      }
+    },
+    {
+      "id": "crutches",
+      "caption": {
+        "en": "Walking with crutches",
+        "hi": "बैसाखी से चलना"
+      }
+    }
+  ]
 }
