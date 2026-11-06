@@ -3,6 +3,7 @@ import type { Lang } from '../lib/i18n';
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const label = lang === 'hi' ? 'अक्षर का आकार' : 'Text size';
+const hcLabel = lang === 'hi' ? 'ज़्यादा कंट्रास्ट' : 'High contrast';
 const names = lang === 'hi' ? ['सामान्य', 'बड़ा', 'सबसे बड़ा'] : ['Normal', 'Large', 'Extra large'];
 ---
 
@@ -14,6 +15,9 @@ const names = lang === 'hi' ? ['सामान्य', 'बड़ा', 'सब�
     {names.map((n, i) => (
       <button type="button" class={`fs-opt fs-o${i}`} data-fs-set={i} aria-label={n} aria-pressed={i === 0 ? 'true' : 'false'}>A</button>
     ))}
+    <button type="button" class="fs-hc" data-hc aria-pressed="false">
+      <span class="fs-hc-ico" aria-hidden="true">◐</span><span>{hcLabel}</span>
+    </button>
   </div>
 </div>
 
@@ -27,6 +31,22 @@ const names = lang === 'hi' ? ['सामान्य', 'बड़ा', 'सब�
         b.setAttribute('aria-pressed', String(Number(b.getAttribute('data-fs-set')) === i));
       });
     }
+    function applyHc(on) {
+      if (on) root.setAttribute('data-hc', '1'); else root.removeAttribute('data-hc');
+      document.querySelectorAll('[data-hc]').forEach(function (b) {
+        if (b.tagName === 'BUTTON') b.setAttribute('aria-pressed', String(on));
+      });
+    }
+    var hc = false;
+    try { hc = localStorage.getItem('kyc-hc') === '1'; } catch (e) {}
+    applyHc(hc);
+    document.querySelectorAll('button[data-hc]').forEach(function (b) {
+      b.addEventListener('click', function (e) {
+        e.stopPropagation();
+        hc = !hc; applyHc(hc);
+        try { localStorage.setItem('kyc-hc', hc ? '1' : '0'); } catch (err) {}
+      });
+    });
     var cur = 0;
     try { var s = parseInt(localStorage.getItem('kyc-fs'), 10); if (s >= 0 && s <= 2) cur = s; } catch (e) {}
     apply(cur);

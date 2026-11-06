@@ -35,6 +35,7 @@ const { title, description = 'Simple, reliable orthopaedic patient education by 
     <script is:inline>
       try {
         var f = parseInt(localStorage.getItem('kyc-fs'), 10);
+        if (localStorage.getItem('kyc-hc') === '1') document.documentElement.setAttribute('data-hc', '1');
         if (f === 1 || f === 2) document.documentElement.style.fontSize = [18, 21, 24][f] + 'px';
       } catch (e) {}
     </script>
