@@ -50,7 +50,8 @@ for (const { lang, slug } of jobs) {
   fs.mkdirSync(path.dirname(out), { recursive: true });
   await page.pdf({ path: out, format: 'A4', printBackground: true, preferCSSPageSize: true });
   await page.close();
-  console.log(`[pdf] ${lang}/${slug}.pdf`);
+  const pages = (fs.readFileSync(out).toString('latin1').match(/\/Type\s*\/Page[^s]/g) || []).length;
+  console.log(`[pdf] ${lang}/${slug}.pdf (${pages} pages)${pages > 2 ? '  <-- WARNING: more than 2 pages, shorten content' : ''}`);
 }
 await browser.close();
 server.close();

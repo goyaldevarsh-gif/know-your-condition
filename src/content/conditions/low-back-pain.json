@@ -1,0 +1,382 @@
+{
+  "slug": "low-back-pain",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Low back pain is pain in the lower part of the back. It is most often from muscle strain, or from stiff or worn joints and discs.",
+      "hi": "कमर दर्द (Low Back Pain) यानी कमर के निचले हिस्से में दर्द। यह ज़्यादातर मांसपेशियों में खिंचाव, या जोड़ों और डिस्क (disc) की अकड़न या घिसाव से होता है।"
+    },
+    {
+      "en": "Most people get better in a few weeks by staying active and doing simple exercises.",
+      "hi": "ज़्यादातर लोग चलते-फिरते रहने और आसान व्यायाम से कुछ हफ़्तों में ठीक हो जाते हैं।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Dull ache in the lower back",
+      "hi": "कमर के निचले हिस्से में हल्का दर्द"
+    },
+    {
+      "en": "Stiffness, worse after long sitting or in the morning",
+      "hi": "अकड़न, देर तक बैठने या सुबह उठने पर ज़्यादा"
+    },
+    {
+      "en": "More pain on bending or lifting",
+      "hi": "झुकने या वज़न उठाने पर दर्द बढ़ना"
+    },
+    {
+      "en": "Pain may spread to the buttock or thigh",
+      "hi": "दर्द कूल्हे या जांघ तक फैल सकता है"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Long hours of sitting and poor posture",
+      "hi": "देर तक बैठना और गलत मुद्रा (posture)"
+    },
+    {
+      "en": "Lifting heavy weight or bending suddenly",
+      "hi": "भारी वज़न उठाना या अचानक झुकना"
+    },
+    {
+      "en": "Weak back and tummy muscles, or extra weight",
+      "hi": "कमज़ोर पीठ और पेट की मांसपेशियां, या ज़्यादा वज़न"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Daily care",
+          "hi": "रोज़ की देखभाल"
+        },
+        "text": {
+          "en": "Stay active. Use a warm pack.",
+          "hi": "चलते-फिरते रहें। गर्म सेक लें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
+        "text": {
+          "en": "Only as your doctor advises.",
+          "hi": "सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Physiotherapy",
+          "hi": "फिज़ियोथेरेपी (Physiotherapy)"
+        },
+        "text": {
+          "en": "Back and tummy strengthening exercises.",
+          "hi": "पीठ और पेट की मांसपेशियां मज़बूत करने वाले व्यायाम।"
+        }
+      },
+      {
+        "title": {
+          "en": "Surgery",
+          "hi": "ऑपरेशन"
+        },
+        "text": {
+          "en": "Rarely needed.",
+          "hi": "बहुत कम ज़रूरत पड़ती है।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up.",
+      "hi": "आपका इलाज आपकी जांच पर निर्भर करता है।"
+    }
+  },
+  "diet": [
+    {
+      "en": "Keep your weight in check. Extra weight strains the back.",
+      "hi": "वज़न काबू में रखें। ज़्यादा वज़न से कमर पर ज़ोर पड़ता है।"
+    }
+  ],
+  "dos": [
+    {
+      "en": "Stay active. Walk a little every few hours, even if it hurts a bit.",
+      "hi": "चलते-फिरते रहें। थोड़ा दर्द हो तब भी हर कुछ घंटे में थोड़ा टहलें।"
+    },
+    {
+      "en": "Sit with your back supported. Get up every 30 minutes.",
+      "hi": "पीठ को सहारा देकर बैठें। हर 30 मिनट में उठें।"
+    },
+    {
+      "en": "Bend your knees and keep the load close to your body when lifting.",
+      "hi": "वज़न उठाते समय घुटने मोड़ें और सामान शरीर के पास रखें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not stay in bed for days. Too much rest makes the back stiffer.",
+      "hi": "दिनों तक बिस्तर पर न पड़े रहें। ज़्यादा आराम से कमर और अकड़ती है।"
+    },
+    {
+      "en": "Do not lift heavy weight or bend forward suddenly.",
+      "hi": "भारी वज़न न उठाएं और अचानक आगे न झुकें।"
+    },
+    {
+      "en": "Do not let anyone forcefully crack or twist your back.",
+      "hi": "किसी से ज़ोर से कमर चटकवाएं या मरोड़ें नहीं।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so. Mild discomfort is fine. Stop if pain spreads down the leg, or you feel numbness or weakness.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। हल्की तकलीफ़ ठीक है। दर्द पैर में उतरे, या सुन्नपन या कमज़ोरी लगे तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "knee-to-chest",
+      "title": {
+        "en": "Knee to Chest",
+        "hi": "घुटना सीने तक लाना (Knee to Chest)"
+      },
+      "reps": {
+        "en": "Hold 15–20 seconds, 3 times each leg, twice a day",
+        "hi": "15–20 सेकंड रुकें, हर पैर से 3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Lie on your back with your legs straight.",
+        "hi": "पीठ के बल लेटें, पैर सीधे।"
+      },
+      "steps": [
+        {
+          "en": "Bring one knee towards your chest with both hands.",
+          "hi": "दोनों हाथों से एक घुटना सीने की ओर लाएं।"
+        },
+        {
+          "en": "Hold, then lower slowly. Repeat with the other leg.",
+          "hi": "रुकें, फिर धीरे से नीचे लाएं। दूसरे पैर से दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not pull hard. Stop if pain spreads down the leg.",
+          "hi": "ज़ोर से न खींचें। दर्द पैर में उतरे तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "pelvic-tilt",
+      "title": {
+        "en": "Pelvic Tilt",
+        "hi": "कमर को ज़मीन की ओर दबाना (Pelvic Tilt)"
+      },
+      "reps": {
+        "en": "10 times, hold 5 seconds, twice a day",
+        "hi": "10 बार, 5 सेकंड रुकें, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Lie on your back with knees bent and feet flat.",
+        "hi": "पीठ के बल लेटें, घुटने मुड़े और तलवे ज़मीन पर।"
+      },
+      "steps": [
+        {
+          "en": "Tighten your tummy. Gently press your lower back into the floor.",
+          "hi": "पेट कसें। कमर के निचले हिस्से को हल्के से ज़मीन की ओर दबाएं।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep breathing normally.",
+          "hi": "सांस सामान्य रखें।"
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "title": {
+        "en": "Bridge",
+        "hi": "कूल्हे ऊपर उठाना (Bridge)"
+      },
+      "reps": {
+        "en": "10 times, hold 3 seconds, twice a day",
+        "hi": "10 बार, 3 सेकंड रुकें, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Lie on your back with knees bent, feet flat and arms by your sides.",
+        "hi": "पीठ के बल लेटें, घुटने मुड़े, तलवे ज़मीन पर और हाथ बगल में।"
+      },
+      "steps": [
+        {
+          "en": "Tighten your buttocks. Lift your hips until shoulders, hips and knees are in a line.",
+          "hi": "कूल्हे कसें। कूल्हे ऊपर उठाएं जब तक कंधे, कूल्हे और घुटने एक सीध में न आ जाएं।"
+        },
+        {
+          "en": "Hold for 3 seconds. Lower slowly.",
+          "hi": "3 सेकंड रुकें। धीरे से नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not arch your lower back.",
+          "hi": "कमर को ज़्यादा न मोड़ें।"
+        }
+      ]
+    },
+    {
+      "id": "cat-camel",
+      "title": {
+        "en": "Cat Stretch",
+        "hi": "कमर को ऊपर की ओर गोल करना (Cat Stretch)"
+      },
+      "reps": {
+        "en": "10 times, twice a day",
+        "hi": "10 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Get on hands and knees. Hands under shoulders, knees under hips.",
+        "hi": "हाथों और घुटनों पर आएं। हाथ कंधों के नीचे, घुटने कूल्हों के नीचे।"
+      },
+      "steps": [
+        {
+          "en": "Slowly round your back upwards like a cat.",
+          "hi": "पीठ को धीरे से बिल्ली की तरह ऊपर की ओर गोल करें।"
+        },
+        {
+          "en": "Slowly come back to the flat position.",
+          "hi": "धीरे से सीधी स्थिति में लौटें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Move slowly, only as far as is comfortable.",
+          "hi": "धीरे-धीरे करें, सिर्फ़ जितना आराम से हो।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Bed rest is the best treatment.",
+        "hi": "बिस्तर पर आराम करना सबसे अच्छा इलाज है।"
+      },
+      "fact": {
+        "en": "Staying gently active helps you recover faster.",
+        "hi": "हल्का चलते-फिरते रहने से जल्दी आराम मिलता है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Back pain means the disc has slipped.",
+        "hi": "कमर दर्द का मतलब डिस्क खिसक गई है।"
+      },
+      "fact": {
+        "en": "Most back pain is from muscle strain. A scan is often not needed.",
+        "hi": "ज़्यादातर कमर दर्द मांसपेशियों के खिंचाव से होता है। अक्सर स्कैन की ज़रूरत नहीं होती।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Exercise will make the back worse.",
+        "hi": "व्यायाम से कमर और बिगड़ेगी।"
+      },
+      "fact": {
+        "en": "The right exercises make the back stronger and protect it.",
+        "hi": "सही व्यायाम कमर को मज़बूत बनाते हैं और बचाते हैं।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Loss of control over urine or stool, or numbness around the buttocks and groin",
+        "hi": "पेशाब या मल पर नियंत्रण न रहना, या कूल्हों और जांघों के बीच सुन्नपन"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Weakness in both legs, or difficulty standing or walking",
+        "hi": "दोनों पैरों में कमज़ोरी, या खड़े होने या चलने में दिक्कत"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Back pain after a fall or accident",
+        "hi": "गिरने या एक्सीडेंट के बाद कमर में दर्द"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Back pain with fever, unexplained weight loss, or a past history of cancer",
+        "hi": "कमर दर्द के साथ बुखार, बिना वजह वज़न घटना, या कैंसर का पुराना इतिहास"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Severe night pain that does not ease with rest, or pain that keeps getting worse",
+        "hi": "रात में तेज़ दर्द जो आराम से न घटे, या दर्द जो लगातार बढ़ता जाए"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray or MRI?",
+        "hi": "क्या मुझे एक्स-रे (X-ray) या एमआरआई (MRI) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Often not. Your doctor will decide, mainly if there are warning signs.",
+        "hi": "अक्सर नहीं। डॉक्टर तय करेंगे, खासकर अगर कोई खतरे का संकेत हो।"
+      }
+    },
+    {
+      "q": {
+        "en": "Should I wear a back belt?",
+        "hi": "क्या मुझे कमर का पट्टा (belt) पहनना चाहिए?"
+      },
+      "a": {
+        "en": "Only for a short time, if your doctor advises. Long use weakens the muscles.",
+        "hi": "सिर्फ़ थोड़े समय के लिए, डॉक्टर के कहने पर। ज़्यादा पहनने से मांसपेशियां कमज़ोर होती हैं।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I go to work or drive?",
+        "hi": "क्या मैं काम पर जा सकता हूं या गाड़ी चला सकता हूं?"
+      },
+      "a": {
+        "en": "Usually yes, with breaks. Avoid long sitting and heavy lifting.",
+        "hi": "आमतौर पर हां, बीच-बीच में ब्रेक लेकर। देर तक बैठने और भारी वज़न उठाने से बचें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Most back pain improves in 2–6 weeks. Keep exercising so it does not come back.",
+        "hi": "ज़्यादातर कमर दर्द 2–6 हफ़्ते में ठीक होता है। दर्द वापस न आए, इसलिए व्यायाम जारी रखें।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after 4–6 weeks, or is getting worse.",
+        "hi": "4–6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+      },
+      {
+        "en": "Pain travels below the knee, or you feel tingling in the leg.",
+        "hi": "दर्द घुटने के नीचे तक उतरे, या पैर में झुनझुनी हो।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}

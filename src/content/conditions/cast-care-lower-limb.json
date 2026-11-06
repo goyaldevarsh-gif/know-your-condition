@@ -100,6 +100,10 @@
     {
       "en": "Use crutches or a walker as taught. Keep floors dry and clear.",
       "hi": "सिखाए अनुसार बैसाखी या वॉकर इस्तेमाल करें। फ़र्श सूखा और साफ़ रखें।"
+    },
+    {
+      "en": "If your knee cannot bend, sit with the leg straight out in front.",
+      "hi": "अगर घुटना मुड़ नहीं सकता, तो पैर आगे सीधा करके बैठें।"
     }
   ],
   "donts": [
@@ -117,8 +121,8 @@
     }
   ],
   "exercisesNote": {
-    "en": "These keep the free joints moving, reduce swelling and protect the muscles. Never move the broken bone itself. Stop if pain increases. If your cast goes above the knee, skip the knee exercise.",
-    "hi": "ये खुले जोड़ों को चलाते हैं, सूजन घटाते हैं और मांसपेशियों को बचाते हैं। टूटी हड्डी वाली जगह न हिलाएं। दर्द बढ़े तो रुकें। अगर प्लास्टर घुटने के ऊपर तक है, तो घुटने वाला व्यायाम छोड़ दें।"
+    "en": "These keep the free joints moving, reduce swelling and protect the muscles. Never move the broken bone itself. Stop if pain increases. If your cast goes above the knee, skip the knee exercise and do more thigh tightening.",
+    "hi": "ये खुले जोड़ों को चलाते हैं, सूजन घटाते हैं और मांसपेशियों को बचाते हैं। टूटी हड्डी वाली जगह न हिलाएं। दर्द बढ़े तो रुकें। अगर प्लास्टर घुटने के ऊपर तक है, तो घुटने वाला व्यायाम छोड़ दें और जांघ कसने वाला व्यायाम ज़्यादा करें।"
   },
   "exercises": [
     {
