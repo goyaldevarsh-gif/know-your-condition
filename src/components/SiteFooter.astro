@@ -7,6 +7,7 @@ const { lang } = Astro.props;
 const langs: Lang[] = lang ? [lang] : ['en', 'hi'];
 ---
 <footer class="site-foot">
+  <p class="sf-brand">{site.brand}</p>
   <p class="sf-name">{t(site.doctor, langs[0])}<span> · {t(site.degree, langs[0])}</span></p>
   <p class="sf-copy">{site.copyright}</p>
   {langs.map((l) => <p class="sf-rights" lang={l}>{t(site.rights, l)}</p>)}
