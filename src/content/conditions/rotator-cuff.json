@@ -1,0 +1,372 @@
+{
+  "slug": "rotator-cuff",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "The rotator cuff is a group of tendons that hold the shoulder joint and lift the arm. It can get irritated or torn.",
+      "hi": "रोटेटर कफ़ (Rotator Cuff) कंधे की उन नसों (tendons) का समूह है जो कंधे के जोड़ को थामती हैं और हाथ उठाने में मदद करती हैं। इनमें सूजन आ सकती है या ये फट सकती हैं।"
+    },
+    {
+      "en": "Many people improve with exercises. Surgery is needed only for some tears.",
+      "hi": "कई लोग व्यायाम से ठीक हो जाते हैं। ऑपरेशन सिर्फ़ कुछ फटन में चाहिए।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Shoulder pain, mainly when lifting the arm sideways or overhead",
+      "hi": "कंधे का दर्द, खासकर हाथ बगल से या सिर के ऊपर उठाने पर"
+    },
+    {
+      "en": "Night pain, hard to sleep on that side",
+      "hi": "रात में दर्द, उस करवट सोना मुश्किल"
+    },
+    {
+      "en": "Weakness in lifting the arm",
+      "hi": "हाथ उठाने में कमज़ोरी"
+    },
+    {
+      "en": "Clicking or catching with movement",
+      "hi": "हिलाने पर खटक की आवाज़ या अटकना"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Age-related wear of the tendons",
+      "hi": "उम्र के साथ नसों का घिसाव"
+    },
+    {
+      "en": "Repeated overhead work or lifting",
+      "hi": "बार-बार सिर के ऊपर काम करना या वज़न उठाना"
+    },
+    {
+      "en": "A fall or sudden injury",
+      "hi": "गिरना या अचानक चोट"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Daily care",
+          "hi": "रोज़ की देखभाल"
+        },
+        "text": {
+          "en": "Rest from painful overhead activity. Ice or a warm pack.",
+          "hi": "सिर के ऊपर वाले दर्द भरे काम से आराम। बर्फ़ या गर्म सेक।"
+        }
+      },
+      {
+        "title": {
+          "en": "Physiotherapy",
+          "hi": "फिज़ियोथेरेपी (Physiotherapy)"
+        },
+        "text": {
+          "en": "Strengthening exercises for the shoulder blade and cuff muscles.",
+          "hi": "कंधे की हड्डी और कफ़ की मांसपेशियां मज़बूत करने वाले व्यायाम।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines or injection",
+          "hi": "दवाइयां या इंजेक्शन"
+        },
+        "text": {
+          "en": "Only as your doctor advises.",
+          "hi": "सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Surgery",
+          "hi": "ऑपरेशन"
+        },
+        "text": {
+          "en": "For some fresh or large tears, or if there is no improvement.",
+          "hi": "कुछ ताज़ी या बड़ी फटन में, या अगर आराम न मिले।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up and scan.",
+      "hi": "आपका इलाज आपकी जांच और स्कैन पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Keep the shoulder moving within the pain-free range.",
+      "hi": "कंधे को बिना दर्द वाली सीमा में हिलाते रहें।"
+    },
+    {
+      "en": "Sleep with a pillow supporting the arm, or on your other side.",
+      "hi": "सोते समय हाथ के नीचे तकिया लगाएं, या दूसरी करवट सोएं।"
+    },
+    {
+      "en": "Keep things close to your body when lifting, and use both hands.",
+      "hi": "चीज़ें उठाते समय शरीर के पास रखें और दोनों हाथों का इस्तेमाल करें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not lift heavy weights or work overhead for long.",
+      "hi": "भारी वज़न न उठाएं और देर तक सिर के ऊपर काम न करें।"
+    },
+    {
+      "en": "Do not sleep on the painful shoulder.",
+      "hi": "दर्द वाले कंधे की तरफ़ करवट लेकर न सोएं।"
+    },
+    {
+      "en": "Do not keep the arm in a sling for long, unless your doctor says so.",
+      "hi": "डॉक्टर के कहे बिना हाथ को देर तक स्लिंग में न रखें।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so. If you have a fresh or large tear, wait for your doctor's advice first. Stop if the pain becomes sharp.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। ताज़ी या बड़ी फटन हो तो पहले डॉक्टर की सलाह लें। तेज़ दर्द हो तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "pendulum",
+      "title": {
+        "en": "Pendulum Swing",
+        "hi": "पेंडुलम व्यायाम (Pendulum)"
+      },
+      "reps": {
+        "en": "1 minute, 2–3 times a day",
+        "hi": "1 मिनट, दिन में 2–3 बार"
+      },
+      "start": {
+        "en": "Stand and lean forward, resting your good hand on a table. Let the sore arm hang loose.",
+        "hi": "खड़े होकर आगे झुकें, अच्छा हाथ मेज़ पर टिकाएं। दर्द वाला हाथ ढीला लटकने दें।"
+      },
+      "steps": [
+        {
+          "en": "Swing the arm gently forward and back, side to side, then in small circles.",
+          "hi": "हाथ को हल्के से आगे-पीछे, दाएं-बाएं और छोटे गोलों में झुलाएं।"
+        },
+        {
+          "en": "Let your body move the arm. Keep the shoulder relaxed.",
+          "hi": "शरीर के हिलने से हाथ को हिलने दें। कंधा ढीला रखें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not use force. Keep it gentle.",
+          "hi": "ज़ोर न लगाएं। हल्का रखें।"
+        }
+      ]
+    },
+    {
+      "id": "scapular-squeeze",
+      "title": {
+        "en": "Shoulder Blade Squeeze",
+        "hi": "कंधे की हड्डियां पास लाना (Shoulder Blade Squeeze)"
+      },
+      "reps": {
+        "en": "10–15 times, 2–3 sets a day",
+        "hi": "10–15 बार, दिन में 2–3 सेट"
+      },
+      "start": {
+        "en": "Sit or stand tall, arms relaxed.",
+        "hi": "सीधे बैठें या खड़े हों, हाथ ढीले रखें।"
+      },
+      "steps": [
+        {
+          "en": "Squeeze your shoulder blades together. Hold for 5 seconds.",
+          "hi": "कंधों की हड्डियां पीछे पास लाएं। 5 सेकंड रुकें।"
+        },
+        {
+          "en": "Keep your shoulders down.",
+          "hi": "कंधे नीचे रखें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Stop if shoulder pain increases.",
+          "hi": "कंधे का दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "isometric-er",
+      "title": {
+        "en": "Outward Press Against the Wall",
+        "hi": "दीवार पर बाहर की ओर दबाव (Outward Press)"
+      },
+      "reps": {
+        "en": "Hold 5 seconds, 10 times, twice a day",
+        "hi": "5 सेकंड रुकें, 10 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Stand sideways next to a wall. Bend the elbow, with the back of the wrist against the wall.",
+        "hi": "दीवार के बगल में खड़े हों। कोहनी मोड़ें, कलाई का पिछला हिस्सा दीवार से लगा रहे।"
+      },
+      "steps": [
+        {
+          "en": "Press the wrist gently outward into the wall.",
+          "hi": "कलाई को हल्के से दीवार की ओर बाहर दबाएं।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Use mild effort. Do not move the shoulder.",
+          "hi": "हल्का ज़ोर लगाएं। कंधा न हिलाएं।"
+        }
+      ]
+    },
+    {
+      "id": "wall-slide",
+      "title": {
+        "en": "Wall Slide",
+        "hi": "दीवार पर बांह सरकाना (Wall Slide)"
+      },
+      "reps": {
+        "en": "10 times, twice a day",
+        "hi": "10 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Stand facing a wall. Rest your forearms on it at shoulder height, elbows bent.",
+        "hi": "दीवार की ओर मुंह करके खड़े हों। बांहें कंधे की ऊंचाई पर दीवार पर रखें, कोहनियां मुड़ी।"
+      },
+      "steps": [
+        {
+          "en": "Slide your forearms slowly up the wall as high as is comfortable.",
+          "hi": "बांहों को दीवार पर जितना आराम से हो उतना ऊपर सरकाएं।"
+        },
+        {
+          "en": "Slowly slide back down.",
+          "hi": "धीरे से वापस नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Stop if you feel a sharp pain or a pinch in the shoulder.",
+          "hi": "तेज़ दर्द या कंधे में चुभन हो तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "A rotator cuff tear always needs surgery.",
+        "hi": "रोटेटर कफ़ फटने पर हमेशा ऑपरेशन ही करना पड़ता है।"
+      },
+      "fact": {
+        "en": "Many tears improve with exercises. Surgery is needed only for some.",
+        "hi": "कई फटन व्यायाम से ठीक हो जाती हैं। ऑपरेशन सिर्फ़ कुछ में चाहिए।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Rest is the best treatment.",
+        "hi": "आराम सबसे अच्छा इलाज है।"
+      },
+      "fact": {
+        "en": "Too much rest makes the shoulder weak and stiff. Gentle exercises help.",
+        "hi": "ज़्यादा आराम से कंधा कमज़ोर और अकड़ा हो जाता है। हल्के व्यायाम से फ़ायदा होता है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Night pain means a serious disease.",
+        "hi": "रात का दर्द किसी गंभीर बीमारी का संकेत है।"
+      },
+      "fact": {
+        "en": "Night pain is common in cuff problems and usually improves with treatment.",
+        "hi": "कफ़ की तकलीफ़ में रात का दर्द आम है और इलाज से आमतौर पर ठीक होता है।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Shoulder or arm pain with chest pain, sweating or breathlessness",
+        "hi": "कंधे या बांह के दर्द के साथ सीने में दर्द, पसीना या सांस फूलना"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "After a fall or injury, you cannot lift the arm, or the shoulder looks deformed",
+        "hi": "गिरने या चोट के बाद हाथ उठा न पाना, या कंधा टेढ़ा दिखना"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Red, hot and swollen joint with fever",
+        "hi": "जोड़ लाल, गर्म और सूजा हुआ, साथ में बुखार"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Sudden weakness in the arm after lifting or a jerk",
+        "hi": "वज़न उठाने या झटके के बाद बांह में अचानक कमज़ोरी"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain not better after 6 weeks, or night pain that keeps getting worse",
+        "hi": "6 हफ़्ते बाद भी आराम न मिलना, या रात का दर्द जो बढ़ता जाए"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an MRI?",
+        "hi": "क्या मुझे एमआरआई (MRI) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Often not at first. Your doctor will decide, mainly if weakness continues or a tear is suspected.",
+        "hi": "शुरू में अक्सर नहीं। डॉक्टर तय करेंगे, खासकर अगर कमज़ोरी बनी रहे या फटन का शक हो।"
+      }
+    },
+    {
+      "q": {
+        "en": "Will a torn tendon heal by itself?",
+        "hi": "क्या फटी हुई नस अपने आप जुड़ जाएगी?"
+      },
+      "a": {
+        "en": "A torn tendon does not join back by itself, but many people regain good function with exercises.",
+        "hi": "फटी नस अपने आप नहीं जुड़ती, पर कई लोग व्यायाम से अच्छी तरह काम करने लगते हैं।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I go to the gym or swim?",
+        "hi": "क्या मैं जिम या तैराकी कर सकता हूं?"
+      },
+      "a": {
+        "en": "Gentle activity is fine. Avoid heavy overhead lifting until your doctor allows.",
+        "hi": "हल्की गतिविधि ठीक है। डॉक्टर के कहने तक सिर के ऊपर भारी वज़न उठाने से बचें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Many people improve in 6–12 weeks with exercises. Some tears need longer or surgery.",
+        "hi": "कई लोग व्यायाम से 6–12 हफ़्ते में ठीक होते हैं। कुछ फटन में ज़्यादा समय या ऑपरेशन लगता है।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after 6 weeks, or is getting worse.",
+        "hi": "6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}

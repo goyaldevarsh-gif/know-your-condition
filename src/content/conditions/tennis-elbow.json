@@ -1,0 +1,365 @@
+{
+  "slug": "tennis-elbow",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Tennis elbow is pain on the outer side of the elbow. It comes from irritated tendons that join the forearm muscles to the bone. It is caused by overuse, not only by tennis.",
+      "hi": "टेनिस एल्बो (Tennis Elbow) यानी कोहनी के बाहर की तरफ़ दर्द। यह बांह की मांसपेशियों को हड्डी से जोड़ने वाली नसों (tendons) में सूजन से होता है। यह सिर्फ़ टेनिस से नहीं, ज़्यादा इस्तेमाल से होता है।"
+    },
+    {
+      "en": "Most people improve over a few months with activity changes and exercises.",
+      "hi": "ज़्यादातर लोग काम के तरीके में बदलाव और व्यायाम से कुछ महीनों में ठीक हो जाते हैं।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Pain on the outer side of the elbow",
+      "hi": "कोहनी के बाहर की तरफ़ दर्द"
+    },
+    {
+      "en": "Pain on gripping, lifting a cup or bottle, or shaking hands",
+      "hi": "पकड़ने, कप या बोतल उठाने या हाथ मिलाने पर दर्द"
+    },
+    {
+      "en": "Pain on twisting, like opening a door handle or wringing clothes",
+      "hi": "मरोड़ने पर दर्द, जैसे दरवाज़े का हैंडल घुमाना या कपड़े निचोड़ना"
+    },
+    {
+      "en": "Weak grip",
+      "hi": "पकड़ कमज़ोर होना"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Repeated gripping, twisting or lifting with the hand",
+      "hi": "हाथ से बार-बार पकड़ना, मरोड़ना या उठाना"
+    },
+    {
+      "en": "Computer work, tools, or household work like wringing clothes",
+      "hi": "कंप्यूटर का काम, औज़ार, या घर का काम जैसे कपड़े निचोड़ना"
+    },
+    {
+      "en": "A sudden increase in racket sports or gym work",
+      "hi": "रैकेट वाले खेल या जिम अचानक बढ़ा देना"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Daily care",
+          "hi": "रोज़ की देखभाल"
+        },
+        "text": {
+          "en": "Rest the arm from the painful activity. Ice or a warm pack.",
+          "hi": "जिस काम से दर्द हो, उससे हाथ को आराम दें। बर्फ़ या गर्म सेक।"
+        }
+      },
+      {
+        "title": {
+          "en": "Elbow strap",
+          "hi": "एल्बो स्ट्रैप"
+        },
+        "text": {
+          "en": "A strap below the elbow can ease the pain.",
+          "hi": "कोहनी के नीचे बांधी पट्टी से दर्द कम हो सकता है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Physiotherapy",
+          "hi": "फिज़ियोथेरेपी (Physiotherapy)"
+        },
+        "text": {
+          "en": "Stretching and strengthening exercises.",
+          "hi": "स्ट्रेचिंग और ताकत बढ़ाने वाले व्यायाम।"
+        }
+      },
+      {
+        "title": {
+          "en": "Injection or surgery",
+          "hi": "इंजेक्शन या ऑपरेशन"
+        },
+        "text": {
+          "en": "Rarely needed, only if pain stays for many months.",
+          "hi": "बहुत कम ज़रूरत, सिर्फ़ तब जब दर्द कई महीने बना रहे।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Medicines only as your doctor advises. Your treatment depends on your check-up.",
+      "hi": "दवाइयां सिर्फ़ डॉक्टर की सलाह से। आपका इलाज आपकी जांच पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Rest the arm from the painful activity and take breaks.",
+      "hi": "जिस काम से दर्द हो उससे आराम दें और बीच-बीच में ब्रेक लें।"
+    },
+    {
+      "en": "Use the elbow strap if your doctor advises.",
+      "hi": "डॉक्टर कहें तो एल्बो स्ट्रैप इस्तेमाल करें।"
+    },
+    {
+      "en": "Lift things with the palm facing up, and use both hands.",
+      "hi": "चीज़ें हथेली ऊपर की ओर करके उठाएं, और दोनों हाथों का इस्तेमाल करें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not keep gripping or twisting hard, like wringing clothes.",
+      "hi": "बार-बार ज़ोर से पकड़ना या मरोड़ना न करें, जैसे कपड़े निचोड़ना।"
+    },
+    {
+      "en": "Do not lift heavy things with the palm facing down.",
+      "hi": "भारी चीज़ें हथेली नीचे की ओर करके न उठाएं।"
+    },
+    {
+      "en": "Do not stop all movement. Gentle exercises help recovery.",
+      "hi": "हाथ को बिल्कुल बंद न रखें। हल्के व्यायाम से रिकवरी होती है।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so. Mild discomfort is fine. Stop if the pain becomes sharp.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें। हल्की तकलीफ़ ठीक है। तेज़ दर्द हो तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "wrist-extensor-stretch",
+      "title": {
+        "en": "Wrist Stretch",
+        "hi": "कलाई का खिंचाव (Wrist Stretch)"
+      },
+      "reps": {
+        "en": "Hold 20–30 seconds, 3 times, twice a day",
+        "hi": "20–30 सेकंड रुकें, 3 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Sit with your arm straight in front, palm down.",
+        "hi": "हाथ सीधा आगे करके बैठें, हथेली नीचे।"
+      },
+      "steps": [
+        {
+          "en": "With the other hand, gently bend the wrist down.",
+          "hi": "दूसरे हाथ से कलाई को धीरे से नीचे की ओर मोड़ें।"
+        },
+        {
+          "en": "Hold. Feel the stretch on the top of the forearm.",
+          "hi": "रुकें। बांह के ऊपरी हिस्से में खिंचाव महसूस करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep the elbow straight. Stretch gently.",
+          "hi": "कोहनी सीधी रखें। हल्का खींचें।"
+        }
+      ]
+    },
+    {
+      "id": "wrist-hold",
+      "title": {
+        "en": "Wrist Hold",
+        "hi": "कलाई को स्थिर रोकना (Wrist Hold)"
+      },
+      "reps": {
+        "en": "Hold 30 seconds, 4 times, twice a day",
+        "hi": "30 सेकंड रुकें, 4 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Rest your forearm on a table, palm down, with the hand off the edge.",
+        "hi": "बांह मेज़ पर रखें, हथेली नीचे, हाथ मेज़ के किनारे से बाहर।"
+      },
+      "steps": [
+        {
+          "en": "Lift the wrist up slightly. Keep it still.",
+          "hi": "कलाई को थोड़ा ऊपर उठाएं। उसे स्थिर रखें।"
+        },
+        {
+          "en": "Hold for 30 seconds, then relax.",
+          "hi": "30 सेकंड रुकें, फिर आराम करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Use mild effort only, about half your strength.",
+          "hi": "सिर्फ़ हल्का ज़ोर लगाएं, आधी ताकत जितना।"
+        }
+      ]
+    },
+    {
+      "id": "wrist-lowering",
+      "title": {
+        "en": "Slow Wrist Lowering",
+        "hi": "धीरे-धीरे कलाई नीचे लाना (Slow Wrist Lowering)"
+      },
+      "reps": {
+        "en": "10–15 times, 2 sets a day",
+        "hi": "10–15 बार, दिन में 2 सेट"
+      },
+      "start": {
+        "en": "Rest your forearm on a table, palm down, hand off the edge, holding a small light bottle.",
+        "hi": "बांह मेज़ पर रखें, हथेली नीचे, हाथ किनारे से बाहर, हाथ में छोटी हल्की बोतल।"
+      },
+      "steps": [
+        {
+          "en": "Use the other hand to lift the wrist up.",
+          "hi": "दूसरे हाथ की मदद से कलाई ऊपर उठाएं।"
+        },
+        {
+          "en": "Slowly lower the wrist down over 5 seconds.",
+          "hi": "कलाई को 5 सेकंड में धीरे से नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Use a very light weight. Stop if the pain increases.",
+          "hi": "बहुत हल्का वज़न लें। दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "ball-squeeze",
+      "title": {
+        "en": "Soft Ball Squeeze",
+        "hi": "नरम गेंद दबाना (Soft Ball Squeeze)"
+      },
+      "reps": {
+        "en": "10 times, hold 5 seconds, twice a day",
+        "hi": "10 बार, 5 सेकंड रुकें, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Sit with the elbow bent, holding a soft ball or a rolled towel.",
+        "hi": "कोहनी मोड़कर बैठें, हाथ में नरम गेंद या लपेटा हुआ तौलिया।"
+      },
+      "steps": [
+        {
+          "en": "Squeeze gently for 5 seconds.",
+          "hi": "5 सेकंड हल्के से दबाएं।"
+        },
+        {
+          "en": "Relax. Repeat.",
+          "hi": "छोड़ें। दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Stop if the elbow pain increases.",
+          "hi": "कोहनी का दर्द बढ़े तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Only tennis players get it.",
+        "hi": "यह सिर्फ़ टेनिस खिलाड़ियों को होता है।"
+      },
+      "fact": {
+        "en": "Most people get it from daily work, like computer, tools or household chores.",
+        "hi": "ज़्यादातर लोगों को रोज़ के काम से होता है, जैसे कंप्यूटर, औज़ार या घर के काम।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Months of complete rest will cure it.",
+        "hi": "महीनों का पूरा आराम इसे ठीक कर देगा।"
+      },
+      "fact": {
+        "en": "Rest from the painful activity helps, but you also need gentle exercises.",
+        "hi": "दर्द वाले काम से आराम फ़ायदा करता है, पर हल्के व्यायाम भी ज़रूरी हैं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "A steroid injection cures it.",
+        "hi": "स्टेरॉइड इंजेक्शन से यह पूरा ठीक हो जाता है।"
+      },
+      "fact": {
+        "en": "It may ease pain for some weeks. Exercises give lasting recovery.",
+        "hi": "इससे कुछ हफ़्ते दर्द कम हो सकता है। लंबी रिकवरी व्यायाम से मिलती है।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Red, hot and swollen joint with fever",
+        "hi": "जोड़ लाल, गर्म और सूजा हुआ, साथ में बुखार"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Pain after a fall or injury, with a deformed elbow or you cannot bend or straighten it",
+        "hi": "गिरने या चोट के बाद दर्द, कोहनी टेढ़ी दिखे या मोड़ या सीधी न हो पाए"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Numbness, tingling or weakness in the hand or fingers",
+        "hi": "हाथ या उंगलियों में सुन्नपन, झुनझुनी या कमज़ोरी"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain not better after 6 weeks, or pain at night even at rest",
+        "hi": "6 हफ़्ते बाद भी आराम न मिलना, या आराम में भी रात को दर्द"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray or MRI?",
+        "hi": "क्या मुझे एक्स-रे (X-ray) या एमआरआई (MRI) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Not usually. Diagnosis is by examination. Your doctor will decide.",
+        "hi": "आमतौर पर नहीं। जांच से ही पता चल जाता है। डॉक्टर तय करेंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "Will a steroid injection cure it?",
+        "hi": "क्या स्टेरॉइड इंजेक्शन से यह ठीक हो जाएगा?"
+      },
+      "a": {
+        "en": "It may ease pain for some weeks. Exercises give lasting recovery.",
+        "hi": "इससे कुछ हफ़्ते आराम मिल सकता है। पक्की रिकवरी व्यायाम से मिलती है।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I keep working or playing?",
+        "hi": "क्या मैं काम या खेल जारी रख सकता हूं?"
+      },
+      "a": {
+        "en": "Yes, with changes. Take breaks, use the strap and avoid the painful movement.",
+        "hi": "हां, कुछ बदलाव के साथ। ब्रेक लें, स्ट्रैप लगाएं और दर्द वाली हरकत से बचें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Most people improve over a few months. Some take up to a year. Keep exercising even when the pain reduces.",
+        "hi": "ज़्यादातर लोग कुछ महीनों में ठीक होते हैं। कुछ को एक साल तक लग सकता है। दर्द कम होने पर भी व्यायाम जारी रखें।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after 6 weeks, or is getting worse.",
+        "hi": "6 हफ़्ते बाद भी आराम न मिले, या दर्द बढ़ रहा हो।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}

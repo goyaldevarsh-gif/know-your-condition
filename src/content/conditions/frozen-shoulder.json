@@ -1,0 +1,371 @@
+{
+  "slug": "frozen-shoulder",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Frozen shoulder is a painful, stiff shoulder where the joint capsule becomes tight. It is common between 40 and 60 years, and in people with diabetes.",
+      "hi": "जमा हुआ कंधा (Frozen Shoulder) यानी दर्द के साथ अकड़ा हुआ कंधा, जिसमें जोड़ की थैली (capsule) कस जाती है। यह 40 से 60 साल की उम्र में और डायबिटीज़ वालों में आम है।"
+    },
+    {
+      "en": "It improves slowly, often over 1–2 years. Exercises help you move better sooner.",
+      "hi": "यह धीरे-धीरे ठीक होता है, अक्सर 1–2 साल में। व्यायाम से हरकत जल्दी बेहतर होती है।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Shoulder pain that starts slowly, without any injury",
+      "hi": "कंधे का दर्द जो बिना चोट के धीरे-धीरे शुरू हो"
+    },
+    {
+      "en": "Night pain, hard to sleep on that side",
+      "hi": "रात में दर्द, उस करवट सोना मुश्किल"
+    },
+    {
+      "en": "Stiffness: hard to comb hair, reach the pocket or the back",
+      "hi": "अकड़न: बाल काढ़ने, जेब या पीठ तक हाथ ले जाने में दिक्कत"
+    },
+    {
+      "en": "Pain and stiffness slowly increase over weeks",
+      "hi": "दर्द और अकड़न हफ़्तों में धीरे-धीरे बढ़ना"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Often no clear cause",
+      "hi": "अक्सर कोई साफ़ वजह नहीं होती"
+    },
+    {
+      "en": "Diabetes or thyroid problems",
+      "hi": "डायबिटीज़ या थायरॉइड की समस्या"
+    },
+    {
+      "en": "After an injury, surgery, or keeping the arm still for long",
+      "hi": "चोट, ऑपरेशन के बाद, या हाथ को देर तक बिना हिलाए रखने से"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Pain relief",
+          "hi": "दर्द में राहत"
+        },
+        "text": {
+          "en": "Warm pack. Medicines only as your doctor advises.",
+          "hi": "गर्म सेक। दवाइयां सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Physiotherapy",
+          "hi": "फिज़ियोथेरेपी (Physiotherapy)"
+        },
+        "text": {
+          "en": "Stretching and movement exercises. This is the most important part.",
+          "hi": "स्ट्रेचिंग और हरकत वाले व्यायाम। यह सबसे ज़रूरी हिस्सा है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Injection",
+          "hi": "इंजेक्शन"
+        },
+        "text": {
+          "en": "A steroid injection can ease pain in some people. Your doctor will decide.",
+          "hi": "स्टेरॉइड इंजेक्शन से कुछ लोगों का दर्द कम होता है। डॉक्टर तय करेंगे।"
+        }
+      },
+      {
+        "title": {
+          "en": "Procedure or surgery",
+          "hi": "प्रक्रिया या ऑपरेशन"
+        },
+        "text": {
+          "en": "Rarely, if the shoulder stays stiff for many months.",
+          "hi": "बहुत कम, अगर कंधा कई महीनों तक अकड़ा रहे।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up.",
+      "hi": "आपका इलाज आपकी जांच पर निर्भर करता है।"
+    }
+  },
+  "diet": [
+    {
+      "en": "If you have diabetes, keep your blood sugar under control.",
+      "hi": "डायबिटीज़ है तो शुगर काबू में रखें।"
+    }
+  ],
+  "dos": [
+    {
+      "en": "Do your exercises daily, after a warm pack or warm bath.",
+      "hi": "रोज़ व्यायाम करें, गर्म सेक या गुनगुने पानी से नहाने के बाद।"
+    },
+    {
+      "en": "Keep using the arm for light daily tasks.",
+      "hi": "हल्के रोज़ के कामों में हाथ का इस्तेमाल करते रहें।"
+    },
+    {
+      "en": "Sleep with a pillow supporting the arm.",
+      "hi": "सोते समय हाथ के नीचे तकिया लगाएं।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not keep the arm still in a sling or by your side.",
+      "hi": "हाथ को स्लिंग में या बगल में बिना हिलाए न रखें।"
+    },
+    {
+      "en": "Do not force or jerk the shoulder, or let anyone pull your arm hard.",
+      "hi": "कंधे को ज़बरदस्ती या झटके से न हिलाएं, और किसी से हाथ ज़ोर से न खिंचवाएं।"
+    },
+    {
+      "en": "Do not lift heavy weights.",
+      "hi": "भारी वज़न न उठाएं।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor says so, after a warm pack. A stretching pain is fine. Stop if the pain becomes sharp.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर कहें, गर्म सेक के बाद। खिंचाव वाला दर्द ठीक है। तेज़ दर्द हो तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "pendulum",
+      "title": {
+        "en": "Pendulum Swing",
+        "hi": "पेंडुलम व्यायाम (Pendulum)"
+      },
+      "reps": {
+        "en": "1 minute, 2–3 times a day",
+        "hi": "1 मिनट, दिन में 2–3 बार"
+      },
+      "start": {
+        "en": "Stand and lean forward, resting your good hand on a table. Let the sore arm hang loose.",
+        "hi": "खड़े होकर आगे झुकें, अच्छा हाथ मेज़ पर टिकाएं। दर्द वाला हाथ ढीला लटकने दें।"
+      },
+      "steps": [
+        {
+          "en": "Swing the arm gently forward and back, side to side, then in small circles.",
+          "hi": "हाथ को हल्के से आगे-पीछे, दाएं-बाएं और छोटे गोलों में झुलाएं।"
+        },
+        {
+          "en": "Let your body move the arm. Keep the shoulder relaxed.",
+          "hi": "शरीर के हिलने से हाथ को हिलने दें। कंधा ढीला रखें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not use force. Keep it gentle.",
+          "hi": "ज़ोर न लगाएं। हल्का रखें।"
+        }
+      ]
+    },
+    {
+      "id": "table-slide",
+      "title": {
+        "en": "Table Slide",
+        "hi": "मेज़ पर हाथ सरकाना (Table Slide)"
+      },
+      "reps": {
+        "en": "10 times, hold 10 seconds, twice a day",
+        "hi": "10 बार, 10 सेकंड रुकें, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Sit at a table with the sore arm resting on it, palm down, on a small towel.",
+        "hi": "मेज़ के पास बैठें। दर्द वाला हाथ हथेली नीचे करके छोटे तौलिए पर मेज़ पर रखें।"
+      },
+      "steps": [
+        {
+          "en": "Slide the arm forward on the table as you lean forward.",
+          "hi": "आगे झुकते हुए हाथ को मेज़ पर आगे सरकाएं।"
+        },
+        {
+          "en": "Hold for 10 seconds, then slide back.",
+          "hi": "10 सेकंड रुकें, फिर वापस लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Stretch only till a mild pull.",
+          "hi": "सिर्फ़ हल्के खिंचाव तक जाएं।"
+        }
+      ]
+    },
+    {
+      "id": "wall-climb",
+      "title": {
+        "en": "Wall Walk",
+        "hi": "दीवार पर उंगलियां चढ़ाना (Wall Walk)"
+      },
+      "reps": {
+        "en": "10 times, twice a day",
+        "hi": "10 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Stand facing a wall, one arm's length away.",
+        "hi": "दीवार की ओर मुंह करके, एक हाथ की दूरी पर खड़े हों।"
+      },
+      "steps": [
+        {
+          "en": "Walk your fingers up the wall as high as is comfortable.",
+          "hi": "उंगलियों को दीवार पर जितना आराम से हो उतना ऊपर चढ़ाएं।"
+        },
+        {
+          "en": "Hold for 5 seconds, then walk back down.",
+          "hi": "5 सेकंड रुकें, फिर नीचे उतारें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not shrug the shoulder up. Stop if the pain is sharp.",
+          "hi": "कंधा ऊपर न उचकाएं। तेज़ दर्द हो तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "towel-stretch",
+      "title": {
+        "en": "Towel Stretch Behind the Back",
+        "hi": "पीठ के पीछे तौलिया खींचना (Towel Stretch)"
+      },
+      "reps": {
+        "en": "10 times, twice a day",
+        "hi": "10 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Hold a towel behind your back. The good arm is above, the sore arm below.",
+        "hi": "पीठ के पीछे तौलिया पकड़ें। अच्छा हाथ ऊपर, दर्द वाला हाथ नीचे।"
+      },
+      "steps": [
+        {
+          "en": "Gently pull the towel upward with the good arm. This lifts the sore arm.",
+          "hi": "अच्छे हाथ से तौलिया धीरे से ऊपर खींचें। इससे दर्द वाला हाथ ऊपर उठेगा।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Pull gently. Do not jerk.",
+          "hi": "धीरे से खींचें। झटका न दें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Frozen shoulder needs complete rest.",
+        "hi": "जमे हुए कंधे को पूरा आराम चाहिए।"
+      },
+      "fact": {
+        "en": "Rest makes it stiffer. Gentle movement helps.",
+        "hi": "आराम से कंधा और अकड़ता है। हल्की हरकत से फ़ायदा होता है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Forceful pulling or heavy massage will open it.",
+        "hi": "ज़ोर से खींचने या भारी मालिश से यह खुल जाएगा।"
+      },
+      "fact": {
+        "en": "Force can hurt the shoulder more. Gentle stretching works better.",
+        "hi": "ज़ोर से कंधे को और चोट लग सकती है। हल्की स्ट्रेचिंग ज़्यादा फ़ायदा करती है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "It will stay stuck forever.",
+        "hi": "यह हमेशा के लिए जमा रहेगा।"
+      },
+      "fact": {
+        "en": "It improves slowly, usually within 1–2 years.",
+        "hi": "यह धीरे-धीरे ठीक होता है, आमतौर पर 1–2 साल में।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Shoulder or arm pain with chest pain, sweating or breathlessness",
+        "hi": "कंधे या बांह के दर्द के साथ सीने में दर्द, पसीना या सांस फूलना"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Red, hot and swollen joint with fever",
+        "hi": "जोड़ लाल, गर्म और सूजा हुआ, साथ में बुखार"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Shoulder pain after a fall or injury",
+        "hi": "गिरने या चोट के बाद कंधे का दर्द"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Sudden weakness, or numbness in the arm or hand",
+        "hi": "बांह या हाथ में अचानक कमज़ोरी या सुन्नपन"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray or MRI?",
+        "hi": "क्या मुझे एक्स-रे (X-ray) या एमआरआई (MRI) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "An X-ray is often done to rule out other causes. MRI only if needed.",
+        "hi": "अक्सर दूसरी वजह देखने के लिए एक्स-रे होता है। एमआरआई सिर्फ़ ज़रूरत पर।"
+      }
+    },
+    {
+      "q": {
+        "en": "How long will it take?",
+        "hi": "कितना समय लगेगा?"
+      },
+      "a": {
+        "en": "Often 1–2 years, but exercises help you move better sooner.",
+        "hi": "अक्सर 1–2 साल, पर व्यायाम से हरकत जल्दी बेहतर होती है।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can it affect the other shoulder?",
+        "hi": "क्या दूसरे कंधे में भी हो सकता है?"
+      },
+      "a": {
+        "en": "Sometimes, later on. Keep your blood sugar controlled and keep both shoulders moving.",
+        "hi": "कभी-कभी, बाद में। शुगर काबू में रखें और दोनों कंधे चलाते रहें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Frozen shoulder improves slowly, often over 1–2 years, in stages. Daily exercises are the most important part.",
+        "hi": "जमा हुआ कंधा धीरे-धीरे, अक्सर 1–2 साल में, कई चरणों में ठीक होता है। रोज़ के व्यायाम सबसे ज़रूरी हैं।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "No improvement after 6 weeks of regular exercises.",
+        "hi": "6 हफ़्ते नियमित व्यायाम के बाद भी आराम न मिले।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी खतरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}
