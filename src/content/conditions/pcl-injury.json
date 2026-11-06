@@ -1,0 +1,296 @@
+{
+  "slug": "pcl-injury",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "The PCL (posterior cruciate ligament) is a strong ligament inside the knee, behind the ACL. It joins the thigh bone to the shin bone and stops the shin bone from sliding backward.",
+      "hi": "PCL (पोस्टीरियर क्रूशिएट लिगामेंट) घुटने के अंदर, ACL के पीछे का मज़बूत लिगामेंट है। यह जांघ की हड्डी को पिंडली की हड्डी से जोड़ता है और पिंडली को पीछे खिसकने से रोकता है।"
+    },
+    {
+      "en": "It is stronger than the ACL and is injured less often. It needs a strong force, such as a bent knee hitting a car dashboard, or a fall onto a bent knee.",
+      "hi": "यह ACL से ज़्यादा मज़बूत है और कम चोटिल होता है। इसके लिए ज़ोरदार झटका चाहिए, जैसे मुड़े घुटने का कार के डैशबोर्ड से टकराना, या मुड़े घुटने पर गिरना।"
+    },
+    {
+      "en": "Sometimes the ligament pulls off a piece of bone where it attaches to the shin bone. This is called a PCL avulsion fracture.",
+      "hi": "कभी-कभी लिगामेंट पिंडली की हड्डी से जुड़ने की जगह से हड्डी का एक टुकड़ा खींच लाता है। इसे PCL एवल्शन फ़्रैक्चर (PCL Avulsion Fracture) कहते हैं।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Pain and swelling that build up quickly",
+      "hi": "दर्द और सूजन जो तेज़ी से बढ़ती है"
+    },
+    {
+      "en": "Stiffness, a limp and difficulty walking",
+      "hi": "अकड़न, लंगड़ाहट और चलने में दिक्कत"
+    },
+    {
+      "en": "A feeling that the knee is unstable and may give out",
+      "hi": "घुटना अस्थिर लगना और धोखा देने का एहसास"
+    }
+  ],
+  "causes": [
+    {
+      "en": "A strong blow to the front of the bent knee, such as against a car dashboard",
+      "hi": "मुड़े घुटने के सामने ज़ोरदार चोट, जैसे कार के डैशबोर्ड से टकराना"
+    },
+    {
+      "en": "A fall onto a bent knee in sports",
+      "hi": "खेल में मुड़े घुटने पर गिरना"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "First care",
+          "hi": "शुरुआती देखभाल"
+        },
+        "text": {
+          "en": "Rest, ice, gentle compression and elevation (RICE). A brace to stop the shin bone sagging backward, and crutches to keep weight off the leg.",
+          "hi": "आराम, बर्फ़, हल्का कंप्रेशन और पैर ऊंचा रखना (RICE)। पिंडली को पीछे बैठने से रोकने के लिए ब्रेस, और पैर पर वज़न न पड़े इसलिए बैसाखी।"
+        }
+      },
+      {
+        "title": {
+          "en": "Without surgery",
+          "hi": "बिना ऑपरेशन"
+        },
+        "text": {
+          "en": "Many partial tears heal on their own. People with an isolated PCL injury may return to sports without stability problems. Physiotherapy, especially thigh muscle strengthening, is central.",
+          "hi": "कई आंशिक चोटें अपने आप ठीक हो जाती हैं। सिर्फ़ PCL की चोट वाले लोग बिना अस्थिरता के खेल में लौट सकते हैं। फिज़ियोथेरेपी, ख़ासकर जांघ की मांसपेशी की मज़बूती, सबसे अहम है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Surgery",
+          "hi": "ऑपरेशन"
+        },
+        "text": {
+          "en": "Almost always needed when other ligaments are injured too (for example a dislocated knee). For an isolated tear, it is considered if instability or pain continues despite treatment. A tissue graft is used, usually by arthroscopy.",
+          "hi": "जब दूसरे लिगामेंट भी चोटिल हों (जैसे घुटना डिसलोकेट होना) तो लगभग हमेशा चाहिए। सिर्फ़ PCL की चोट में तब सोचा जाता है जब इलाज के बाद भी अस्थिरता या दर्द बना रहे। ग्राफ़्ट लगाया जाता है, आमतौर पर दूरबीन (arthroscopy) से।"
+        }
+      },
+      {
+        "title": {
+          "en": "PCL avulsion fracture",
+          "hi": "PCL एवल्शन फ़्रैक्चर"
+        },
+        "text": {
+          "en": "An X-ray shows the bone piece. When the piece is only slightly displaced, treatment is generally without surgery. When it is markedly displaced and the knee is unstable, surgery to fix the bone piece is done. Fixing it also allows earlier rehab. A CT scan may be needed.",
+          "hi": "एक्स-रे में हड्डी का टुकड़ा दिखता है। टुकड़ा थोड़ा ही हिला हो तो इलाज आमतौर पर बिना ऑपरेशन होता है। टुकड़ा काफ़ी हिला हो और घुटना अस्थिर हो तो हड्डी के टुकड़े को जोड़ने का ऑपरेशन किया जाता है। जोड़ने से जल्दी रीहैब भी शुरू हो पाता है। सीटी (CT) स्कैन की ज़रूरत पड़ सकती है।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up and scans.",
+      "hi": "आपका इलाज आपकी जांच और स्कैन पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Rest the knee, ice it and keep it raised.",
+      "hi": "घुटने को आराम दें, बर्फ़ लगाएं और पैर ऊंचा रखें।"
+    },
+    {
+      "en": "Use the brace and crutches if your doctor advises.",
+      "hi": "डॉक्टर कहें तो ब्रेस और बैसाखी इस्तेमाल करें।"
+    },
+    {
+      "en": "See an orthopaedic doctor early. Scans can look normal if the injury is more than 3 months old.",
+      "hi": "जल्दी हड्डी रोग विशेषज्ञ को दिखाएं। चोट 3 महीने से पुरानी हो तो स्कैन सामान्य दिख सकते हैं।"
+    },
+    {
+      "en": "Follow the physiotherapy plan, especially thigh muscle strengthening.",
+      "hi": "फिज़ियोथेरेपी प्लान का पालन करें, ख़ासकर जांघ की मांसपेशी मज़बूत करना।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not keep walking or playing on an injured knee.",
+      "hi": "चोटिल घुटने पर चलना या खेलना जारी न रखें।"
+    },
+    {
+      "en": "Do not ignore a knee injury from a strong blow, even if you can walk.",
+      "hi": "ज़ोरदार चोट के बाद घुटने की चोट को नज़रअंदाज़ न करें, भले ही आप चल पा रहे हों।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor or physiotherapist says so. They strengthen the thigh muscle. Stop if the pain increases.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर या फिज़ियोथेरेपिस्ट कहें। ये जांघ की मांसपेशी मज़बूत करते हैं। दर्द बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "quads-set",
+      "title": {
+        "en": "Thigh Tightening",
+        "hi": "जांघ की मांसपेशी कसना (Quads Set)"
+      },
+      "reps": {
+        "en": "10 times, hold 5 seconds, 2–3 times a day",
+        "hi": "10 बार, 5 सेकंड रोकें, दिन में 2–3 बार"
+      },
+      "start": {
+        "en": "Sit or lie with your leg straight. Keep a small rolled towel under the knee.",
+        "hi": "पैर सीधा करके बैठें या लेटें। घुटने के नीचे छोटा लपेटा हुआ तौलिया रखें।"
+      },
+      "steps": [
+        {
+          "en": "Press the back of your knee down into the towel. Tighten the thigh muscle.",
+          "hi": "घुटने के पीछे से तौलिए को नीचे दबाएं। जांघ की मांसपेशी कसें।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not hold your breath.",
+          "hi": "सांस न रोकें।"
+        }
+      ]
+    },
+    {
+      "id": "straight-leg-raise",
+      "title": {
+        "en": "Straight Leg Raise",
+        "hi": "सीधा पैर उठाना (Straight Leg Raise)"
+      },
+      "reps": {
+        "en": "10 times each leg, 2 sets a day",
+        "hi": "हर पैर से 10 बार, दिन में 2 सेट"
+      },
+      "start": {
+        "en": "Lie on your back. Bend the good knee. Keep the other leg straight.",
+        "hi": "पीठ के बल लेटें। सही पैर का घुटना मोड़ें। दूसरा पैर सीधा रखें।"
+      },
+      "steps": [
+        {
+          "en": "Tighten the thigh muscle of the straight leg and lift it to the height of the other knee.",
+          "hi": "सीधे पैर की जांघ की मांसपेशी कसकर उसे दूसरे घुटने की ऊंचाई तक उठाएं।"
+        },
+        {
+          "en": "Lower it slowly.",
+          "hi": "धीरे से नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep the knee straight. Stop if the pain increases.",
+          "hi": "घुटना सीधा रखें। दर्द बढ़े तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Every PCL injury needs surgery.",
+        "hi": "हर PCL की चोट में ऑपरेशन करना पड़ता है।"
+      },
+      "fact": {
+        "en": "Surgery is almost always needed for combined injuries. For an isolated tear it is considered only if instability or pain continues.",
+        "hi": "जुड़ी हुई चोटों में लगभग हमेशा ऑपरेशन चाहिए। सिर्फ़ PCL की चोट में तभी सोचा जाता है जब अस्थिरता या दर्द बना रहे।"
+      }
+    },
+    {
+      "myth": {
+        "en": "A bone piece pulled off by the ligament will always heal in a plaster.",
+        "hi": "लिगामेंट से खिंचा हड्डी का टुकड़ा प्लास्टर में हमेशा जुड़ जाता है।"
+      },
+      "fact": {
+        "en": "If the piece has moved markedly and the knee is unstable, fixing it with surgery is usually advised.",
+        "hi": "अगर टुकड़ा काफ़ी हिल गया हो और घुटना अस्थिर हो, तो आमतौर पर ऑपरेशन से जोड़ने की सलाह दी जाती है।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Knee badly deformed after a high-force injury, or the foot below is cold, pale or numb",
+        "hi": "ज़ोरदार चोट के बाद घुटना बुरी तरह टेढ़ा, या नीचे का पैर ठंडा, पीला या सुन्न"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "After surgery: fever, redness, increasing swelling or severe pain not relieved by medicines",
+        "hi": "ऑपरेशन के बाद: बुखार, लालिमा, बढ़ती सूजन, या दवा से भी न जाने वाला तेज़ दर्द"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "You cannot put weight on the leg",
+        "hi": "पैर पर वज़न नहीं डाल पा रहे"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "The knee sags backward or feels very unstable",
+        "hi": "घुटना पीछे की ओर बैठता है या बहुत अस्थिर लगता है"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Knee injury from a car accident or a strong blow",
+        "hi": "कार दुर्घटना या ज़ोरदार चोट से घुटने की चोट"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Will I need surgery?",
+        "hi": "क्या ऑपरेशन करना पड़ेगा?"
+      },
+      "a": {
+        "en": "For an isolated PCL injury, often not. Combined injuries almost always need surgery. Your doctor will decide.",
+        "hi": "सिर्फ़ PCL की चोट में अक्सर नहीं। जुड़ी हुई चोटों में लगभग हमेशा। डॉक्टर तय करेंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "How long will recovery take?",
+        "hi": "ठीक होने में कितना समय लगेगा?"
+      },
+      "a": {
+        "en": "It depends on how severe the injury is. After surgery, full recovery typically takes 6 to 12 months. A desk job may be possible after several weeks, while physically demanding jobs may take months.",
+        "hi": "यह चोट की गंभीरता पर निर्भर है। ऑपरेशन के बाद पूरी तरह ठीक होने में आमतौर पर 6 से 12 महीने लगते हैं। डेस्क जॉब कई हफ़्तों बाद संभव हो सकती है, जबकि मेहनत वाले काम में महीने लग सकते हैं।"
+      }
+    },
+    {
+      "q": {
+        "en": "What is a PCL avulsion fracture?",
+        "hi": "PCL एवल्शन फ़्रैक्चर क्या है?"
+      },
+      "a": {
+        "en": "The ligament pulls off a small piece of bone from the shin bone. It shows on an X-ray. Treatment depends on how far the piece has moved and whether the knee is unstable.",
+        "hi": "लिगामेंट पिंडली की हड्डी से हड्डी का छोटा टुकड़ा खींच लाता है। यह एक्स-रे में दिखता है। इलाज इस पर निर्भर है कि टुकड़ा कितना हिला है और घुटना अस्थिर है या नहीं।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Many partial tears heal on their own and most people do well. After surgery, full recovery typically takes 6 to 12 months.",
+        "hi": "कई आंशिक चोटें अपने आप ठीक हो जाती हैं और ज़्यादातर लोग अच्छा करते हैं। ऑपरेशन के बाद पूरी तरह ठीक होने में आमतौर पर 6 से 12 महीने लगते हैं।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "The knee keeps giving way or the pain does not settle.",
+        "hi": "घुटना बार-बार धोखा दे या दर्द न जाए।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी ख़तरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}

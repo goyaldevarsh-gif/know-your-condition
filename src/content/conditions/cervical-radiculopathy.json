@@ -1,0 +1,268 @@
+{
+  "slug": "cervical-radiculopathy",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Cervical radiculopathy (pinched nerve in the neck) means a nerve in the neck is squeezed or irritated where it leaves the spinal cord. Pain can travel into the shoulder and arm, with numbness or weakness.",
+      "hi": "सर्वाइकल रेडिकुलोपैथी (गर्दन की नस दबना) में गर्दन की एक नस, रीढ़ से निकलने की जगह पर, दब जाती है या उसमें जलन होती है। दर्द कंधे और बांह तक जा सकता है, साथ में सुन्नपन या कमज़ोरी हो सकती है।"
+    },
+    {
+      "en": "Most people get better over time, often without surgery.",
+      "hi": "ज़्यादातर लोग समय के साथ ठीक हो जाते हैं, अक्सर बिना ऑपरेशन के।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Pain that starts in the neck and travels down the arm, often burning or sharp",
+      "hi": "गर्दन से शुरू होकर बांह तक जाने वाला दर्द, अक्सर जलन या तेज़ चुभन जैसा"
+    },
+    {
+      "en": "Pain gets worse when you bend the neck back, strain, or turn the head",
+      "hi": "गर्दन पीछे झुकाने, ज़ोर लगाने या सिर घुमाने पर दर्द बढ़ना"
+    },
+    {
+      "en": "Tingling (pins and needles) or numbness in the arm or hand",
+      "hi": "बांह या हाथ में झुनझुनी या सुन्नपन"
+    },
+    {
+      "en": "Weakness in the arm, shoulder or hand",
+      "hi": "बांह, कंधे या हाथ में कमज़ोरी"
+    },
+    {
+      "en": "Some people feel better when they rest their hand on top of the head",
+      "hi": "कुछ लोगों को हाथ सिर के ऊपर रखने से आराम मिलता है"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Wear and tear of the neck bones and discs with age, which can narrow the space where the nerve comes out",
+      "hi": "उम्र के साथ गर्दन की हड्डियों और डिस्क की घिसावट, जिससे नस निकलने की जगह तंग हो सकती है"
+    },
+    {
+      "en": "In younger people, a slipped (herniated) disc, often after lifting, pulling, bending or twisting",
+      "hi": "कम उम्र में, डिस्क खिसकना (herniated disc), अक्सर उठाने, खींचने, झुकने या मुड़ने के बाद"
+    },
+    {
+      "en": "Sometimes no cause is found",
+      "hi": "कभी-कभी कोई वजह नहीं मिलती"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Soft neck collar",
+          "hi": "नरम नेक कॉलर"
+        },
+        "text": {
+          "en": "A soft collar limits neck movement. Wear it only for a short time. Wearing it for long can weaken the neck muscles.",
+          "hi": "नरम कॉलर गर्दन की हरकत कम करता है। इसे सिर्फ़ थोड़े समय पहनें। लंबे समय पहनने से गर्दन की मांसपेशियां कमज़ोर हो सकती हैं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Physiotherapy",
+          "hi": "फिज़ियोथेरेपी"
+        },
+        "text": {
+          "en": "Exercises can ease pain, strengthen the neck muscles and improve movement. Your physiotherapist will teach you.",
+          "hi": "व्यायाम से दर्द कम हो सकता है, गर्दन की मांसपेशियां मज़बूत और हरकत बेहतर हो सकती है। फिज़ियोथेरेपिस्ट आपको सिखाएंगे।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
+        "text": {
+          "en": "Anti-inflammatory and pain medicines, only as your doctor advises.",
+          "hi": "सूजन और दर्द की दवाइयां, सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Injection",
+          "hi": "इंजेक्शन"
+        },
+        "text": {
+          "en": "A steroid injection near the nerve can reduce inflammation and ease pain while the nerve recovers.",
+          "hi": "नस के पास स्टेरॉइड इंजेक्शन से सूजन और दर्द कम हो सकता है, जब तक नस ठीक होती है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Surgery",
+          "hi": "ऑपरेशन"
+        },
+        "text": {
+          "en": "Considered only if symptoms do not improve with non-surgical treatment.",
+          "hi": "सिर्फ़ तब सोचा जाता है जब बिना ऑपरेशन के इलाज से आराम न मिले।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up.",
+      "hi": "आपका इलाज आपकी जांच पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Wear a soft collar only for a short time, if your doctor advises.",
+      "hi": "डॉक्टर कहें तो नरम कॉलर सिर्फ़ थोड़े समय के लिए पहनें।"
+    },
+    {
+      "en": "Follow the exercises your physiotherapist teaches.",
+      "hi": "फिज़ियोथेरेपिस्ट जो व्यायाम सिखाएं, वही करें।"
+    },
+    {
+      "en": "Go back to your doctor if the pain is not improving.",
+      "hi": "दर्द ठीक न हो रहा हो तो डॉक्टर के पास दोबारा जाएं।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not wear a neck collar for a long time.",
+      "hi": "नेक कॉलर लंबे समय तक न पहनें।"
+    },
+    {
+      "en": "Do not bend the neck back or strain it if that brings on the arm pain.",
+      "hi": "अगर गर्दन पीछे झुकाने या ज़ोर लगाने से बांह में दर्द उठता है, तो ऐसा न करें।"
+    },
+    {
+      "en": "Do not ignore weakness or numbness that is increasing.",
+      "hi": "बढ़ती कमज़ोरी या सुन्नपन को नज़रअंदाज़ न करें।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Exercises for this problem should be taught by your doctor or physiotherapist, as they depend on which nerve is affected. Do not start neck exercises on your own.",
+    "hi": "इस समस्या के व्यायाम आपके डॉक्टर या फिज़ियोथेरेपिस्ट को सिखाने चाहिए, क्योंकि ये इस पर निर्भर करते हैं कि कौन सी नस प्रभावित है। गर्दन के व्यायाम अपने आप शुरू न करें।"
+  },
+  "exercises": [],
+  "myths": [
+    {
+      "myth": {
+        "en": "A pinched nerve always needs surgery.",
+        "hi": "नस दबने पर हमेशा ऑपरेशन करना पड़ता है।"
+      },
+      "fact": {
+        "en": "The majority of people get better over time, often without treatment. Surgery is considered only if symptoms do not improve.",
+        "hi": "ज़्यादातर लोग समय के साथ ठीक हो जाते हैं, अक्सर बिना इलाज के। ऑपरेशन तभी सोचा जाता है जब आराम न मिले।"
+      }
+    },
+    {
+      "myth": {
+        "en": "A neck collar will cure it.",
+        "hi": "नेक कॉलर से यह ठीक हो जाएगा।"
+      },
+      "fact": {
+        "en": "A collar is only for short-term relief. Long use can weaken neck muscles.",
+        "hi": "कॉलर सिर्फ़ थोड़े समय की राहत के लिए है। लंबे समय पहनने से गर्दन की मांसपेशियां कमज़ोर हो सकती हैं।"
+      }
+    },
+    {
+      "myth": {
+        "en": "Arm pain always means a problem in the arm.",
+        "hi": "बांह के दर्द का मतलब हमेशा बांह की ही समस्या है।"
+      },
+      "fact": {
+        "en": "Arm pain can come from the neck. Shoulder, elbow, wrist and even heart problems can look similar, so a doctor should check.",
+        "hi": "बांह का दर्द गर्दन से भी आ सकता है। कंधे, कोहनी, कलाई और यहां तक कि दिल की समस्याएं भी ऐसी ही लग सकती हैं, इसलिए डॉक्टर से जांच कराएं।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Chest pain or pressure, sweating or breathlessness with arm or neck pain",
+        "hi": "बांह या गर्दन के दर्द के साथ सीने में दर्द या दबाव, पसीना या सांस फूलना"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Sudden face drooping, slurred speech or weakness on one side of the body",
+        "hi": "अचानक चेहरा टेढ़ा होना, बोलने में लड़खड़ाहट या शरीर के एक तरफ़ कमज़ोरी"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Both arms or both legs feel weak or numb, or difficulty walking",
+        "hi": "दोनों बांहों या दोनों पैरों में कमज़ोरी या सुन्नपन, या चलने में दिक्कत"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Difficulty passing urine or stool, or loss of control",
+        "hi": "पेशाब या शौच करने में दिक्कत, या कंट्रोल न रहना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Weakness in the arm or hand that is increasing",
+        "hi": "बांह या हाथ में कमज़ोरी जो बढ़ती जा रही हो"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain not improving, or the symptoms come back and stay",
+        "hi": "दर्द ठीक न हो रहा हो, या लक्षण लौटकर बने रहें"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How long will it take?",
+        "hi": "कितना समय लगेगा?"
+      },
+      "a": {
+        "en": "Some people improve in days or weeks, others take longer. Symptoms can return later, and they usually improve again.",
+        "hi": "कुछ लोग दिनों या हफ़्तों में ठीक हो जाते हैं, कुछ को ज़्यादा समय लगता है। लक्षण बाद में लौट सकते हैं, और आमतौर पर फिर ठीक हो जाते हैं।"
+      }
+    },
+    {
+      "q": {
+        "en": "Do I need an MRI?",
+        "hi": "क्या मुझे एमआरआई (MRI) कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Your doctor will decide after examining you. Many people have worn discs without any symptoms, so scans are read together with your symptoms.",
+        "hi": "डॉक्टर जांच के बाद तय करेंगे। बहुत से लोगों में बिना लक्षण के भी डिस्क घिसी होती है, इसलिए स्कैन को आपके लक्षणों के साथ मिलाकर देखा जाता है।"
+      }
+    },
+    {
+      "q": {
+        "en": "Is it dangerous?",
+        "hi": "क्या यह ख़तरनाक है?"
+      },
+      "a": {
+        "en": "Most cases are not. But see a doctor at once if you have any warning sign listed in the Red Flags.",
+        "hi": "ज़्यादातर मामलों में नहीं। पर रेड फ़्लैग्स में लिखा कोई भी संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "The majority of people get better over time, often without treatment. Some improve in days or weeks, while others take longer.",
+        "hi": "ज़्यादातर लोग समय के साथ ठीक हो जाते हैं, अक्सर बिना इलाज के। कुछ दिनों या हफ़्तों में सुधरते हैं, कुछ को ज़्यादा समय लगता है।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Symptoms are not improving, or they keep coming back.",
+        "hi": "लक्षण ठीक न हो रहे हों, या बार-बार लौट रहे हों।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी ख़तरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}

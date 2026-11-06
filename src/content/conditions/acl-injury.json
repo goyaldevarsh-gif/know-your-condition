@@ -1,0 +1,300 @@
+{
+  "slug": "acl-injury",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "The ACL (anterior cruciate ligament) is a strong ligament in the middle of the knee. It joins the thigh bone to the shin bone and controls forward movement and rotation of the lower leg.",
+      "hi": "ACL (एंटीरियर क्रूशिएट लिगामेंट) घुटने के बीच का मज़बूत लिगामेंट है। यह जांघ की हड्डी को पिंडली की हड्डी से जोड़ता है और निचले पैर को आगे खिसकने और घूमने से रोकता है।"
+    },
+    {
+      "en": "It usually tears in sports with sudden stops, twisting, pivoting, jumping or landing, such as football, basketball and skiing.",
+      "hi": "यह आमतौर पर अचानक रुकने, मुड़ने, घूमने, कूदने या उतरने वाले खेलों में फटता है, जैसे फ़ुटबॉल, बास्केटबॉल और स्कीइंग।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "A pop at the time of injury",
+      "hi": "चोट के समय 'पट' की आवाज़"
+    },
+    {
+      "en": "Severe pain, and you cannot continue the activity",
+      "hi": "तेज़ दर्द, और खेल या काम जारी न रख पाना"
+    },
+    {
+      "en": "Swelling that comes on quickly",
+      "hi": "तेज़ी से आने वाली सूजन"
+    },
+    {
+      "en": "The knee feels unstable and loses some movement",
+      "hi": "घुटना अस्थिर लगना और हरकत कम हो जाना"
+    }
+  ],
+  "causes": [
+    {
+      "en": "A sudden twist or pivot of the knee",
+      "hi": "घुटने का अचानक मुड़ना या घूमना"
+    },
+    {
+      "en": "Sudden stops, change of direction, jumping and landing",
+      "hi": "अचानक रुकना, दिशा बदलना, कूदना और उतरना"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "First care",
+          "hi": "शुरुआती देखभाल"
+        },
+        "text": {
+          "en": "Rest, ice for 20 minutes at a time, compression and elevation (RICE). Crutches may be needed.",
+          "hi": "आराम, एक बार में 20 मिनट बर्फ़, कंप्रेशन और पैर ऊंचा रखना (RICE)। बैसाखी की ज़रूरत पड़ सकती है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Without surgery",
+          "hi": "बिना ऑपरेशन"
+        },
+        "text": {
+          "en": "Rehab with physiotherapy, a knee brace and crutches may work for a partial tear, or for people who are not very active.",
+          "hi": "फिज़ियोथेरेपी, घुटने का ब्रेस और बैसाखी से आराम मिल सकता है, अगर लिगामेंट आंशिक फटा हो या व्यक्ति ज़्यादा सक्रिय न हो।"
+        }
+      },
+      {
+        "title": {
+          "en": "Surgery",
+          "hi": "ऑपरेशन"
+        },
+        "text": {
+          "en": "Usually advised for athletes who want to keep playing jumping, cutting or pivoting sports, if another ligament or the meniscus is also injured, or if the knee buckles in daily activities. The torn ligament is replaced with a tendon graft.",
+          "hi": "आमतौर पर उन खिलाड़ियों के लिए सुझाया जाता है जो कूदने, मुड़ने या घूमने वाले खेल जारी रखना चाहते हैं, या जब दूसरा लिगामेंट या मेनिस्कस भी चोटिल हो, या रोज़ के कामों में घुटना धोखा दे। फटे लिगामेंट की जगह टेंडन ग्राफ़्ट लगाया जाता है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Rehab",
+          "hi": "रीहैब"
+        },
+        "text": {
+          "en": "Rehab is a structured programme and is needed with or without surgery.",
+          "hi": "रीहैब एक तय कार्यक्रम है और ऑपरेशन हो या न हो, दोनों में ज़रूरी है।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up and your activity needs.",
+      "hi": "आपका इलाज आपकी जांच और आपकी गतिविधि की ज़रूरत पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Rest the knee, ice it for 20 minutes at a time, and keep it raised.",
+      "hi": "घुटने को आराम दें, एक बार में 20 मिनट बर्फ़ लगाएं और पैर ऊंचा रखें।"
+    },
+    {
+      "en": "Use crutches if your doctor advises.",
+      "hi": "डॉक्टर कहें तो बैसाखी इस्तेमाल करें।"
+    },
+    {
+      "en": "See an orthopaedic doctor early to confirm the diagnosis and plan treatment.",
+      "hi": "निदान पक्का करने और इलाज तय करने के लिए जल्दी हड्डी रोग विशेषज्ञ को दिखाएं।"
+    },
+    {
+      "en": "Follow the rehab plan closely.",
+      "hi": "रीहैब प्लान का ध्यान से पालन करें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not continue to play or run on an injured knee.",
+      "hi": "चोटिल घुटने के साथ खेलना या दौड़ना जारी न रखें।"
+    },
+    {
+      "en": "Do not return to sport until you have healed and regained leg strength.",
+      "hi": "जब तक घाव भर न जाए और पैर की ताकत वापस न आए, खेल में न लौटें।"
+    },
+    {
+      "en": "Do not ignore a knee that gives way in daily activities. Tell your doctor.",
+      "hi": "रोज़ के कामों में घुटना धोखा दे तो नज़रअंदाज़ न करें। डॉक्टर को बताएं।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor or physiotherapist says so. They keep the thigh muscle strong. Stop if the pain increases.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर या फिज़ियोथेरेपिस्ट कहें। ये जांघ की मांसपेशी मज़बूत रखते हैं। दर्द बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "quads-set",
+      "title": {
+        "en": "Thigh Tightening",
+        "hi": "जांघ की मांसपेशी कसना (Quads Set)"
+      },
+      "reps": {
+        "en": "10 times, hold 5 seconds, 2–3 times a day",
+        "hi": "10 बार, 5 सेकंड रोकें, दिन में 2–3 बार"
+      },
+      "start": {
+        "en": "Sit or lie with your leg straight. Keep a small rolled towel under the knee.",
+        "hi": "पैर सीधा करके बैठें या लेटें। घुटने के नीचे छोटा लपेटा हुआ तौलिया रखें।"
+      },
+      "steps": [
+        {
+          "en": "Press the back of your knee down into the towel. Tighten the thigh muscle.",
+          "hi": "घुटने के पीछे से तौलिए को नीचे दबाएं। जांघ की मांसपेशी कसें।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not hold your breath.",
+          "hi": "सांस न रोकें।"
+        }
+      ]
+    },
+    {
+      "id": "straight-leg-raise",
+      "title": {
+        "en": "Straight Leg Raise",
+        "hi": "सीधा पैर उठाना (Straight Leg Raise)"
+      },
+      "reps": {
+        "en": "10 times each leg, 2 sets a day",
+        "hi": "हर पैर से 10 बार, दिन में 2 सेट"
+      },
+      "start": {
+        "en": "Lie on your back. Bend the good knee. Keep the other leg straight.",
+        "hi": "पीठ के बल लेटें। सही पैर का घुटना मोड़ें। दूसरा पैर सीधा रखें।"
+      },
+      "steps": [
+        {
+          "en": "Tighten the thigh muscle of the straight leg and lift it to the height of the other knee.",
+          "hi": "सीधे पैर की जांघ की मांसपेशी कसकर उसे दूसरे घुटने की ऊंचाई तक उठाएं।"
+        },
+        {
+          "en": "Lower it slowly.",
+          "hi": "धीरे से नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Keep the knee straight. Stop if the pain increases.",
+          "hi": "घुटना सीधा रखें। दर्द बढ़े तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Every ACL tear needs surgery.",
+        "hi": "हर ACL टूटने पर ऑपरेशन करना पड़ता है।"
+      },
+      "fact": {
+        "en": "Surgery is often, but not always, needed. Rehab alone may work for a partial tear or for people who are not very active.",
+        "hi": "ऑपरेशन अक्सर, पर हमेशा नहीं, चाहिए होता है। आंशिक चोट या कम सक्रिय लोगों में सिर्फ़ रीहैब से भी काम चल सकता है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "After surgery you can return to sport in a few weeks.",
+        "hi": "ऑपरेशन के कुछ हफ़्ते बाद खेल में लौट सकते हैं।"
+      },
+      "fact": {
+        "en": "Athletes typically need about nine months to a year before returning to play safely.",
+        "hi": "खिलाड़ियों को सुरक्षित रूप से खेल में लौटने में आमतौर पर लगभग नौ महीने से एक साल लगता है।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Knee badly deformed after a high-force injury, or the foot below is cold, pale or numb",
+        "hi": "ज़ोरदार चोट के बाद घुटना बुरी तरह टेढ़ा, या नीचे का पैर ठंडा, पीला या सुन्न"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "After surgery: fever (over 101.5°F), redness, or increasing swelling or severe pain not relieved by medicines",
+        "hi": "ऑपरेशन के बाद: बुखार (101.5°F से ऊपर), लालिमा, बढ़ती सूजन, या दवा से भी न जाने वाला तेज़ दर्द"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "You cannot put weight on the leg",
+        "hi": "पैर पर वज़न नहीं डाल पा रहे"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "The knee is locked and will not straighten or bend",
+        "hi": "घुटना लॉक हो गया है और सीधा या मुड़ नहीं रहा"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "The knee keeps giving way, or swelling keeps coming back",
+        "hi": "घुटना बार-बार धोखा दे, या सूजन बार-बार लौटे"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need surgery?",
+        "hi": "क्या मुझे ऑपरेशन चाहिए?"
+      },
+      "a": {
+        "en": "Not always. It depends on your age, how active you are, and whether other parts of the knee are injured. Your doctor will decide.",
+        "hi": "हमेशा नहीं। यह आपकी उम्र, गतिविधि और घुटने के दूसरे हिस्सों की चोट पर निर्भर है। डॉक्टर तय करेंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "When can I play again?",
+        "hi": "मैं दोबारा कब खेल सकता हूं?"
+      },
+      "a": {
+        "en": "Athletes typically need about nine months to a year. A less serious injury may heal faster. Your doctor will guide you.",
+        "hi": "खिलाड़ियों को आमतौर पर लगभग नौ महीने से एक साल लगता है। कम गंभीर चोट जल्दी ठीक हो सकती है। डॉक्टर आपको बताएंगे।"
+      }
+    },
+    {
+      "q": {
+        "en": "Do I need an MRI?",
+        "hi": "क्या एमआरआई (MRI) चाहिए?"
+      },
+      "a": {
+        "en": "Your doctor will decide after examining the knee.",
+        "hi": "डॉक्टर घुटने की जांच के बाद तय करेंगे।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "With the right treatment and rehab, stability and function can be restored. Athletes typically need about nine months to a year before returning to play safely.",
+        "hi": "सही इलाज और रीहैब से घुटने की स्थिरता और काम करने की क्षमता वापस आ सकती है। खिलाड़ियों को सुरक्षित रूप से खेल में लौटने में आमतौर पर लगभग नौ महीने से एक साल लगता है।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "The knee keeps giving way, swelling comes back, or the knee locks.",
+        "hi": "घुटना बार-बार धोखा दे, सूजन लौटे, या घुटना लॉक हो।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी ख़तरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}

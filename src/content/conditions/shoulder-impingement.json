@@ -1,0 +1,344 @@
+{
+  "slug": "shoulder-impingement",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Shoulder impingement is a problem where a tendon inside the shoulder swells and rubs against tissue or bone, causing pain when you lift your arm.",
+      "hi": "शोल्डर इम्पिंजमेंट (Shoulder Impingement) में कंधे के अंदर की एक नस (tendon) में सूजन आ जाती है और वह ऊतक या हड्डी से रगड़ खाती है, जिससे हाथ उठाने पर दर्द होता है।"
+    },
+    {
+      "en": "It usually gets better in a few weeks or months.",
+      "hi": "यह आमतौर पर कुछ हफ़्तों या महीनों में ठीक हो जाता है।"
+    }
+  ],
+  "symptoms": [
+    {
+      "en": "Pain on the upper outer part of the shoulder",
+      "hi": "कंधे के ऊपरी बाहरी हिस्से में दर्द"
+    },
+    {
+      "en": "Pain when lifting the arm, especially overhead",
+      "hi": "हाथ उठाने पर दर्द, ख़ासकर सिर के ऊपर"
+    },
+    {
+      "en": "Pain is often worse at night",
+      "hi": "रात में दर्द अक्सर ज़्यादा"
+    },
+    {
+      "en": "Weakness in the arm",
+      "hi": "बांह में कमज़ोरी"
+    },
+    {
+      "en": "It can start suddenly or slowly",
+      "hi": "यह अचानक या धीरे-धीरे शुरू हो सकता है"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Irritation, injury or wear and tear of the shoulder tendons",
+      "hi": "कंधे की नसों में जलन, चोट या घिसावट"
+    },
+    {
+      "en": "Repeated overhead arm movements, such as in swimming or tennis",
+      "hi": "हाथ को बार-बार सिर के ऊपर ले जाना, जैसे तैराकी या टेनिस में"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Exercises",
+          "hi": "व्यायाम"
+        },
+        "text": {
+          "en": "Exercises are the first treatment. You may need to keep doing them for 6–12 weeks to get a big reduction in pain.",
+          "hi": "व्यायाम पहला इलाज है। दर्द में काफ़ी कमी के लिए इन्हें 6–12 हफ़्ते तक करना पड़ सकता है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Ice",
+          "hi": "बर्फ़"
+        },
+        "text": {
+          "en": "An ice pack wrapped in a cloth for up to 20 minutes, 2 to 3 times a day.",
+          "hi": "कपड़े में लपेटा आइस पैक 20 मिनट तक, दिन में 2 से 3 बार।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines",
+          "hi": "दवाइयां"
+        },
+        "text": {
+          "en": "Pain relievers, only as your doctor advises.",
+          "hi": "दर्द की दवाइयां, सिर्फ़ डॉक्टर की सलाह से।"
+        }
+      },
+      {
+        "title": {
+          "en": "Injection",
+          "hi": "इंजेक्शन"
+        },
+        "text": {
+          "en": "A steroid injection may be offered if rest and exercises do not help enough.",
+          "hi": "आराम और व्यायाम से काफ़ी फ़ायदा न हो तो स्टेरॉइड इंजेक्शन दिया जा सकता है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Surgery",
+          "hi": "ऑपरेशन"
+        },
+        "text": {
+          "en": "May be offered to widen the space around the tendon so it stops rubbing.",
+          "hi": "नस के आसपास जगह बढ़ाने के लिए दिया जा सकता है, ताकि वह रगड़ न खाए।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your check-up.",
+      "hi": "आपका इलाज आपकी जांच पर निर्भर करता है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Keep your shoulder moving. Stopping completely can slow recovery.",
+      "hi": "कंधे को हिलाते रहें। पूरी तरह रोक देने से ठीक होने में देर हो सकती है।"
+    },
+    {
+      "en": "Do your exercises as early as you can.",
+      "hi": "अपने व्यायाम जितनी जल्दी हो सके शुरू करें।"
+    },
+    {
+      "en": "Avoid activities that bring on the pain.",
+      "hi": "जिन कामों से दर्द उठता है, उनसे बचें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not keep lifting the arm overhead again and again, such as swimming or tennis, while it is painful.",
+      "hi": "दर्द के दौरान हाथ को बार-बार सिर के ऊपर न उठाएं, जैसे तैराकी या टेनिस में।"
+    },
+    {
+      "en": "Do not rest the shoulder completely.",
+      "hi": "कंधे को पूरी तरह आराम पर न रखें।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these only if your doctor or physiotherapist says so. Some discomfort is okay. Stop if the pain increases.",
+    "hi": "ये व्यायाम तभी करें जब डॉक्टर या फिज़ियोथेरेपिस्ट कहें। थोड़ी तकलीफ़ ठीक है। दर्द बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "wall-slide",
+      "title": {
+        "en": "Wall Slide",
+        "hi": "दीवार पर हाथ सरकाना (Wall Slide)"
+      },
+      "reps": {
+        "en": "5 times, rest, 5, rest, 5",
+        "hi": "5 बार, आराम, 5 बार, आराम, 5 बार"
+      },
+      "start": {
+        "en": "Stand facing a wall or door frame, with both hands on the wall.",
+        "hi": "दीवार या दरवाज़े की चौखट की ओर मुंह करके खड़े हों, दोनों हाथ दीवार पर।"
+      },
+      "steps": [
+        {
+          "en": "Step forward while sliding both hands up the wall as high as you comfortably can.",
+          "hi": "आगे कदम बढ़ाते हुए दोनों हाथ दीवार पर जितना आराम से हो उतना ऊपर सरकाएं।"
+        },
+        {
+          "en": "Slowly slide them back down.",
+          "hi": "धीरे से वापस नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Stop if the pain increases.",
+          "hi": "दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "wall-pushup",
+      "title": {
+        "en": "Wall Push-up",
+        "hi": "दीवार पर पुश-अप (Wall Push-up)"
+      },
+      "reps": {
+        "en": "5 times, rest, 5, rest, 5",
+        "hi": "5 बार, आराम, 5 बार, आराम, 5 बार"
+      },
+      "start": {
+        "en": "Stand facing a wall. Place your hands on the wall, slightly wider than your shoulders.",
+        "hi": "दीवार की ओर मुंह करके खड़े हों। हाथ दीवार पर, कंधों से थोड़ा चौड़े रखें।"
+      },
+      "steps": [
+        {
+          "en": "Slowly lower your body towards the wall.",
+          "hi": "धीरे से शरीर को दीवार की ओर झुकाएं।"
+        },
+        {
+          "en": "Push back out. To make it harder, stand further from the wall.",
+          "hi": "वापस धक्का देकर सीधे हों। मुश्किल करने के लिए दीवार से थोड़ा दूर खड़े हों।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Stop if the pain increases.",
+          "hi": "दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "side-rotation",
+      "title": {
+        "en": "Side-lying Shoulder Rotation",
+        "hi": "करवट लेकर कंधा घुमाना"
+      },
+      "reps": {
+        "en": "5 times, rest, 5, rest, 5",
+        "hi": "5 बार, आराम, 5 बार, आराम, 5 बार"
+      },
+      "start": {
+        "en": "Lie on your side with the sore shoulder on top. Put a folded towel at your waist and rest your elbow on it, hand in a fist.",
+        "hi": "करवट लेकर लेटें, दर्द वाला कंधा ऊपर। कमर पर मुड़ा हुआ तौलिया रखें, कोहनी उस पर और हाथ मुट्ठी में।"
+      },
+      "steps": [
+        {
+          "en": "Slowly turn your forearm up until the fist points to the ceiling.",
+          "hi": "कलाई से कोहनी तक का हिस्सा धीरे से ऊपर घुमाएं, जब तक मुट्ठी छत की ओर न हो जाए।"
+        },
+        {
+          "en": "Slowly lower it back down.",
+          "hi": "धीरे से वापस नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Go slowly. Stop if the pain increases.",
+          "hi": "धीरे करें। दर्द बढ़े तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Rest the shoulder completely until the pain is gone.",
+        "hi": "जब तक दर्द न जाए, कंधे को पूरी तरह आराम दें।"
+      },
+      "fact": {
+        "en": "Keep the shoulder moving. Stopping completely can slow recovery.",
+        "hi": "कंधे को हिलाते रहें। पूरी तरह रोकने से ठीक होने में देर हो सकती है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "It always needs surgery.",
+        "hi": "इसमें हमेशा ऑपरेशन करना पड़ता है।"
+      },
+      "fact": {
+        "en": "Exercise is the first treatment. Injection and surgery are only for those who do not improve.",
+        "hi": "व्यायाम पहला इलाज है। इंजेक्शन और ऑपरेशन सिर्फ़ उन्हें चाहिए जिन्हें आराम न मिले।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Shoulder or arm pain with chest pain, sweating or breathlessness",
+        "hi": "कंधे या बांह के दर्द के साथ सीने में दर्द, पसीना या सांस फूलना"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Shoulder red, hot and swollen, with fever",
+        "hi": "कंधा लाल, गर्म और सूजा हुआ, साथ में बुखार"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Sudden severe pain, or inability to lift the arm, after a fall or injury",
+        "hi": "गिरने या चोट के बाद अचानक तेज़ दर्द, या हाथ न उठा पाना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain that does not go away after a few weeks",
+        "hi": "दर्द कुछ हफ़्तों बाद भी न जाए"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain that stops you doing your usual activities",
+        "hi": "दर्द की वजह से रोज़ के काम न कर पाना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Numbness or tingling in the arm or hand",
+        "hi": "बांह या हाथ में सुन्नपन या झुनझुनी"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How long will it take?",
+        "hi": "कितना समय लगेगा?"
+      },
+      "a": {
+        "en": "It usually gets better in a few weeks or months. You may need exercises for 6–12 weeks.",
+        "hi": "यह आमतौर पर कुछ हफ़्तों या महीनों में ठीक हो जाता है। व्यायाम 6–12 हफ़्ते करने पड़ सकते हैं।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I sleep on the sore shoulder?",
+        "hi": "क्या मैं दर्द वाले कंधे पर सो सकता हूं?"
+      },
+      "a": {
+        "en": "Night pain is common. If it disturbs your sleep, tell your doctor.",
+        "hi": "रात में दर्द आम है। नींद में खलल पड़े तो डॉक्टर को बताएं।"
+      }
+    },
+    {
+      "q": {
+        "en": "Will I need an injection or surgery?",
+        "hi": "क्या इंजेक्शन या ऑपरेशन चाहिए होगा?"
+      },
+      "a": {
+        "en": "Only if rest and exercises do not help enough. Your doctor will decide.",
+        "hi": "सिर्फ़ तब, जब आराम और व्यायाम से काफ़ी फ़ायदा न हो। डॉक्टर तय करेंगे।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "It usually gets better in a few weeks or months. Keep doing your exercises, as you may need 6–12 weeks to see a big reduction in pain.",
+        "hi": "यह आमतौर पर कुछ हफ़्तों या महीनों में ठीक हो जाता है। व्यायाम करते रहें, दर्द में काफ़ी कमी के लिए 6–12 हफ़्ते लग सकते हैं।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is not better after a few weeks, or stops your usual activities.",
+        "hi": "कुछ हफ़्ते बाद भी आराम न मिले, या रोज़ के काम रुक जाएं।"
+      },
+      {
+        "en": "Any warning sign: see a doctor at once.",
+        "hi": "कोई भी ख़तरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
+      }
+    ]
+  }
+}

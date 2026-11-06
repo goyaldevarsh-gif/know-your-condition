@@ -228,18 +228,6 @@
     }
   },
   {
-    "slug": "acl-pcl-injury",
-    "category": "knee-hip",
-    "name": {
-      "en": "ACL / PCL Injury",
-      "hi": "घुटने के लिगामेंट की चोट (ACL / PCL Injury)"
-    },
-    "short": {
-      "en": "Knee injury with swelling and a feeling of giving way.",
-      "hi": "घुटने की चोट, सूजन और घुटना धोखा देने का एहसास।"
-    }
-  },
-  {
     "slug": "flat-foot",
     "category": "foot-ankle",
     "name": {
@@ -249,6 +237,30 @@
     "short": {
       "en": "Low or no arch in the foot, sometimes with foot or leg pain.",
       "hi": "पैर में आर्च कम या नहीं, कभी-कभी पैर या पिंडली में दर्द।"
+    }
+  },
+  {
+    "slug": "acl-injury",
+    "category": "knee-hip",
+    "name": {
+      "en": "ACL Injury",
+      "hi": "ACL लिगामेंट की चोट (ACL Injury)"
+    },
+    "short": {
+      "en": "Knee injury from a twist or sudden stop, with a pop, swelling and giving way.",
+      "hi": "मुड़ने या अचानक रुकने से घुटने की चोट, 'पट' की आवाज़, सूजन और घुटना धोखा देना।"
+    }
+  },
+  {
+    "slug": "pcl-injury",
+    "category": "knee-hip",
+    "name": {
+      "en": "PCL Injury and Avulsion",
+      "hi": "PCL लिगामेंट की चोट और एवल्शन (PCL Injury)"
+    },
+    "short": {
+      "en": "Knee injury from a blow to the bent knee, including a bone piece pulled off.",
+      "hi": "मुड़े घुटने पर चोट से PCL की समस्या, जिसमें हड्डी का टुकड़ा भी खिंच सकता है।"
     }
   }
 ]
