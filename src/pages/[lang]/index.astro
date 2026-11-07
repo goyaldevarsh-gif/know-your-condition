@@ -6,6 +6,7 @@ import Contact from '../../components/Contact.astro';
 import ui from '../../content/ui.json';
 import categories from '../../content/categories.json';
 import conditions from '../../content/conditions-index.json';
+import keywords from '../../content/search-keywords.json';
 import { LANGS, t, url } from '../../lib/i18n';
 import { asset, catImg, thumbImg } from '../../lib/assets';
 import type { Lang } from '../../lib/i18n';
@@ -21,6 +22,8 @@ const lang = Astro.params.lang as Lang;
 const catName = (slug: string) => categories.find((c) => c.slug === slug)!;
 const catIcon = (slug: string) => catName(slug).icon;
 const logo = asset('img/logo');
+const kw = keywords as Record<string, string>;
+const norm = (x: string) => x.normalize('NFD').replace(/[\u093c\u200b-\u200d]/g, '').toLowerCase();
 ---
 
 <Base lang={lang} title={`${t(ui.homeTitle, lang)} | Dr. Devarsh Goyal`}>
@@ -46,7 +49,7 @@ const logo = asset('img/logo');
 
     <ul id="results" class="cond-list" hidden>
       {conditions.map((c) => (
-        <li data-q={`${c.name.en} ${c.name.hi} ${c.short.en} ${c.short.hi} ${catName(c.category).name.en}`.toLowerCase()} hidden>
+        <li data-q={norm(`${c.name.en} ${c.name.hi} ${c.short.en} ${c.short.hi} ${catName(c.category).name.en} ${kw[c.slug] ?? ''}`)} hidden>
           {ready.has(c.slug) ? (
             <a class="cond-card" href={url(`${lang}/${c.slug}/`)}>
               <span class="thumb">{thumbImg(c.slug, c.category) ? <img src={thumbImg(c.slug, c.category)!} alt="" loading="lazy" /> : <Icon name={catIcon(c.category)} size={40} />}</span>
@@ -92,11 +95,26 @@ const logo = asset('img/logo');
     var none = document.getElementById('none');
     var cats = document.getElementById('cats');
     var items = list.querySelectorAll('li');
+    function norm(x) {
+      return x.normalize('NFD').replace(/[\u093c\u200b-\u200d]/g, '').toLowerCase();
+    }
     q.addEventListener('input', function () {
-      var v = q.value.trim().toLowerCase();
+      var v = norm(q.value).trim();
+      var all = v.split(/\s+/).filter(Boolean);
+      var stop = ['ka', 'ki', 'ke', 'ko', 'mein', 'me', 'se', 'hai', 'ho', 'par', 'pe', 'aur', 'the', 'of', 'in', 'my', 'is', 'का', 'की', 'के', 'को', 'में', 'से', 'है', 'पर', 'और'];
+      var words = all.filter(function (w) { return stop.indexOf(w) === -1; });
+      if (!words.length) words = all;
       var shown = 0;
+      var scores = [];
       items.forEach(function (li) {
-        var hit = v && li.getAttribute('data-q').indexOf(v) !== -1;
+        var hay = li.getAttribute('data-q');
+        var sc = 0;
+        words.forEach(function (w) { if (hay.indexOf(w) !== -1) sc++; });
+        scores.push(sc);
+      });
+      var max = scores.reduce(function (m, x) { return x > m ? x : m; }, 0);
+      items.forEach(function (li, i) {
+        var hit = words.length > 0 && max > 0 && scores[i] === max;
         li.hidden = !hit;
         if (hit) shown++;
       });
