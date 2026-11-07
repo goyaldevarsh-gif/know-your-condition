@@ -993,3 +993,13 @@ html[data-hc] a:focus-visible, html[data-hc] button:focus-visible, html[data-hc]
 .gl-card span { font-size: 0.95rem; line-height: 1.5; }
 .gl-x { position: absolute; top: 4px; right: 4px; width: 40px; height: 40px; border: 0; border-radius: 50%; background: transparent; color: #fff; font-size: 18px; cursor: pointer; }
 @media print { .gl { border: 0; } .gl-card { display: none !important; } }
+
+/* ---------- Exercise share icon ---------- */
+.ex-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
+.ex-head-t { min-width: 0; flex: 1; }
+.ex-share { flex: none; width: 36px; height: 36px; margin-top: 2px; border-radius: 50%; border: 1.5px solid var(--border); background: #fff; color: var(--teal-dark, #178579); display: grid; place-items: center; cursor: pointer; }
+.ex-share:focus-visible { outline: 3px solid var(--navy); outline-offset: 2px; }
+.ex-card { scroll-margin-top: 80px; }
+@media print { .ex-share { display: none !important; } }
+/* keep the zoom badge clear of the watermark */
+.ex-fig::after, .care-img::after { bottom: auto; top: 8px; }

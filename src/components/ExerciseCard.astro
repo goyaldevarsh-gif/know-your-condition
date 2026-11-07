@@ -16,9 +16,12 @@ interface Props {
 const { ex, lang, n, slug, icon } = Astro.props;
 const img = ex.image ? url(ex.image) : asset(`img/${slug}/${ex.id}`);
 const L = ui.l;
+const shareLabel = lang === 'hi' ? 'भेजें' : 'Share';
+const shareText = lang === 'hi' ? 'व्यायाम' : 'Exercise';
+const shareSee = lang === 'hi' ? 'देखें' : 'See how';
 ---
 
-<article class="ex-card">
+<article class="ex-card" id={`ex-${ex.id}`}>
   <div class="ex-fig">
     {img
       ? <img src={img} alt={t(ex.title, lang)} loading="lazy" decoding="async" />
@@ -26,8 +29,13 @@ const L = ui.l;
     <span class="ex-n">{n}</span>
   </div>
   <div class="ex-head">
-    <h3>{t(ex.title, lang)}</h3>
-    <p class="ex-reps">{t(ex.reps, lang)}</p>
+    <div class="ex-head-t">
+      <h3>{t(ex.title, lang)}</h3>
+      <p class="ex-reps">{t(ex.reps, lang)}</p>
+    </div>
+    <button type="button" class="ex-share" aria-label={shareLabel} title={shareLabel} data-share data-id={`ex-${ex.id}`} data-title={t(ex.title, lang)} data-reps={t(ex.reps, lang)} data-word={shareText} data-see={shareSee}>
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>
+    </button>
   </div>
 
   <details class="ex-more">
