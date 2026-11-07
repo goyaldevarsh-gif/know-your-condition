@@ -1,0 +1,51 @@
+---
+import type { Lang } from '../lib/i18n';
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const closeLabel = lang === 'hi' ? 'बंद करें' : 'Close';
+const zoomLabel = lang === 'hi' ? 'बड़ा करके देखें' : 'Tap to enlarge';
+---
+
+<div class="zoom" data-zoom hidden role="dialog" aria-modal="true" aria-label={zoomLabel}>
+  <button type="button" class="zoom-x" data-zoom-close aria-label={closeLabel}>
+    <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+  </button>
+  <img class="zoom-img" data-zoom-img alt="" />
+  <p class="zoom-cap" data-zoom-cap></p>
+</div>
+
+<script is:inline>
+  (function () {
+    var box = document.querySelector('[data-zoom]');
+    if (!box) return;
+    var big = box.querySelector('[data-zoom-img]');
+    var cap = box.querySelector('[data-zoom-cap]');
+    var closeBtn = box.querySelector('[data-zoom-close]');
+    var last = null;
+    function open(img) {
+      last = img;
+      big.src = img.currentSrc || img.src;
+      big.alt = img.alt || '';
+      cap.textContent = img.alt || '';
+      box.hidden = false;
+      document.documentElement.style.overflow = 'hidden';
+      closeBtn.focus();
+    }
+    function close() {
+      box.hidden = true;
+      big.removeAttribute('src');
+      document.documentElement.style.overflow = '';
+      if (last && last.focus) last.focus();
+    }
+    document.querySelectorAll('.ex-fig img, .care-img img, .hero-art img').forEach(function (img) {
+      img.classList.add('zoomable');
+      img.setAttribute('tabindex', '0');
+      img.setAttribute('role', 'button');
+      img.addEventListener('click', function () { open(img); });
+      img.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(img); } });
+    });
+    box.addEventListener('click', function (e) { if (e.target !== big) close(); });
+    closeBtn.addEventListener('click', close);
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !box.hidden) close(); });
+  })();
+</script>

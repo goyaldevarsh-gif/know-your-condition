@@ -938,3 +938,19 @@ html[data-hc] a:focus-visible, html[data-hc] button:focus-visible, html[data-hc]
 .ab-btn { min-height: 44px; border-radius: 12px; font-size: min(0.85rem, 14px); gap: 6px; padding: 0 8px; }
 .ab-btn svg { width: 18px; height: 18px; }
 .ab-hint { margin-top: 4px; }
+
+/* ---------- Tap-to-enlarge images ---------- */
+.zoomable { cursor: zoom-in; }
+.ex-fig, .care-img { position: relative; }
+.ex-fig::after, .care-img::after {
+  content: ''; position: absolute; right: 8px; bottom: 8px; width: 32px; height: 32px; border-radius: 50%; pointer-events: none;
+  background: rgba(16, 42, 67, 0.72) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2.6' stroke-linecap='round'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5'/%3E%3Cpath d='M15.5 15.5L21 21M10.5 8v5M8 10.5h5'/%3E%3C/svg%3E") center / 18px no-repeat;
+}
+.care-img figcaption { position: relative; }
+.zoom[hidden] { display: none; }
+.zoom { position: fixed; inset: 0; z-index: 100; background: rgba(10, 31, 51, 0.99); display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 64px 12px 20px; }
+.zoom-img { max-width: 100%; max-height: calc(100vh - 150px); max-height: calc(100dvh - 150px); object-fit: contain; border-radius: 12px; background: #fff; touch-action: pinch-zoom; }
+.zoom-cap { color: #fff; font-size: 1.1rem; font-weight: 700; text-align: center; margin-top: 14px; }
+.zoom-x { position: absolute; top: 10px; right: 10px; width: 52px; height: 52px; border-radius: 50%; border: 2px solid #fff; background: rgba(255,255,255,0.12); color: #fff; display: grid; place-items: center; cursor: pointer; }
+.zoom-x:focus-visible { outline: 3px solid #ffd166; outline-offset: 2px; }
+@media print { .zoom, .ex-fig::after, .care-img::after { display: none !important; } }
