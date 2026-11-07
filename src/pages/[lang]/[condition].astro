@@ -131,6 +131,14 @@ const TABS = ['overview', 'care', 'exercises', 'redflags', 'faqs'] as const;
         </div>
       </div>
 
+{c.seeAlso && c.seeAlso.map((s: any) => (
+      <a class="seealso" href={url(`${lang}/${s.slug}/`)}>
+        <span class="seealso-ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 4v10.5a4 4 0 1 1-4 0V4a2 2 0 1 1 4 0z"/></svg></span>
+        <span class="seealso-t">{t(s.text, lang)}</span>
+        <span class="seealso-go" aria-hidden="true">›</span>
+      </a>
+))}
+
 {c.careImages && (
       <div class="care-imgs">
         {c.careImages.map((ci: any) => {

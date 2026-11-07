@@ -265,7 +265,7 @@
   },
   {
     "slug": "post-surgery-care",
-    "category": "trauma-fractures",
+    "category": "general-care",
     "name": {
       "en": "Post-Surgery Care (General)",
       "hi": "ऑपरेशन के बाद की देखभाल (Post-Surgery Care)"
@@ -297,6 +297,18 @@
     "short": {
       "en": "Hand numbness and tingling, worse at night",
       "hi": "हाथ सुन्न होना और झुनझुनी, रात में ज़्यादा"
+    }
+  },
+  {
+    "slug": "ice-or-heat",
+    "category": "general-care",
+    "name": {
+      "en": "Ice or Heat? (Baraf ya Sek)",
+      "hi": "बर्फ या सेक? (Ice or Heat)"
+    },
+    "short": {
+      "en": "Cold pack or hot pack: which one, how, and when not to",
+      "hi": "बर्फ या गरम सेक: कौन सा, कैसे और कब नहीं"
     }
   }
 ]

@@ -1003,3 +1003,11 @@ html[data-hc] a:focus-visible, html[data-hc] button:focus-visible, html[data-hc]
 @media print { .ex-share { display: none !important; } }
 /* keep the zoom badge clear of the watermark */
 .ex-fig::after, .care-img::after { bottom: auto; top: 8px; }
+
+/* ---------- See-also link card (Care tab) ---------- */
+.seealso { display: flex; align-items: center; gap: 12px; margin-top: 14px; padding: 12px 14px; border-radius: 14px; background: var(--teal-soft, #e3f5f3); border: 1.5px solid var(--teal, #20a69a); color: var(--navy); text-decoration: none; min-height: 52px; }
+.seealso-ico { flex: none; width: 38px; height: 38px; border-radius: 50%; background: var(--navy); color: #fff; display: grid; place-items: center; }
+.seealso-t { flex: 1; font-weight: 700; font-size: 0.95rem; line-height: 1.35; }
+.seealso-go { flex: none; font-size: 1.6rem; font-weight: 800; line-height: 1; }
+.seealso:focus-visible { outline: 3px solid var(--navy); outline-offset: 2px; }
+@media print { .seealso { display: none; } }

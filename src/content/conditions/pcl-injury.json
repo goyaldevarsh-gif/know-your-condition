@@ -287,5 +287,14 @@
         "hi": "बैसाखी से चलना"
       }
     }
+  ],
+  "seeAlso": [
+    {
+      "slug": "ice-or-heat",
+      "text": {
+        "en": "Not sure whether to use ice or heat? See the simple guide",
+        "hi": "बर्फ या गरम सेक, कौन सा? सरल गाइड देखें"
+      }
+    }
   ]
 }

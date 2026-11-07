@@ -1,8 +1,58 @@
 [
-  { "slug": "knee-hip", "icon": "knee", "name": { "en": "Knee & Hip", "hi": "घुटना और कूल्हा" } },
-  { "slug": "shoulder-elbow", "icon": "shoulder", "name": { "en": "Shoulder & Elbow", "hi": "कंधा और कोहनी" } },
-  { "slug": "spine-neck", "icon": "spine", "name": { "en": "Spine & Neck", "hi": "रीढ़ और गर्दन" } },
-  { "slug": "foot-ankle", "icon": "foot", "name": { "en": "Foot & Ankle", "hi": "पैर और टखना" } },
-  { "slug": "hand-wrist", "icon": "hand", "name": { "en": "Hand & Wrist", "hi": "हाथ और कलाई" } },
-  { "slug": "trauma-fractures", "icon": "fracture", "name": { "en": "Trauma & Fractures", "hi": "चोट और फ्रैक्चर" } }
+  {
+    "slug": "knee-hip",
+    "icon": "knee",
+    "name": {
+      "en": "Knee & Hip",
+      "hi": "घुटना और कूल्हा"
+    }
+  },
+  {
+    "slug": "shoulder-elbow",
+    "icon": "shoulder",
+    "name": {
+      "en": "Shoulder & Elbow",
+      "hi": "कंधा और कोहनी"
+    }
+  },
+  {
+    "slug": "spine-neck",
+    "icon": "spine",
+    "name": {
+      "en": "Spine & Neck",
+      "hi": "रीढ़ और गर्दन"
+    }
+  },
+  {
+    "slug": "foot-ankle",
+    "icon": "foot",
+    "name": {
+      "en": "Foot & Ankle",
+      "hi": "पैर और टखना"
+    }
+  },
+  {
+    "slug": "hand-wrist",
+    "icon": "hand",
+    "name": {
+      "en": "Hand & Wrist",
+      "hi": "हाथ और कलाई"
+    }
+  },
+  {
+    "slug": "trauma-fractures",
+    "icon": "fracture",
+    "name": {
+      "en": "Trauma & Fractures",
+      "hi": "चोट और फ्रैक्चर"
+    }
+  },
+  {
+    "slug": "general-care",
+    "icon": "care",
+    "name": {
+      "en": "General Care",
+      "hi": "आम देखभाल"
+    }
+  }
 ]

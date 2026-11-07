@@ -1,0 +1,207 @@
+{
+  "slug": "ice-or-heat",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Ice and heat can both ease pain for a short time. They do not cure the problem. Which one helps depends mostly on whether the injury is new.",
+      "hi": "बर्फ और गरम सेक, दोनों थोड़े समय के लिए दर्द कम कर सकते हैं। ये समस्या का इलाज नहीं हैं। कौन सा काम आएगा, यह ज़्यादातर इस पर निर्भर है कि चोट नई है या पुरानी।"
+    },
+    {
+      "en": "Always keep a cloth between the pack and your skin, and check the skin while you use it.",
+      "hi": "पैक और त्वचा के बीच हमेशा कपड़ा रखें, और इस्तेमाल के दौरान त्वचा देखते रहें।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "Which one to use?",
+    "hi": "कौन सा इस्तेमाल करें?"
+  },
+  "symptoms": [
+    {
+      "en": "Ice: a new injury, or a spot that is swollen, hot or red",
+      "hi": "बर्फ: नई चोट, या ऐसी जगह जो सूजी हुई, गर्म या लाल हो"
+    },
+    {
+      "en": "Heat: stiff, aching muscles or joints, and an older injury (more than 2 to 3 days)",
+      "hi": "गरम सेक: अकड़ी या दुखती मांसपेशियां और जोड़, और पुरानी चोट (2 से 3 दिन के बाद)"
+    },
+    {
+      "en": "Back and neck muscle pain: heat often helps, even early on",
+      "hi": "कमर और गर्दन की मांसपेशी का दर्द: गरम सेक अक्सर फ़ायदा देता है, शुरू में भी"
+    },
+    {
+      "en": "Do not use heat on a new injury, or on skin that is already hot, swollen or red",
+      "hi": "नई चोट पर, या पहले से गर्म, सूजी या लाल त्वचा पर गरम सेक न करें"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "How to use ice",
+          "hi": "बर्फ कैसे लगाएं"
+        },
+        "text": {
+          "en": "Wrap the ice pack in a damp cloth. Keep it on for 10 to 20 minutes: about 10 to 15 on a small bony spot like the ankle, up to 20 on a big muscle like the thigh. Check the skin every 5 minutes. For a new injury, repeat every 2 to 3 hours while awake for the first 24 to 48 hours, and raise the limb above heart level.",
+          "hi": "बर्फ के पैक को गीले कपड़े में लपेटें। 10 से 20 मिनट रखें: टखने जैसी छोटी हड्डी वाली जगह पर लगभग 10 से 15 मिनट, जांघ जैसी बड़ी मांसपेशी पर 20 मिनट तक। हर 5 मिनट में त्वचा देखें। नई चोट में पहले 24 से 48 घंटे जागते समय हर 2 से 3 घंटे में दोहराएं, और अंग को दिल से ऊपर रखें।"
+        }
+      },
+      {
+        "title": {
+          "en": "How to use heat",
+          "hi": "गरम सेक कैसे करें"
+        },
+        "text": {
+          "en": "Use a hot water bottle, wheat bag or heat pad. It should feel warm, not hot. Put a dry towel between it and your skin. Keep it on for 20 to 30 minutes and check the skin. Let the skin return to normal before you repeat.",
+          "hi": "गरम पानी की बोतल, गेहूं की थैली या हीट पैड इस्तेमाल करें। यह गुनगुना लगे, गर्म नहीं। इसके और त्वचा के बीच सूखा तौलिया रखें। 20 से 30 मिनट रखें और त्वचा देखें। दोबारा करने से पहले त्वचा को सामान्य होने दें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Be careful if",
+          "hi": "इनमें सावधानी रखें"
+        },
+        "text": {
+          "en": "You have diabetes with foot problems, poor blood flow, poor feeling in the skin, damaged skin, or an infection. Ask your doctor before using ice or heat.",
+          "hi": "अगर आपको पैर की समस्या वाली डायबिटीज़ है, खून का बहाव कम है, त्वचा में महसूस कम होता है, त्वचा खराब है, या इन्फ़ेक्शन है, तो बर्फ या सेक से पहले डॉक्टर से पूछें।"
+        }
+      }
+    ],
+    "note": {
+      "en": "These give short relief only. If you have had surgery, follow your surgeon's advice.",
+      "hi": "इनसे सिर्फ़ थोड़ी देर की राहत मिलती है। ऑपरेशन हुआ हो तो अपने सर्जन की सलाह मानें।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Wrap ice or heat in a cloth or towel first.",
+      "hi": "बर्फ या सेक को पहले कपड़े या तौलिये में लपेटें।"
+    },
+    {
+      "en": "Check your skin while you use it.",
+      "hi": "इस्तेमाल के दौरान त्वचा देखते रहें।"
+    },
+    {
+      "en": "Use ice only on skin that feels normal.",
+      "hi": "बर्फ सिर्फ़ ऐसी त्वचा पर लगाएं जहां सामान्य महसूस होता हो।"
+    },
+    {
+      "en": "Stop at once if the skin turns blue or blotchy, hurts, or goes very numb.",
+      "hi": "त्वचा नीली या चितकबरी हो, दर्द हो, या बहुत सुन्न हो जाए तो तुरंत हटा लें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not put ice or heat straight on the skin.",
+      "hi": "बर्फ या सेक सीधे त्वचा पर न रखें।"
+    },
+    {
+      "en": "Do not use ice or heat on an open wound or broken skin.",
+      "hi": "खुले घाव या कटी-फटी त्वचा पर बर्फ या सेक न करें।"
+    },
+    {
+      "en": "Do not use ice or heat where you cannot feel anything.",
+      "hi": "जहां कुछ महसूस न होता हो, वहां बर्फ या सेक न करें।"
+    },
+    {
+      "en": "Do not use ice for more than 15 to 20 minutes, or while asleep.",
+      "hi": "बर्फ 15 से 20 मिनट से ज़्यादा, या सोते हुए न लगाएं।"
+    }
+  ],
+  "careImages": [
+    {
+      "id": "ice-pack",
+      "caption": {
+        "en": "Ice: wrapped in a damp cloth",
+        "hi": "बर्फ: गीले कपड़े में लपेटकर"
+      }
+    },
+    {
+      "id": "heat-pack",
+      "caption": {
+        "en": "Heat: warm, with a towel in between",
+        "hi": "गरम सेक: गुनगुना, बीच में तौलिया"
+      }
+    }
+  ],
+  "exercisesNote": {
+    "en": "There are no exercises for this topic. Ask your doctor about exercises for your condition.",
+    "hi": "इस विषय में कोई व्यायाम नहीं है। अपनी बीमारी के व्यायाम के बारे में डॉक्टर से पूछें।"
+  },
+  "exercises": [],
+  "myths": [
+    {
+      "myth": {
+        "en": "Heat is good for every pain.",
+        "hi": "गरम सेक हर दर्द के लिए अच्छा है।"
+      },
+      "fact": {
+        "en": "Heat on a new injury, or on skin that is hot, swollen or red, may make the problem worse.",
+        "hi": "नई चोट पर, या गर्म, सूजी या लाल त्वचा पर सेक करने से समस्या बढ़ सकती है।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "urgent",
+      "title": {
+        "en": "The skin turns blue, white or blotchy, or you get a blister or burn",
+        "hi": "त्वचा नीली, सफ़ेद या चितकबरी हो जाए, या छाला या जलन हो"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Very painful skin, or numbness that does not go away after you stop",
+        "hi": "त्वचा में बहुत दर्द, या हटाने के बाद भी सुन्नपन न जाए"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "The swelling or pain keeps getting worse after a new injury",
+        "hi": "नई चोट के बाद सूजन या दर्द लगातार बढ़ता जाए"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How often can I repeat it?",
+        "hi": "कितनी बार दोहरा सकते हैं?"
+      },
+      "a": {
+        "en": "Every 2 to 3 hours during the day. Let the skin go back to normal before each time.",
+        "hi": "दिन में हर 2 से 3 घंटे में। हर बार से पहले त्वचा को सामान्य होने दें।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I use a pack straight from the freezer?",
+        "hi": "क्या फ़्रीज़र से निकला पैक सीधे लगा सकते हैं?"
+      },
+      "a": {
+        "en": "Not without a cloth. A very cold pack can burn the skin. Wrap it and check the skin.",
+        "hi": "बिना कपड़े के नहीं। बहुत ठंडा पैक त्वचा जला सकता है। उसे लपेटें और त्वचा देखते रहें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Ice and heat give short relief only. They do not heal the problem.",
+        "hi": "बर्फ और सेक से सिर्फ़ थोड़ी देर की राहत मिलती है। ये समस्या ठीक नहीं करते।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "The pain or swelling is not settling after a few days.",
+        "hi": "कुछ दिन बाद भी दर्द या सूजन कम नहीं हो रही।"
+      },
+      {
+        "en": "The skin is damaged by ice or heat.",
+        "hi": "बर्फ या सेक से त्वचा खराब हो गई है।"
+      }
+    ]
+  }
+}
