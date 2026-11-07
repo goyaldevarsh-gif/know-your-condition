@@ -1,0 +1,105 @@
+---
+import glossary from '../content/glossary.json';
+import type { Lang } from '../lib/i18n';
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const items = (glossary as any[]).map((g) => ({ id: g.id, name: g.name[lang], match: g[lang].match, meaning: g[lang].meaning }));
+const closeLabel = lang === 'hi' ? 'बंद करें' : 'Close';
+---
+
+<div class="gl-card" data-gl-card hidden role="status" aria-live="polite">
+  <button type="button" class="gl-x" data-gl-close aria-label={closeLabel}>✕</button>
+  <strong data-gl-term></strong>
+  <span data-gl-text></span>
+</div>
+<script is:inline type="application/json" id="gl-data" set:html={JSON.stringify(items)}></script>
+<script is:inline>
+  (function () {
+    var root = document.querySelector('[data-tabs]');
+    var dataEl = document.getElementById('gl-data');
+    if (!root || !dataEl) return;
+    var items = JSON.parse(dataEl.textContent);
+    var byId = {};
+    var variants = [];
+    items.forEach(function (it) {
+      byId[it.id] = it;
+      it.match.forEach(function (m) { variants.push({ id: it.id, m: m }); });
+    });
+    variants.sort(function (a, b) { return b.m.length - a.m.length; });
+    function esc(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+    var parts = variants.map(function (v) {
+      var latin = /^[\x00-\x7f]/.test(v.m);
+      return latin ? '(?<![\\p{L}\\p{M}\\d])' + esc(v.m) + '(?![\\p{L}\\p{M}\\d])' : esc(v.m);
+    });
+    var re = new RegExp(parts.join('|'), 'giu');
+    function idFor(txt) {
+      var low = txt.toLowerCase();
+      for (var i = 0; i < variants.length; i++) if (variants[i].m.toLowerCase() === low) return variants[i].id;
+      return null;
+    }
+    var card = document.querySelector('[data-gl-card]');
+    var cTerm = card.querySelector('[data-gl-term]');
+    var cText = card.querySelector('[data-gl-text]');
+    var openEl = null;
+    function hide() { card.hidden = true; if (openEl) openEl.setAttribute('aria-expanded', 'false'); openEl = null; }
+    function show(el) {
+      if (openEl === el && !card.hidden) { hide(); return; }
+      var it = byId[el.getAttribute('data-gl')];
+      if (!it) return;
+      cTerm.textContent = it.name;
+      cText.textContent = it.meaning;
+      card.hidden = false;
+      if (openEl) openEl.setAttribute('aria-expanded', 'false');
+      openEl = el; el.setAttribute('aria-expanded', 'true');
+    }
+    var SKIP = 'h1,h2,h3,h4,button,summary,.rf-list,.redlink,.rf-badge,.m-tag,.gl,script,style,.tabs,.tools,.contact';
+    var SEL = '.body-text, .bullets li, .test-list li span, .dd li, .note, .callout, .steps li, .m-myth, .m-fact, .x-list li';
+    root.querySelectorAll('[data-panel]').forEach(function (panel) {
+      var used = {};
+      panel.querySelectorAll(SEL).forEach(function (blk) {
+        var w = document.createTreeWalker(blk, NodeFilter.SHOW_TEXT);
+        var nodes = [];
+        while (w.nextNode()) nodes.push(w.currentNode);
+        nodes.forEach(function (n) {
+          if (n.parentElement && n.parentElement.closest(SKIP)) return;
+          var text = n.nodeValue;
+          re.lastIndex = 0;
+          var m, last = 0, frag = null;
+          while ((m = re.exec(text))) {
+            var id = idFor(m[0]);
+            if (!id || used[id]) continue;
+            used[id] = true;
+            if (!frag) frag = document.createDocumentFragment();
+            frag.appendChild(document.createTextNode(text.slice(last, m.index)));
+            var s = document.createElement('span');
+            s.className = 'gl'; s.setAttribute('role', 'button'); s.setAttribute('tabindex', '0');
+            s.setAttribute('data-gl', id); s.setAttribute('aria-expanded', 'false');
+            s.textContent = m[0];
+            frag.appendChild(s);
+            last = m.index + m[0].length;
+          }
+          if (frag) {
+            frag.appendChild(document.createTextNode(text.slice(last)));
+            n.parentNode.replaceChild(frag, n);
+          }
+        });
+      });
+    });
+    root.addEventListener('click', function (e) {
+      var g = e.target.closest && e.target.closest('.gl');
+      if (g) { e.preventDefault(); show(g); }
+    });
+    root.addEventListener('keydown', function (e) {
+      var g = e.target.closest && e.target.closest('.gl');
+      if (g && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); show(g); }
+    });
+    card.querySelector('[data-gl-close]').addEventListener('click', hide);
+    document.addEventListener('click', function (e) {
+      if (card.hidden) return;
+      if (e.target.closest && (e.target.closest('.gl') || e.target.closest('[data-gl-card]'))) return;
+      hide();
+    });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') hide(); });
+    root.querySelectorAll('[data-tab]').forEach(function (b) { b.addEventListener('click', hide); });
+  })();
+</script>

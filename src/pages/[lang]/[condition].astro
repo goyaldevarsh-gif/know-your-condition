@@ -6,6 +6,7 @@ import Accordion from '../../components/Accordion.astro';
 import ExerciseCard from '../../components/ExerciseCard.astro';
 import Placeholder from '../../components/Placeholder.astro';
 import Contact from '../../components/Contact.astro';
+import Glossary from '../../components/Glossary.astro';
 import Zoom from '../../components/Zoom.astro';
 import Listen from '../../components/Listen.astro';
 import ActionBar from '../../components/ActionBar.astro';
@@ -216,6 +217,7 @@ const TABS = ['overview', 'care', 'exercises', 'redflags', 'faqs'] as const;
     <Contact lang={lang} />
     <p class="disclaimer">{t(ui.disclaimer, lang)}</p>
   </main>
+  <Glossary lang={lang} />
   <Zoom lang={lang} />
   <ActionBar lang={lang} slug={slug} name={t(meta.name, lang)} />
 </Base>
