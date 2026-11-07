@@ -41,6 +41,7 @@ public/img/coccydynia/hero.webp
 public/img/coccydynia/knee-to-chest.webp
 public/img/daily-posture/commode.webp
 public/img/daily-posture/hero.webp
+public/img/daily-posture/lift.webp
 public/img/daily-posture/sleep-back.webp
 public/img/daily-posture/sleep-side.webp
 public/img/de-quervains-tenosynovitis/elbow-bend.webp
