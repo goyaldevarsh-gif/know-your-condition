@@ -37,8 +37,8 @@ const doc = asset('img/dr-devarsh');
     <div class="lang-pick">
       <div class="lang-label">Choose your language / अपनी भाषा चुनें</div>
       <div class="lang-chips" role="group" aria-label="Language / भाषा">
-        <button type="button" class="lang-chip" data-pick="en" aria-pressed="true" lang="en">English</button>
-        <button type="button" class="lang-chip" data-pick="hi" aria-pressed="false" lang="hi">हिंदी</button>
+        <button type="button" class="lang-chip" data-pick="hi" aria-pressed="true" lang="hi">हिंदी</button>
+        <button type="button" class="lang-chip" data-pick="en" aria-pressed="false" lang="en">English</button>
       </div>
     </div>
 
@@ -56,7 +56,7 @@ const doc = asset('img/dr-devarsh');
       </div>
     </div>
 
-    <a id="go" class="btn" href={url('en/')}>
+    <a id="go" class="btn" href={url('hi/')}>
       <span class="l-en">{ui.continue.en}</span><span class="l-hi">{ui.continue.hi}</span>
       <Icon name="arrow" size={22} stroke={3} />
     </a>
@@ -76,7 +76,7 @@ const doc = asset('img/dr-devarsh');
         c.setAttribute('aria-pressed', c.getAttribute('data-pick') === l ? 'true' : 'false');
       });
     }
-    var start = root.getAttribute('data-lang') || 'en';
+    var start = root.getAttribute('data-lang') || 'hi';
     apply(start);
     chips.forEach(function (c) {
       c.addEventListener('click', function () {

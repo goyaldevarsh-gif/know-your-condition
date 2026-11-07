@@ -43,11 +43,11 @@ const norm = (x: string) => x.normalize('NFD').replace(/[\u093c\u200b-\u200d]/g,
     </div>
 
     <div class="mode" role="tablist">
-      <button type="button" role="tab" data-mode="search" aria-selected="true">{lang === 'hi' ? 'खोजें' : 'Search'}</button>
-      <button type="button" role="tab" data-mode="body" aria-selected="false">{lang === 'hi' ? 'शरीर से ढूंढें' : 'By body part'}</button>
+      <button type="button" role="tab" data-mode="body" aria-selected="true">{lang === 'hi' ? 'शरीर से ढूंढें' : 'By body part'}</button>
+      <button type="button" role="tab" data-mode="search" aria-selected="false">{lang === 'hi' ? 'खोजें' : 'Search'}</button>
     </div>
 
-    <div id="mode-search">
+    <div id="mode-search" hidden>
     <div class="search">
       <label class="sr-only" for="q">{t(ui.search, lang)}</label>
       <input id="q" type="search" placeholder={t(ui.search, lang)} autocomplete="off" enterkeyhint="search" />
@@ -92,7 +92,7 @@ const norm = (x: string) => x.normalize('NFD').replace(/[\u093c\u200b-\u200d]/g,
 
     </div>
 
-    <div id="mode-body" hidden>
+    <div id="mode-body">
       <BodyMap lang={lang} ready={ready} />
     </div>
 
@@ -111,7 +111,7 @@ const norm = (x: string) => x.normalize('NFD').replace(/[\u093c\u200b-\u200d]/g,
       if (save) { try { localStorage.setItem('kyc-mode', m); } catch (e) {} }
     }
     modes.forEach(function (b) { b.addEventListener('click', function () { setMode(b.getAttribute('data-mode'), true); }); });
-    try { if (localStorage.getItem('kyc-mode') === 'body') setMode('body', false); } catch (e) {}
+    try { if (localStorage.getItem('kyc-mode') === 'search') setMode('search', false); } catch (e) {}
   })();
   (function () {
     var q = document.getElementById('q');

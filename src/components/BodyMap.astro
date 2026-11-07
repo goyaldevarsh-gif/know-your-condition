@@ -43,6 +43,18 @@ const allPanels = [...bm.front, ...bm.back].filter((r, i, a) => a.findIndex((x) 
         {v.regions.map((r) => (
           <g class="bm-hot" role="button" tabindex="0" data-bm-region={r.id} aria-label={t(r.name, lang)}>
             {r.shapes.map((s) => <ellipse cx={s[0]} cy={s[1]} rx={s[2]} ry={s[3]} />)}
+            {(() => {
+              const s = r.shapes[r.shapes.length - 1];
+              const name = t(r.name, lang);
+              const w = Math.max(90, name.length * (hi ? 25 : 21) + 34);
+              const cx = Math.min(Math.max(s[0], w / 2 + 6), bm.w - w / 2 - 6);
+              return (
+                <g class="bm-lab">
+                  <rect x={cx - w / 2} y={s[1] - 20} width={w} height={40} rx={20} />
+                  <text x={cx} y={s[1] + 1} text-anchor="middle" dominant-baseline="middle">{name}</text>
+                </g>
+              );
+            })()}
           </g>
         ))}
       </svg>
