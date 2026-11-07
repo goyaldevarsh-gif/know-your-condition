@@ -970,7 +970,6 @@ html[data-hc] a:focus-visible, html[data-hc] button:focus-visible, html[data-hc]
 .bm-fig[hidden] { display: none; }
 .bm-fig img { display: block; width: 100%; height: auto; }
 .bm-fig svg { position: absolute; inset: 0; width: 100%; height: 100%; }
-.bm-hot ellipse { fill: rgba(32, 166, 154, 0.22); stroke: #20a69a; stroke-width: 5; cursor: pointer; transition: fill 0.15s; }
 .bm-hot:hover ellipse { fill: rgba(32, 166, 154, 0.38); }
 .bm-hot.on ellipse { fill: rgba(255, 190, 40, 0.5); stroke: #e08a00; stroke-width: 7; }
 .bm-hot:focus-visible { outline: none; }
@@ -1011,8 +1010,12 @@ html[data-hc] a:focus-visible, html[data-hc] button:focus-visible, html[data-hc]
 .seealso-go { flex: none; font-size: 1.6rem; font-weight: 800; line-height: 1; }
 .seealso:focus-visible { outline: 3px solid var(--navy); outline-offset: 2px; }
 @media print { .seealso { display: none; } }
-.bm-lab rect { fill: #fff; stroke: #0a1f33; stroke-width: 3; }
-.bm-lab text { fill: #0a1f33; font-size: 26px; font-weight: 800; font-family: inherit; pointer-events: none; }
-.bm-hot { cursor: pointer; }
-.bm-hot.on .bm-lab rect { fill: #ffbe28; stroke: #e08a00; }
-.bm-fig { max-width: 420px; }
+.bm-box { fill: rgba(255,255,255,0); stroke: none; cursor: pointer; transition: fill 0.15s; }
+.bm-hot text { fill: #0a1f33; font-weight: 800; font-family: inherit; pointer-events: none; }
+.bm-dot { fill: rgba(32,166,154,0.0); stroke: none; cursor: pointer; }
+.bm-hot:hover .bm-box { fill: rgba(32,166,154,0.18); }
+.bm-hot.on .bm-box { fill: rgba(255,190,40,0.85); }
+.bm-hot.on .bm-dot { fill: rgba(255,190,40,0.45); stroke: #e08a00; stroke-width: 6; }
+.bm-hot:focus-visible .bm-box { stroke: #0a1f33; stroke-width: 5; }
+.bm-fig { max-width: 440px; }
+.bm-soon { margin: 0 0 8px; font-weight: 600; color: var(--muted); }

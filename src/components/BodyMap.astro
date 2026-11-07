@@ -15,6 +15,7 @@ const S = {
   back: hi ? 'पीछे' : 'Back',
   other: hi ? 'प्लास्टर या ऑपरेशन' : 'Plaster or surgery',
   none: hi ? 'जल्द आ रहा है' : 'Coming soon',
+  soon: hi ? 'इस हिस्से की जानकारी जल्द आएगी। अभी दर्द हो तो डॉक्टर से पूछें।' : 'Information for this part is coming soon. If it hurts, please ask the doctor.',
 };
 const views = [
   { key: 'front', label: S.front, img: asset('img/bodymap/front'), regions: bm.front },
@@ -40,23 +41,17 @@ const allPanels = [...bm.front, ...bm.back].filter((r, i, a) => a.findIndex((x) 
     <div class="bm-fig" data-bm-fig={v.key} hidden={i !== 0}>
       {v.img && <img src={v.img} alt="" width={bm.w} height={bm.h} decoding="async" />}
       <svg viewBox={`0 0 ${bm.w} ${bm.h}`} aria-label={S.prompt}>
-        {v.regions.map((r) => (
-          <g class="bm-hot" role="button" tabindex="0" data-bm-region={r.id} aria-label={t(r.name, lang)}>
-            {r.shapes.map((s) => <ellipse cx={s[0]} cy={s[1]} rx={s[2]} ry={s[3]} />)}
-            {(() => {
-              const s = r.shapes[r.shapes.length - 1];
-              const name = t(r.name, lang);
-              const w = Math.max(90, name.length * (hi ? 25 : 21) + 34);
-              const cx = Math.min(Math.max(s[0], w / 2 + 6), bm.w - w / 2 - 6);
-              return (
-                <g class="bm-lab">
-                  <rect x={cx - w / 2} y={s[1] - 20} width={w} height={40} rx={20} />
-                  <text x={cx} y={s[1] + 1} text-anchor="middle" dominant-baseline="middle">{name}</text>
-                </g>
-              );
-            })()}
-          </g>
-        ))}
+        {v.regions.map((r) => {
+          const name = t(r.name, lang);
+          const fs = name.length > 11 ? 25 : 30;
+          return (
+            <g class="bm-hot" role="button" tabindex="0" data-bm-region={r.id} aria-label={name}>
+              <rect class="bm-box" x={r.box[0]} y={r.box[1]} width={r.box[2]} height={r.box[3]} rx="12" />
+              <text x={r.box[0] + r.box[2] / 2} y={r.box[1] + r.box[3] / 2 + 1} text-anchor="middle" dominant-baseline="middle" font-size={fs}>{name}</text>
+              <circle class="bm-dot" cx={r.dot[0]} cy={r.dot[1]} r="30" />
+            </g>
+          );
+        })}
       </svg>
     </div>
   ))}
@@ -65,6 +60,7 @@ const allPanels = [...bm.front, ...bm.back].filter((r, i, a) => a.findIndex((x) 
     {allPanels.map((r) => (
       <section class="bm-panel" data-bm-panel={r.id} hidden>
         <h3>{t(r.name, lang)}</h3>
+        {r.slugs.every((s) => !card(s)) && <p class="bm-soon">{S.soon}</p>}
         <ul class="cond-list">
           {r.slugs.map((s) => card(s)).filter(Boolean).map((c: any) => (
             <li>
