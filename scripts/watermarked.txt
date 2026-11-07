@@ -49,6 +49,9 @@ public/img/frozen-shoulder/pendulum.webp
 public/img/frozen-shoulder/table-slide.webp
 public/img/frozen-shoulder/towel-stretch.webp
 public/img/frozen-shoulder/wall-climb.webp
+public/img/ice-or-heat/heat-pack.webp
+public/img/ice-or-heat/hero.webp
+public/img/ice-or-heat/ice-pack.webp
 public/img/knee-osteoarthritis/heel-slide.webp
 public/img/knee-osteoarthritis/hero.webp
 public/img/knee-osteoarthritis/quads-set.webp
