@@ -1,0 +1,250 @@
+{
+  "slug": "bathing-cast-brace",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "A cast or slab must stay dry. A wet cast gets soft and weak. You can stay clean with a sponge wash, and cover the cast if you shower.",
+      "hi": "प्लास्टर या स्लैब सूखा रहना चाहिए। गीला होने पर वह नरम और कमज़ोर हो जाता है। आप स्पंज से सफ़ाई कर सकते हैं, और नहाते समय प्लास्टर को ढक सकते हैं।"
+    },
+    {
+      "en": "A sling or brace needs care too. Ask your surgeon what is allowed for you.",
+      "hi": "स्लिंग या ब्रेस में भी सावधानी चाहिए। आपके लिए क्या ठीक है, सर्जन से पूछें।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "Quick guide",
+    "hi": "एक नज़र में"
+  },
+  "symptoms": [
+    {
+      "en": "Cast or slab (plaster): keep it out of water",
+      "hi": "प्लास्टर या स्लैब: पानी से दूर रखें"
+    },
+    {
+      "en": "Sling: take it off to wash, and rest the arm on a table",
+      "hi": "स्लिंग: धोने के लिए उतारें, हाथ मेज़ पर रखें"
+    },
+    {
+      "en": "Clavicle brace (figure-of-eight): ask your surgeon if you may take it off to wash",
+      "hi": "क्लेविकल ब्रेस (आठ के आकार का): धोने के लिए उतार सकते हैं या नहीं, सर्जन से पूछें"
+    },
+    {
+      "en": "After surgery: keep the dressing and wound dry until the doctor says it is fine",
+      "hi": "ऑपरेशन के बाद: डॉक्टर के कहने तक पट्टी और घाव सूखे रखें"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Sponge wash (easiest)",
+          "hi": "स्पंज से सफ़ाई (सबसे आसान)"
+        },
+        "text": {
+          "en": "Sit on a stable stool. Use a mug and bucket or a wet cloth. Keep the cast, slab or dressing away from the water. Rest an injured arm on a table. Ask family to wash your back.",
+          "hi": "एक स्थिर स्टूल पर बैठें। मग-बाल्टी या गीला कपड़ा इस्तेमाल करें। प्लास्टर, स्लैब या पट्टी को पानी से दूर रखें। चोट वाला हाथ मेज़ पर रखें। पीठ धोने में परिवार की मदद लें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Shower with a cast",
+          "hi": "प्लास्टर के साथ नहाना"
+        },
+        "text": {
+          "en": "A ready-made cast cover is best. A plastic bag sealed with tape or a rubber band above the cast can work, but bags can leak, so keep the cast out of the water and away from the shower stream. Take the bag off as soon as you can. For a leg, rest it out on a second stool.",
+          "hi": "तैयार कास्ट कवर सबसे अच्छा है। प्लास्टर के ऊपर टेप या रबर बैंड से बंधी प्लास्टिक की थैली भी काम कर सकती है, पर थैली रिस सकती है, इसलिए प्लास्टर को पानी और शावर की धार से दूर रखें। थैली जल्दी उतार दें। पैर हो तो उसे दूसरे स्टूल पर बाहर रखें।"
+        }
+      },
+      {
+        "title": {
+          "en": "If the cast gets wet",
+          "hi": "प्लास्टर गीला हो जाए तो"
+        },
+        "text": {
+          "en": "Call your fracture clinic or plaster room. Do not use a hair dryer on it.",
+          "hi": "अपने फ़्रैक्चर क्लिनिक या प्लास्टर रूम को फ़ोन करें। उस पर हेयर ड्रायर न चलाएं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Sling and armpit",
+          "hi": "स्लिंग और बगल"
+        },
+        "text": {
+          "en": "To wash under your arm, lean forward and let the arm hang down. Do not lift the shoulder. Dry the armpit fully to prevent irritation. Dress the injured arm first and undress it last.",
+          "hi": "बगल धोने के लिए आगे झुकें और हाथ नीचे लटकने दें। कंधा ऊपर न उठाएं। जलन से बचने के लिए बगल पूरी सूखी करें। चोट वाले हाथ को पहले पहनाएं और आख़िर में उतारें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Clavicle brace",
+          "hi": "क्लेविकल ब्रेस"
+        },
+        "text": {
+          "en": "Wear a thin cotton vest under it. Check the skin of both armpits every day. Do not loosen or tighten it yourself. Ask your surgeon how long you need it.",
+          "hi": "इसके नीचे पतली सूती बनियान पहनें। रोज़ दोनों बगलों की त्वचा देखें। इसे खुद ढीला या कसा न करें। कितने समय पहनना है, सर्जन से पूछें।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Itching under a cast: never put anything inside to scratch. Tell your fracture clinic.",
+      "hi": "प्लास्टर के अंदर खुजली हो तो कभी कुछ डालकर न खुजाएं। अपने फ़्रैक्चर क्लिनिक को बताएं।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Keep the cast, slab and dressing dry.",
+      "hi": "प्लास्टर, स्लैब और पट्टी सूखे रखें।"
+    },
+    {
+      "en": "Sit on a stable stool with a non-slip mat.",
+      "hi": "न फिसलने वाली मैट पर स्थिर स्टूल पर बैठें।"
+    },
+    {
+      "en": "Dry your skin well, especially the armpit.",
+      "hi": "त्वचा अच्छी तरह सुखाएं, ख़ासकर बगल।"
+    },
+    {
+      "en": "Ask family to help wash your back.",
+      "hi": "पीठ धोने में परिवार की मदद लें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not put anything inside the cast to scratch.",
+      "hi": "खुजाने के लिए प्लास्टर में कुछ न डालें।"
+    },
+    {
+      "en": "Do not put cream or talc inside the cast.",
+      "hi": "प्लास्टर के अंदर क्रीम या पाउडर न डालें।"
+    },
+    {
+      "en": "Do not soak the cast or slab in water.",
+      "hi": "प्लास्टर या स्लैब को पानी में न डुबोएं।"
+    },
+    {
+      "en": "Do not open a slab or remove a brace yourself.",
+      "hi": "स्लैब खुद न खोलें और ब्रेस खुद न उतारें।"
+    }
+  ],
+  "careImages": [
+    {
+      "id": "cast-cover",
+      "caption": {
+        "en": "Cast covered and sealed, kept away from the water",
+        "hi": "ढका और सील किया प्लास्टर, पानी से दूर"
+      }
+    },
+    {
+      "id": "armpit-wash",
+      "caption": {
+        "en": "Washing the armpit: let the arm hang, do not lift the shoulder",
+        "hi": "बगल धोना: हाथ लटकने दें, कंधा ऊपर न उठाएं"
+      }
+    },
+    {
+      "id": "clavicle-brace",
+      "caption": {
+        "en": "Figure-of-eight clavicle brace over a cotton vest",
+        "hi": "सूती बनियान पर आठ के आकार का क्लेविकल ब्रेस"
+      }
+    }
+  ],
+  "seeAlso": [
+    {
+      "slug": "cast-care-upper-limb",
+      "text": {
+        "en": "Arm or hand cast? See cast care",
+        "hi": "हाथ या बाजू का प्लास्टर? कास्ट केयर देखें"
+      }
+    },
+    {
+      "slug": "cast-care-lower-limb",
+      "text": {
+        "en": "Leg cast? See cast care",
+        "hi": "पैर का प्लास्टर? कास्ट केयर देखें"
+      }
+    }
+  ],
+  "exercisesNote": {
+    "en": "There are no exercises on this page. Ask your doctor or physiotherapist about exercises for your condition.",
+    "hi": "इस पेज में कोई व्यायाम नहीं है। अपनी बीमारी के व्यायाम के बारे में डॉक्टर या फ़िज़ियोथेरेपिस्ट से पूछें।"
+  },
+  "exercises": [],
+  "myths": [
+    {
+      "myth": {
+        "en": "A plastic bag makes the cast waterproof.",
+        "hi": "प्लास्टिक की थैली प्लास्टर को वॉटरप्रूफ़ बना देती है।"
+      },
+      "fact": {
+        "en": "Bags can leak. Keep the cast out of the water even with a bag.",
+        "hi": "थैली रिस सकती है। थैली के बावजूद प्लास्टर को पानी से दूर रखें।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "urgent",
+      "title": {
+        "en": "The cast gets wet and feels soft, loose or cracked",
+        "hi": "प्लास्टर गीला होकर नरम, ढीला या चटका लगे"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Swollen fingers or toes, numbness, pins and needles, or skin turning white or blue",
+        "hi": "उंगलियां या पैर की उंगलियां सूजी हों, सुन्नपन, झुनझुनी, या त्वचा सफ़ेद या नीली पड़े"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "A smell or discharge from under the cast, or red, hot or sore skin",
+        "hi": "प्लास्टर के नीचे से बदबू या रिसाव, या त्वचा लाल, गर्म या दुखती हो"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Can I take a bath?",
+        "hi": "क्या नहा सकते हैं?"
+      },
+      "a": {
+        "en": "Not with the cast in the water. Use a sponge wash, or cover the cast and keep it out of the water.",
+        "hi": "प्लास्टर पानी में हो तो नहीं। स्पंज से सफ़ाई करें, या प्लास्टर ढककर उसे पानी से दूर रखें।"
+      }
+    },
+    {
+      "q": {
+        "en": "When can I shower after surgery?",
+        "hi": "ऑपरेशन के बाद कब नहा सकते हैं?"
+      },
+      "a": {
+        "en": "Keep the wound dry until your surgeon says it is fine. After one collarbone operation, one hospital asks for a strip wash for the first 2 weeks. Ask your own surgeon.",
+        "hi": "सर्जन के कहने तक घाव सूखा रखें। कॉलरबोन के एक ऑपरेशन के बाद एक अस्पताल पहले 2 हफ़्ते स्पंज से सफ़ाई को कहता है। अपने सर्जन से पूछें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Once the cast, sling or brace is off, normal washing starts again. Ask your doctor when.",
+        "hi": "प्लास्टर, स्लिंग या ब्रेस हटने के बाद सामान्य नहाना फिर शुरू होता है। कब, यह डॉक्टर से पूछें।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Your cast got wet, or it is rubbing, too tight or too loose.",
+        "hi": "प्लास्टर गीला हुआ, या रगड़ रहा है, बहुत कसा या ढीला है।"
+      },
+      {
+        "en": "The skin under a brace or in the armpit is red or sore.",
+        "hi": "ब्रेस के नीचे या बगल की त्वचा लाल या दुखती है।"
+      }
+    ]
+  }
+}

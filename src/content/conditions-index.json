@@ -346,5 +346,29 @@
       "en": "What to wear for heel pain, flat foot and knee arthritis",
       "hi": "एड़ी के दर्द, चपटे पैर और घुटने के गठिया में क्या पहनें"
     }
+  },
+  {
+    "slug": "bed-rest-care",
+    "category": "general-care",
+    "name": {
+      "en": "Bed-Ridden Patient Care",
+      "hi": "बिस्तर पर लेटे मरीज़ की देखभाल (Bed Care)"
+    },
+    "short": {
+      "en": "Pressure sores, clots, breathing and bowels after a leg or spine fracture",
+      "hi": "पैर या रीढ़ की हड्डी टूटने के बाद बिस्तर के घाव, थक्के, सांस और पेट की देखभाल"
+    }
+  },
+  {
+    "slug": "bathing-cast-brace",
+    "category": "general-care",
+    "name": {
+      "en": "Bathing with a Cast or Brace",
+      "hi": "प्लास्टर या ब्रेस के साथ नहाना (Bathing)"
+    },
+    "short": {
+      "en": "Cast, slab, sling and clavicle brace: how to wash and stay clean",
+      "hi": "प्लास्टर, स्लैब, स्लिंग और क्लेविकल ब्रेस के साथ सफ़ाई कैसे करें"
+    }
   }
 ]

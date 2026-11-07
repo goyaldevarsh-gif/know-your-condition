@@ -1,0 +1,294 @@
+{
+  "slug": "bed-rest-care",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "After a leg or spine fracture you may need to stay in bed for some time. The main risks are pressure sores, blood clots, chest infection and constipation. Small daily habits prevent most of them.",
+      "hi": "पैर या रीढ़ की हड्डी टूटने के बाद कुछ समय बिस्तर पर रहना पड़ सकता है। मुख्य ख़तरे हैं: बिस्तर के घाव (Pressure sore), खून के थक्के, छाती का इन्फ़ेक्शन और कब्ज़। रोज़ की छोटी आदतों से इनमें से ज़्यादातर रोके जा सकते हैं।"
+    },
+    {
+      "en": "Always follow your surgeon's rules on how you may turn, sit up and put weight.",
+      "hi": "करवट लेने, बैठने और वज़न डालने के बारे में हमेशा सर्जन के नियम मानें।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "Main risks in bed",
+    "hi": "बिस्तर पर मुख्य ख़तरे"
+  },
+  "symptoms": [
+    {
+      "en": "Pressure sores: skin over the heels, bottom and lower back can break down within a few hours of constant pressure",
+      "hi": "बिस्तर के घाव: एड़ी, कूल्हे और कमर के निचले हिस्से की त्वचा लगातार दबाव से कुछ घंटों में खराब हो सकती है"
+    },
+    {
+      "en": "Blood clots in the leg veins when the legs do not move",
+      "hi": "पैर न हिलाने पर पैर की नसों में खून के थक्के"
+    },
+    {
+      "en": "Chest infection from shallow breathing and lying flat",
+      "hi": "उथली सांस और सपाट लेटने से छाती का इन्फ़ेक्शन"
+    },
+    {
+      "en": "Constipation and not drinking enough",
+      "hi": "कब्ज़ और कम पानी पीना"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Change position (karvat)",
+          "hi": "करवट बदलते रहें (Position change)"
+        },
+        "text": {
+          "en": "If your surgeon allows, change position at least every 2 hours, day and night. Use pillows to keep weight off the heels, bottom and lower back. Keep the sheet smooth and dry. Do not drag the person over the sheet.",
+          "hi": "सर्जन अनुमति दें तो दिन-रात कम से कम हर 2 घंटे में करवट बदलें। एड़ी, कूल्हे और कमर के निचले हिस्से से वज़न हटाने के लिए तकिए लगाएं। चादर चिकनी और सूखी रखें। मरीज़ को चादर पर घसीटें नहीं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Spine fracture: turn as one piece",
+          "hi": "रीढ़ की हड्डी टूटी हो: एक इकाई की तरह पलटें"
+        },
+        "text": {
+          "en": "Turn only the way your team taught you. Two helpers turn the body as one piece (log roll). Head, shoulders, hips and legs stay in one straight line, with no twisting. A pillow between the knees helps.",
+          "hi": "सिर्फ़ उसी तरीके से पलटें जो आपकी टीम ने सिखाया है। दो लोग शरीर को एक इकाई की तरह पलटाते हैं (Log roll)। सिर, कंधे, कूल्हे और पैर एक सीधी रेखा में रहें, मरोड़ें नहीं। घुटनों के बीच तकिया मदद करता है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Check for bedsores daily",
+          "hi": "रोज़ बिस्तर के घाव (Bedsore) देखें"
+        },
+        "text": {
+          "en": "Look at the heels, bottom, lower back and under any cast edge or brace. Early signs: a red or darker patch that does not fade, pain or warmth. Later: a blister or open sore. Keep the skin clean and dry.",
+          "hi": "एड़ी, कूल्हे, कमर के निचले हिस्से और प्लास्टर के किनारे या ब्रेस के नीचे देखें। शुरुआती संकेत: लाल या गहरा धब्बा जो दबाने पर फीका न पड़े, दर्द या गर्माहट। बाद में: छाला या खुला घाव। त्वचा साफ़ और सूखी रखें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Air mattress",
+          "hi": "एयर मैट्रेस (Air mattress)"
+        },
+        "text": {
+          "en": "An air or pressure-relieving mattress and heel off-loading pads lower the pressure on the skin. They do not replace turning, so keep changing position. Ask your team which type suits you.",
+          "hi": "हवा वाला या दबाव कम करने वाला गद्दा और एड़ी के पैड त्वचा पर दबाव घटाते हैं। ये करवट बदलने की जगह नहीं लेते, इसलिए स्थिति बदलते रहें। आपके लिए कौन सा ठीक है, टीम से पूछें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Keep the blood moving",
+          "hi": "खून का बहाव बनाए रखें"
+        },
+        "text": {
+          "en": "Move the ankles up and down 10 times, rest, and repeat 3 times, at least twice a day, unless your doctor says not to. If your knee is free, bend and straighten it 10 times. Drink plenty of fluids.",
+          "hi": "टखनों को ऊपर-नीचे 10 बार हिलाएं, आराम करें, और 3 बार दोहराएं। दिन में कम से कम दो बार करें, जब तक डॉक्टर मना न करें। घुटना खुला हो तो उसे 10 बार मोड़ें और सीधा करें। खूब पानी पिएं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Breathe deeply",
+          "hi": "गहरी सांस लें"
+        },
+        "text": {
+          "en": "Sit as upright as allowed. Breathe in slowly through the nose, hold for 3 seconds, and breathe out slowly through the mouth. Do 3 to 6 breaths, then rest. Repeat 3 to 4 times an hour while awake.",
+          "hi": "जितना अनुमति हो, उतना सीधे बैठें। नाक से धीरे सांस लें, 3 सेकंड रोकें, फिर मुंह से धीरे छोड़ें। 3 से 6 सांसें लें, फिर आराम करें। जागते समय हर घंटे 3 से 4 बार दोहराएं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Food, water and bowels",
+          "hi": "खाना, पानी और पेट"
+        },
+        "text": {
+          "en": "Eat balanced meals and drink plenty of fluids. Use the bedpan or urinal as taught and keep the skin dry afterwards.",
+          "hi": "संतुलित खाना खाएं और खूब पानी पिएं। बेडपैन या यूरिनल सिखाए अनुसार इस्तेमाल करें और बाद में त्वचा सूखी रखें।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your team will tell you when you can sit, stand and walk. Until then these steps protect you.",
+      "hi": "आप कब बैठ, खड़े हो और चल सकते हैं, यह आपकी टीम बताएगी। तब तक ये कदम आपकी रक्षा करते हैं।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Change position as often as your surgeon allows.",
+      "hi": "सर्जन जितनी अनुमति दें, उतनी बार स्थिति बदलें।"
+    },
+    {
+      "en": "Use an air (pressure-relieving) mattress if your team advises it.",
+      "hi": "टीम सलाह दे तो एयर (दबाव कम करने वाला) गद्दा इस्तेमाल करें।"
+    },
+    {
+      "en": "Drink plenty of fluids.",
+      "hi": "खूब पानी पिएं।"
+    },
+    {
+      "en": "Check the skin every day.",
+      "hi": "रोज़ त्वचा देखें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not lie in one position for hours.",
+      "hi": "घंटों एक ही स्थिति में न लेटे रहें।"
+    },
+    {
+      "en": "Do not twist the spine if it is fractured.",
+      "hi": "रीढ़ टूटी हो तो उसे मरोड़ें नहीं।"
+    },
+    {
+      "en": "Do not stop the ankle movements.",
+      "hi": "टखने की हरकतें बंद न करें।"
+    },
+    {
+      "en": "Do not ignore a red or painful patch of skin.",
+      "hi": "त्वचा के लाल या दुखते हिस्से को नज़रअंदाज़ न करें।"
+    }
+  ],
+  "careImages": [
+    {
+      "id": "log-roll",
+      "caption": {
+        "en": "Turning as one piece, with a pillow between the knees",
+        "hi": "एक इकाई की तरह पलटना, घुटनों के बीच तकिया"
+      }
+    },
+    {
+      "id": "heels-float",
+      "caption": {
+        "en": "Pillow under the calves, heels off the bed",
+        "hi": "पिंडलियों के नीचे तकिया, एड़ियां बिस्तर से ऊपर"
+      }
+    },
+    {
+      "id": "ankle-pumps",
+      "caption": {
+        "en": "Ankle pumps: up and down",
+        "hi": "टखने की हरकत: ऊपर और नीचे"
+      }
+    }
+  ],
+  "seeAlso": [
+    {
+      "slug": "post-surgery-care",
+      "text": {
+        "en": "Had surgery? See general care after surgery",
+        "hi": "ऑपरेशन हुआ है? ऑपरेशन के बाद की सामान्य देखभाल देखें"
+      }
+    },
+    {
+      "slug": "bathing-cast-brace",
+      "text": {
+        "en": "How to wash with a cast, slab or brace",
+        "hi": "प्लास्टर, स्लैब या ब्रेस के साथ सफ़ाई कैसे करें"
+      }
+    }
+  ],
+  "exercisesNote": {
+    "en": "There are no exercises on this page. Ask your doctor or physiotherapist about exercises for your condition.",
+    "hi": "इस पेज में कोई व्यायाम नहीं है। अपनी बीमारी के व्यायाम के बारे में डॉक्टर या फ़िज़ियोथेरेपिस्ट से पूछें।"
+  },
+  "exercises": [],
+  "myths": [
+    {
+      "myth": {
+        "en": "Complete bed rest is the safest.",
+        "hi": "पूरा बिस्तर आराम सबसे सुरक्षित है।"
+      },
+      "fact": {
+        "en": "Lying still for long raises the risk of clots, chest infection and pressure sores. Move as much as your doctor allows.",
+        "hi": "देर तक बिना हिले लेटने से थक्के, छाती का इन्फ़ेक्शन और बिस्तर के घाव का ख़तरा बढ़ता है। डॉक्टर जितना अनुमति दें, उतना हिलें।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Sudden chest pain, fast breathing, shortness of breath, or coughing up blood",
+        "hi": "अचानक छाती में दर्द, तेज़ सांस, सांस फूलना, या खून की खांसी"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "New weakness or numbness in the legs, or loss of control of urine or stool",
+        "hi": "पैरों में नई कमज़ोरी या सुन्नपन, या पेशाब या मल पर नियंत्रण न रहना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Calf or leg pain, swelling, warmth or redness, especially above the knee",
+        "hi": "पिंडली या पैर में दर्द, सूजन, गर्माहट या लालिमा, ख़ासकर घुटने के ऊपर"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Skin that turns red or purple and does not fade, a blister, or an open sore",
+        "hi": "त्वचा लाल या बैंगनी हो जाए और फीकी न पड़े, छाला, या खुला घाव"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Fever, or a cough with phlegm",
+        "hi": "बुखार, या बलगम वाली खांसी"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How often should we turn the patient?",
+        "hi": "मरीज़ को कितनी बार पलटें?"
+      },
+      "a": {
+        "en": "In hospital, high-risk patients are turned about every 2 hours. Ask your team what suits you, especially with a spine fracture.",
+        "hi": "अस्पताल में ज़्यादा जोखिम वाले मरीज़ों को लगभग हर 2 घंटे में पलटाते हैं। आपके लिए क्या ठीक है, टीम से पूछें, ख़ासकर रीढ़ की चोट में।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I sit up in bed?",
+        "hi": "क्या बिस्तर पर बैठ सकते हैं?"
+      },
+      "a": {
+        "en": "Sitting upright helps your breathing, but only if your surgeon allows it. Ask first.",
+        "hi": "सीधे बैठने से सांस में मदद मिलती है, पर सिर्फ़ तब जब सर्जन अनुमति दें। पहले पूछें।"
+      }
+    },
+    {
+      "q": {
+        "en": "Do we need an air mattress?",
+        "hi": "क्या एयर मैट्रेस ज़रूरी है?"
+      },
+      "a": {
+        "en": "It helps people who will stay in bed for long, or who already have red or sore skin. Ask your doctor or nurse. Even with one, keep turning.",
+        "hi": "यह उन लोगों को मदद करता है जिन्हें लंबे समय बिस्तर पर रहना है, या जिनकी त्वचा पहले से लाल या दुखती है। डॉक्टर या नर्स से पूछें। गद्दा हो तब भी करवट बदलते रहें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "As the bone heals, your team will help you sit, stand and walk step by step.",
+        "hi": "हड्डी जुड़ने के साथ आपकी टीम आपको धीरे-धीरे बैठना, खड़े होना और चलना सिखाएगी।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "The skin looks red, sore or broken.",
+        "hi": "त्वचा लाल, दुखती या फटी दिखे।"
+      },
+      {
+        "en": "The cast or brace feels too tight or rubs.",
+        "hi": "प्लास्टर या ब्रेस ज़्यादा कसा लगे या रगड़े।"
+      }
+    ]
+  }
+}

@@ -376,6 +376,20 @@
         "en": "Need a stick, walker or crutches? See how to use them",
         "hi": "छड़ी, वॉकर या बैसाखी चाहिए? इस्तेमाल का तरीका देखें"
       }
+    },
+    {
+      "slug": "bathing-cast-brace",
+      "text": {
+        "en": "How to wash with a cast, slab or brace",
+        "hi": "प्लास्टर, स्लैब या ब्रेस के साथ सफ़ाई कैसे करें"
+      }
+    },
+    {
+      "slug": "bed-rest-care",
+      "text": {
+        "en": "Stuck in bed? See bed-ridden patient care",
+        "hi": "बिस्तर पर रहना पड़ रहा है? बिस्तर पर लेटे मरीज़ की देखभाल देखें"
+      }
     }
   ]
 }
