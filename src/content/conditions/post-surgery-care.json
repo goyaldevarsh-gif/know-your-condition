@@ -34,8 +34,8 @@
           "hi": "घाव और ड्रेसिंग"
         },
         "text": {
-          "en": "Wash your hands before touching it. Keep the dressing clean, dry and in place until your team says otherwise. If it gets loose, re-cover it and tell your team. A little oozing in the first day or two is common: press on it gently for 15 minutes.",
-          "hi": "घाव छूने से पहले हाथ धोएं। ड्रेसिंग साफ़, सूखी और अपनी जगह पर रखें, जब तक टीम कुछ और न कहे। ढीली हो जाए तो दोबारा ढकें और टीम को बताएं। पहले एक-दो दिन थोड़ा रिसाव आम है: उसे 15 मिनट हल्के से दबाएं।"
+          "en": "Wash your hands before touching it. Keep the dressing clean, dry and in place until your team says otherwise. If it gets loose, re-cover it and tell your team. A little oozing in the first day or two is common: press on it gently for 10 minutes.",
+          "hi": "घाव छूने से पहले हाथ धोएं। ड्रेसिंग साफ़, सूखी और अपनी जगह पर रखें, जब तक टीम कुछ और न कहे। ढीली हो जाए तो दोबारा ढकें और टीम को बताएं। पहले एक-दो दिन थोड़ा रिसाव आम है: उसे 10 मिनट हल्के से दबाएं।"
         }
       },
       {
@@ -209,8 +209,8 @@
     {
       "level": "emergency",
       "title": {
-        "en": "Bleeding that does not stop after pressing on it for 5 minutes",
-        "hi": "5 मिनट दबाने के बाद भी खून न रुकना"
+        "en": "Bleeding that does not stop after pressing on it for 10 minutes",
+        "hi": "10 मिनट दबाने के बाद भी खून न रुकना"
       }
     },
     {

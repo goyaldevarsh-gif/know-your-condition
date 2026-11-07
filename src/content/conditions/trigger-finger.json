@@ -64,8 +64,8 @@
           "hi": "स्टेरॉइड इंजेक्शन"
         },
         "text": {
-          "en": "An injection near the tendon sheath can reduce swelling. It often works for more than a year. A second injection is sometimes needed.",
-          "hi": "नस की म्यान के पास इंजेक्शन से सूजन कम हो सकती है। यह अक्सर एक साल से ज़्यादा असर करता है। कभी-कभी दूसरा इंजेक्शन चाहिए होता है।"
+          "en": "An injection near the tendon sheath can reduce swelling. It often helps, but the finger can lock again. A second injection is sometimes needed.",
+          "hi": "नस की म्यान के पास इंजेक्शन से सूजन कम हो सकती है। यह अक्सर फ़ायदा करता है, पर उंगली दोबारा अटक सकती है। कभी-कभी दूसरा इंजेक्शन चाहिए होता है।"
         }
       },
       {
@@ -207,8 +207,8 @@
         "hi": "एक इंजेक्शन से हमेशा के लिए ठीक हो जाता है।"
       },
       "fact": {
-        "en": "An injection often works for more than a year, but a second one is sometimes needed.",
-        "hi": "इंजेक्शन अक्सर एक साल से ज़्यादा असर करता है, पर कभी-कभी दूसरा भी चाहिए होता है।"
+        "en": "An injection often helps, but the finger can lock again, and a second one is sometimes needed.",
+        "hi": "इंजेक्शन अक्सर फ़ायदा करता है, पर उंगली दोबारा अटक सकती है, और कभी-कभी दूसरा भी चाहिए होता है।"
       }
     }
   ],
@@ -284,8 +284,8 @@
   "recovery": {
     "expect": [
       {
-        "en": "Many people improve with rest, a splint and medicines. If not, an injection or a small procedure helps. An injection often works for more than a year.",
-        "hi": "कई लोग आराम, स्प्लिंट और दवाइयों से ठीक हो जाते हैं। न हों तो इंजेक्शन या छोटी प्रक्रिया से आराम मिलता है। इंजेक्शन अक्सर एक साल से ज़्यादा असर करता है।"
+        "en": "Many people improve with rest, a splint and medicines. If not, an injection or a small procedure helps. An injection often helps, but it can come back.",
+        "hi": "कई लोग आराम, स्प्लिंट और दवाइयों से ठीक हो जाते हैं। न हों तो इंजेक्शन या छोटी प्रक्रिया से आराम मिलता है। इंजेक्शन अक्सर फ़ायदा करता है, पर समस्या लौट सकती है।"
       }
     ],
     "revisit": [

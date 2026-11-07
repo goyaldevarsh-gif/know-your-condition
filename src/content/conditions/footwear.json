@@ -18,8 +18,8 @@
   },
   "symptoms": [
     {
-      "en": "A firm back (heel counter) that holds your heel snug, so it does not slip",
-      "hi": "एड़ी को कसकर पकड़ने वाला मज़बूत पिछला हिस्सा, ताकि एड़ी फिसले नहीं"
+      "en": "A firm back (heel counter) that holds your heel snug, so it does not slip (not for pain at the back of the heel)",
+      "hi": "एड़ी को कसकर पकड़ने वाला मज़बूत पिछला हिस्सा, ताकि एड़ी फिसले नहीं (एड़ी के पीछे के दर्द में नहीं)"
     },
     {
       "en": "A cushioned sole that does not bend or twist too easily, with good grip",
@@ -46,8 +46,8 @@
           "hi": "एड़ी का दर्द"
         },
         "text": {
-          "en": "Choose shoes with padding in the heel. A heel pad from a chemist can soften each step. Avoid flat, thin footwear and walking barefoot on hard floors.",
-          "hi": "एड़ी में गद्दी वाले जूते लें। दवाई की दुकान का हील पैड हर कदम का झटका कम कर सकता है। सपाट, पतली चप्पल और सख़्त फ़र्श पर नंगे पैर चलने से बचें।"
+          "en": "Choose shoes with padding in the heel. A heel pad from a chemist can soften each step. Avoid flat, thin footwear and walking barefoot on hard floors. If the pain is at the back of the heel, choose soft-backed shoes or open-back chappals instead (see Retrocalcaneal Heel Pain).",
+          "hi": "एड़ी में गद्दी वाले जूते लें। दवाई की दुकान का हील पैड हर कदम का झटका कम कर सकता है। सपाट, पतली चप्पल और सख़्त फ़र्श पर नंगे पैर चलने से बचें। दर्द एड़ी के पीछे हो तो मुलायम पीछे वाले जूते या पीछे से खुली चप्पल लें (एड़ी के पीछे का दर्द पेज देखें)।"
         }
       },
       {
@@ -154,6 +154,13 @@
       "text": {
         "en": "Using a stick, walker or crutches? See the walking aids guide",
         "hi": "छड़ी, वॉकर या बैसाखी इस्तेमाल कर रहे हैं? सहारे की गाइड देखें"
+      }
+    },
+    {
+      "slug": "retrocalcaneal-heel-pain",
+      "text": {
+        "en": "Pain at the back of the heel? See the heel pain guide",
+        "hi": "एड़ी के पीछे दर्द है? एड़ी के दर्द की गाइड देखें"
       }
     }
   ],
