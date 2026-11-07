@@ -82,7 +82,7 @@ const norm = (x: string) => x.normalize('NFD').replace(/[\u093c\u200b-\u200d]/g,
     <p id="none" class="empty" hidden>{t(ui.noResults, lang)}</p>
 
     <nav id="cats" class="cat-grid" aria-label={t(ui.homeSub, lang)}>
-      {categories.map((c) => (
+      {categories.filter((c) => conditions.some((x) => x.category === c.slug)).map((c) => (
         <a class="cat-card" href={url(`${lang}/category/${c.slug}/`)}>
           <span class="icon-wrap">{catImg(c.slug) ? <img src={catImg(c.slug)!} alt="" loading="lazy" /> : <Icon name={c.icon} size={56} />}</span>
           <span>{t(c.name, lang)}</span>

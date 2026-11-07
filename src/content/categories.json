@@ -48,6 +48,14 @@
     }
   },
   {
+    "slug": "cast-surgery-care",
+    "icon": "fracture",
+    "name": {
+      "en": "Plaster & Surgery Care",
+      "hi": "प्लास्टर और ऑपरेशन की देखभाल"
+    }
+  },
+  {
     "slug": "general-care",
     "icon": "care",
     "name": {

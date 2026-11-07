@@ -1010,12 +1010,21 @@ html[data-hc] a:focus-visible, html[data-hc] button:focus-visible, html[data-hc]
 .seealso-go { flex: none; font-size: 1.6rem; font-weight: 800; line-height: 1; }
 .seealso:focus-visible { outline: 3px solid var(--navy); outline-offset: 2px; }
 @media print { .seealso { display: none; } }
-.bm-box { fill: rgba(255,255,255,0); stroke: none; cursor: pointer; transition: fill 0.15s; }
+.bm-box { fill: #fff; stroke: #0a1f33; stroke-width: 4; cursor: pointer; transition: fill 0.15s; }
 .bm-hot text { fill: #0a1f33; font-weight: 800; font-family: inherit; pointer-events: none; }
-.bm-dot { fill: rgba(32,166,154,0.0); stroke: none; cursor: pointer; }
-.bm-hot:hover .bm-box { fill: rgba(32,166,154,0.18); }
-.bm-hot.on .bm-box { fill: rgba(255,190,40,0.85); }
-.bm-hot.on .bm-dot { fill: rgba(255,190,40,0.45); stroke: #e08a00; stroke-width: 6; }
+.bm-dot { fill: rgba(32,166,154,0.28); stroke: #0e8f84; stroke-width: 5; cursor: pointer; }
+.bm-hot:hover .bm-box { fill: #e3f6f3; }
+.bm-hot.on .bm-box { fill: #ffc83a; stroke: #b36b00; }
+.bm-hot.on .bm-dot { fill: rgba(255,190,40,0.6); stroke: #b36b00; stroke-width: 7; }
 .bm-hot:focus-visible .bm-box { stroke: #0a1f33; stroke-width: 5; }
-.bm-fig { max-width: 440px; }
+.bm-fig { max-width: 460px; }
 .bm-soon { margin: 0 0 8px; font-weight: 600; color: var(--muted); }
+.care-boxes { display: grid; gap: 14px; margin-top: 22px; }
+.care-box { display: block; text-decoration: none; background: #fff; border: 2px solid var(--border); border-radius: 20px; padding: 14px; box-shadow: var(--shadow); color: var(--navy); }
+.care-box:active { transform: scale(0.99); border-color: var(--teal); }
+.care-top { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.care-title { font-size: 1.2rem; font-weight: 800; line-height: 1.25; }
+.care-sub { display: block; margin: 4px 0 12px; font-size: 0.92rem; color: var(--muted); font-weight: 600; line-height: 1.35; }
+.care-strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+.care-strip img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px; display: block; background: #eef4f5; }
+.care-box .go { flex: none; color: var(--teal-dark); }

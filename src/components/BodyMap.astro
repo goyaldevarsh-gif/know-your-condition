@@ -21,6 +21,20 @@ const views = [
   { key: 'front', label: S.front, img: asset('img/bodymap/front'), regions: bm.front },
   { key: 'back', label: S.back, img: asset('img/bodymap/back'), regions: bm.back },
 ] as const;
+const boxes = [
+  {
+    cat: 'general-care',
+    title: hi ? 'आम देखभाल' : 'General Care',
+    sub: hi ? 'बर्फ या सेक, चलने का सहारा, जूते-चप्पल, सोना-बैठना, बिस्तर पर देखभाल' : 'Ice or heat, walking aids, footwear, sleeping and sitting, bed care',
+    slugs: ['ice-or-heat', 'walking-aids', 'footwear', 'daily-posture'],
+  },
+  {
+    cat: 'cast-surgery-care',
+    title: hi ? 'प्लास्टर और ऑपरेशन की देखभाल' : 'Plaster and Surgery Care',
+    sub: hi ? 'हाथ-पैर का प्लास्टर, नहाना, ऑपरेशन के बाद की देखभाल' : 'Arm and leg plaster, bathing with a cast, care after surgery',
+    slugs: ['cast-care-upper-limb', 'cast-care-lower-limb', 'bathing-cast-brace', 'post-surgery-care'],
+  },
+];
 const byslug = (s: string) => conditions.find((c) => c.slug === s);
 const card = (s: string) => {
   const c = byslug(s);
@@ -43,12 +57,12 @@ const allPanels = [...bm.front, ...bm.back].filter((r, i, a) => a.findIndex((x) 
       <svg viewBox={`0 0 ${bm.w} ${bm.h}`} aria-label={S.prompt}>
         {v.regions.map((r) => {
           const name = t(r.name, lang);
-          const fs = name.length > 11 ? 25 : 30;
+          const fs = name.length > 11 ? 31 : name.length > 8 ? 34 : 38;
           return (
             <g class="bm-hot" role="button" tabindex="0" data-bm-region={r.id} aria-label={name}>
-              <rect class="bm-box" x={r.box[0]} y={r.box[1]} width={r.box[2]} height={r.box[3]} rx="12" />
+              <rect class="bm-box" x={r.box[0] - 8} y={r.box[1] - 7} width={r.box[2] + 16} height={r.box[3] + 14} rx="16" />
               <text x={r.box[0] + r.box[2] / 2} y={r.box[1] + r.box[3] / 2 + 1} text-anchor="middle" dominant-baseline="middle" font-size={fs}>{name}</text>
-              <circle class="bm-dot" cx={r.dot[0]} cy={r.dot[1]} r="30" />
+              <circle class="bm-dot" cx={r.dot[0]} cy={r.dot[1]} r="22" />
             </g>
           );
         })}
@@ -76,12 +90,20 @@ const allPanels = [...bm.front, ...bm.back].filter((r, i, a) => a.findIndex((x) 
     ))}
   </div>
 
-  <h3 class="bm-other-h">{S.other}</h3>
-  <ul class="bm-chips">
-    {bm.chips.map((c) => card(c.slug)).filter(Boolean).map((c: any) => (
-      <li><a href={url(`${lang}/${c.slug}/`)}>{t(c.name, lang)}</a></li>
+  <div class="care-boxes">
+    {boxes.map((bx) => (
+      <a class="care-box" href={url(`${lang}/category/${bx.cat}/`)}>
+        <span class="care-top">
+          <span class="care-title">{bx.title}</span>
+          <span class="go"><Icon name="arrow" size={22} stroke={3} /></span>
+        </span>
+        <span class="care-sub">{bx.sub}</span>
+        <span class="care-strip">
+          {bx.slugs.map((s) => <img src={asset(`img/thumb/${s}`) ?? ''} alt="" loading="lazy" />)}
+        </span>
+      </a>
     ))}
-  </ul>
+  </div>
 </div>
 
 <script is:inline>

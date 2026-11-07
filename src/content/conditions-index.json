@@ -157,7 +157,7 @@
   },
   {
     "slug": "cast-care-upper-limb",
-    "category": "trauma-fractures",
+    "category": "cast-surgery-care",
     "name": {
       "en": "Cast Care: Arm, Hand & Wrist",
       "hi": "हाथ और बांह के प्लास्टर की देखभाल (Cast Care: Arm)"
@@ -169,7 +169,7 @@
   },
   {
     "slug": "cast-care-lower-limb",
-    "category": "trauma-fractures",
+    "category": "cast-surgery-care",
     "name": {
       "en": "Cast Care: Leg, Ankle & Foot",
       "hi": "पैर और टांग के प्लास्टर की देखभाल (Cast Care: Leg)"
@@ -265,7 +265,7 @@
   },
   {
     "slug": "post-surgery-care",
-    "category": "general-care",
+    "category": "cast-surgery-care",
     "name": {
       "en": "Post-Surgery Care (General)",
       "hi": "ऑपरेशन के बाद की देखभाल (Post-Surgery Care)"
@@ -361,7 +361,7 @@
   },
   {
     "slug": "bathing-cast-brace",
-    "category": "general-care",
+    "category": "cast-surgery-care",
     "name": {
       "en": "Bathing with a Cast or Brace",
       "hi": "प्लास्टर या ब्रेस के साथ नहाना (Bathing)"
