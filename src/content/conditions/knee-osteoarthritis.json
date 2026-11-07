@@ -379,6 +379,27 @@
         "en": "Not sure whether to use ice or heat? See the simple guide",
         "hi": "बर्फ या गरम सेक, कौन सा? सरल गाइड देखें"
       }
+    },
+    {
+      "slug": "walking-aids",
+      "text": {
+        "en": "Need a stick, walker or crutches? See how to use them",
+        "hi": "छड़ी, वॉकर या बैसाखी चाहिए? इस्तेमाल का तरीका देखें"
+      }
+    },
+    {
+      "slug": "daily-posture",
+      "text": {
+        "en": "Sleeping, sitting and lifting tips for daily life",
+        "hi": "रोज़ के काम में सोने, बैठने और उठाने के आसान तरीके"
+      }
+    },
+    {
+      "slug": "footwear",
+      "text": {
+        "en": "Which shoes or insoles help? See the footwear guide",
+        "hi": "कौन से जूते या इनसोल मदद करते हैं? गाइड देखें"
+      }
     }
   ]
 }

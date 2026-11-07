@@ -1,0 +1,233 @@
+{
+  "slug": "footwear",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "The right shoe cushions and supports your foot. It can ease heel and foot pain, and give you comfort when you walk. A poor shoe can make foot pain worse.",
+      "hi": "सही जूता पैर को गद्दी और सहारा देता है। इससे एड़ी और पैर का दर्द कम हो सकता है और चलना आरामदायक होता है। खराब जूता पैर का दर्द बढ़ा सकता है।"
+    },
+    {
+      "en": "Shoe sizes differ between brands, so check the fit each time.",
+      "hi": "अलग-अलग ब्रांड में नाप अलग होती है, इसलिए हर बार फ़िटिंग जांचें।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "What a good shoe has",
+    "hi": "अच्छे जूते में क्या हो"
+  },
+  "symptoms": [
+    {
+      "en": "A firm back (heel counter) that holds your heel snug, so it does not slip",
+      "hi": "एड़ी को कसकर पकड़ने वाला मज़बूत पिछला हिस्सा, ताकि एड़ी फिसले नहीं"
+    },
+    {
+      "en": "A cushioned sole that does not bend or twist too easily, with good grip",
+      "hi": "गद्देदार तलवा जो आसानी से मुड़े-ऐंठे नहीं, और अच्छी पकड़ वाला"
+    },
+    {
+      "en": "A low, broad heel, about 1 to 2.5 cm",
+      "hi": "नीची, चौड़ी एड़ी, लगभग 1 से 2.5 सेमी"
+    },
+    {
+      "en": "Room for your toes, with about 1 cm gap in front of the longest toe",
+      "hi": "पंजों के लिए जगह, सबसे लंबी उंगली के आगे लगभग 1 सेमी खाली"
+    },
+    {
+      "en": "Laces or Velcro, and a removable insole if you use one",
+      "hi": "फीते या वेल्क्रो, और इनसोल लगाना हो तो निकलने वाला इनसोल"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Heel pain",
+          "hi": "एड़ी का दर्द"
+        },
+        "text": {
+          "en": "Choose shoes with padding in the heel. A heel pad from a chemist can soften each step. Avoid flat, thin footwear and walking barefoot on hard floors.",
+          "hi": "एड़ी में गद्दी वाले जूते लें। दवाई की दुकान का हील पैड हर कदम का झटका कम कर सकता है। सपाट, पतली चप्पल और सख़्त फ़र्श पर नंगे पैर चलने से बचें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Flat foot",
+          "hi": "चपटा पैर"
+        },
+        "text": {
+          "en": "An arch-support insole can cradle the arch. Shop insoles often help. If pain stays, ask your doctor about a foot specialist.",
+          "hi": "आर्च सपोर्ट वाला इनसोल पैर के आर्च को सहारा देता है। दुकान के इनसोल अक्सर काम आते हैं। दर्द बना रहे तो डॉक्टर से फ़ुट स्पेशलिस्ट के बारे में पूछें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Knee arthritis",
+          "hi": "घुटने का गठिया"
+        },
+        "text": {
+          "en": "In one study, stable, supportive shoes eased walking pain more than flat, flexible shoes. Special insoles have not been proven to help knee pain, so you do not need costly ones.",
+          "hi": "एक अध्ययन में स्थिर, सहारा देने वाले जूतों से चलने का दर्द सपाट, लचीले जूतों से ज़्यादा कम हुआ। घुटने के दर्द में खास इनसोल का फ़ायदा साबित नहीं हुआ है, इसलिए महंगे इनसोल की ज़रूरत नहीं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Chappals and slippers",
+          "hi": "चप्पल"
+        },
+        "text": {
+          "en": "If you have heel pain or a flat foot, avoid thin flat chappals and flip-flops. Choose a thick, cushioned chappal with a little arch and heel support. When using a walking aid, wear a closed shoe with a non-slip sole.",
+          "hi": "एड़ी का दर्द या चपटा पैर हो तो पतली सपाट चप्पल और हवाई चप्पल से बचें। मोटे, गद्देदार तलवे और थोड़े आर्च-एड़ी के सहारे वाली चप्पल चुनें। सहारे से चलते समय बंद, न फिसलने वाले तलवे का जूता पहनें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Diabetes or numb feet",
+          "hi": "डायबिटीज़ या सुन्न पैर"
+        },
+        "text": {
+          "en": "Ask your doctor before you choose shoes or insoles.",
+          "hi": "जूते या इनसोल चुनने से पहले डॉक्टर से पूछें।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Insoles help some people and not others. Give a new pair a fair try, and ask your doctor if the pain stays.",
+      "hi": "इनसोल कुछ लोगों को फ़ायदा देते हैं, कुछ को नहीं। नया जोड़ा कुछ समय आज़माएं, और दर्द बना रहे तो डॉक्टर को दिखाएं।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Choose a shoe with a firm heel and a cushioned sole.",
+      "hi": "मज़बूत एड़ी और गद्देदार तलवे वाला जूता चुनें।"
+    },
+    {
+      "en": "Check toe room every time you put on a shoe.",
+      "hi": "हर बार जूता पहनते समय पंजों की जगह देखें।"
+    },
+    {
+      "en": "Replace shoes when the heel or sole is worn down.",
+      "hi": "एड़ी या तलवा घिस जाए तो जूते बदलें।"
+    },
+    {
+      "en": "If you use an insole, pick a shoe with a removable one.",
+      "hi": "इनसोल लगाना हो तो निकलने वाले इनसोल वाला जूता लें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not wear shoes that squeeze your toes or let the heel slip.",
+      "hi": "पंजे दबाने वाले या एड़ी फिसलने वाले जूते न पहनें।"
+    },
+    {
+      "en": "Do not walk barefoot on hard floors if you have heel pain.",
+      "hi": "एड़ी का दर्द हो तो सख़्त फ़र्श पर नंगे पैर न चलें।"
+    },
+    {
+      "en": "Do not keep wearing a pair that hurts.",
+      "hi": "जो जोड़ा चुभता या दुखता हो, उसे पहनते न रहें।"
+    },
+    {
+      "en": "Do not buy costly insoles without advice.",
+      "hi": "बिना सलाह महंगे इनसोल न खरीदें।"
+    }
+  ],
+  "careImages": [
+    {
+      "id": "insoles",
+      "caption": {
+        "en": "Insoles: heel cup, arch support, full cushion",
+        "hi": "इनसोल: हील कप, आर्च सपोर्ट, पूरा गद्देदार"
+      }
+    },
+    {
+      "id": "chappals",
+      "caption": {
+        "en": "Thin flat chappal and a thick cushioned chappal",
+        "hi": "पतली सपाट चप्पल और मोटी गद्देदार चप्पल"
+      }
+    }
+  ],
+  "seeAlso": [
+    {
+      "slug": "walking-aids",
+      "text": {
+        "en": "Using a stick, walker or crutches? See the walking aids guide",
+        "hi": "छड़ी, वॉकर या बैसाखी इस्तेमाल कर रहे हैं? सहारे की गाइड देखें"
+      }
+    }
+  ],
+  "exercisesNote": {
+    "en": "There are no exercises on this page. Ask your doctor or physiotherapist about exercises for your condition.",
+    "hi": "इस पेज में कोई व्यायाम नहीं है। अपनी बीमारी के व्यायाम के बारे में डॉक्टर या फ़िज़ियोथेरेपिस्ट से पूछें।"
+  },
+  "exercises": [],
+  "myths": [
+    {
+      "myth": {
+        "en": "Flat chappals ruin the knees.",
+        "hi": "सपाट चप्पल घुटने खराब करती है।"
+      },
+      "fact": {
+        "en": "There is no strong proof that flat slippers cause knee pain in healthy people. They are best avoided if you have heel pain or flat feet.",
+        "hi": "स्वस्थ लोगों में सपाट चप्पल से घुटने का दर्द होने का पक्का सबूत नहीं है। पर एड़ी का दर्द या चपटा पैर हो तो इनसे बचें।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "urgent",
+      "title": {
+        "en": "A blister, sore or wound on the foot that is not healing",
+        "hi": "पैर पर छाला, घाव या ज़ख़्म जो ठीक नहीं हो रहा"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Red, hot, swollen foot, or numbness in the foot",
+        "hi": "पैर लाल, गर्म और सूजा हुआ, या पैर में सुन्नपन"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need a custom insole?",
+        "hi": "क्या कस्टम इनसोल ज़रूरी है?"
+      },
+      "a": {
+        "en": "Usually not at first. Off-the-shelf insoles often help. Ask your doctor if the pain stays.",
+        "hi": "शुरू में आमतौर पर नहीं। दुकान के इनसोल अक्सर काम करते हैं। दर्द बना रहे तो डॉक्टर से पूछें।"
+      }
+    },
+    {
+      "q": {
+        "en": "How often should I change shoes?",
+        "hi": "जूते कितने समय में बदलें?"
+      },
+      "a": {
+        "en": "Change them when the heel or sole is worn down or the shoe no longer holds your heel.",
+        "hi": "एड़ी या तलवा घिस जाए, या जूता एड़ी को पकड़ना छोड़ दे, तब बदलें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Good shoes ease the load on your foot but do not treat the cause. Follow your treatment plan.",
+        "hi": "अच्छे जूते पैर का बोझ कम करते हैं, पर कारण का इलाज नहीं करते। अपना इलाज जारी रखें।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Foot or heel pain is not settling in a few weeks.",
+        "hi": "पैर या एड़ी का दर्द कुछ हफ़्तों में कम नहीं हो रहा।"
+      },
+      {
+        "en": "A new pair or insole makes the pain worse.",
+        "hi": "नया जूता या इनसोल लगाने से दर्द बढ़ गया।"
+      }
+    ]
+  }
+}

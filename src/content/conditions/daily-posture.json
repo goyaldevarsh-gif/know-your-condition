@@ -1,0 +1,233 @@
+{
+  "slug": "daily-posture",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "How you lie, sit and lift can add to the strain on your back, hips and knees. Small changes can make daily life more comfortable.",
+      "hi": "आप कैसे लेटते, बैठते और सामान उठाते हैं, इससे कमर, कूल्हे और घुटनों पर ज़ोर पड़ता है। छोटे बदलाव रोज़ के काम आसान बना सकते हैं।"
+    },
+    {
+      "en": "No single position is perfect. Change your position often.",
+      "hi": "कोई एक स्थिति सबसे सही नहीं होती। स्थिति बदलते रहें।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "Quick guide",
+    "hi": "एक नज़र में"
+  },
+  "symptoms": [
+    {
+      "en": "Lying on your back: a pillow under your knees",
+      "hi": "पीठ के बल: घुटनों के नीचे तकिया"
+    },
+    {
+      "en": "Lying on your side: a pillow between your knees",
+      "hi": "करवट पर: घुटनों के बीच तकिया"
+    },
+    {
+      "en": "Sitting: bottom at the back of the chair, back supported, feet flat",
+      "hi": "बैठना: कूल्हे कुर्सी के पीछे तक, पीठ को सहारा, पैर ज़मीन पर"
+    },
+    {
+      "en": "Lifting: bend your knees, keep the load close, do not twist",
+      "hi": "सामान उठाना: घुटने मोड़ें, वज़न शरीर के पास रखें, मुड़ें नहीं"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Sleeping",
+          "hi": "सोना"
+        },
+        "text": {
+          "en": "On your back, put a pillow or two under your knees. On your side, bend your knees slightly and put a pillow between them. A rolled towel at your waist can add support. Avoid sleeping on your stomach if you can.",
+          "hi": "पीठ के बल लेटें तो घुटनों के नीचे एक-दो तकिए रखें। करवट पर घुटने थोड़े मोड़ें और बीच में तकिया रखें। कमर के पास लिपटा तौलिया सहारा दे सकता है। हो सके तो पेट के बल न सोएं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Sitting",
+          "hi": "बैठना"
+        },
+        "text": {
+          "en": "Sit with your bottom at the back of the chair and your back supported. Keep your feet flat and your hips a little higher than your knees. A rolled towel at the small of your back helps. Stand and walk about every 30 minutes. On a long car journey, take a break at least every 2 hours.",
+          "hi": "कूल्हे कुर्सी के पीछे तक रखें और पीठ को सहारा दें। पैर ज़मीन पर सपाट हों और कूल्हे घुटनों से थोड़े ऊंचे हों। पीठ के निचले हिस्से पर लिपटा तौलिया मदद करता है। लगभग हर 30 मिनट में उठकर चलें। लंबी गाड़ी यात्रा में कम से कम हर 2 घंटे में रुकें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Lifting",
+          "hi": "सामान उठाना"
+        },
+        "text": {
+          "en": "Put one foot slightly ahead and bend your knees and hips a little. Hold the load close to your waist. Do not twist: turn by moving your feet. Ask for help if it is heavy.",
+          "hi": "एक पैर थोड़ा आगे रखें और घुटने व कूल्हे थोड़े मोड़ें। वज़न कमर के पास रखें। मुड़ें नहीं, पैर घुमाकर मुड़ें। भारी हो तो मदद लें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Floor, squatting and toilet",
+          "hi": "ज़मीन पर बैठना और शौचालय"
+        },
+        "text": {
+          "en": "If sitting on the floor or squatting hurts your knee, hip or back, use a chair, a low stool, or a raised toilet seat with a grab bar. After knee or hip surgery, follow your surgeon's advice.",
+          "hi": "ज़मीन पर या उकड़ू बैठने से घुटने, कूल्हे या कमर में दर्द हो तो कुर्सी, नीची स्टूल, या पकड़ने की रॉड वाली ऊंची टॉयलेट सीट इस्तेमाल करें। घुटने या कूल्हे के ऑपरेशन के बाद सर्जन की सलाह मानें।"
+        }
+      }
+    ],
+    "note": {
+      "en": "These tips ease strain. They do not treat the cause. Follow your own treatment plan too.",
+      "hi": "ये सुझाव तकलीफ़ कम करते हैं, कारण का इलाज नहीं करते। अपना इलाज भी चालू रखें।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Change position often.",
+      "hi": "स्थिति बदलते रहें।"
+    },
+    {
+      "en": "Choose a firm chair with arms.",
+      "hi": "बाजू वाली मज़बूत कुर्सी चुनें।"
+    },
+    {
+      "en": "Keep the load close to your body.",
+      "hi": "वज़न शरीर के पास रखें।"
+    },
+    {
+      "en": "Break up heavy loads and carry less at a time.",
+      "hi": "भारी सामान बांटकर एक बार में कम उठाएं।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not twist while lifting.",
+      "hi": "उठाते समय मुड़ें नहीं।"
+    },
+    {
+      "en": "Do not sit for hours without a break.",
+      "hi": "घंटों बिना उठे न बैठे रहें।"
+    },
+    {
+      "en": "Do not slump in a low, soft sofa for long.",
+      "hi": "नीचे, नरम सोफ़े में देर तक धंसकर न बैठें।"
+    },
+    {
+      "en": "Do not lift heavy things alone.",
+      "hi": "भारी चीज़ें अकेले न उठाएं।"
+    }
+  ],
+  "careImages": [
+    {
+      "id": "sleep-back",
+      "caption": {
+        "en": "On your back: pillow under the knees",
+        "hi": "पीठ के बल: घुटनों के नीचे तकिया"
+      }
+    },
+    {
+      "id": "sleep-side",
+      "caption": {
+        "en": "On your side: pillow between the knees",
+        "hi": "करवट पर: घुटनों के बीच तकिया"
+      }
+    },
+    {
+      "id": "lift",
+      "caption": {
+        "en": "Lifting: knees bent, load close",
+        "hi": "उठाना: घुटने मुड़े, वज़न पास"
+      }
+    },
+    {
+      "id": "commode",
+      "caption": {
+        "en": "Raised toilet seat with a grab bar",
+        "hi": "ऊंची टॉयलेट सीट, पकड़ने की रॉड के साथ"
+      }
+    }
+  ],
+  "seeAlso": [
+    {
+      "slug": "ice-or-heat",
+      "text": {
+        "en": "Back or neck muscle pain? See when to use ice or heat",
+        "hi": "कमर या गर्दन की मांसपेशी का दर्द? बर्फ या गरम सेक कब करें, देखें"
+      }
+    }
+  ],
+  "exercisesNote": {
+    "en": "There are no exercises on this page. Ask your doctor or physiotherapist about exercises for your condition.",
+    "hi": "इस पेज में कोई व्यायाम नहीं है। अपनी बीमारी के व्यायाम के बारे में डॉक्टर या फ़िज़ियोथेरेपिस्ट से पूछें।"
+  },
+  "exercises": [],
+  "myths": [
+    {
+      "myth": {
+        "en": "One perfect posture will fix my pain.",
+        "hi": "कोई एक सही स्थिति मेरा दर्द ठीक कर देगी।"
+      },
+      "fact": {
+        "en": "Staying long in any position can make back pain worse. Change position and move about regularly.",
+        "hi": "किसी भी स्थिति में देर तक रहने से कमर दर्द बढ़ सकता है। स्थिति बदलते और चलते-फिरते रहें।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Loss of control over urine or stool, difficulty passing urine, or numbness around the buttocks, private parts or back passage",
+        "hi": "पेशाब या मल पर नियंत्रण न रहना, पेशाब करने में दिक्कत, या कूल्हों, गुप्तांग या मल-द्वार के आसपास सुन्नपन"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "New numbness, tingling or weakness in a leg or arm",
+        "hi": "पैर या हाथ में नया सुन्नपन, झुनझुनी या कमज़ोरी"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Can I sleep on my stomach?",
+        "hi": "क्या पेट के बल सो सकते हैं?"
+      },
+      "a": {
+        "en": "It can be hard on the back, so try other positions first. If you cannot sleep any other way, put a pillow under your hips and lower stomach.",
+        "hi": "इससे कमर पर ज़ोर पड़ सकता है, इसलिए पहले दूसरी स्थितियां आज़माएं। और कोई तरीका न चले तो कूल्हों और निचले पेट के नीचे तकिया रखें।"
+      }
+    },
+    {
+      "q": {
+        "en": "How should I sit in a low sofa?",
+        "hi": "नीचे सोफ़े पर कैसे बैठें?"
+      },
+      "a": {
+        "en": "A low or very soft seat makes you slump. A firmer cushion behind your back or under you can help.",
+        "hi": "नीची या बहुत नरम सीट में धंसना पड़ता है। पीठ के पीछे या नीचे थोड़ा सख़्त गद्दी मदद करती है।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Changing habits eases strain but does not cure the problem. Follow your treatment plan.",
+        "hi": "आदतें बदलने से तकलीफ़ कम होती है, पर समस्या ठीक नहीं होती। अपना इलाज जारी रखें।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Pain is getting worse or keeps waking you at night.",
+        "hi": "दर्द बढ़ रहा है या रात में बार-बार जगा रहा है।"
+      },
+      {
+        "en": "You get new numbness, tingling or weakness in an arm or leg.",
+        "hi": "हाथ या पैर में नया सुन्नपन, झुनझुनी या कमज़ोरी हो।"
+      }
+    ]
+  }
+}

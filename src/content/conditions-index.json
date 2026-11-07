@@ -310,5 +310,41 @@
       "en": "Cold pack or hot pack: which one, how, and when not to",
       "hi": "बर्फ या गरम सेक: कौन सा, कैसे और कब नहीं"
     }
+  },
+  {
+    "slug": "walking-aids",
+    "category": "general-care",
+    "name": {
+      "en": "Walking Aids",
+      "hi": "चलने का सहारा (Walking Aids)"
+    },
+    "short": {
+      "en": "Right height and how to use a stick, walker or crutches",
+      "hi": "छड़ी, वॉकर या बैसाखी की सही ऊंचाई और इस्तेमाल"
+    }
+  },
+  {
+    "slug": "daily-posture",
+    "category": "general-care",
+    "name": {
+      "en": "Sleeping, Sitting and Lifting",
+      "hi": "सोना, बैठना और उठाना (Posture)"
+    },
+    "short": {
+      "en": "Easy positions for bed, chair, lifting and the toilet",
+      "hi": "बिस्तर, कुर्सी, सामान उठाने और शौचालय के आसान तरीके"
+    }
+  },
+  {
+    "slug": "footwear",
+    "category": "general-care",
+    "name": {
+      "en": "Shoes and Chappals (Footwear)",
+      "hi": "जूते और चप्पल (Footwear)"
+    },
+    "short": {
+      "en": "What to wear for heel pain, flat foot and knee arthritis",
+      "hi": "एड़ी के दर्द, चपटे पैर और घुटने के गठिया में क्या पहनें"
+    }
   }
 ]

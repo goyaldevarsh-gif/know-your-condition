@@ -338,6 +338,13 @@
         "en": "Not sure whether to use ice or heat? See the simple guide",
         "hi": "बर्फ या गरम सेक, कौन सा? सरल गाइड देखें"
       }
+    },
+    {
+      "slug": "footwear",
+      "text": {
+        "en": "Which shoes or insoles help? See the footwear guide",
+        "hi": "कौन से जूते या इनसोल मदद करते हैं? गाइड देखें"
+      }
     }
   ]
 }

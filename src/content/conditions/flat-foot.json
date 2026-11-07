@@ -279,5 +279,14 @@
         "hi": "कोई भी ख़तरे का संकेत दिखे तो तुरंत डॉक्टर को दिखाएं।"
       }
     ]
-  }
+  },
+  "seeAlso": [
+    {
+      "slug": "footwear",
+      "text": {
+        "en": "Which shoes or insoles help? See the footwear guide",
+        "hi": "कौन से जूते या इनसोल मदद करते हैं? गाइड देखें"
+      }
+    }
+  ]
 }

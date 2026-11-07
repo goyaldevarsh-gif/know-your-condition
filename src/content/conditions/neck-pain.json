@@ -388,6 +388,13 @@
         "en": "Not sure whether to use ice or heat? See the simple guide",
         "hi": "बर्फ या गरम सेक, कौन सा? सरल गाइड देखें"
       }
+    },
+    {
+      "slug": "daily-posture",
+      "text": {
+        "en": "Sleeping, sitting and lifting tips for daily life",
+        "hi": "रोज़ के काम में सोने, बैठने और उठाने के आसान तरीके"
+      }
     }
   ]
 }

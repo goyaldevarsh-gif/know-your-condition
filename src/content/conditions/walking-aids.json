@@ -1,0 +1,271 @@
+{
+  "slug": "walking-aids",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "A stick, walker or crutches takes weight off a painful leg and keeps you steady. Your doctor or physiotherapist will say which one suits you.",
+      "hi": "छड़ी, वॉकर या बैसाखी दर्द वाले पैर का वज़न कम करती है और आपको स्थिर रखती है। कौन सी आपके लिए ठीक है, यह डॉक्टर या फ़िज़ियोथेरेपिस्ट बताएंगे।"
+    },
+    {
+      "en": "The height must be right. A wrong height can cause back, shoulder or hand pain.",
+      "hi": "ऊंचाई सही होनी चाहिए। गलत ऊंचाई से कमर, कंधे या हाथ में दर्द हो सकता है।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "Check the height",
+    "hi": "ऊंचाई कैसे जांचें"
+  },
+  "symptoms": [
+    {
+      "en": "First stand straight in your usual shoes, with arms relaxed at your sides.",
+      "hi": "पहले अपने रोज़ के जूते-चप्पल पहनकर सीधे खड़े हों, हाथ ढीले नीचे रखें।"
+    },
+    {
+      "en": "Stick or walker: the handle should be level with your wrist. Your elbow stays slightly bent when you hold it.",
+      "hi": "छड़ी (Stick) या वॉकर (Walker): हैंडल कलाई की ऊंचाई पर हो। पकड़ने पर कोहनी थोड़ी मुड़ी रहे।"
+    },
+    {
+      "en": "Crutches: the top sits about 1 to 1.5 inches (2.5 to 4 cm) below your armpit. The handles are level with your hip, elbows slightly bent.",
+      "hi": "बैसाखी (Crutches): ऊपर का सिरा बगल से लगभग 1 से 1.5 इंच (2.5 से 4 सेमी) नीचे हो। हैंडल कूल्हे की ऊंचाई पर हों, कोहनी थोड़ी मुड़ी रहे।"
+    },
+    {
+      "en": "Walker too low: you stoop. Too high: your elbows strain. All legs must be set to the same height.",
+      "hi": "वॉकर बहुत नीचा हो तो झुकना पड़ता है, बहुत ऊंचा हो तो कोहनी पर ज़ोर पड़ता है। सभी पाए एक ही ऊंचाई पर रखें।"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Stick",
+          "hi": "छड़ी (Stick)"
+        },
+        "text": {
+          "en": "Hold it in the hand opposite your weaker leg. Move the stick and the weaker leg forward together, then step with the stronger leg.",
+          "hi": "इसे कमज़ोर पैर के उलटे हाथ में पकड़ें। छड़ी और कमज़ोर पैर साथ आगे बढ़ाएं, फिर मज़बूत पैर चलाएं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Walker",
+          "hi": "वॉकर (Walker)"
+        },
+        "text": {
+          "en": "Place it one step ahead. Step the weaker leg into the middle, then the stronger leg just past it. Do not step too far inside. To sit or stand, use the chair arms, never the walker. A wheeled walker is for indoors only.",
+          "hi": "इसे एक कदम आगे रखें। कमज़ोर पैर बीच में रखें, फिर मज़बूत पैर उससे थोड़ा आगे। बहुत अंदर तक कदम न रखें। बैठते-उठते समय कुर्सी के हत्थे पकड़ें, वॉकर नहीं। पहियों वाला वॉकर सिर्फ़ घर के अंदर के लिए है।"
+        }
+      },
+      {
+        "title": {
+          "en": "Crutches",
+          "hi": "बैसाखी (Crutches)"
+        },
+        "text": {
+          "en": "Move both crutches forward, then bring your legs through. Follow your doctor's advice on how much weight the leg can take. Hold your weight on your hands, not your armpits.",
+          "hi": "दोनों बैसाखी आगे रखें, फिर पैर आगे लाएं। पैर पर कितना वज़न डालना है, यह डॉक्टर की सलाह के अनुसार करें। वज़न हाथों पर लें, बगल पर नहीं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Stairs",
+          "hi": "सीढ़ियां"
+        },
+        "text": {
+          "en": "Hold the rail. Going up: stronger leg first, then weaker leg, then stick or crutches. Going down: stick or crutches first, then weaker leg, then stronger leg. Do not use a walker on stairs.",
+          "hi": "रेलिंग पकड़ें। ऊपर जाते समय: पहले मज़बूत पैर, फिर कमज़ोर पैर, फिर छड़ी या बैसाखी। नीचे आते समय: पहले छड़ी या बैसाखी, फिर कमज़ोर पैर, फिर मज़बूत पैर। सीढ़ियों पर वॉकर इस्तेमाल न करें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Check your aid",
+          "hi": "अपना सहारा जांचते रहें"
+        },
+        "text": {
+          "en": "Look at the rubber tips and replace them if worn or split. Check that the legs are locked and nothing is bent, cracked or loose.",
+          "hi": "रबर के सिरे देखें, घिसे या फटे हों तो बदलें। देखें कि पाए ठीक से लॉक हैं और कुछ मुड़ा, टूटा या ढीला नहीं है।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Follow your doctor's weight-bearing advice exactly.",
+      "hi": "वज़न डालने के बारे में डॉक्टर की सलाह ठीक वैसे ही मानें।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Wear flat, supportive shoes with a non-slip sole.",
+      "hi": "सपाट, सहारा देने वाले और न फिसलने वाले जूते पहनें।"
+    },
+    {
+      "en": "Remove loose rugs and wipe wet floors.",
+      "hi": "ढीले गलीचे हटाएं और गीला फ़र्श पोंछें।"
+    },
+    {
+      "en": "Keep the room well lit.",
+      "hi": "कमरे में अच्छी रोशनी रखें।"
+    },
+    {
+      "en": "Ask your physiotherapist to set the height for you.",
+      "hi": "ऊंचाई फ़िज़ियोथेरेपिस्ट से सेट करवाएं।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not put your weight on your armpits.",
+      "hi": "बगल पर वज़न न डालें।"
+    },
+    {
+      "en": "Do not stand up by pulling on the walker.",
+      "hi": "वॉकर को खींचकर खड़े न हों।"
+    },
+    {
+      "en": "Do not walk on wet or slippery floors.",
+      "hi": "गीले या फिसलन वाले फ़र्श पर न चलें।"
+    },
+    {
+      "en": "Do not use an aid that is damaged.",
+      "hi": "टूटे या खराब सहारे का इस्तेमाल न करें।"
+    }
+  ],
+  "careImages": [
+    {
+      "id": "stick-hold",
+      "caption": {
+        "en": "Stick: in the hand opposite the weaker leg",
+        "hi": "छड़ी: कमज़ोर पैर के उलटे हाथ में"
+      }
+    },
+    {
+      "id": "stick-height",
+      "caption": {
+        "en": "Stick height: handle level with the wrist",
+        "hi": "छड़ी की ऊंचाई: हैंडल कलाई की सीध में"
+      }
+    },
+    {
+      "id": "walker-use",
+      "caption": {
+        "en": "Walker: one step ahead",
+        "hi": "वॉकर: एक कदम आगे"
+      }
+    },
+    {
+      "id": "walker-height",
+      "caption": {
+        "en": "Walker height: elbows slightly bent",
+        "hi": "वॉकर की ऊंचाई: कोहनी थोड़ी मुड़ी"
+      }
+    },
+    {
+      "id": "crutch-use",
+      "caption": {
+        "en": "Crutches: weight on the hands",
+        "hi": "बैसाखी: वज़न हाथों पर"
+      }
+    },
+    {
+      "id": "stairs-up",
+      "caption": {
+        "en": "Stairs up: stronger leg first",
+        "hi": "सीढ़ी चढ़ना: पहले मज़बूत पैर"
+      }
+    },
+    {
+      "id": "stairs-down",
+      "caption": {
+        "en": "Stairs down: aid and weaker leg first",
+        "hi": "सीढ़ी उतरना: पहले सहारा और कमज़ोर पैर"
+      }
+    }
+  ],
+  "seeAlso": [
+    {
+      "slug": "footwear",
+      "text": {
+        "en": "Which shoes are best when using a walking aid? See the footwear guide",
+        "hi": "सहारे के साथ कौन से जूते ठीक हैं? जूते-चप्पल गाइड देखें"
+      }
+    }
+  ],
+  "exercisesNote": {
+    "en": "There are no exercises on this page. Ask your doctor or physiotherapist about exercises for your condition.",
+    "hi": "इस पेज में कोई व्यायाम नहीं है। अपनी बीमारी के व्यायाम के बारे में डॉक्टर या फ़िज़ियोथेरेपिस्ट से पूछें।"
+  },
+  "exercises": [],
+  "myths": [
+    {
+      "myth": {
+        "en": "Hold the stick on the painful side.",
+        "hi": "छड़ी दर्द वाली तरफ़ के हाथ में पकड़ें।"
+      },
+      "fact": {
+        "en": "With one stick, hold it in the hand opposite the weaker leg.",
+        "hi": "एक छड़ी हो तो उसे कमज़ोर पैर के उलटे हाथ में पकड़ें।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "A fall with severe pain, a bent or swollen limb, or you cannot stand",
+        "hi": "गिरने के बाद तेज़ दर्द, अंग मुड़ा या सूजा हुआ, या आप खड़े नहीं हो पा रहे"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Tingling or numbness in your hands or arms when using crutches",
+        "hi": "बैसाखी इस्तेमाल करते समय हाथ या बाजू में झुनझुनी या सुन्नपन"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "You fall again, or you feel unsteady even with the aid",
+        "hi": "आप दोबारा गिरे हैं, या सहारे के साथ भी लड़खड़ा रहे हैं"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How long will I need it?",
+        "hi": "कब तक इस्तेमाल करना होगा?"
+      },
+      "a": {
+        "en": "Your doctor or physiotherapist will tell you. Stop using it only when they advise.",
+        "hi": "यह डॉक्टर या फ़िज़ियोथेरेपिस्ट बताएंगे। उनके कहने पर ही छोड़ें।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I use a walker outside the house?",
+        "hi": "क्या वॉकर घर के बाहर इस्तेमाल कर सकते हैं?"
+      },
+      "a": {
+        "en": "A wheeled walker is made for indoor use. Ask your physiotherapist what is safe outside.",
+        "hi": "पहियों वाला वॉकर घर के अंदर के लिए बना है। बाहर क्या सुरक्षित है, फ़िज़ियोथेरेपिस्ट से पूछें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Your physiotherapist will check the height and your walking, and change the aid as you improve.",
+        "hi": "फ़िज़ियोथेरेपिस्ट ऊंचाई और आपकी चाल जांचेंगे और सुधार के साथ सहारा बदलेंगे।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "The aid feels too high or too low, or it hurts your back, shoulders or hands.",
+        "hi": "सहारा बहुत ऊंचा या नीचा लगे, या कमर, कंधे या हाथ में दर्द हो।"
+      },
+      {
+        "en": "The rubber tips or legs are worn or damaged.",
+        "hi": "रबर के सिरे या पाए घिस गए या टूट गए हैं।"
+      }
+    ]
+  }
+}
