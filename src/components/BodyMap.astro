@@ -1,0 +1,108 @@
+---
+import Icon from './Icon.astro';
+import bm from '../content/bodymap.json';
+import conditions from '../content/conditions-index.json';
+import { t, url } from '../lib/i18n';
+import { asset, thumbImg } from '../lib/assets';
+import type { Lang } from '../lib/i18n';
+
+interface Props { lang: Lang; ready: Set<string> }
+const { lang, ready } = Astro.props;
+const hi = lang === 'hi';
+const S = {
+  prompt: hi ? 'जहाँ दर्द है, उस हिस्से को छुएं' : 'Tap the part that hurts',
+  front: hi ? 'आगे' : 'Front',
+  back: hi ? 'पीछे' : 'Back',
+  other: hi ? 'प्लास्टर या ऑपरेशन' : 'Plaster or surgery',
+  none: hi ? 'जल्द आ रहा है' : 'Coming soon',
+};
+const views = [
+  { key: 'front', label: S.front, img: asset('img/bodymap/front'), regions: bm.front },
+  { key: 'back', label: S.back, img: asset('img/bodymap/back'), regions: bm.back },
+] as const;
+const byslug = (s: string) => conditions.find((c) => c.slug === s);
+const card = (s: string) => {
+  const c = byslug(s);
+  return c && ready.has(s) ? c : null;
+};
+const allPanels = [...bm.front, ...bm.back].filter((r, i, a) => a.findIndex((x) => x.id === r.id) === i);
+---
+
+<div class="bm" data-bodymap>
+  <p class="bm-prompt">{S.prompt}</p>
+  <div class="bm-switch" role="tablist">
+    {views.map((v, i) => (
+      <button type="button" role="tab" data-bm-view={v.key} aria-selected={i === 0 ? 'true' : 'false'}>{v.label}</button>
+    ))}
+  </div>
+
+  {views.map((v, i) => (
+    <div class="bm-fig" data-bm-fig={v.key} hidden={i !== 0}>
+      {v.img && <img src={v.img} alt="" width={bm.w} height={bm.h} decoding="async" />}
+      <svg viewBox={`0 0 ${bm.w} ${bm.h}`} aria-label={S.prompt}>
+        {v.regions.map((r) => (
+          <g class="bm-hot" role="button" tabindex="0" data-bm-region={r.id} aria-label={t(r.name, lang)}>
+            {r.shapes.map((s) => <ellipse cx={s[0]} cy={s[1]} rx={s[2]} ry={s[3]} />)}
+          </g>
+        ))}
+      </svg>
+    </div>
+  ))}
+
+  <div class="bm-out" aria-live="polite">
+    {allPanels.map((r) => (
+      <section class="bm-panel" data-bm-panel={r.id} hidden>
+        <h3>{t(r.name, lang)}</h3>
+        <ul class="cond-list">
+          {r.slugs.map((s) => card(s)).filter(Boolean).map((c: any) => (
+            <li>
+              <a class="cond-card" href={url(`${lang}/${c.slug}/`)}>
+                <span class="thumb">{thumbImg(c.slug, c.category) ? <img src={thumbImg(c.slug, c.category)!} alt="" loading="lazy" /> : <Icon name="logo" size={40} />}</span>
+                <span class="body"><span class="name">{t(c.name, lang)}</span><span class="desc">{t(c.short, lang)}</span></span>
+                <span class="go"><Icon name="arrow" size={22} stroke={3} /></span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+
+  <h3 class="bm-other-h">{S.other}</h3>
+  <ul class="bm-chips">
+    {bm.chips.map((c) => card(c.slug)).filter(Boolean).map((c: any) => (
+      <li><a href={url(`${lang}/${c.slug}/`)}>{t(c.name, lang)}</a></li>
+    ))}
+  </ul>
+</div>
+
+<script is:inline>
+  (function () {
+    var root = document.querySelector('[data-bodymap]');
+    if (!root) return;
+    var tabs = root.querySelectorAll('[data-bm-view]');
+    var figs = root.querySelectorAll('[data-bm-fig]');
+    var panels = root.querySelectorAll('[data-bm-panel]');
+    var current = null;
+    function view(k) {
+      tabs.forEach(function (b) { b.setAttribute('aria-selected', b.getAttribute('data-bm-view') === k ? 'true' : 'false'); });
+      figs.forEach(function (f) { f.hidden = f.getAttribute('data-bm-fig') !== k; });
+      select(null);
+    }
+    function select(id) {
+      current = id;
+      panels.forEach(function (p) { p.hidden = p.getAttribute('data-bm-panel') !== id; });
+      root.querySelectorAll('.bm-hot').forEach(function (g) { g.classList.toggle('on', g.getAttribute('data-bm-region') === id); });
+      if (id) {
+        var p = root.querySelector('[data-bm-panel="' + id + '"]');
+        if (p && p.scrollIntoView) setTimeout(function () { p.scrollIntoView({ behavior: 'smooth', block: 'nearest' }); }, 50);
+      }
+    }
+    tabs.forEach(function (b) { b.addEventListener('click', function () { view(b.getAttribute('data-bm-view')); }); });
+    root.querySelectorAll('.bm-hot').forEach(function (g) {
+      var id = g.getAttribute('data-bm-region');
+      g.addEventListener('click', function () { select(id); });
+      g.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); select(id); } });
+    });
+  })();
+</script>

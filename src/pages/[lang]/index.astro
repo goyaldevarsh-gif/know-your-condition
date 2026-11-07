@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import Icon from '../../components/Icon.astro';
 import LangSwitch from '../../components/LangSwitch.astro';
+import BodyMap from '../../components/BodyMap.astro';
 import Contact from '../../components/Contact.astro';
 import ui from '../../content/ui.json';
 import categories from '../../content/categories.json';
@@ -41,6 +42,12 @@ const norm = (x: string) => x.normalize('NFD').replace(/[\u093c\u200b-\u200d]/g,
       <p class="sub">{t(ui.homeSub, lang)}</p>
     </div>
 
+    <div class="mode" role="tablist">
+      <button type="button" role="tab" data-mode="search" aria-selected="true">{lang === 'hi' ? 'खोजें' : 'Search'}</button>
+      <button type="button" role="tab" data-mode="body" aria-selected="false">{lang === 'hi' ? 'शरीर से ढूंढें' : 'By body part'}</button>
+    </div>
+
+    <div id="mode-search">
     <div class="search">
       <label class="sr-only" for="q">{t(ui.search, lang)}</label>
       <input id="q" type="search" placeholder={t(ui.search, lang)} autocomplete="off" enterkeyhint="search" />
@@ -83,12 +90,29 @@ const norm = (x: string) => x.normalize('NFD').replace(/[\u093c\u200b-\u200d]/g,
       ))}
     </nav>
 
+    </div>
+
+    <div id="mode-body" hidden>
+      <BodyMap lang={lang} ready={ready} />
+    </div>
+
     <Contact lang={lang} safety={false} />
     <p class="disclaimer">{t(ui.disclaimer, lang)}</p>
   </main>
 </Base>
 
 <script is:inline>
+  (function () {
+    var modes = document.querySelectorAll('[data-mode]');
+    function setMode(m, save) {
+      modes.forEach(function (b) { b.setAttribute('aria-selected', b.getAttribute('data-mode') === m ? 'true' : 'false'); });
+      document.getElementById('mode-search').hidden = m !== 'search';
+      document.getElementById('mode-body').hidden = m !== 'body';
+      if (save) { try { localStorage.setItem('kyc-mode', m); } catch (e) {} }
+    }
+    modes.forEach(function (b) { b.addEventListener('click', function () { setMode(b.getAttribute('data-mode'), true); }); });
+    try { if (localStorage.getItem('kyc-mode') === 'body') setMode('body', false); } catch (e) {}
+  })();
   (function () {
     var q = document.getElementById('q');
     var list = document.getElementById('results');

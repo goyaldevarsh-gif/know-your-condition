@@ -1,0 +1,275 @@
+{
+ "w": 724,
+ "h": 1086,
+ "front": [
+  {
+   "id": "neck",
+   "name": {
+    "en": "Neck",
+    "hi": "गर्दन"
+   },
+   "shapes": [
+    [
+     374,
+     172,
+     44,
+     32
+    ]
+   ],
+   "slugs": [
+    "neck-pain",
+    "cervical-radiculopathy"
+   ]
+  },
+  {
+   "id": "shoulder",
+   "name": {
+    "en": "Shoulder",
+    "hi": "कंधा"
+   },
+   "shapes": [
+    [
+     247,
+     238,
+     54,
+     50
+    ],
+    [
+     502,
+     238,
+     54,
+     50
+    ]
+   ],
+   "slugs": [
+    "frozen-shoulder",
+    "rotator-cuff",
+    "shoulder-impingement"
+   ]
+  },
+  {
+   "id": "elbow",
+   "name": {
+    "en": "Elbow",
+    "hi": "कोहनी"
+   },
+   "shapes": [
+    [
+     205,
+     392,
+     40,
+     44
+    ],
+    [
+     547,
+     392,
+     40,
+     44
+    ]
+   ],
+   "slugs": [
+    "tennis-elbow"
+   ]
+  },
+  {
+   "id": "hand",
+   "name": {
+    "en": "Wrist and hand",
+    "hi": "कलाई और हाथ"
+   },
+   "shapes": [
+    [
+     154,
+     570,
+     52,
+     72
+    ],
+    [
+     594,
+     570,
+     52,
+     72
+    ]
+   ],
+   "slugs": [
+    "carpal-tunnel-syndrome",
+    "de-quervains-tenosynovitis",
+    "trigger-finger"
+   ]
+  },
+  {
+   "id": "knee",
+   "name": {
+    "en": "Knee",
+    "hi": "घुटना"
+   },
+   "shapes": [
+    [
+     300,
+     748,
+     50,
+     54
+    ],
+    [
+     449,
+     748,
+     50,
+     54
+    ]
+   ],
+   "slugs": [
+    "knee-osteoarthritis",
+    "pes-anserine-bursitis",
+    "acl-injury",
+    "pcl-injury"
+   ]
+  },
+  {
+   "id": "foot",
+   "name": {
+    "en": "Ankle and foot",
+    "hi": "टखना और पैर"
+   },
+   "shapes": [
+    [
+     298,
+     1005,
+     52,
+     62
+    ],
+    [
+     462,
+     1005,
+     52,
+     62
+    ]
+   ],
+   "slugs": [
+    "ankle-sprain",
+    "flat-foot"
+   ]
+  }
+ ],
+ "back": [
+  {
+   "id": "neck",
+   "name": {
+    "en": "Neck",
+    "hi": "गर्दन"
+   },
+   "shapes": [
+    [
+     340,
+     172,
+     44,
+     32
+    ]
+   ],
+   "slugs": [
+    "neck-pain",
+    "cervical-radiculopathy"
+   ]
+  },
+  {
+   "id": "shoulder",
+   "name": {
+    "en": "Shoulder",
+    "hi": "कंधा"
+   },
+   "shapes": [
+    [
+     235,
+     238,
+     54,
+     50
+    ],
+    [
+     450,
+     238,
+     54,
+     50
+    ]
+   ],
+   "slugs": [
+    "frozen-shoulder",
+    "rotator-cuff",
+    "shoulder-impingement"
+   ]
+  },
+  {
+   "id": "back",
+   "name": {
+    "en": "Back",
+    "hi": "कमर"
+   },
+   "shapes": [
+    [
+     340,
+     415,
+     100,
+     68
+    ]
+   ],
+   "slugs": [
+    "low-back-pain",
+    "lumbar-disc-prolapse",
+    "sciatica"
+   ]
+  },
+  {
+   "id": "tailbone",
+   "name": {
+    "en": "Tailbone",
+    "hi": "पूंछ की हड्डी"
+   },
+   "shapes": [
+    [
+     340,
+     538,
+     40,
+     34
+    ]
+   ],
+   "slugs": [
+    "coccydynia"
+   ]
+  },
+  {
+   "id": "heel",
+   "name": {
+    "en": "Heel",
+    "hi": "एड़ी"
+   },
+   "shapes": [
+    [
+     252,
+     1008,
+     46,
+     48
+    ],
+    [
+     430,
+     1010,
+     46,
+     48
+    ]
+   ],
+   "slugs": [
+    "plantar-fasciitis",
+    "retrocalcaneal-heel-pain",
+    "achilles-tendinopathy"
+   ]
+  }
+ ],
+ "chips": [
+  {
+   "slug": "cast-care-upper-limb"
+  },
+  {
+   "slug": "cast-care-lower-limb"
+  },
+  {
+   "slug": "post-surgery-care"
+  }
+ ]
+}
