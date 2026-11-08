@@ -133,7 +133,7 @@ const norm = (x: string) => x.normalize('NFD').replace(/[\u093c\u200b-\u200d]/g,
       items.forEach(function (li) {
         var hay = li.getAttribute('data-q');
         var sc = 0;
-        words.forEach(function (w) { if (hay.indexOf(w) !== -1) sc++; });
+        words.forEach(function (w) { if (hay.indexOf(w) === 0 || hay.indexOf(' ' + w) !== -1 || hay.indexOf('(' + w) !== -1) sc++; });
         scores.push(sc);
       });
       var max = scores.reduce(function (m, x) { return x > m ? x : m; }, 0);
