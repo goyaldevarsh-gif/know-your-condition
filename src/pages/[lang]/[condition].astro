@@ -36,20 +36,6 @@ const icon = categories.find((x) => x.slug === meta.category)!.icon;
 const heroImg = c.heroImage ? url(c.heroImage) : asset(`img/${slug}/hero`);
 const H = cui.h;
 const L = cui.l;
-const hi = lang === 'hi';
-const QG = {
-  title: hi ? 'जल्दी समझें (Quick Guide)' : 'Quick Guide',
-  do: hi ? 'घर पर ये करें' : 'Do this at home',
-  dont: hi ? 'ये न करें' : 'Avoid this',
-  ex: hi ? 'व्यायाम' : 'Exercises',
-  exGo: hi ? 'व्यायाम देखें' : 'See exercises',
-  exN: (n: number) => (hi ? `${n} आसान व्यायाम हैं` : `${n} simple exercise${n > 1 ? 's' : ''}`),
-  em: hi ? 'ये हों तो तुरंत अस्पताल जाएं' : 'Go to hospital at once if',
-  ur: hi ? 'ये हों तो जल्दी डॉक्टर को दिखाएं' : 'See the doctor soon if',
-};
-const rf = (c.redFlags ?? []) as any[];
-const rfEm = rf.filter((r) => r.level === 'emergency');
-const rfShow = (rfEm.length ? rfEm : rf).slice(0, 3);
 const TABS = ['overview', 'care', 'exercises', 'redflags', 'faqs'] as const;
 ---
 
@@ -92,30 +78,6 @@ const TABS = ['overview', 'care', 'exercises', 'redflags', 'faqs'] as const;
         </div>
         <h2>{t(H.what, lang)}</h2>
         {c.what.map((p: any) => <p class="body-text">{t(p, lang)}</p>)}
-      </div>
-
-      <div class="qg" aria-label={QG.title}>
-        <h2 class="qg-h">{QG.title}</h2>
-        <div class="qg-row qg-do">
-          <h3><span class="dd-mark">✓</span>{QG.do}</h3>
-          <ul>{c.dos.slice(0, 3).map((x: any) => <li>{t(x, lang)}</li>)}</ul>
-        </div>
-        <div class="qg-row qg-dont">
-          <h3><span class="dd-mark">✕</span>{QG.dont}</h3>
-          <ul>{c.donts.slice(0, 3).map((x: any) => <li>{t(x, lang)}</li>)}</ul>
-        </div>
-        {c.exercises.length > 0 && (
-          <button type="button" class="qg-ex" data-goto="exercises">
-            <span><strong>{QG.ex}:</strong> {QG.exN(c.exercises.length)}</span>
-            <span class="qg-go">{QG.exGo} ›</span>
-          </button>
-        )}
-        {rfShow.length > 0 && (
-          <div class="qg-row qg-red">
-            <h3><span class="dd-mark">!</span>{rfEm.length ? QG.em : QG.ur}</h3>
-            <ul>{rfShow.map((r: any) => <li>{t(r.title, lang)}</li>)}</ul>
-          </div>
-        )}
       </div>
 
 {c.causes && (
