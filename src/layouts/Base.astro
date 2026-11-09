@@ -53,5 +53,28 @@ const { title, description = 'Simple, reliable orthopaedic patient education by 
       <slot />
       <SiteFooter lang={lang} />
     </div>
+    <script is:inline data-goatcounter="https://kyc-devarsh.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    <script is:inline>
+      (function () {
+        function ev(name) {
+          try {
+            if (window.goatcounter && window.goatcounter.count) window.goatcounter.count({ path: 'event/' + name, title: name, event: true });
+          } catch (e) {}
+        }
+        var slug = (location.pathname.replace(/\/+$/, '').split('/').pop() || 'home');
+        document.addEventListener('click', function (e) {
+          var t = e.target;
+          if (!t || !t.closest) return;
+          if (t.closest('.ab-pdf, .print-btn')) ev('pdf-' + slug);
+          else if (t.closest('#wa-share')) ev('whatsapp-' + slug);
+          else if (t.closest('.ex-share')) ev('exercise-share-' + slug);
+          else if (t.closest('[data-listen-btn]')) ev('listen-' + slug);
+          else {
+            var r = t.closest('[data-bm-region]');
+            if (r) ev('bodymap-' + r.getAttribute('data-bm-region'));
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
