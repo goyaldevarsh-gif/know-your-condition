@@ -76,6 +76,9 @@ const logo = asset('img/logo');
     .qr { text-align: center; font-size: 7.5pt; color: #52667a; width: 28mm; }
     .qr svg { width: 26mm; height: 26mm; display: block; margin: 0 auto 1mm; }
     .p2 { break-before: page; }
+    .sym { margin: 0 0 3mm; padding-left: 5mm; font-size: 10pt; } .sym li { margin-bottom: 1mm; }
+    .howh { margin-top: 2mm; }
+    .tx { margin-bottom: 2.2mm; } .tx h3 { font-size: 10.5pt; margin: 0 0 0.5mm; } .tx p { margin: 0; font-size: 10pt; line-height: 1.35; }
     .note { background: #e3f5f3; border-radius: 3mm; padding: 2.5mm 4mm; font-weight: 700; margin-bottom: 4mm; font-size: 11pt; }
     .ex { display: grid; grid-template-columns: 1fr 1fr; gap: 4mm; }
     .exc { border: 0.4mm solid #d9e2ea; border-radius: 3.5mm; overflow: hidden; break-inside: avoid; }
@@ -126,8 +129,20 @@ const logo = asset('img/logo');
     </div>
 
     <div class="p2">
-      <h1 style="margin-top:0">{t(L.page2, lang)}</h1>
-      <p class="note">{t(c.exercisesNote, lang)}</p>
+      {c.exercises.length === 0 && (
+        <Fragment>
+          <h1 style="margin-top:0">{t(c.symptomsTitle ?? H.symptoms, lang)}</h1>
+          <ul class="sym">{c.symptoms.map((x: any) => <li>{t(x, lang)}</li>)}</ul>
+          <h2 class="howh">{lang === 'hi' ? 'कैसे करें' : 'How to do it'}</h2>
+          {c.treatment.items.map((it: any) => <div class="tx"><h3>{t(it.title, lang)}</h3><p>{t(it.text, lang)}</p></div>)}
+        </Fragment>
+      )}
+      {c.exercises.length > 0 && (
+        <Fragment>
+          <h1 style="margin-top:0">{t(L.page2, lang)}</h1>
+          <p class="note">{t(c.exercisesNote, lang)}</p>
+        </Fragment>
+      )}
       <div class="ex">
         {c.exercises.map((ex: any) => {
           const img = ex.image ? url(ex.image) : asset(`img/${slug}/${ex.id}`);

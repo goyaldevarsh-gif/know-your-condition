@@ -56,7 +56,7 @@ const norm = (x: string) => x.normalize('NFD').replace(/[\u093c\u200b-\u200d]/g,
 
     <ul id="results" class="cond-list" hidden>
       {conditions.map((c) => (
-        <li data-q={norm(`${c.name.en} ${c.name.hi} ${c.short.en} ${c.short.hi} ${catName(c.category).name.en} ${kw[c.slug] ?? ''}`)} hidden>
+        <li data-q={norm(`${c.name.en} ${c.name.hi} ${c.short.en} ${c.short.hi} ${kw[c.slug] ?? ''}`)} hidden>
           {ready.has(c.slug) ? (
             <a class="cond-card" href={url(`${lang}/${c.slug}/`)}>
               <span class="thumb">{thumbImg(c.slug, c.category) ? <img src={thumbImg(c.slug, c.category)!} alt="" loading="lazy" /> : <Icon name={catIcon(c.category)} size={40} />}</span>
@@ -128,6 +128,12 @@ const norm = (x: string) => x.normalize('NFD').replace(/[\u093c\u200b-\u200d]/g,
       var stop = ['ka', 'ki', 'ke', 'ko', 'mein', 'me', 'se', 'hai', 'ho', 'par', 'pe', 'aur', 'the', 'of', 'in', 'my', 'is', 'का', 'की', 'के', 'को', 'में', 'से', 'है', 'पर', 'और'];
       var words = all.filter(function (w) { return stop.indexOf(w) === -1; });
       if (!words.length) words = all;
+      words = words.map(function (w) {
+        if (/[\u0900-\u097f]/.test(w) && w.length >= 4) {
+          for (var n = 0; n < 2 && w.length > 3 && /[\u093e-\u094c\u0902\u0901\u0903]$/.test(w); n++) w = w.slice(0, -1);
+        }
+        return w;
+      });
       var shown = 0;
       var scores = [];
       items.forEach(function (li) {
