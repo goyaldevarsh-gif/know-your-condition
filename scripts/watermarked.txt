@@ -69,6 +69,7 @@ public/img/frozen-shoulder/towel-stretch.webp
 public/img/frozen-shoulder/wall-climb.webp
 public/img/ice-or-heat/heat-pack.webp
 public/img/ice-or-heat/hero.webp
+public/img/ice-or-heat/hot-towel.webp
 public/img/ice-or-heat/ice-pack.webp
 public/img/knee-osteoarthritis/heel-slide.webp
 public/img/knee-osteoarthritis/hero.webp
@@ -90,6 +91,10 @@ public/img/neck-pain/hero.webp
 public/img/neck-pain/neck-isometrics.webp
 public/img/neck-pain/neck-stretch.webp
 public/img/neck-pain/shoulder-blade-squeeze.webp
+public/img/pain-relief-topicals/gel-apply.webp
+public/img/pain-relief-topicals/hero.webp
+public/img/pain-relief-topicals/oil-massage.webp
+public/img/pain-relief-topicals/wash-hands.webp
 public/img/pcl-injury/crutches.webp
 public/img/pcl-injury/hero.webp
 public/img/pcl-injury/knee-brace.webp
