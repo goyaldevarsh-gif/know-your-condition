@@ -94,6 +94,7 @@ public/img/neck-pain/shoulder-blade-squeeze.webp
 public/img/pain-relief-topicals/gel-apply.webp
 public/img/pain-relief-topicals/hero.webp
 public/img/pain-relief-topicals/oil-massage.webp
+public/img/pain-relief-topicals/spray-apply.webp
 public/img/pain-relief-topicals/wash-hands.webp
 public/img/pcl-injury/crutches.webp
 public/img/pcl-injury/hero.webp
