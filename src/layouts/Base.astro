@@ -62,6 +62,24 @@ const { title, description = 'Simple, reliable orthopaedic patient education by 
           } catch (e) {}
         }
         var slug = (location.pathname.replace(/\/+$/, '').split('/').pop() || 'home');
+        // Smart back arrow: return to the page the reader actually came from (same site, same language);
+        // otherwise follow the arrow's own link (the category / home).
+        document.addEventListener('click', function (e) {
+          var a = e.target && e.target.closest ? e.target.closest('a.back') : null;
+          if (!a || e.defaultPrevented || e.metaKey || e.ctrlKey || e.shiftKey || e.button > 0) return;
+          try {
+            var ref = document.referrer;
+            if (!ref || history.length < 2) return;
+            var r = new URL(ref);
+            if (r.origin !== location.origin) return;
+            var langOf = function (p) { var m = p.match(/\/(en|hi)\//); return m ? m[1] : ''; };
+            var cur = langOf(location.pathname);
+            if (!cur || langOf(r.pathname) !== cur) return;
+            if (r.pathname === location.pathname) return;
+            e.preventDefault();
+            history.back();
+          } catch (err) {}
+        });
         document.addEventListener('click', function (e) {
           var t = e.target;
           if (!t || !t.closest) return;
