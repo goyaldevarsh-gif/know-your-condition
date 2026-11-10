@@ -402,6 +402,13 @@
         "en": "Gel, spray or oil for neck pain? See how to use them safely",
         "hi": "गर्दन दर्द के लिए जेल, स्प्रे या तेल? सुरक्षित तरीका देखें"
       }
+    },
+    {
+      "slug": "upper-back-pain",
+      "text": {
+        "en": "Pain between the shoulder blades",
+        "hi": "कंधों के बीच का दर्द"
+      }
     }
   ]
 }

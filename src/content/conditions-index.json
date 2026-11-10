@@ -382,5 +382,41 @@
       "en": "How gel, spray, balm and oil differ, and how to use them safely.",
       "hi": "जेल, स्प्रे, बाम और तेल में फ़र्क, और इन्हें सुरक्षित तरीके से कैसे लगाएं।"
     }
+  },
+  {
+    "slug": "distal-radius-fracture",
+    "category": "trauma-fractures",
+    "name": {
+      "en": "Wrist Fracture (Distal Radius)",
+      "hi": "कलाई का फ्रैक्चर (Distal Radius)"
+    },
+    "short": {
+      "en": "Broken wrist after a fall: cast, exercises and recovery.",
+      "hi": "गिरने के बाद कलाई टूटना: प्लास्टर, व्यायाम और रिकवरी।"
+    }
+  },
+  {
+    "slug": "upper-back-pain",
+    "category": "spine-neck",
+    "name": {
+      "en": "Upper Back & Posture Pain",
+      "hi": "ऊपरी पीठ और पोस्चर का दर्द (Upper Back Pain)"
+    },
+    "short": {
+      "en": "Pain between the shoulder blades from sitting and mobile use.",
+      "hi": "मोबाइल और बैठने से कंधों के बीच का दर्द।"
+    }
+  },
+  {
+    "slug": "avn-femoral-head",
+    "category": "knee-hip",
+    "name": {
+      "en": "AVN of the Hip (Femoral Head)",
+      "hi": "कूल्हे का एवीएन (AVN, Femoral Head)"
+    },
+    "short": {
+      "en": "Groin pain and limp from poor blood supply to the hip bone.",
+      "hi": "कूल्हे की हड्डी में खून की सप्लाई घटने से कमर के जोड़ का दर्द और लंगड़ापन।"
+    }
   }
 ]

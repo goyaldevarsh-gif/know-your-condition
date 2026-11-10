@@ -1,0 +1,392 @@
+{
+  "slug": "distal-radius-fracture",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "A distal radius fracture is a break in the forearm bone near the wrist. It is the most common broken bone after a fall on an outstretched hand.",
+      "hi": "कलाई के पास, कलाई वाली हड्डी (Distal Radius) का टूटना। हाथ ज़मीन पर टेककर गिरने से यह सबसे आम फ्रैक्चर (fracture) है।"
+    },
+    {
+      "en": "Many heal well in a cast. Some need an operation with a plate or wires. Your doctor decides after the X-ray.",
+      "hi": "कई फ्रैक्चर प्लास्टर में ठीक जुड़ जाते हैं। कुछ में प्लेट या तार डालने का ऑपरेशन करना पड़ता है। एक्स-रे देखकर डॉक्टर तय करते हैं।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "What you may notice",
+    "hi": "आपको क्या महसूस हो सकता है"
+  },
+  "symptoms": [
+    {
+      "en": "Pain and swelling at the wrist after a fall",
+      "hi": "गिरने के बाद कलाई में दर्द और सूजन"
+    },
+    {
+      "en": "Wrist looks bent or out of shape",
+      "hi": "कलाई टेढ़ी या बेढंगी दिखना"
+    },
+    {
+      "en": "Bruising, and pain on moving the wrist or fingers",
+      "hi": "नील पड़ना, और कलाई या उंगलियां हिलाने पर दर्द"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Fall on an outstretched hand",
+      "hi": "हाथ टेककर गिरना"
+    },
+    {
+      "en": "Road accident or sports injury",
+      "hi": "सड़क हादसा या खेल में चोट"
+    },
+    {
+      "en": "Weak bones (osteoporosis): even a small fall can break the wrist",
+      "hi": "कमज़ोर हड्डियां (Osteoporosis): मामूली गिरने से भी कलाई टूट सकती है"
+    }
+  ],
+  "diagnosis": {
+    "exam": {
+      "title": {
+        "en": "Examination",
+        "hi": "जांच"
+      },
+      "text": {
+        "en": "The doctor checks the wrist, fingers, feeling and blood flow in the hand.",
+        "hi": "डॉक्टर कलाई, उंगलियां, हाथ की संवेदना और खून का बहाव जांचते हैं।"
+      }
+    },
+    "tests": [
+      {
+        "name": {
+          "en": "X-ray",
+          "hi": "एक्स-रे (X-ray)"
+        },
+        "text": {
+          "en": "Shows the break and whether the bone has moved. Repeated to check healing.",
+          "hi": "फ्रैक्चर और हड्डी का खिसकना दिखाता है। जुड़ने की जांच के लिए दोबारा कराया जाता है।"
+        }
+      },
+      {
+        "name": {
+          "en": "CT scan",
+          "hi": "सीटी स्कैन (CT scan)"
+        },
+        "text": {
+          "en": "Only for complex fractures, when planning surgery.",
+          "hi": "सिर्फ़ जटिल फ्रैक्चर में, ऑपरेशन की योजना के लिए।"
+        }
+      }
+    ]
+  },
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Cast or splint",
+          "hi": "प्लास्टर या स्प्लिंट"
+        },
+        "text": {
+          "en": "Keeps the bone still while it heals. Usually about 5–6 weeks.",
+          "hi": "हड्डी को जुड़ने तक स्थिर रखता है। आमतौर पर लगभग 5–6 हफ़्ते।"
+        }
+      },
+      {
+        "title": {
+          "en": "Setting the bone",
+          "hi": "हड्डी बैठाना"
+        },
+        "text": {
+          "en": "If the bone has moved, the doctor may set it back in place before the cast.",
+          "hi": "अगर हड्डी खिसक गई हो, तो प्लास्टर से पहले डॉक्टर उसे अपनी जगह बैठा सकते हैं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Surgery",
+          "hi": "ऑपरेशन"
+        },
+        "text": {
+          "en": "A plate, screws or wires may be used if the bone is badly displaced or unstable. Your doctor will tell you.",
+          "hi": "हड्डी बहुत खिसकी या अस्थिर हो तो प्लेट, स्क्रू या तार लगाए जा सकते हैं। डॉक्टर आपको बताएंगे।"
+        }
+      },
+      {
+        "title": {
+          "en": "Follow-up X-rays",
+          "hi": "फॉलो-अप एक्स-रे"
+        },
+        "text": {
+          "en": "To check that the bone stays in place. Do not miss them.",
+          "hi": "हड्डी अपनी जगह टिकी है या नहीं, यह देखने के लिए। इन्हें न छोड़ें।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Your treatment depends on your X-ray, your age and how much you use the hand. Follow your doctor's advice.",
+      "hi": "आपका इलाज एक्स-रे, उम्र और हाथ के काम पर निर्भर करता है। अपने डॉक्टर की सलाह मानें।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Keep the hand raised above the heart for the first few days to reduce swelling.",
+      "hi": "पहले कुछ दिन हाथ को दिल से ऊपर रखें, इससे सूजन घटती है।"
+    },
+    {
+      "en": "Move your fingers, elbow and shoulder every day.",
+      "hi": "उंगलियां, कोहनी और कंधा रोज़ हिलाएं।"
+    },
+    {
+      "en": "Use the hand for light daily tasks if your doctor allows.",
+      "hi": "डॉक्टर की इजाज़त हो तो हल्के रोज़ के कामों में हाथ का इस्तेमाल करें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not lift or carry weight with the hand until your doctor says so.",
+      "hi": "जब तक डॉक्टर न कहें, हाथ से वज़न न उठाएं।"
+    },
+    {
+      "en": "Do not push or scratch inside the cast with anything.",
+      "hi": "प्लास्टर के अंदर कुछ डालकर खुजलाएं या दबाएं नहीं।"
+    },
+    {
+      "en": "Do not let the arm hang down for long.",
+      "hi": "हाथ को देर तक नीचे न लटकाएं।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "These keep the free joints moving and reduce swelling. Do them 3–4 times a day from day one. Wrist and palm-turning exercises start only after the cast is off, as your doctor or physiotherapist shows you. Never force. Stop if pain increases.",
+    "hi": "ये खुले जोड़ों को चलाते हैं और सूजन घटाते हैं। पहले दिन से दिन में 3–4 बार करें। कलाई और हथेली घुमाने के व्यायाम प्लास्टर खुलने के बाद, डॉक्टर या फिज़ियोथेरेपिस्ट के बताए अनुसार शुरू करें। ज़ोर न लगाएं। दर्द बढ़े तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "arm-elevation",
+      "title": {
+        "en": "Raise the Arm to Reduce Swelling",
+        "hi": "सूजन घटाने के लिए हाथ ऊपर रखना"
+      },
+      "reps": {
+        "en": "Most of the day for the first 2–3 days",
+        "hi": "पहले 2–3 दिन ज़्यादातर समय"
+      },
+      "start": {
+        "en": "Sit or lie back with 2–3 pillows beside you.",
+        "hi": "बैठें या टेक लगाकर लेटें, पास में 2–3 तकिए रखें।"
+      },
+      "steps": [
+        {
+          "en": "Rest the arm on the pillows.",
+          "hi": "हाथ को तकियों पर रखें।"
+        },
+        {
+          "en": "Keep the hand higher than the elbow, and the elbow higher than the heart.",
+          "hi": "हथेली कोहनी से ऊपर और कोहनी दिल से ऊपर रखें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not let the hand hang down.",
+          "hi": "हाथ को नीचे लटकने न दें।"
+        }
+      ]
+    },
+    {
+      "id": "finger-fist",
+      "title": {
+        "en": "Open and Close Fingers",
+        "hi": "उंगलियां खोलना और बंद करना"
+      },
+      "reps": {
+        "en": "10 times, every hour while awake",
+        "hi": "10 बार, जागते समय हर घंटे"
+      },
+      "start": {
+        "en": "Sit or stand with the arm raised.",
+        "hi": "बैठें या खड़े हों, हाथ ऊपर रखें।"
+      },
+      "steps": [
+        {
+          "en": "Open your fingers wide.",
+          "hi": "उंगलियां पूरी खोलें।"
+        },
+        {
+          "en": "Close them into a fist. Repeat.",
+          "hi": "मुट्ठी बंद करें। दोहराएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Tell your doctor if the fingers cannot move or feel numb.",
+          "hi": "उंगलियां न हिलें या सुन्न लगें तो डॉक्टर को बताएं।"
+        }
+      ]
+    },
+    {
+      "id": "elbow-bend",
+      "title": {
+        "en": "Elbow Bend and Straighten",
+        "hi": "कोहनी मोड़ना और सीधा करना"
+      },
+      "reps": {
+        "en": "10 times, 3 times a day",
+        "hi": "10 बार, दिन में 3 बार"
+      },
+      "start": {
+        "en": "Sit with the arm supported. Only if the cast does not cover the elbow.",
+        "hi": "हाथ को सहारा देकर बैठें। सिर्फ़ तब, जब प्लास्टर कोहनी को न ढके।"
+      },
+      "steps": [
+        {
+          "en": "Bend the elbow so the hand comes towards the shoulder.",
+          "hi": "कोहनी मोड़कर हाथ को कंधे की ओर लाएं।"
+        },
+        {
+          "en": "Straighten it fully.",
+          "hi": "फिर पूरा सीधा करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not twist the forearm.",
+          "hi": "कलाई या बांह को मरोड़ें नहीं।"
+        }
+      ]
+    },
+    {
+      "id": "shoulder-raise",
+      "title": {
+        "en": "Shoulder Raise",
+        "hi": "कंधा ऊपर उठाना (Shoulder Raise)"
+      },
+      "reps": {
+        "en": "10 times, 3 times a day",
+        "hi": "10 बार, दिन में 3 बार"
+      },
+      "start": {
+        "en": "Stand or sit tall. Support the cast hand with the other hand.",
+        "hi": "सीधे खड़े हों या बैठें। प्लास्टर वाले हाथ को दूसरे हाथ से सहारा दें।"
+      },
+      "steps": [
+        {
+          "en": "Slowly lift the arm up as high as is comfortable.",
+          "hi": "हाथ को धीरे से जितना आराम से हो उतना ऊपर उठाएं।"
+        },
+        {
+          "en": "Lower it slowly.",
+          "hi": "धीरे से नीचे लाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Do not carry any weight.",
+          "hi": "कोई वज़न न उठाएं।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "A cast means complete rest for the whole hand.",
+        "hi": "प्लास्टर का मतलब पूरे हाथ को आराम देना है।"
+      },
+      "fact": {
+        "en": "Keep moving the fingers, elbow and shoulder. This reduces swelling and stiffness.",
+        "hi": "उंगलियां, कोहनी और कंधा चलाते रहें। इससे सूजन और अकड़न कम होती है।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Fingers turn blue or pale, or you cannot move them",
+        "hi": "उंगलियां नीली या पीली पड़ें, या हिल न पाएं"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Numbness or pins and needles in the fingers",
+        "hi": "उंगलियों में सुन्नपन या झनझनाहट"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain and swelling that keep getting worse, or the cast feels too tight",
+        "hi": "दर्द और सूजन लगातार बढ़ना, या प्लास्टर बहुत कसा लगना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Cast is cracked, loose or rubbing the skin",
+        "hi": "प्लास्टर टूटे, ढीला हो या त्वचा को रगड़े"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "How long does it take to heal?",
+        "hi": "ठीक होने में कितना समय लगता है?"
+      },
+      "a": {
+        "en": "The bone usually heals in about 6 weeks. Full strength can take a few months.",
+        "hi": "हड्डी आमतौर पर लगभग 6 हफ़्ते में जुड़ती है। पूरी ताकत लौटने में कुछ महीने लग सकते हैं।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Cast or splint for about 5–6 weeks. Swelling settles over the first weeks.",
+        "hi": "प्लास्टर या स्प्लिंट लगभग 5–6 हफ़्ते। सूजन पहले कुछ हफ़्तों में घटती है।"
+      },
+      {
+        "en": "After the cast, the wrist feels stiff and weak. Use it for light tasks and build up slowly. Avoid heavy lifting at first.",
+        "hi": "प्लास्टर के बाद कलाई अकड़ी और कमज़ोर लगती है। हल्के कामों में इस्तेमाल करें और धीरे-धीरे बढ़ाएं। शुरू में भारी वज़न न उठाएं।"
+      }
+    ],
+    "followup": [
+      {
+        "en": "Come for your X-ray and clinic visits on the dates given.",
+        "hi": "बताई गई तारीख़ों पर एक्स-रे और क्लिनिक में दिखाने आएं।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Any warning sign above: see a doctor at once.",
+        "hi": "ऊपर का कोई भी ख़तरे का संकेत हो तो तुरंत डॉक्टर को दिखाएं।"
+      },
+      {
+        "en": "Wrist still very stiff or painful long after the cast is off.",
+        "hi": "प्लास्टर खुलने के बहुत बाद भी कलाई बहुत अकड़ी या दर्द वाली हो।"
+      }
+    ]
+  },
+  "seeAlso": [
+    {
+      "slug": "cast-care-upper-limb",
+      "text": {
+        "en": "Caring for your arm cast",
+        "hi": "हाथ के प्लास्टर की देखभाल"
+      }
+    },
+    {
+      "slug": "bathing-cast-brace",
+      "text": {
+        "en": "How to wash with a cast, slab or brace",
+        "hi": "प्लास्टर, स्लैब या ब्रेस के साथ सफ़ाई कैसे करें"
+      }
+    },
+    {
+      "slug": "post-surgery-care",
+      "text": {
+        "en": "Care after surgery",
+        "hi": "ऑपरेशन के बाद की देखभाल"
+      }
+    }
+  ]
+}

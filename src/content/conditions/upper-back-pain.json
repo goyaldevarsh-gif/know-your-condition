@@ -1,0 +1,395 @@
+{
+  "slug": "upper-back-pain",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Upper back pain is pain between the shoulder blades or in the back of the chest area. It is very common and usually comes from muscle strain and stiff joints.",
+      "hi": "ऊपरी पीठ का दर्द (Upper Back Pain) यानी दोनों कंधों के बीच या पीठ के ऊपरी हिस्से में दर्द। यह बहुत आम है और ज़्यादातर मांसपेशियों के खिंचाव और जोड़ों की अकड़न से होता है।"
+    },
+    {
+      "en": "Long hours on the mobile, laptop or desk are a common reason. It usually gets better by moving often and doing simple exercises.",
+      "hi": "मोबाइल, लैपटॉप या डेस्क पर देर तक बैठना आम कारण है। बार-बार हिलने-डुलने और आसान व्यायाम से ज़्यादातर आराम मिल जाता है।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "What you may notice",
+    "hi": "आपको क्या महसूस हो सकता है"
+  },
+  "symptoms": [
+    {
+      "en": "Dull ache or tightness between the shoulder blades",
+      "hi": "कंधों के बीच हल्का दर्द या जकड़न"
+    },
+    {
+      "en": "Stiff back, worse after long sitting",
+      "hi": "पीठ अकड़ना, देर तक बैठने के बाद ज़्यादा"
+    },
+    {
+      "en": "Aching neck and shoulders along with it",
+      "hi": "साथ में गर्दन और कंधों में दर्द"
+    },
+    {
+      "en": "Feels better when you move around",
+      "hi": "चलने-फिरने से आराम लगना"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Slouching and long hours with the head bent forward over a phone or screen",
+      "hi": "फोन या स्क्रीन पर सिर आगे झुकाकर, कमर झुकाकर देर तक बैठना"
+    },
+    {
+      "en": "Carrying heavy bags or lifting badly",
+      "hi": "भारी बैग उठाना या गलत तरीके से वज़न उठाना"
+    },
+    {
+      "en": "Weak back muscles and not enough activity",
+      "hi": "पीठ की कमज़ोर मांसपेशियां और कम हलचल"
+    },
+    {
+      "en": "Stress and tension in the shoulders",
+      "hi": "तनाव और कंधों में खिंचाव"
+    }
+  ],
+  "diet": [
+    {
+      "en": "Keep your weight in check and eat well for strong bones and muscles.",
+      "hi": "वज़न काबू में रखें और मज़बूत हड्डी-मांसपेशियों के लिए अच्छा खाएं।"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Stay active",
+          "hi": "हलचल बनाए रखें"
+        },
+        "text": {
+          "en": "Walking, swimming, cycling or gentle yoga. Do not stay in bed.",
+          "hi": "टहलना, तैरना, साइकिल या हल्का योग। बिस्तर पर पड़े न रहें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Change position often",
+          "hi": "स्थिति बदलते रहें"
+        },
+        "text": {
+          "en": "The best posture is the next posture. Get up and move every 30 minutes.",
+          "hi": "सबसे अच्छी मुद्रा वही है जो अगली हो। हर 30 मिनट में उठें और हिलें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Exercises",
+          "hi": "व्यायाम"
+        },
+        "text": {
+          "en": "Simple stretching and strengthening for the upper back and shoulders.",
+          "hi": "ऊपरी पीठ और कंधों के आसान स्ट्रेच और मज़बूती के व्यायाम।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines and physiotherapy",
+          "hi": "दवाइयां और फिज़ियोथेरेपी"
+        },
+        "text": {
+          "en": "Your doctor may advise pain relief or physiotherapy if needed.",
+          "hi": "ज़रूरत हो तो डॉक्टर दर्द की दवा या फिज़ियोथेरेपी की सलाह देंगे।"
+        }
+      }
+    ],
+    "note": {
+      "en": "Most upper back pain settles with movement and exercise. Scans are rarely needed.",
+      "hi": "ज़्यादातर ऊपरी पीठ का दर्द हलचल और व्यायाम से ठीक हो जाता है। स्कैन की ज़रूरत कम ही पड़ती है।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Keep the screen at eye level and sit with your back supported.",
+      "hi": "स्क्रीन आंखों की सीध में रखें और पीठ को सहारा देकर बैठें।"
+    },
+    {
+      "en": "Get up and walk or stretch every 30 minutes.",
+      "hi": "हर 30 मिनट में उठकर टहलें या स्ट्रेच करें।"
+    },
+    {
+      "en": "Carry weight evenly: a backpack on both shoulders, or split between both hands.",
+      "hi": "वज़न बराबर उठाएं: बैग दोनों कंधों पर या दोनों हाथों में बांटकर।"
+    },
+    {
+      "en": "Do the exercises daily.",
+      "hi": "व्यायाम रोज़ करें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not sit slouched for hours or look down at the phone for long.",
+      "hi": "घंटों झुककर न बैठें और फोन में देर तक नीचे न देखें।"
+    },
+    {
+      "en": "Do not stay in bed all day.",
+      "hi": "पूरे दिन बिस्तर पर न पड़े रहें।"
+    },
+    {
+      "en": "Do not carry a heavy bag on one shoulder.",
+      "hi": "भारी बैग एक कंधे पर न टांगें।"
+    },
+    {
+      "en": "Do not force or jerk the back; no sudden twisting.",
+      "hi": "पीठ पर ज़ोर या झटका न दें; अचानक न मुड़ें।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "Do these slowly, daily. A mild stretch is fine. Stop if pain increases or spreads.",
+    "hi": "इन्हें धीरे-धीरे, रोज़ करें। हल्का खिंचाव ठीक है। दर्द बढ़े या फैले तो रुकें।"
+  },
+  "exercises": [
+    {
+      "id": "shoulder-blade-squeeze",
+      "figure": "shoulder-squeeze",
+      "image": null,
+      "title": {
+        "en": "Shoulder Blade Squeeze",
+        "hi": "कंधे की हड्डियां पास लाना (Shoulder Blade Squeeze)"
+      },
+      "reps": {
+        "en": "10–15 times, 2–3 sets a day",
+        "hi": "10–15 बार, दिन में 2–3 सेट"
+      },
+      "start": {
+        "en": "Sit or stand tall, arms relaxed.",
+        "hi": "सीधे बैठें या खड़े हों, हाथ ढीले रखें।"
+      },
+      "steps": [
+        {
+          "en": "Squeeze your shoulder blades together. Hold for 5 seconds.",
+          "hi": "कंधों की हड्डियां पीछे पास लाएं। 5 सेकंड रुकें।"
+        },
+        {
+          "en": "Keep your shoulders down.",
+          "hi": "कंधे नीचे रखें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Stop if shoulder pain increases.",
+          "hi": "कंधे का दर्द बढ़े तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "chin-tuck",
+      "figure": "chin-tuck",
+      "image": null,
+      "title": {
+        "en": "Chin Tuck",
+        "hi": "ठुड्डी अंदर करना (Chin Tuck)"
+      },
+      "reps": {
+        "en": "10 times, 2–3 sets a day",
+        "hi": "10 बार, दिन में 2–3 सेट"
+      },
+      "start": {
+        "en": "Sit tall, look straight ahead.",
+        "hi": "सीधे बैठें, सामने देखें।"
+      },
+      "steps": [
+        {
+          "en": "Pull your chin straight back.",
+          "hi": "ठुड्डी को सीधे पीछे खींचें।"
+        },
+        {
+          "en": "Hold for 5 seconds, then relax.",
+          "hi": "5 सेकंड रुकें, फिर आराम करें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Stop if you feel tingling or dizziness.",
+          "hi": "झुनझुनी या चक्कर आए तो रुकें।"
+        }
+      ]
+    },
+    {
+      "id": "cat-camel",
+      "title": {
+        "en": "Cat Stretch",
+        "hi": "कमर को ऊपर की ओर गोल करना (Cat Stretch)"
+      },
+      "reps": {
+        "en": "10 times, twice a day",
+        "hi": "10 बार, दिन में 2 बार"
+      },
+      "start": {
+        "en": "Get on hands and knees. Hands under shoulders, knees under hips.",
+        "hi": "हाथों और घुटनों पर आएं। हाथ कंधों के नीचे, घुटने कूल्हों के नीचे।"
+      },
+      "steps": [
+        {
+          "en": "Slowly round your back upwards like a cat.",
+          "hi": "पीठ को धीरे से बिल्ली की तरह ऊपर की ओर गोल करें।"
+        },
+        {
+          "en": "Slowly come back to the flat position.",
+          "hi": "धीरे से सीधी स्थिति में लौटें।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Move slowly, only as far as is comfortable.",
+          "hi": "धीरे-धीरे करें, सिर्फ़ जितना आराम से हो।"
+        }
+      ]
+    },
+    {
+      "id": "seated-rotation",
+      "title": {
+        "en": "Seated Upper Back Twist",
+        "hi": "बैठकर पीठ घुमाना"
+      },
+      "reps": {
+        "en": "5 times each side, 2–3 times a day",
+        "hi": "हर तरफ़ 5 बार, दिन में 2–3 बार"
+      },
+      "start": {
+        "en": "Sit tall on a chair, arms crossed over your chest.",
+        "hi": "कुर्सी पर सीधे बैठें, हाथ सीने पर क्रॉस करके रखें।"
+      },
+      "steps": [
+        {
+          "en": "Slowly turn your upper body to one side. Keep hips facing forward.",
+          "hi": "ऊपरी शरीर को धीरे से एक तरफ़ घुमाएं। कूल्हे सामने रखें।"
+        },
+        {
+          "en": "Hold 2 seconds, come back, then turn to the other side.",
+          "hi": "2 सेकंड रुकें, वापस आएं, फिर दूसरी तरफ़ घुमाएं।"
+        }
+      ],
+      "precautions": [
+        {
+          "en": "Turn gently. Do not force. Stop if sharp pain.",
+          "hi": "आराम से घुमाएं। ज़ोर न लगाएं। तेज़ दर्द हो तो रुकें।"
+        }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "myth": {
+        "en": "Back pain means a serious disease.",
+        "hi": "पीठ दर्द का मतलब कोई गंभीर बीमारी है।"
+      },
+      "fact": {
+        "en": "Most upper back pain is from muscles and posture, and settles with movement.",
+        "hi": "ज़्यादातर ऊपरी पीठ का दर्द मांसपेशियों और मुद्रा से होता है और हलचल से ठीक होता है।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Chest pain, difficulty breathing, or pain with sweating or dizziness",
+        "hi": "सीने में दर्द, सांस लेने में तकलीफ़, या दर्द के साथ पसीना या चक्कर"
+      }
+    },
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Weakness or numbness in both legs, trouble walking, or loss of control over urine or stool",
+        "hi": "दोनों पैरों में कमज़ोरी या सुन्नपन, चलने में दिक्कत, या पेशाब-मल पर नियंत्रण न रहना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Fever, night sweats or unexplained weight loss with back pain",
+        "hi": "पीठ दर्द के साथ बुखार, रात में पसीना या बिना वजह वज़न घटना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Severe, constant pain that is worse at night or does not ease with rest",
+        "hi": "तेज़, लगातार दर्द जो रात में बढ़े या आराम से भी न घटे"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Do I need an X-ray or MRI?",
+        "hi": "क्या एक्स-रे या एमआरआई कराना पड़ेगा?"
+      },
+      "a": {
+        "en": "Usually not. Your doctor will decide, mainly if there are warning signs.",
+        "hi": "आमतौर पर नहीं। डॉक्टर तय करेंगे, ख़ासकर अगर कोई ख़तरे का संकेत हो।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can mobile and laptop use cause this?",
+        "hi": "क्या मोबाइल और लैपटॉप से ऐसा हो सकता है?"
+      },
+      "a": {
+        "en": "Yes, long hours in one position strain the neck and upper back. Take breaks and stretch.",
+        "hi": "हां, एक ही स्थिति में घंटों रहने से गर्दन और ऊपरी पीठ पर ज़ोर पड़ता है। बीच-बीच में ब्रेक लें और स्ट्रेच करें।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "Most people feel better in a few weeks with movement and exercise.",
+        "hi": "ज़्यादातर लोगों को हलचल और व्यायाम से कुछ हफ़्तों में आराम मिल जाता है।"
+      },
+      {
+        "en": "Pain may come back if you go back to long hours of slouching. Keep the habits.",
+        "hi": "लंबे समय तक झुककर बैठने से दर्द लौट सकता है। अच्छी आदतें बनाए रखें।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Any warning sign above: see a doctor at once.",
+        "hi": "ऊपर का कोई भी ख़तरे का संकेत हो तो तुरंत डॉक्टर को दिखाएं।"
+      },
+      {
+        "en": "Not better after 4–6 weeks.",
+        "hi": "4–6 हफ़्ते में आराम न मिले।"
+      }
+    ]
+  },
+  "seeAlso": [
+    {
+      "slug": "daily-posture",
+      "text": {
+        "en": "Sleeping, sitting and lifting tips for daily life",
+        "hi": "रोज़ के काम में सोने, बैठने और उठाने के आसान तरीके"
+      }
+    },
+    {
+      "slug": "neck-pain",
+      "text": {
+        "en": "Neck pain often comes along with this",
+        "hi": "इसके साथ अक्सर गर्दन का दर्द भी होता है"
+      }
+    },
+    {
+      "slug": "ice-or-heat",
+      "text": {
+        "en": "Not sure whether to use ice or heat?",
+        "hi": "बर्फ या गरम सेक, कौन सा?"
+      }
+    },
+    {
+      "slug": "pain-relief-topicals",
+      "text": {
+        "en": "Gel, spray or oil: how to use them safely",
+        "hi": "जेल, स्प्रे या तेल: सुरक्षित तरीके से कैसे लगाएं"
+      }
+    }
+  ]
+}

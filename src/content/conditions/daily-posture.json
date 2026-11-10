@@ -155,6 +155,13 @@
         "en": "Back or neck muscle pain? See when to use ice or heat",
         "hi": "कमर या गर्दन की मांसपेशी का दर्द? बर्फ या गरम सेक कब करें, देखें"
       }
+    },
+    {
+      "slug": "upper-back-pain",
+      "text": {
+        "en": "Upper back and posture pain",
+        "hi": "ऊपरी पीठ और पोस्चर का दर्द"
+      }
     }
   ],
   "exercisesNote": {

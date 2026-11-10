@@ -1,0 +1,297 @@
+{
+  "slug": "avn-femoral-head",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Avascular necrosis (AVN) of the hip happens when the blood supply to the top of the thigh bone (femoral head, the ball of the hip joint) is reduced. The bone cells die and the bone can slowly weaken and collapse.",
+      "hi": "कूल्हे का एवीएन (AVN, Avascular Necrosis) तब होता है जब जांघ की हड्डी के ऊपरी गोल हिस्से (Femoral Head, कूल्हे की गेंद) में खून की सप्लाई कम हो जाती है। हड्डी के हिस्से मरने लगते हैं और हड्डी धीरे-धीरे कमज़ोर होकर दब सकती है।"
+    },
+    {
+      "en": "It is often found in people aged 30–50 and can affect both hips. Early treatment can protect the joint for longer.",
+      "hi": "यह अक्सर 30–50 साल की उम्र में मिलता है और दोनों कूल्हों में हो सकता है। जल्दी इलाज से जोड़ ज़्यादा समय तक बचाया जा सकता है।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "What you may notice",
+    "hi": "आपको क्या महसूस हो सकता है"
+  },
+  "symptoms": [
+    {
+      "en": "Early on there may be no pain at all",
+      "hi": "शुरू में हो सकता है कोई दर्द न हो"
+    },
+    {
+      "en": "Pain in the groin, which may go to the thigh, buttock or knee",
+      "hi": "कमर के जोड़ (groin) में दर्द, जो जांघ, कूल्हे या घुटने तक जा सकता है"
+    },
+    {
+      "en": "Pain on walking or standing, later even at rest or at night",
+      "hi": "चलने या खड़े होने पर दर्द, बाद में आराम में या रात में भी"
+    },
+    {
+      "en": "Limping, and a stiff hip that is hard to move",
+      "hi": "लंगड़ाकर चलना, और अकड़ा हुआ कूल्हा जो मुश्किल से हिलता है"
+    }
+  ],
+  "causes": [
+    {
+      "en": "Long or high-dose steroid medicine",
+      "hi": "लंबे समय तक या ज़्यादा मात्रा में स्टेरॉयड (steroid) दवा"
+    },
+    {
+      "en": "Heavy, long-term alcohol use",
+      "hi": "लंबे समय तक ज़्यादा शराब पीना"
+    },
+    {
+      "en": "Hip injury: fracture of the neck of the thigh bone or hip dislocation",
+      "hi": "कूल्हे की चोट: जांघ की हड्डी की गर्दन का फ्रैक्चर या कूल्हा उतरना"
+    },
+    {
+      "en": "Some blood and immune diseases, and smoking",
+      "hi": "कुछ ख़ून और इम्यून की बीमारियां, और धूम्रपान"
+    },
+    {
+      "en": "Sometimes no cause is found",
+      "hi": "कई बार कोई कारण नहीं मिलता"
+    }
+  ],
+  "diagnosis": {
+    "exam": {
+      "title": {
+        "en": "Examination",
+        "hi": "जांच"
+      },
+      "text": {
+        "en": "The doctor checks your hip movement, pain and walking.",
+        "hi": "डॉक्टर कूल्हे की हरकत, दर्द और चाल जांचते हैं।"
+      }
+    },
+    "tests": [
+      {
+        "name": {
+          "en": "X-ray of both hips",
+          "hi": "दोनों कूल्हों का एक्स-रे"
+        },
+        "text": {
+          "en": "Shows bone changes. It may look normal in the early stage.",
+          "hi": "हड्डी के बदलाव दिखाता है। शुरुआती अवस्था में सामान्य दिख सकता है।"
+        }
+      },
+      {
+        "name": {
+          "en": "MRI",
+          "hi": "एमआरआई (MRI)"
+        },
+        "text": {
+          "en": "Can find AVN early, even before pain starts, and shows how much bone is affected.",
+          "hi": "एवीएन को शुरू में ही पकड़ सकता है, दर्द शुरू होने से पहले भी, और दिखाता है कि कितनी हड्डी प्रभावित है।"
+        }
+      }
+    ]
+  },
+  "diet": [
+    {
+      "en": "Stop alcohol and smoking. Eat a balanced diet.",
+      "hi": "शराब और धूम्रपान बंद करें। संतुलित खाना खाएं।"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Protect the hip",
+          "hi": "कूल्हे को बचाएं"
+        },
+        "text": {
+          "en": "Walking aids such as crutches or a stick reduce load on the hip, as advised by your doctor.",
+          "hi": "डॉक्टर के कहने पर बैसाखी या छड़ी से कूल्हे पर वज़न कम करें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Medicines and physiotherapy",
+          "hi": "दवाइयां और फिज़ियोथेरेपी"
+        },
+        "text": {
+          "en": "For pain and to keep the hip moving. Suited to early or mild cases. They do not cure the problem.",
+          "hi": "दर्द के लिए और कूल्हे को चलता रखने के लिए। शुरुआती या हल्के मामलों में। ये बीमारी का पूरा इलाज नहीं हैं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Surgery to save the joint",
+          "hi": "जोड़ बचाने का ऑपरेशन"
+        },
+        "text": {
+          "en": "Core decompression (drilling to reduce pressure in the bone), and sometimes bone grafting or bone-realigning surgery.",
+          "hi": "कोर डिकम्प्रेशन (हड्डी का दबाव कम करने के लिए छेद करना), और कभी-कभी बोन ग्राफ्ट या हड्डी की दिशा ठीक करने का ऑपरेशन।"
+        }
+      },
+      {
+        "title": {
+          "en": "Hip replacement",
+          "hi": "कूल्हा बदलने का ऑपरेशन"
+        },
+        "text": {
+          "en": "If the bone has collapsed or pain is severe, the hip joint is replaced.",
+          "hi": "अगर हड्डी दब चुकी हो या दर्द बहुत ज़्यादा हो, तो कूल्हे का जोड़ बदला जाता है।"
+        }
+      }
+    ],
+    "note": {
+      "en": "The right treatment depends on the stage on the MRI and X-ray, your age and your pain. Your doctor will decide.",
+      "hi": "सही इलाज एमआरआई और एक्स-रे में बीमारी की अवस्था, आपकी उम्र और दर्द पर निर्भर करता है। डॉक्टर तय करेंगे।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Come early if you have groin pain, especially with steroid use or alcohol.",
+      "hi": "कमर के जोड़ में दर्द हो तो जल्दी दिखाएं, ख़ासकर स्टेरॉयड या शराब लेने वालों में।"
+    },
+    {
+      "en": "Use crutches or a stick as your doctor advises.",
+      "hi": "डॉक्टर के कहने पर बैसाखी या छड़ी इस्तेमाल करें।"
+    },
+    {
+      "en": "Stop alcohol and smoking.",
+      "hi": "शराब और धूम्रपान बंद करें।"
+    },
+    {
+      "en": "Take medicines only as advised and attend all follow-ups with X-rays.",
+      "hi": "दवाइयां सिर्फ़ सलाह के अनुसार लें और एक्स-रे के साथ सभी फॉलो-अप पर आएं।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not stop steroid medicine on your own. Speak to your doctor first.",
+      "hi": "स्टेरॉयड दवा अपने आप बंद न करें। पहले डॉक्टर से बात करें।"
+    },
+    {
+      "en": "Do not ignore groin pain or a limp, hoping it will go away.",
+      "hi": "कमर के जोड़ का दर्द या लंगड़ापन यह सोचकर न टालें कि अपने आप ठीक हो जाएगा।"
+    },
+    {
+      "en": "Do not take painkillers for months without a proper diagnosis.",
+      "hi": "बिना सही जांच के महीनों तक दर्द की दवा न लेते रहें।"
+    },
+    {
+      "en": "Do not jump, run or carry heavy weight if your doctor has asked you to protect the hip.",
+      "hi": "डॉक्टर ने कूल्हा बचाने को कहा हो तो कूदें, दौड़ें या भारी वज़न न उठाएं।"
+    }
+  ],
+  "exercisesNote": {
+    "en": "There is no single exercise set for AVN. The right exercises depend on the stage and your treatment. Your doctor or physiotherapist will tell you what is safe for your hip.",
+    "hi": "एवीएन के लिए कोई एक तय व्यायाम नहीं है। सही व्यायाम बीमारी की अवस्था और इलाज पर निर्भर हैं। आपके कूल्हे के लिए क्या सुरक्षित है, यह डॉक्टर या फिज़ियोथेरेपिस्ट बताएंगे।"
+  },
+  "exercises": [],
+  "myths": [
+    {
+      "myth": {
+        "en": "Only people who drink alcohol get AVN.",
+        "hi": "एवीएन सिर्फ़ शराब पीने वालों को होता है।"
+      },
+      "fact": {
+        "en": "Steroid medicine, hip injury and some diseases also cause it. Sometimes no cause is found.",
+        "hi": "स्टेरॉयड दवा, कूल्हे की चोट और कुछ बीमारियों से भी होता है। कई बार कारण नहीं मिलता।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Sudden severe hip pain with inability to stand or walk",
+        "hi": "कूल्हे में अचानक तेज़ दर्द और खड़े होने या चलने में असमर्थता"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Groin or hip pain that is increasing, or limping that is getting worse",
+        "hi": "कमर के जोड़ या कूल्हे का दर्द बढ़ना, या लंगड़ापन बढ़ना"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Night pain or pain at rest in the hip",
+        "hi": "कूल्हे में रात का दर्द या आराम में भी दर्द"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Groin pain in someone taking steroids or drinking heavily",
+        "hi": "स्टेरॉयड लेने वाले या ज़्यादा शराब पीने वाले व्यक्ति में कमर के जोड़ का दर्द"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Can AVN be cured?",
+        "hi": "क्या एवीएन पूरी तरह ठीक हो सकता है?"
+      },
+      "a": {
+        "en": "In the early stage the joint can often be protected for a long time. Once the bone collapses, a hip replacement is usually needed.",
+        "hi": "शुरुआती अवस्था में जोड़ को अक्सर लंबे समय तक बचाया जा सकता है। हड्डी दबने के बाद आमतौर पर कूल्हा बदलना पड़ता है।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can both hips be affected?",
+        "hi": "क्या दोनों कूल्हे प्रभावित हो सकते हैं?"
+      },
+      "a": {
+        "en": "Yes. Up to 1 in 5 people have it on both sides, so both hips are checked.",
+        "hi": "हां। लगभग 5 में से 1 व्यक्ति में दोनों तरफ़ होता है, इसलिए दोनों कूल्हों की जांच होती है।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "AVN can progress over months. Regular follow-up with X-rays is important.",
+        "hi": "एवीएन महीनों में बढ़ सकता है। एक्स-रे के साथ नियमित फॉलो-अप ज़रूरी है।"
+      },
+      {
+        "en": "After surgery, your doctor will tell you how much weight you can put on the leg.",
+        "hi": "ऑपरेशन के बाद डॉक्टर बताएंगे कि पैर पर कितना वज़न डाल सकते हैं।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "Any warning sign above: see a doctor at once.",
+        "hi": "ऊपर का कोई भी ख़तरे का संकेत हो तो तुरंत डॉक्टर को दिखाएं।"
+      },
+      {
+        "en": "Pain is increasing, or the other hip starts to hurt.",
+        "hi": "दर्द बढ़ रहा हो, या दूसरे कूल्हे में भी दर्द शुरू हो।"
+      }
+    ]
+  },
+  "seeAlso": [
+    {
+      "slug": "walking-aids",
+      "text": {
+        "en": "How to use a stick, walker or crutches",
+        "hi": "छड़ी, वॉकर या बैसाखी का सही इस्तेमाल"
+      }
+    },
+    {
+      "slug": "post-surgery-care",
+      "text": {
+        "en": "Care after surgery",
+        "hi": "ऑपरेशन के बाद की देखभाल"
+      }
+    },
+    {
+      "slug": "pain-relief-topicals",
+      "text": {
+        "en": "Gel, spray or oil: how to use them safely",
+        "hi": "जेल, स्प्रे या तेल: सुरक्षित तरीके से कैसे लगाएं"
+      }
+    }
+  ]
+}

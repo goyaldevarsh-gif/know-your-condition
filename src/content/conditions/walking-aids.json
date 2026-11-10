@@ -186,6 +186,13 @@
         "en": "Which shoes are best when using a walking aid? See the footwear guide",
         "hi": "सहारे के साथ कौन से जूते ठीक हैं? जूते-चप्पल गाइड देखें"
       }
+    },
+    {
+      "slug": "avn-femoral-head",
+      "text": {
+        "en": "Hip AVN: when crutches are advised",
+        "hi": "कूल्हे का एवीएन: बैसाखी कब बताई जाती है"
+      }
     }
   ],
   "exercisesNote": {
