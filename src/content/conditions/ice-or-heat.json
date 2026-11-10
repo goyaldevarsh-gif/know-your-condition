@@ -52,8 +52,8 @@
           "hi": "गरम सेक कैसे करें"
         },
         "text": {
-          "en": "Use a hot water bottle, wheat bag or heat pad. It should feel warm, not hot. Put a dry towel between it and your skin. Keep it on for 20 to 30 minutes and check the skin. Let the skin return to normal before you repeat.",
-          "hi": "गरम पानी की बोतल, गेहूं की थैली या हीट पैड इस्तेमाल करें। यह गुनगुना लगे, गर्म नहीं। इसके और त्वचा के बीच सूखा तौलिया रखें। 20 से 30 मिनट रखें और त्वचा देखें। दोबारा करने से पहले त्वचा को सामान्य होने दें।"
+          "en": "Use a hot water bottle, wheat bag, heat pad or a hot wet towel. It should feel warm, not hot. Keep a dry towel between it and your skin. Keep it on for 15 to 20 minutes and check the skin. Let the skin return to normal before you repeat. Hot towel (garam sek): dip a small towel in hot water that you can still hold, wring it well, fold it, and cover it with a dry towel. Dip it again when it cools. For a hot water bottle, use hot water, not boiling, and cover the bottle with cloth.",
+          "hi": "गरम पानी की बोतल, गेहूं की थैली, हीट पैड या गरम गीला तौलिया इस्तेमाल करें। यह गुनगुना लगे, गर्म नहीं। इसके और त्वचा के बीच सूखा तौलिया रखें। 15 से 20 मिनट रखें और त्वचा देखें। दोबारा करने से पहले त्वचा को सामान्य होने दें। गरम तौलिये से सेक: छोटे तौलिये को इतने गरम पानी में डुबोएं जिसे आप हाथ में पकड़ सकें, अच्छी तरह निचोड़ें, तह करें और ऊपर सूखा तौलिया ढक दें। ठंडा होने पर दोबारा डुबोएं। गरम पानी की बोतल में उबलता नहीं, गरम पानी भरें और बोतल पर कपड़ा चढ़ा दें।"
         }
       },
       {
@@ -64,6 +64,16 @@
         "text": {
           "en": "You have diabetes with foot problems, poor blood flow, poor feeling in the skin, damaged skin, or an infection. Ask your doctor before using ice or heat.",
           "hi": "अगर आपको पैर की समस्या वाली डायबिटीज़ है, खून का बहाव कम है, त्वचा में महसूस कम होता है, त्वचा खराब है, या इन्फ़ेक्शन है, तो बर्फ या सेक से पहले डॉक्टर से पूछें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Gel, balm, spray or oil on the skin",
+          "hi": "त्वचा पर जेल, बाम, स्प्रे या तेल"
+        },
+        "text": {
+          "en": "Do not use a hot bottle, heat pad or hot towel over a spot where you have put a gel, balm, spray, oil or patch. It can burn the skin. Do the sek on clean skin, without the rub. See Pain Relief Gel, Spray, Oil.",
+          "hi": "जिस जगह जेल, बाम, स्प्रे, तेल या पैच लगाया हो, वहां गरम बोतल, हीट पैड या गरम तौलिया न रखें। त्वचा जल सकती है। सेक साफ़ त्वचा पर करें, बिना किसी लेप के। देखें: दर्द की जेल, स्प्रे और तेल।"
         }
       }
     ],
@@ -106,6 +116,14 @@
     {
       "en": "Do not use ice for more than 15 to 20 minutes, or while asleep.",
       "hi": "बर्फ 15 से 20 मिनट से ज़्यादा, या सोते हुए न लगाएं।"
+    },
+    {
+      "en": "Do not use heat on skin where you have put a gel, balm, spray or oil.",
+      "hi": "जिस त्वचा पर जेल, बाम, स्प्रे या तेल लगा हो, वहां गरम सेक न करें।"
+    },
+    {
+      "en": "Do not fall asleep on a heat pad or hot bottle.",
+      "hi": "हीट पैड या गरम बोतल पर सोएं नहीं।"
     }
   ],
   "careImages": [
@@ -121,6 +139,13 @@
       "caption": {
         "en": "Heat: warm, with a towel in between",
         "hi": "गरम सेक: गुनगुना, बीच में तौलिया"
+      }
+    },
+    {
+      "id": "hot-towel",
+      "caption": {
+        "en": "Hot towel: wrung out, with a dry towel on top",
+        "hi": "गरम तौलिया: निचोड़ा हुआ, ऊपर सूखा तौलिया"
       }
     }
   ],
@@ -184,6 +209,16 @@
         "en": "Not without a cloth. A very cold pack can burn the skin. Wrap it and check the skin.",
         "hi": "बिना कपड़े के नहीं। बहुत ठंडा पैक त्वचा जला सकता है। उसे लपेटें और त्वचा देखते रहें।"
       }
+    },
+    {
+      "q": {
+        "en": "Can I do a hot sek over gel or balm?",
+        "hi": "क्या जेल या बाम के ऊपर गरम सेक कर सकते हैं?"
+      },
+      "a": {
+        "en": "No. Heat over these can burn the skin. Use one at a time, and do the sek on clean skin.",
+        "hi": "नहीं। इनके ऊपर गरम सेक से त्वचा जल सकती है। एक बार में एक ही चीज़ इस्तेमाल करें, और सेक साफ़ त्वचा पर करें।"
+      }
     }
   ],
   "recovery": {
@@ -203,5 +238,14 @@
         "hi": "बर्फ या सेक से त्वचा खराब हो गई है।"
       }
     ]
-  }
+  },
+  "seeAlso": [
+    {
+      "slug": "pain-relief-topicals",
+      "text": {
+        "en": "Gel, spray, balm or oil for pain? See how they differ and how to use them",
+        "hi": "दर्द की जेल, स्प्रे, बाम या तेल? इनमें फ़र्क और लगाने का तरीका देखें"
+      }
+    }
+  ]
 }

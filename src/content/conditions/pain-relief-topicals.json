@@ -1,0 +1,271 @@
+{
+  "slug": "pain-relief-topicals",
+  "status": "draft-for-doctor-review",
+  "heroImage": null,
+  "what": [
+    {
+      "en": "Pain-relief gels, sprays, balms and oils are put on the skin over the painful spot. They give short relief. They do not cure the problem.",
+      "hi": "दर्द की जेल (Gel), स्प्रे (Spray), बाम और तेल दर्द वाली जगह की त्वचा पर लगाए जाते हैं। इनसे थोड़ी देर की राहत मिलती है। ये समस्या का इलाज नहीं हैं।"
+    },
+    {
+      "en": "They work best on joints close to the skin, like the knee, hand, ankle and elbow. Use them safely: a thin layer, clean skin, and no heat on top.",
+      "hi": "ये त्वचा के पास वाले जोड़ों पर सबसे ज़्यादा काम आती हैं, जैसे घुटना, हाथ, टखना और कोहनी। इन्हें सुरक्षित तरीके से लगाएं: पतली परत, साफ़ त्वचा, और ऊपर से गरम सेक नहीं।"
+    }
+  ],
+  "symptomsTitle": {
+    "en": "Which one is which?",
+    "hi": "कौन सी क्या है?"
+  },
+  "symptoms": [
+    {
+      "en": "Painkiller gel or cream (for example diclofenac): has a medicine that eases pain and swelling in that spot. Suits the knee, hand, ankle and elbow",
+      "hi": "दर्द की जेल या क्रीम (जैसे डाइक्लोफेनैक): इसमें दवा होती है जो उस जगह का दर्द और सूजन कम करती है। घुटना, हाथ, टखना और कोहनी पर काम आती है"
+    },
+    {
+      "en": "Spray: quick, with no rubbing, so useful for a spot that hurts to touch. Some only cool the skin, some have a medicine. Read the pack. Sprays can catch fire",
+      "hi": "स्प्रे (Spray): जल्दी लगता है, मलना नहीं पड़ता, इसलिए छूने से दुखने वाली जगह पर आसान है। कुछ सिर्फ़ ठंडक देते हैं, कुछ में दवा होती है। पैकेट पढ़ें। स्प्रे में आग लग सकती है"
+    },
+    {
+      "en": "Balm or rub (menthol, camphor): makes the skin feel cool or warm for a short while. It does not treat the cause",
+      "hi": "बाम या मलहम (मेंथॉल, कपूर): कुछ देर के लिए त्वचा को ठंडा या गरम महसूस कराता है। यह कारण का इलाज नहीं करता"
+    },
+    {
+      "en": "Oil (tel): mainly useful for gentle massage, which can relax stiff muscles. No oil is proven to cure a joint or bone problem",
+      "hi": "तेल (Oil): मुख्य रूप से हल्की मालिश के काम आता है, जिससे अकड़ी मांसपेशियां ढीली हो सकती हैं। कोई तेल जोड़ या हड्डी की बीमारी ठीक करता है, यह साबित नहीं है"
+    },
+    {
+      "en": "Pain patch (sticking plaster): stays on the skin for hours. Follow the pack. Peel it off if the skin burns or itches",
+      "hi": "दर्द का पैच (चिपकने वाली पट्टी): कई घंटे त्वचा पर रहता है। पैकेट के हिसाब से लगाएं। त्वचा जले या खुजली हो तो उतार दें"
+    }
+  ],
+  "treatment": {
+    "items": [
+      {
+        "title": {
+          "en": "Gel, cream or balm: how to apply",
+          "hi": "जेल, क्रीम या बाम कैसे लगाएं"
+        },
+        "text": {
+          "en": "Wash and dry the area. Put a thin layer on unbroken skin and rub it in gently. Wash your hands well afterwards, before you touch your eyes or face. Do not cover the spot with a bandage. Keep it out of strong sunlight. If the pain is not better in about 2 weeks, show your doctor.",
+          "hi": "जगह को धोकर सुखा लें। साबुत त्वचा पर पतली परत लगाएं और हल्के हाथ से मलें। बाद में हाथ अच्छी तरह धोएं, आंख या चेहरे को छूने से पहले। उस जगह पर पट्टी न बांधें। तेज़ धूप से बचाएं। लगभग 2 हफ़्ते में दर्द ठीक न हो तो डॉक्टर को दिखाएं।"
+        }
+      },
+      {
+        "title": {
+          "en": "Spray: how to use",
+          "hi": "स्प्रे कैसे इस्तेमाल करें"
+        },
+        "text": {
+          "en": "Read the pack. Usually you hold the can a little away from the skin (about 15 cm, a hand-span) and give 2 or 3 short sprays on the spot. Do not spray on the face, eyes, nose or broken skin, and do not breathe it in. Use it in an open room. Keep it away from fire: a gas stove, diya, agarbatti, cigarette or any flame, both while using it and when storing it.",
+          "hi": "पैकेट पढ़ें। आमतौर पर कैन को त्वचा से थोड़ा दूर (लगभग 15 सेंटीमीटर, एक बित्ता) रखकर उस जगह पर 2 या 3 बार छोटा स्प्रे करें। चेहरे, आंख, नाक या कटी त्वचा पर न छिड़कें, और सांस में न लें। खुले कमरे में इस्तेमाल करें। आग से दूर रखें: गैस चूल्हा, दीया, अगरबत्ती, सिगरेट या कोई भी लौ, इस्तेमाल के समय भी और रखते समय भी।"
+        }
+      },
+      {
+        "title": {
+          "en": "Oil (tel): how to use",
+          "hi": "तेल कैसे इस्तेमाल करें"
+        },
+        "text": {
+          "en": "Warm the oil only slightly, never hot. Test a drop on your wrist first. Massage gently and do not press hard on the painful spot. Wipe or wash it off afterwards. Do not use it on a fresh injury, on skin that is red, swollen or has a rash, or on cut skin.",
+          "hi": "तेल को सिर्फ़ हल्का गुनगुना करें, गरम नहीं। पहले कलाई पर एक बूंद लगाकर देखें। हल्के हाथ से मालिश करें, दर्द वाली जगह को ज़ोर से न दबाएं। बाद में पोंछ लें या धो लें। नई चोट पर, लाल, सूजी या दाने वाली त्वचा पर, और कटी त्वचा पर न लगाएं।"
+        }
+      },
+      {
+        "title": {
+          "en": "No heat on top of these",
+          "hi": "इनके ऊपर गरम सेक नहीं"
+        },
+        "text": {
+          "en": "Do not put a hot water bottle, heat pad, hot towel or heat lamp over a spot where you have used a gel, spray, balm, oil or patch. It can burn the skin. If you want a hot or cold sek, do it on clean skin without the rub.",
+          "hi": "जिस जगह जेल, स्प्रे, बाम, तेल या पैच लगाया हो, उस पर गरम पानी की बोतल, हीट पैड, गरम तौलिया या हीट लैंप न रखें। इससे त्वचा जल सकती है। गरम या ठंडा सेक करना हो तो साफ़ त्वचा पर, बिना किसी लेप के करें।"
+        }
+      },
+      {
+        "title": {
+          "en": "Ask your doctor first if",
+          "hi": "पहले डॉक्टर से पूछें अगर"
+        },
+        "text": {
+          "en": "You are pregnant or breastfeeding, have asthma or an allergy, have had a stomach ulcer, have a skin problem like eczema, or have reacted to a painkiller such as aspirin or ibuprofen before. Also ask before using these on a child.",
+          "hi": "आप गर्भवती हैं या दूध पिलाती हैं, अस्थमा या एलर्जी है, कभी पेट में अल्सर रहा है, एक्ज़िमा जैसी त्वचा की समस्या है, या पहले एस्पिरिन या आइबुप्रोफ़ेन जैसी दर्द की दवा से रिएक्शन हुआ है। बच्चे पर लगाने से पहले भी पूछें।"
+        }
+      }
+    ],
+    "note": {
+      "en": "These give short relief only. If you have had a fresh injury, do not just rub: show the doctor.",
+      "hi": "इनसे सिर्फ़ थोड़ी देर की राहत मिलती है। नई चोट लगी हो तो सिर्फ़ मलते न रहें: डॉक्टर को दिखाएं।"
+    }
+  },
+  "dos": [
+    {
+      "en": "Use a thin layer on clean, dry, unbroken skin.",
+      "hi": "साफ़, सूखी, साबुत त्वचा पर पतली परत लगाएं।"
+    },
+    {
+      "en": "Wash your hands well after every use.",
+      "hi": "हर बार लगाने के बाद हाथ अच्छी तरह धोएं।"
+    },
+    {
+      "en": "Read the pack before you use a spray or a patch.",
+      "hi": "स्प्रे या पैच लगाने से पहले पैकेट पढ़ें।"
+    },
+    {
+      "en": "If the skin burns, itches, turns red or blisters, wash it off and stop.",
+      "hi": "त्वचा जले, खुजली हो, लाल हो या छाला पड़े तो धो दें और बंद कर दें।"
+    }
+  ],
+  "donts": [
+    {
+      "en": "Do not use them on cut, broken or irritated skin, or near your eyes, nose or mouth.",
+      "hi": "कटी, फटी या जलन वाली त्वचा पर न लगाएं, और आंख, नाक या मुंह के पास न लगाएं।"
+    },
+    {
+      "en": "Do not cover the spot with a tight bandage, and do not put heat on it.",
+      "hi": "उस जगह पर कसकर पट्टी न बांधें, और गरम सेक न करें।"
+    },
+    {
+      "en": "Do not spray or store a spray near a flame.",
+      "hi": "स्प्रे को आग के पास न छिड़कें और न रखें।"
+    },
+    {
+      "en": "Do not use more than the pack or your doctor says.",
+      "hi": "पैकेट या डॉक्टर के बताए से ज़्यादा न लगाएं।"
+    }
+  ],
+  "careImages": [
+    {
+      "id": "gel-apply",
+      "caption": {
+        "en": "Gel: a thin layer, rub gently",
+        "hi": "जेल: पतली परत, हल्के हाथ से मलें"
+      }
+    },
+    {
+      "id": "spray-apply",
+      "caption": {
+        "en": "Spray: a little away, short sprays, no flame nearby",
+        "hi": "स्प्रे: थोड़ा दूर से, छोटे स्प्रे, पास में आग नहीं"
+      }
+    },
+    {
+      "id": "oil-massage",
+      "caption": {
+        "en": "Oil: slightly warm, gentle massage",
+        "hi": "तेल: हल्का गुनगुना, हल्की मालिश"
+      }
+    },
+    {
+      "id": "wash-hands",
+      "caption": {
+        "en": "Wash your hands after using",
+        "hi": "लगाने के बाद हाथ धोएं"
+      }
+    }
+  ],
+  "seeAlso": [
+    {
+      "slug": "ice-or-heat",
+      "text": {
+        "en": "Not sure whether to use ice or heat? See the simple guide",
+        "hi": "बर्फ या गरम सेक, कौन सा? सरल गाइड देखें"
+      }
+    }
+  ],
+  "exercisesNote": {
+    "en": "There are no exercises for this topic. Ask your doctor about exercises for your condition.",
+    "hi": "इस विषय में कोई व्यायाम नहीं है। अपनी बीमारी के व्यायाम के बारे में डॉक्टर से पूछें।"
+  },
+  "exercises": [],
+  "myths": [
+    {
+      "myth": {
+        "en": "A hot bottle over the balm makes it work better.",
+        "hi": "बाम के ऊपर गरम बोतल रखने से वह ज़्यादा असर करता है।"
+      },
+      "fact": {
+        "en": "No. Heat over these products can burn the skin.",
+        "hi": "नहीं। इन चीज़ों के ऊपर गरम सेक करने से त्वचा जल सकती है।"
+      }
+    },
+    {
+      "myth": {
+        "en": "A special oil can cure joint pain for good.",
+        "hi": "कोई ख़ास तेल जोड़ों का दर्द हमेशा के लिए ठीक कर देता है।"
+      },
+      "fact": {
+        "en": "No oil is proven to cure a joint or bone problem. Gentle massage can feel soothing, that is all.",
+        "hi": "कोई तेल जोड़ या हड्डी की बीमारी ठीक करता है, यह साबित नहीं है। हल्की मालिश से आराम महसूस हो सकता है, बस इतना ही।"
+      }
+    }
+  ],
+  "redFlags": [
+    {
+      "level": "emergency",
+      "title": {
+        "en": "Trouble breathing, wheezing, or swelling of the face or lips after using it",
+        "hi": "इस्तेमाल के बाद सांस लेने में तकलीफ़, घरघराहट, या चेहरे या होंठ पर सूजन"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Burning, pain, swelling or blisters on the skin where you used it (wash it off and stop)",
+        "hi": "जहां लगाया वहां जलन, दर्द, सूजन या छाले (धो दें और बंद करें)"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "A bad rash, itching or redness that does not settle after you stop",
+        "hi": "तेज़ दाने, खुजली या लालिमा जो बंद करने के बाद भी न जाए"
+      }
+    },
+    {
+      "level": "urgent",
+      "title": {
+        "en": "Pain after a fall or injury, or a joint that is badly swollen or cannot take weight (do not just rub it)",
+        "hi": "गिरने या चोट के बाद दर्द, या जोड़ बहुत सूजा हो या वज़न न सह पाए (सिर्फ़ मलते न रहें)"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Which one is the best?",
+        "hi": "कौन सा सबसे अच्छा है?"
+      },
+      "a": {
+        "en": "There is no single best one. A painkiller gel suits the knee, hand, ankle and elbow. A spray is quick for a small spot. Balm and oil only soothe. Ask your doctor which suits you.",
+        "hi": "कोई एक सबसे अच्छा नहीं है। दर्द की जेल घुटने, हाथ, टखने और कोहनी पर ठीक रहती है। छोटी जगह के लिए स्प्रे जल्दी लगता है। बाम और तेल सिर्फ़ आराम देते हैं। आपके लिए कौन सा ठीक है, यह डॉक्टर से पूछें।"
+      }
+    },
+    {
+      "q": {
+        "en": "Can I put gel or oil under my plaster (cast)?",
+        "hi": "क्या प्लास्टर के नीचे जेल या तेल लगा सकते हैं?"
+      },
+      "a": {
+        "en": "No. Do not put anything inside a cast. If the skin under it itches or hurts, call the clinic.",
+        "hi": "नहीं। प्लास्टर के अंदर कुछ न डालें। अंदर की त्वचा में खुजली या दर्द हो तो क्लिनिक में बताएं।"
+      }
+    }
+  ],
+  "recovery": {
+    "expect": [
+      {
+        "en": "These give short relief only. They do not heal the problem.",
+        "hi": "इनसे सिर्फ़ थोड़ी देर की राहत मिलती है। ये समस्या ठीक नहीं करते।"
+      }
+    ],
+    "revisit": [
+      {
+        "en": "The pain is not better after about 2 weeks.",
+        "hi": "लगभग 2 हफ़्ते बाद भी दर्द ठीक नहीं हुआ।"
+      },
+      {
+        "en": "The skin reacts to the gel, spray, balm, oil or patch.",
+        "hi": "जेल, स्प्रे, बाम, तेल या पैच से त्वचा पर रिएक्शन हुआ।"
+      }
+    ]
+  }
+}

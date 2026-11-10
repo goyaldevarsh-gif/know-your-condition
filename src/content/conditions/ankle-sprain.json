@@ -387,6 +387,13 @@
         "en": "Which shoes or insoles help? See the footwear guide",
         "hi": "कौन से जूते या इनसोल मदद करते हैं? गाइड देखें"
       }
+    },
+    {
+      "slug": "pain-relief-topicals",
+      "text": {
+        "en": "Gel or spray for the sprain? See how to use them safely",
+        "hi": "मोच के लिए जेल या स्प्रे? सुरक्षित तरीका देखें"
+      }
     }
   ]
 }
