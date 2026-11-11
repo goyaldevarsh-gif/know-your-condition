@@ -1028,3 +1028,4 @@ html[data-hc] a:focus-visible, html[data-hc] button:focus-visible, html[data-hc]
 .care-strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
 .care-strip img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px; display: block; background: #eef4f5; }
 .care-box .go { flex: none; color: var(--teal-dark); }
+.bm-gender{margin-bottom:10px}.bm-gender button{min-height:36px;padding:0 18px;font-size:14px}

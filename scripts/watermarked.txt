@@ -23,7 +23,9 @@ public/img/bed-rest-care/ankle-pumps.webp
 public/img/bed-rest-care/heels-float.webp
 public/img/bed-rest-care/hero.webp
 public/img/bed-rest-care/log-roll.webp
+public/img/bodymap/back-f.webp
 public/img/bodymap/back.webp
+public/img/bodymap/front-f.webp
 public/img/bodymap/front.webp
 public/img/carpal-tunnel-syndrome/finger-bend.webp
 public/img/carpal-tunnel-syndrome/hero.webp

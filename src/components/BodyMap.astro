@@ -11,16 +11,24 @@ const { lang, ready } = Astro.props;
 const hi = lang === 'hi';
 const S = {
   prompt: hi ? 'जहाँ दर्द है, उस हिस्से को छुएं' : 'Tap the part that hurts',
+  male: hi ? 'पुरुष' : 'Male',
+  female: hi ? 'महिला' : 'Female',
   front: hi ? 'आगे' : 'Front',
   back: hi ? 'पीछे' : 'Back',
   other: hi ? 'प्लास्टर या ऑपरेशन' : 'Plaster or surgery',
   none: hi ? 'जल्द आ रहा है' : 'Coming soon',
   soon: hi ? 'इस हिस्से की जानकारी जल्द आएगी। अभी दर्द हो तो डॉक्टर से पूछें।' : 'Information for this part is coming soon. If it hurts, please ask the doctor.',
 };
+const fem: any = (bm as any).female;
+const withFem = (rs: any[], k: 'front' | 'back') => rs.map((r) => ({ ...r, ...fem[k][r.id] }));
 const views = [
-  { key: 'front', label: S.front, img: asset('img/bodymap/front'), regions: bm.front },
-  { key: 'back', label: S.back, img: asset('img/bodymap/back'), regions: bm.back },
+  { key: 'front', label: S.front, regions: bm.front },
+  { key: 'back', label: S.back, regions: bm.back },
 ] as const;
+const figs = [
+  ...views.map((v) => ({ v: v.key, g: 'm', img: asset(`img/bodymap/${v.key}`), regions: v.regions as any[] })),
+  ...views.map((v) => ({ v: v.key, g: 'f', img: asset(`img/bodymap/${v.key}-f`), regions: withFem(v.regions as any[], v.key) })),
+];
 const boxes = [
   {
     cat: 'general-care',
@@ -51,8 +59,13 @@ const allPanels = [...bm.front, ...bm.back].filter((r, i, a) => a.findIndex((x) 
     ))}
   </div>
 
-  {views.map((v, i) => (
-    <div class="bm-fig" data-bm-fig={v.key} hidden={i !== 0}>
+  <div class="bm-switch bm-gender" role="tablist">
+    <button type="button" role="tab" data-bm-g="m" aria-selected="true">{S.male}</button>
+    <button type="button" role="tab" data-bm-g="f" aria-selected="false">{S.female}</button>
+  </div>
+
+  {figs.map((v) => (
+    <div class="bm-fig" data-bm-fig={v.v} data-bm-gen={v.g} hidden={!(v.v === 'front' && v.g === 'm')}>
       {v.img && <img src={v.img} alt="" width={bm.w} height={bm.h} decoding="async" />}
       <svg viewBox={`0 0 ${bm.w} ${bm.h}`} aria-label={S.prompt}>
         {v.regions.map((r) => {
@@ -111,14 +124,23 @@ const allPanels = [...bm.front, ...bm.back].filter((r, i, a) => a.findIndex((x) 
     var root = document.querySelector('[data-bodymap]');
     if (!root) return;
     var tabs = root.querySelectorAll('[data-bm-view]');
+    var gtabs = root.querySelectorAll('[data-bm-g]');
+    var gen = 'm', vw = 'front';
+    try { if (localStorage.getItem('kyc-bm-g') === 'f') gen = 'f'; } catch (e) {}
     var figs = root.querySelectorAll('[data-bm-fig]');
     var panels = root.querySelectorAll('[data-bm-panel]');
     var current = null;
-    function view(k) {
-      tabs.forEach(function (b) { b.setAttribute('aria-selected', b.getAttribute('data-bm-view') === k ? 'true' : 'false'); });
-      figs.forEach(function (f) { f.hidden = f.getAttribute('data-bm-fig') !== k; });
-      select(null);
+    function show() {
+      tabs.forEach(function (b) { b.setAttribute('aria-selected', b.getAttribute('data-bm-view') === vw ? 'true' : 'false'); });
+      gtabs.forEach(function (b) { b.setAttribute('aria-selected', b.getAttribute('data-bm-g') === gen ? 'true' : 'false'); });
+      figs.forEach(function (f) { f.hidden = !(f.getAttribute('data-bm-fig') === vw && f.getAttribute('data-bm-gen') === gen); });
     }
+    function view(k) { vw = k; show(); select(null); }
+    gtabs.forEach(function (b) { b.addEventListener('click', function () {
+      gen = b.getAttribute('data-bm-g'); show(); select(null);
+      try { localStorage.setItem('kyc-bm-g', gen); } catch (e) {}
+    }); });
+    show();
     function select(id) {
       current = id;
       panels.forEach(function (p) { p.hidden = p.getAttribute('data-bm-panel') !== id; });
