@@ -9,10 +9,13 @@
   },
   "phoneDisplay": "+91-7852860654",
   "phoneDigits": "917852860654",
-  "copyright": "© 2026 OrthoVault · Dr. Devarsh Goyal. All rights reserved.",
+  "copyright": {
+    "en": "© 2026 OrthoVault · Dr. Devarsh Goyal. All rights reserved.",
+    "hi": "© 2026 ऑर्थोवॉल्ट · डॉ. देवर्ष गोयल। सर्वाधिकार सुरक्षित।"
+  },
   "rights": {
     "en": "The text, images and design on this site belong to OrthoVault and Dr. Devarsh Goyal. Please do not copy or reuse them without written permission.",
-    "hi": "इस साइट के लेख, चित्र और डिज़ाइन OrthoVault और डॉ. देवर्ष गोयल की संपत्ति हैं। कृपया लिखित अनुमति के बिना इन्हें कॉपी या दोबारा इस्तेमाल न करें।"
+    "hi": "इस साइट के लेख, चित्र और डिज़ाइन ऑर्थोवॉल्ट और डॉ. देवर्ष गोयल की संपत्ति हैं। कृपया लिखित अनुमति के बिना इन्हें कॉपी या दोबारा इस्तेमाल न करें।"
   },
   "brand": "OrthoVault"
 }

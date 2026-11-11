@@ -7,7 +7,17 @@ const { lang } = Astro.props;
 const langs: Lang[] = lang ? [lang] : ['en', 'hi'];
 ---
 <footer class="site-foot">
-  <p class="sf-name">{t(site.doctor, langs[0])}<span> · {t(site.degree, langs[0])}</span></p>
-  <p class="sf-copy">{site.copyright}</p>
-  {langs.map((l) => <p class="sf-rights" lang={l}>{t(site.rights, l)}</p>)}
+  {lang ? (
+    <>
+      <p class="sf-name">{t(site.doctor, lang)}<span> · {t(site.degree, lang)}</span></p>
+      <p class="sf-copy">{t(site.copyright, lang)}</p>
+      <p class="sf-rights" lang={lang}>{t(site.rights, lang)}</p>
+    </>
+  ) : (
+    <>
+      <p class="sf-name"><span class="l-en">{t(site.doctor, 'en')}<span> · {t(site.degree, 'en')}</span></span><span class="l-hi">{t(site.doctor, 'hi')}<span> · {t(site.degree, 'hi')}</span></span></p>
+      <p class="sf-copy"><span class="l-en">{t(site.copyright, 'en')}</span><span class="l-hi">{t(site.copyright, 'hi')}</span></p>
+      <p class="sf-rights"><span class="l-en" lang="en">{t(site.rights, 'en')}</span><span class="l-hi" lang="hi">{t(site.rights, 'hi')}</span></p>
+    </>
+  )}
 </footer>

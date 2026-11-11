@@ -9,7 +9,7 @@ import '@fontsource/noto-sans-devanagari/600.css';
 import '@fontsource/noto-sans-devanagari/700.css';
 import '@fontsource/noto-sans-devanagari/800.css';
 import type { Lang } from '../lib/i18n';
-import { url } from '../lib/i18n';
+import { url, t } from '../lib/i18n';
 import SiteFooter from '../components/SiteFooter.astro';
 import site from '../content/site.json';
 
@@ -29,7 +29,7 @@ const { title, description = 'Simple, reliable orthopaedic patient education by 
     <meta name="theme-color" content="#102A43" />
     <meta name="description" content={description} />
     <meta name="author" content="Dr. Devarsh Goyal" />
-    <meta name="copyright" content={site.copyright} />
+    <meta name="copyright" content={t(site.copyright, lang ?? 'en')} />
     <title>{title}</title>
     <link rel="icon" type="image/svg+xml" href={url('favicon.svg')} />
     <script is:inline>
